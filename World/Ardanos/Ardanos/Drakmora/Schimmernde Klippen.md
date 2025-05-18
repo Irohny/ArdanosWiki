@@ -1,0 +1,1 @@
+An der zerklüfteten Küste brechen sich die Wellen an schwarzen Felsen, die im Mondlicht schimmern. Magische Strömungen sorgen dafür, dass das Meer hier oft in unnatürlichen Farben leuchtet.

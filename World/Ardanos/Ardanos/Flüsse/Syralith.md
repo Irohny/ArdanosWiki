@@ -1,1 +1,1 @@
-Entspringt in der [[Schwarzklamm]] und durchfließt [[Vaylen]]. Vor dem [[Der Runenbann-Konflikt]] war er die Grenzen zwischen der [[Bernsteinküste]] von [[Mariven]] und dem Gebiet von [[Vaylen]]. Er mündet im nordöstlichen Teil des [[Kristallsee]]s.
+Entspringt in der [[Nordfels-Krone]] der [[Schwarzklamm]] und durchfließt [[Vaylen]]. Vor dem [[Der Runenbann-Konflikt]] war er die Grenzen zwischen der [[Bernsteinküste]] von [[Mariven]] und dem Gebiet von [[Vaylen]]. Er mündet im nordöstlichen Teil des [[Kristallsee]]s.

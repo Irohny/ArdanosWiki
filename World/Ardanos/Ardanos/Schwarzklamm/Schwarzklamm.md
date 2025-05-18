@@ -8,13 +8,11 @@ Tief in den Bergen, wo das Licht der Sonne kaum hinabdringt, liegt das mächtige
 **Gründung:** 328 n.d.D. im ersten Zeitalter. Die ersten Zwergenclans schließen sich unter König [[Bardum Eisenklang]] zusammen.
 
 ### Geografie & Landschaft
-Schwarzklamm erstreckt sich über ein gewaltiges Gebirge mit schroffen Gipfeln und tiefen Tälern. Seine Städte sind nicht an der Oberfläche, sondern in den Felsen geschlagen. Riesige Höhlensysteme, unterirdische Seen und Lavagruben prägen das Reich.
+Schwarzklamm erstreckt sich über zwei gewaltige Gebirgszüge mit schroffen Gipfeln und tiefen Tälern. Seine Städte sind in den Felsen geschlagen. Riesige Höhlensysteme, unterirdische Seen und Lavagruben prägen das Reich.
 
-![[Schwarze Klamm]]
-![[Eisenzinnen]] 
-![[Dûm-Khadrak]] 
-![[Tiefe Hallen]]
-![[Kar'drathar]]
+Das ![[Helmbrach-Massiv]] ist ein finsteres, schroffes Massiv, das sich wie ein steinernes Rückgrat vom Norden [[Drakmora]]s bis tief in den Süden [[Elmrath]]s erstreckt. Seine Spitzen ragen dunkel und gezackt in den Himmel, während seine Tiefen uralte Geheimnisse verbergen. In ihm liegen die **[[Schwarze Klamm]]**, der feuerspeiende **Vulkan [[Kar'drathar]]** und die verlassenen **[[Tiefe Hallen]]** – Orte, die von uralter Macht und düsterer Geschichte durchdrungen sind. Gewaltige Steinbögen, schwefelnde Schlote und karge Pfade machen das Gebirge schwer zugänglich und mystisch zugleich. Am südlichen Ende der Klamm liegt die Stadt [[Dûm-Khadrak]]. Hier befindet sich der Sitz des Königs der Klamm. Dieser Gebrigszug bildet die östliche Grenz des Kaiserreichs.
+
+![[Nordfels-Krone]] 
 ### Bevölkerung & Kultur
 Die Schwarzklamm-Zwerge sind ein stolzes, hart arbeitendes Volk, das sich durch Disziplin, Fleiß und Misstrauen gegenüber Fremden auszeichnet. Ihr Leben wird bestimmt von Stein, Erz und Feuer.
 

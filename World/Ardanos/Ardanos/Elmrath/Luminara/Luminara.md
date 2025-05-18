@@ -1,6 +1,7 @@
-Die strahlende Hauptstadt von [[Elmrath]] und [[Ardanos]], gelegen an der Küste, wo die Felder auf das Meer treffen. Ihre großen Plätze sind mit Brunnen und Statuen geschmückt, während breite Straßen die Märkte mit den prächtigen Tempeln und dem Palast des Fürsten verbinden. Im Hafen herrscht reges Treiben, denn über den Seehandel mit Mariven kommen Waren aus aller Welt hierher.
+![[LuminaraBild.png|250]]
+Die strahlende Hauptstadt von [[Elmrath]] und [[Ardanos]], gelegen an der Küste, wo die Felder auf das Meer treffen. Ihre großen Plätze sind mit Brunnen und Statuen geschmückt, während breite Straßen die Märkte mit den prächtigen Tempeln und dem Palast des Fürsten verbinden. Im Hafen herrscht reges Treiben, denn über den Seehandel mit[[Mariven]] kommen Waren aus aller Welt hierher.
 
-![[Luminara.jpg]]
+![[Luminara.jpg|500]]
 ### Wichte Orte 
 * Bibliothek [[Scriptorium Luminis]]
 * Tavernen: 

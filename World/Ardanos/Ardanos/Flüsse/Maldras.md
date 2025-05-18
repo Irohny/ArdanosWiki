@@ -1,1 +1,1 @@
-Fluss der in der [[Schwarzklamm]] entspringt und durch Teile der [[Bernsteinküste]] fließt, bis er im [[Graldrim]] einmündet.
+Fluss der in der [[Nordfels-Krone]] der [[Schwarzklamm]] entspringt und durch Teile der [[Bernsteinküste]] fließt, bis er im [[Graldrim]] einmündet.

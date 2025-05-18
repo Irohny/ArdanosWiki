@@ -9,3 +9,6 @@
 ### Fix
 * fix: Sidebar out of bounds and false title (2025-05-18)
 
+### Chore
+* chore: Add website link to README (2025-05-18)
+

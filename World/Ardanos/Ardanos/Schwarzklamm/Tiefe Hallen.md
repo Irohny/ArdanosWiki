@@ -1,7 +1,6 @@
-#Schwarzklamm 
 ## **Die Tiefen Hallen – Die vergessene Schmiede der Dunkelheit**
 
-**Ort:** Unter dem Gebirge der Schwarzklamm  
+**Ort:** Unter dem Gebirge der [[Schwarzklamm]]  
 **Zeitalter:** Erstnennung 412 n.d.D, 1. Zeitalter, unbewohnt ab ca. 1698 n.d.D  
 **Aktueller Zustand:** Teilweise wiederbesiedelt, größtenteils jedoch verdorben und gefährlich
 ![[TiefeHallen.png|300]]
@@ -20,7 +19,7 @@ Die Atmosphäre wechselt abrupt mit jeder Ebene: Oben erklingen Hämmer und Ges�
 ### 🛠️ **Die Rückkehr der Zwerge**
 
 ![[TiefenHallenEbene1.png|300]]
-Seit der **Großen Revolution von Hochkönig Dungar Schwarzschild** und dem Ende des letzten großen Krieges ist unter seiner Führung ein Projekt angelaufen:
+Seit der **Großen Revolution von Hochkönig [[Dungar Schwarzschild]]** und dem Ende des letzten großen Krieges ist unter seiner Führung ein Projekt angelaufen:
 
 > **„Die Heimkehr in den Stein.“**
 

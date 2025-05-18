@@ -11,14 +11,13 @@ Drakmora ist ein Land der Krieger, Schmiede und Handwerker, geformt durch das Ei
 ### Landschaft und Geographie
 Drakmora erstreckt sich über eine Landschaft voller Kontraste – sanfte Hügel und nebelverhangene Täler im Süden gehen in schroffe Bergrücken und von Magie durchwirkte Ebenen im Norden über. Das Land ist von alter Magie durchdrungen, und es heißt, dass die Winde hier manchmal flüstern und die Schatten eigene Wege gehen.
 
-**Die Schimmernden Klippen** – An der zerklüfteten Küste brechen sich die Wellen an schwarzen Felsen, die im Mondlicht schimmern. Magische Strömungen sorgen dafür, dass das Meer hier oft in unnatürlichen Farben leuchtet.
+![[Schimmernde Klippen]] 
 
-**Die [[Nebelsteppe]]** – Weite, von dichtem, violetten Nebel durchzogene Ebenen, in denen Arkane Felder das Wachstum von seltsamen Pflanzen begünstigen. Reisende berichten von spontanen magischen Phänomenen. Austragungsort des [[Eid von Morgenfels]] und der Schalcht am [[Feuerfeld von Nebelstein]].
+![[Nebelsteppe]]
 
-**[[Valatheris]], die Stadt der Türme** – Die Hauptstadt und das Zentrum der Magie. Ihre Türme ragen hoch in den Himmel, durchzogen von leuchtenden Runen und schwebenden Plattformen. Hier befinden sich die großen Akademien und Bibliotheken Drakmoras.
+![[Valatheris]]
 
-**Die [[Drachengründe]]** – Eine felsige, raue Region, in der sich einige der letzten Drachenborn-Clans zurückgezogen haben. Hier werden die mächtigsten magischen Krieger Drakmoras ausgebildet.
-
+![[Drachengründe]]
 ### Physische Merkmale & Erscheinung
 Die Drakmoraner sind für ihre kräftigen, muskulösen Körper bekannt, die von jahrelanger körperlicher Arbeit und militärischer Ausbildung gezeichnet sind. Viele tragen Narben, die von ihrem rauen Leben zeugen, sei es durch Schmiedearbeit oder durch Kämpfe auf dem Schlachtfeld. Haarfarben reichen von tiefschwarz bis feurigrot, während ihre Augen oft in erdigen Tönen wie Braun oder Bernstein schimmern.
 

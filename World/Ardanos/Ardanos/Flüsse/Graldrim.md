@@ -1,1 +1,1 @@
-Fluss im Norden von [[Ardanos]]. Er bildet eine natürliche Grenze zwischen der [[Bernsteinküste]] von [[Mariven]] und [[Drakmora]]. Er entspringt im westlichen Teil der [[Schwarzklamm]] und mündet am [[Nebelhafen]] ins Meer. Sein größter Zufluss ist der [[Maldras]].
+Fluss im Norden von [[Ardanos]]. Er bildet eine natürliche Grenze zwischen der [[Bernsteinküste]] von [[Mariven]] und [[Drakmora]]. Er entspringt in der [[Nordfels-Krone]] von [[Schwarzklamm]] und mündet am [[Nebelhafen]] ins Meer. Sein größter Zufluss ist der [[Maldras]].
