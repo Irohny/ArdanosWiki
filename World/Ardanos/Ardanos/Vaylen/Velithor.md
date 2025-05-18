@@ -1,0 +1,1 @@
+Die größte Stadt des Fürstentums [[Vaylen]], erbaut um einen uralten Turm der Weisen, in dem die größten Arkanisten des Landes ihre Forschungen betreiben. Ihre Straßen sind von sanft schimmernden Laternen erleuchtet, die von magischen Kristallen gespeist werden.  

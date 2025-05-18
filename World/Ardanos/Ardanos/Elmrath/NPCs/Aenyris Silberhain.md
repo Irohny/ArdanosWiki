@@ -1,0 +1,4 @@
+- **Regentschaft:** 1456–1014 n.d.D.
+- **Haus:** Silberhain
+- **Rasse:** Hochelfe
+- **Titel:** _Die Sturmseherin_

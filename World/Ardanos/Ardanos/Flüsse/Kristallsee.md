@@ -1,0 +1,2 @@
+ Ein See von makelloser Klarheit, in dessen Tiefe sich magische Reflektionen vergangener und zukünftiger Zeiten zeigen sollen. Seine Ufer werden von Meditierenden und Gelehrten besucht, die sich auf ihre Studien konzentrieren wollen.
+Der See hat zwei Zuflüsse ([[Velgrin]] im Südosten, [[Syralith]] im Nordosten) und einen Abfluss ([[Lumaros]] im Südwesten) zum Meer. Er bildet mit seinen Flüssen eine natürliche Grenze zwischen [[Vaylen]] und [[Elmrath]].

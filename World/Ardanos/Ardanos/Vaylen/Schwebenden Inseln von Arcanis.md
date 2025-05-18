@@ -1,0 +1,1 @@
+Eine Formation aus Felsen und Ruinen, die über den Wäldern [[Vaylen]]s schweben, gehalten von alten Zaubern aus vergangenen Zeiten. Man sagt, dass hier einst die ersten Magier ihre Studien betrieben.

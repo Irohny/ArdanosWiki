@@ -1,0 +1,1 @@
+Eine im zweiten Zeitalter ausgestorbene Händlerfamilie aus [[Mariven]]. Sie begründete das Fürstentum durch die Einigung der Inseln.

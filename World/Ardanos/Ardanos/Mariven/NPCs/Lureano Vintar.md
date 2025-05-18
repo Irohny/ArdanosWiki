@@ -1,0 +1,5 @@
+- **Regentschaft:** 503–547 n.d.D.
+- **Haus:** Vintar
+- **Rasse:** Mensch
+- **Titel:** _Der Begründer des Kompassgesetzes_
+- **Anmerkung:** Führte das System der städtischen Gildenlizenzen ein.

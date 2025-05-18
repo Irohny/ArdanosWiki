@@ -1,0 +1,4 @@
+- **Regentschaft:** 1014–1159 n.d.D.
+- **Haus:** Silberhain
+- **Rasse:** Hochelfe
+- **Titel:** _Der Lautlose Herr_

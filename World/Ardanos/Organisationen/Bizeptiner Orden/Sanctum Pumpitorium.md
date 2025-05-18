@@ -1,0 +1,1 @@
+Trainingsstätte des [[Bizeptiner Orden]] im heiligen [[Refugium des reinen Gains]]. Hier Trainieren die Mönche ihr Leben lang um die perfekte Stärke zu finden.

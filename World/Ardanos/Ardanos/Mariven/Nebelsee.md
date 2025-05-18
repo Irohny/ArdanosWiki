@@ -1,0 +1,1 @@
+Eine immer nebeblige Passage zwischen den Inseln [[Havgrim]] und [[Korvalis]] in [[Mariven]]. Wenige Kapitäne trauen sich durch diese undurchschaubare Gefahr zu fahren. Dies führt zu einer exponierten lage der Insel [[Cirellin]], da sie so nur durch längere Umwege erreichbar ist.

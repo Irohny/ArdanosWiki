@@ -1,0 +1,1 @@
+Die schwer bewaffnete Kriegsschiffflotte Marivens, die als letzte Verteidigungslinie gegen Bedrohungen dient. Ihr Flaggschiff ist die [[Goldene Morgendämmerung]].

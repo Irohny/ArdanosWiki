@@ -1,0 +1,4 @@
+- **Regentschaft:** 1765–1914 n.d.D.
+- **Haus:** Silven
+- **Rasse:** Hochelfe
+- **Titel:** _Der Ätherfürst_

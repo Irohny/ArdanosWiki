@@ -1,0 +1,4 @@
+ - **Regentschaft:** 2325 - 2383 n.d.D.
+- **Haus:** von Elmrath
+- **Rasse:** Mensch
+- **Title:**  _Sonnenkönigin_

@@ -1,0 +1,5 @@
+- **Regentschaft:** 1886–1912 n.d.D.
+- **Haus:** Marris
+- **Rasse:** Mensch
+- **Titel:** _Der Schattenhändler_
+- **Anmerkung:** Sein Tod bleibt bis heute ungeklärt.

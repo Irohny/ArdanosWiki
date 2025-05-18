@@ -1,0 +1,1 @@
+Die Hauptstadt und das Zentrum der Magie. Ihre Türme ragen hoch in den Himmel, durchzogen von leuchtenden Runen und schwebenden Plattformen. Hier befinden sich die großen Akademien und Bibliotheken [[Drakmora]]s.

@@ -1,0 +1,1 @@
+ Eine felsige, raue Region, in der sich einige der letzten Drachenborn-Clans zurückgezogen haben. Hier werden die mächtigsten magischen Krieger [[Drakmora]]s ausgebildet.

@@ -1,0 +1,2 @@
+#Zwerg #Schwarzklamm 
+Leiter der Forschergilde von [[Schwarzklamm]]. Ein kleiner leicht verrückter alter Zwerg, der niemanden zuhört und immer in gedanken für die nächte Erfindung ist. Seine größte Erfindung ist die herstellung der [[Runenschild]]e. Die den Zwergen der [[Schwarzklamm]] helfen gegen magische Angriffe zu bestehen. Mit der Hilfe dieser Erfindung konnte eine ganze Elitetruppe der Schwarzklamm mit diesen Schilden ausgestattet werden.

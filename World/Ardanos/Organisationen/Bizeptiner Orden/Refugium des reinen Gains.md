@@ -1,0 +1,1 @@
+Kloster des [[Bizeptiner Orden]] in den [[Drachengründe]] in [[Drakmora]]. Erbaut durch die reine Kraft des ersten Mönches [[Arn'Old]]. Das Zentrum des Klosters bildet das [[Sanctum Pumpitorium]], die heilige Trainingsstätte der Bipzeptiner.

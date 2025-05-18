@@ -1,0 +1,1 @@
+Dieses Fest im Jahre 553 n.d.D im ersten Zeitalter, stellt ein Ende der Konflikte zwischen den Waldvölkern (heutiges Gebiet des [[Immergrüner Hain]]) und den Hochalben der Ebene (heute: [[Goldene Weite]]) dar. Dieses Abkommen war der Grundstein für das heute [[Elmrath]] und wird daher als die Gründung dieses Fürstentums angesehen.

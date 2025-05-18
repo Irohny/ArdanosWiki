@@ -1,0 +1,3 @@
+**2163 n.d.D** 
+
+Als der alte Vulkan [[Kar'drathar]] erneut zu speien drohte, brachen tapfere Streiter in seine glühenden Tiefen hinab. Dort stellten sie sich dem wütenden Sonnenvogel – einst Hüter, nun Verderbter. Durch Mut und Licht gelang es ihnen, den uralten Wächter zu erlösen. Seitdem schweigt der Vulkan. Die Gruppe brachte dem Dorf das Artefakt Names _[[Träne der Sonne]]_, ein uraltes Armulett, das von da an die [[Himmelshöfe]] beschützt und von allen verehrt wird. 

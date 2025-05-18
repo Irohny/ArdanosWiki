@@ -1,0 +1,5 @@
+- **Regentschaft:** 1159–1433 n.d.D.
+- **Haus:** Nyssien
+- **Rasse:** Hochelfe
+- **Titel:** _Die Glut der Weisheit_
+- **Anmerkung:** Unter ihrer Regentschaft wurde der erste Kontakt zu den Magiern Vaylens gestärkt.

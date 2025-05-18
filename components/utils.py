@@ -69,5 +69,32 @@ def go_on_top_folder():
         return
     parts = str(target_path).split("/")
     new_path = "/".join(part for part in parts[:-1])
-    print(new_path)
     st.session_state["current_path"] = new_path
+
+
+def find_file_path_in_tree(
+    tree: dict, filename: str, current_path: str = ""
+) -> str | None:
+    """
+    Durchsucht rekursiv das Tree-Dictionary nach einer Datei und gibt den vollständigen Pfad zurück.
+
+    :param tree: Das Tree-Dictionary mit Ordnern und Markdown-Dateien
+    :param filename: Gesuchter Dateiname (z. B. "beispiel.md")
+    :param current_path: Interner Rekursionspfad
+    :return: Vollständiger Pfad zur Datei oder None, wenn nicht gefunden
+    """
+    if not current_path:
+        current_path = st.session_state["root_path"]
+    for key, value in tree.items():
+        if key == "__files__":
+            for file in value:
+                if filename in file:
+                    return os.path.join(current_path, file)
+        else:
+            # Rekursiv in Unterordnern suchen
+            result = find_file_path_in_tree(
+                value, filename, os.path.join(current_path, key)
+            )
+            if result:
+                return result
+    return None

@@ -11,6 +11,11 @@ def main():
         col = st.columns([1, 15])
         col[0].image(f"{cfg.IMAGE_DIR}/dnd_logo.svg", use_container_width=True)
         col[1].title(":red[Ardanos Wiki]")
+        st.header(f"{st.session_state['current_path'].split('/')[-1]}")
+        st.text(
+            """Navigiere mit der Sidebar durch das Wiki und erkunde die Ecken von Andaros. Mit zurück kommst du in den vorherigen Ordner. Viel Spaß und melde dich, wenn du mal wieder eine Runde in diesem Universum spielen willst."""
+        )
+        st.image(f"{cfg.IMAGE_DIR}/Ardanos.jpeg")
     create_sidebar()
 
 

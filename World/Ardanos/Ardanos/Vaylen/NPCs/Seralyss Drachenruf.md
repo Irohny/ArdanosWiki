@@ -1,0 +1,5 @@
+- **Regentschaft:** 441–1219 n.d.D.
+- **Haus:** Drachenruf
+- **Rasse:** Drachengeborene
+- **Titel:** _Die Erweckerin der Pfade_
+- **Anmerkung:** Begründerin des Fürstentums [[Vaylen]] und der Konvergenz arkaner Künste. Erzmagierin der Vorhersehung.

@@ -1,0 +1,1 @@
+Die heutige Ruinenstadt auf der Insel [[Cirellin]] in [[Mariven]] war einst das Zentrum der Insel. Sie wurde in den großen Piratenkireigen von 1448 n.d.D des zweiten [[Zeitalter]]s zerstört. In ihren Ruinen suchen Abendteuerer seit noch heute nach verlorenen Schätzen und magischen Artefakten. Nach den Kriegen wurde die Stadt [[Cirion]] als neue Haupstadt der Insel gebaut.

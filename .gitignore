@@ -2,3 +2,8 @@
 .ruff_cache
 *.pyc
 __pycache__
+.obsidian
+
+# ignore all files of game master content
+Spielleiter 
+sl_*

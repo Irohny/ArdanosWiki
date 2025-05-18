@@ -1,0 +1,4 @@
+- **Regentschaft:** 1664–1886 n.d.D.
+- **Haus:** Cerelin
+- **Rasse:** Hochelfe
+- **Titel:** _Die Saphirfürstin_

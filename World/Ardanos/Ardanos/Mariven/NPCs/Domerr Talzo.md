@@ -1,0 +1,4 @@
+- **Regentschaft:** 603–685 n.d.D.
+- **Haus:** Talzo
+- **Rasse:** Zwerg
+- **Titel:** _Der Münzrichter_

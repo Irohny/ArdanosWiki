@@ -1,6 +1,7 @@
 # Changelog
 
 ### Feat
+* feat: Show file content with formated links and tags as well as images (2025-05-18)
 * feat: Create sidebar navigation (2025-05-17)
 * feat: Creating DnD wiki project (2025-05-17)
 
