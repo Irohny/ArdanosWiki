@@ -1,9 +1,13 @@
 import streamlit as st
+
+from components.show_file import show_file
+from config import cfg
 from components import utils
 
 
 def create_sidebar():
-    st.sidebar.title("🧭 Navigation")
+    st.logo(f"{cfg.IMAGE_DIR}/dnd_logo.svg", size="large")
+    st.sidebar.header("🧭 Navigation")
     st.sidebar.button("Zurück", on_click=utils.go_on_top_folder)
 
     subtree = utils.get_subtree_by_path(st.session_state["current_path"])
@@ -38,18 +42,3 @@ def create_sidebar():
                 on_click=show_file,
                 args=(file,),
             )
-
-
-def show_file(file_path: str):
-    """Liest eine Markdown-Datei ein und zeigt den Inhalt in Streamlit an."""
-    try:
-        title = (file_path.split("/")[-1]).replace(".md", "")
-        with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
-            st.title(title)
-            st.markdown(content, unsafe_allow_html=True)
-            st.session_state["current_path"] = file_path
-    except FileNotFoundError:
-        st.error(f"Datei nicht gefunden: `{file_path}`")
-    except Exception as e:
-        st.error(f"Fehler beim Laden der Datei `{file_path}`: {e}")
