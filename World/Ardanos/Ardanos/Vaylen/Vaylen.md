@@ -11,11 +11,10 @@ Die Bewohner Vaylens sehen sich als Bewahrer uralter Mysterien und Architekten d
 ### Geografie & Landschaft
 Vaylen erstreckt sich über sanfte, mit Nebel überzogene Hügel, weite Wälder und ruhige Flussläufe. Seine Städte sind kunstvoll in die Landschaft eingebettet, oft inmitten uralter Eichenhaine oder entlang mächtiger Klippen, von denen aus man das funkelnde Meer in der Ferne sehen kann. Magische Ley-Linien durchziehen das Land, und in den Nächten leuchten die Himmel von arkanen Phänomenen, die Gelehrte und Magier seit Jahrhunderten studieren.
 
-**Die [[Schwebenden Inseln von Arcanis]]** – Eine Formation aus Felsen und Ruinen, die über den Wäldern Vaylens schweben, gehalten von alten Zaubern aus vergangenen Zeiten. Man sagt, dass hier einst die ersten Magier ihre Studien betrieben.  
-**[[Velithor]]** – Die größte Stadt des Fürstentums, erbaut um einen uralten Turm der Weisen, in dem die größten Arkanisten des Landes ihre Forschungen betreiben. Ihre Straßen sind von sanft schimmernden Laternen erleuchtet, die von magischen Kristallen gespeist werden.  
-**Die [[Stille Akademie]]** – Eine verborgene Bibliothek tief in den Wäldern, wo die Gelehrten von Vaylen sich zurückziehen, um ungestört über die Geheimnisse der Welt nachzudenken.  
-**Der [[Kristallsee]]** – Ein See von makelloser Klarheit, in dessen Tiefe sich magische Reflektionen vergangener und zukünftiger Zeiten zeigen sollen. Seine Ufer werden von Meditierenden und Gelehrten besucht, die sich auf ihre Studien konzentrieren wollen.
-
+![[Schwebenden Inseln von Arcanis]]   
+![[Velithor]]
+![[Stille Akademie]]
+![[Kristallsee]]
 Vaylen ist ein Land der Ruhe und des Wissens, ein Ort, an dem die Menschen den Blick nach innen richten, auf der Suche nach der Wahrheit, die sich jenseits des Sichtbaren verbirgt.
 
 ### Physische Merkmale & Erscheinung

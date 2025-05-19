@@ -56,7 +56,6 @@
 - **2165–2233 n.d.D.** – **Barag Steinhorn** _(Halb-Ork)_  
     _Erster Fürst im Reichsrat – Erbauer der Friedenshalle von Grom’Tal._
     
-- **2233–2344 n.d.D.** – **Torgak Eisenbrand** _(Tiefling)_  
-    _Erweckte das Kriegserbe neu im Zwergenkrieg – dennoch loyal zum Reich._
+- **2233–2344 n.d.D.** – **[[Torgak Eisenbrand]]** _(
     
 - **2344–2418 n.d.D.** – [[Valaine Nebelhain]] seit 2344 n.d.D

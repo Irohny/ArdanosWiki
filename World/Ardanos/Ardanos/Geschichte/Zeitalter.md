@@ -21,7 +21,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 - **1350 n.d.D** Mythos [[Der Drache von Cirrelin]]
 - **1401–1402 n.d.D.** [[Muschelkrieg]] ([[Elmrath]] gegen [[Mariven]])
 - **1526–1528 n.d.D.** [[Erzkrieg von Eron’Gath]] ([[Schwarzklamm]] gegen [[Drakmora]])
-- **1603–1611 n.d.D.** [[Der Runenbann-Konflikt]] ([[Mariven]] gegen [[Vaylen]])
+- **1603–1611 n.d.D.** [[Runenbann-Konflikt]] ([[Mariven]] gegen [[Vaylen]])
 - **1698 n.d.D.** [[Die Erschütterung der Tiefe]] ([[Schwarzklamm]])
 - **1740–1755 n.d.D.** [[Reiterkriege der Nebelsteppe]] ([[Drakmora]] gegen Söldner von [[Vaylen]])
 - **2025- 2165 n.d.D.** [[Invasion der Nordbarbaren]] 

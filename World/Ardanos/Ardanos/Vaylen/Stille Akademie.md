@@ -1,0 +1,7 @@
+![[StilleAkademie.png|400]]
+Die **Stille Akademie der Zauberei und der Arkanen Lehre** ist der ehrwürdige Hauptsitz des **[[Orden der Klarheit]]** in [[Vaylen]] und eines der ältesten Zentren magischer Ausbildung im Kaiserreich [[Ardanos]]. Ihre Geschichte ist geprägt von Aufstieg, Zerstörung und Wiedergeburt. Im berüchtigten **[[Runenbann-Konflikt]]** fiel die Akademie in Trümmer, als arkan überladene Runenmagie außer Kontrolle geriet. Doch nach dem Krieg wurde sie in ehrfürchtigem Gedenken an die Vergangenheit neu errichtet – ein Symbol des Gleichgewichts zwischen Macht und Weisheit.
+
+Von außen offenbart sich ein imposanter Anblick:  
+Im Zentrum erhebt sich der **Turm der Einsicht**, ein schlanker, in silbrigem Stein gehauener Spitzturm, der bis in die Wolken ragt. Um diesen Turm windet sich ein weitläufiger **Kreisgarten**, voller seltener Pflanzen, arkaner Kristalle und schwebender Lichtquellen, in dem die Schüler stille Meditation und praktisches Studium betreiben. Den äußeren Ring bildet das kreisrunde Hauptgebäude der Akademie – ein architektonisches Meisterwerk mit Türmen, Wandelgängen und Bibliotheken. Seine gewölbten Fenster, schimmernden Kuppeln und von Glyphen durchzogenen Steinmauern zeugen von der Verbindung zwischen alter und neuer Magie.
+
+Die Stille Akademie ist heute ein Ort der Konzentration, Klarheit und des Austauschs – und der Ursprung vieler der mächtigsten Magier Ardanos.

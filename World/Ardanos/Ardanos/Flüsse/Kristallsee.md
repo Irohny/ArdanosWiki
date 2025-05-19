@@ -1,2 +1,4 @@
- Ein See von makelloser Klarheit, in dessen Tiefe sich magische Reflektionen vergangener und zukünftiger Zeiten zeigen sollen. Seine Ufer werden von Meditierenden und Gelehrten besucht, die sich auf ihre Studien konzentrieren wollen.
-Der See hat zwei Zuflüsse ([[Velgrin]] im Südosten, [[Syralith]] im Nordosten) und einen Abfluss ([[Lumaros]] im Südwesten) zum Meer. Er bildet mit seinen Flüssen eine natürliche Grenze zwischen [[Vaylen]] und [[Elmrath]].
+
+Der **Kristallsee** ist ein faszinierender Ort von überirdischer Schönheit im Süden des Kaiserreichs Ardanos. Sein Wasser ist so klar, dass man bis auf den Grund blicken kann – doch wer hineinsieht, erkennt mehr als nur Steine und Fische: In seinen Tiefen spiegeln sich Szenen aus Vergangenheit und Zukunft, flüchtig wie ein Traum. Der See ist umgeben von stillen Uferpfaden, auf denen Gelehrte, Magier und Suchende in tiefer Meditation wandeln.
+
+Die Flüsse **[[Velgrin]]** und **[[Syralith]]** speisen ihn mit reinem Gebirgswasser, während der mächtige **[[Lumaros]]** ihn zum Meer hin entwässert. Gemeinsam bilden sie eine natürliche Grenze zwischen den Fürstentümern **[[Vaylen]]** und **[[Elmrath]]** – ein Ort der Ruhe, des Wissens und des überzeitlichen Staunens.
