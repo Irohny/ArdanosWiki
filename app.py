@@ -1,6 +1,7 @@
 import streamlit as st
 
 from components.sidebar import create_sidebar
+from components.header import header
 from components import utils
 from config import cfg
 
@@ -9,17 +10,7 @@ def main():
     # set session state if query parameter are give (click on document link)
     if "page" in st.query_params:
         st.session_state["current_path"] = st.query_params["page"]
-
-    if not st.session_state["current_path"].endswith(".md"):
-        st.markdown(f":gray-badge[{st.session_state['current_path']}]")
-        col = st.columns([1, 15])
-        col[0].image(f"{cfg.IMAGE_DIR}/dnd_logo.svg", use_container_width=True)
-        col[1].title(":red[Ardanos Wiki]")
-        st.header(f"{st.session_state['current_path'].split('/')[-1]}")
-        st.text(
-            """Navigiere mit der Sidebar durch das Wiki und erkunde die Ecken von Andaros. Mit zurück kommst du in den vorherigen Ordner. Viel Spaß und melde dich, wenn du mal wieder eine Runde in diesem Universum spielen willst."""
-        )
-        st.image(f"{cfg.IMAGE_DIR}/Ardanos.jpeg")
+    header()
     create_sidebar()
 
 

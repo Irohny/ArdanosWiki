@@ -25,6 +25,23 @@ def find_markdown_files(folder_path: str) -> dict:
     return {abs_root: build_tree(abs_root)}
 
 
+@st.cache_data
+def get_all_file_paths(tree):
+    """Gibt eine Liste aller Markdown-Dateipfade im Tree zurück."""
+    paths = []
+
+    def collect(subtree, current_path=""):
+        for key, value in subtree.items():
+            if key == "__files__":
+                for f in value:
+                    paths.append(os.path.join(current_path, f))
+            elif isinstance(value, dict):
+                collect(value, os.path.join(current_path, key))
+
+    collect(tree)
+    return paths
+
+
 def get_subtree_by_path(target_path: str) -> dict:
     """
     Navigiert durch ein Tree-Dictionary bis zum target_path relativ zu root_path.

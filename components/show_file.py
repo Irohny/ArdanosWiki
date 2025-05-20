@@ -40,18 +40,9 @@ def __make_internal_links_clickable(text: str) -> str:
     return re.sub(r"\[\[([^\]]+)\]\]", replace_link, text)
 
 
-def show_file(file_path: str, with_title=True):
+def show_file(file_path: str):
     """Zeigt eine Markdown-Datei in Streamlit an, mit Bildern, Links und Tags."""
     try:
-        if with_title:
-            st.markdown(f":gray-badge[{file_path}]")
-            title = os.path.basename(file_path).replace(".md", "")
-            st.title(title)
-            st.session_state["current_path"] = file_path
-        else:
-            title = os.path.basename(file_path).replace(".md", "")
-            st.header(title)
-
         with open(file_path, "r", encoding="utf-8") as f:
             content = f.read()
 
@@ -92,7 +83,7 @@ def show_file(file_path: str, with_title=True):
                     columns[1].image(image_path)
                 # display inserted markdown files
                 elif md_path:
-                    show_file(md_path, with_title=False)
+                    show_file(md_path)
                 # error case
                 else:
                     st.error(f"Datei nicht gefunden: {filename}")

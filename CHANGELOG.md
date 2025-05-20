@@ -8,6 +8,7 @@
 * feat: Creating DnD wiki project (2025-05-17)
 
 ### Fix
+* fix: Duplications of displayed text and optimization of image views (2025-05-20)
 * fix: Sidebar out of bounds and false title (2025-05-18)
 
 ### Chore
