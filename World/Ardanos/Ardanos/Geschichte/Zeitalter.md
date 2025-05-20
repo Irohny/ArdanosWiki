@@ -18,7 +18,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 **1231 n.d.D.** Start des zweiten Zeitalters
 - **1236 - 1387 n.d.D** [[Baraberenüberfälle von Mariven]] 
 - **1304–1307 n.d.D.** [[Nord-Süd-Konflikt]] ([[Drakmora]] gegen [[Elmrath]]) 
-- **1350 n.d.D** Mythos [[Der Drache von Cirrelin]]
+- **1350 n.d.D** Mythos [[Drache von Cirrelin]]
 - **1401–1402 n.d.D.** [[Muschelkrieg]] ([[Elmrath]] gegen [[Mariven]])
 - **1526–1528 n.d.D.** [[Erzkrieg von Eron’Gath]] ([[Schwarzklamm]] gegen [[Drakmora]])
 - **1603–1611 n.d.D.** [[Runenbann-Konflikt]] ([[Mariven]] gegen [[Vaylen]])

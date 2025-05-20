@@ -1,2 +1,2 @@
- Eine riesige, fruchtbare Ebene im Herzen Elmraths, die für ihre außergewöhnlichen Ernten bekannt ist. Hier stehen die größten Gutshöfe und Kornspeicher des 
-Fürstentums.  
+![[goldeneweite.png|300]]
+Die **Goldene Weite** ist das landwirtschaftliche Herzstück [[Elmrath]]s – eine endlose, sanft geschwungene Ebene, deren Felder im Sonnenlicht wie Gold glänzen. Weizen, Gerste und Flachs wachsen hier in scheinbar endlosen Reihen, gepflegt von erfahrenen Bauernfamilien, deren Wissen über Generationen weitergegeben wurde. Riesige Kornspeicher, mit kunstvollen Holzschnitzereien verziert, ragen zwischen den Feldern empor und zeugen vom Reichtum der Region. Gepflasterte Handelsstraßen verbinden die großen Gutshöfe, auf denen reiche Grundbesitzer ihre weitläufigen Ländereien verwalten. Inmitten dieser Weite herrscht ein Gefühl von Ruhe, Überfluss und ländlicher Pracht – die Goldene Weite gilt zu Recht als das „Brotkorb“ [[Elmrath]]s.

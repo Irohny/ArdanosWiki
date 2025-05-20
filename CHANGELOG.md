@@ -1,6 +1,7 @@
 # Changelog
 
 ### Feat
+* feat: File lookup (2025-05-20)
 * feat: Make document links clickable with redirection to selected page (2025-05-20)
 * feat: Show included content of markdown files and add lore (2025-05-18)
 * feat: Show file content with formated links and tags as well as images (2025-05-18)
