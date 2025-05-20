@@ -11,6 +11,8 @@ def create_sidebar():
     st.sidebar.button("Zurück", on_click=utils.go_on_top_folder)
 
     subtree = utils.get_subtree_by_path(st.session_state["current_path"])
+    if st.session_state["current_path"].endswith(".md"):
+        show_file(st.session_state["current_path"])
     if not subtree:
         st.stop()
 

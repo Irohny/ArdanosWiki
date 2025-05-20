@@ -6,6 +6,10 @@ from config import cfg
 
 
 def main():
+    # set session state if query parameter are give (click on document link)
+    if "page" in st.query_params:
+        st.session_state["current_path"] = st.query_params["page"]
+
     if not st.session_state["current_path"].endswith(".md"):
         st.markdown(f":gray-badge[{st.session_state['current_path']}]")
         col = st.columns([1, 15])

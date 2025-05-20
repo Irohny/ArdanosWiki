@@ -17,9 +17,27 @@ def __process_tags(text: str) -> str:
 
 def __process_text_block(text: str) -> str:
     """Verarbeitet einen Textabschnitt: Links & Tags hervorheben."""
-    text = __process_links(text)
+    # text = __process_links(text)
+    text = __make_internal_links_clickable(text)
     text = __process_tags(text)
     return text
+
+
+def __make_internal_links_clickable(text: str) -> str:
+    """Ersetzt [[Link]] durch klickbare HTML-Links mit ?page=... Parametern."""
+
+    def replace_link(match):
+        link_text = match.group(1).strip()
+        target_path = utils.find_file_path_in_tree(
+            st.session_state["tree"], f"{link_text}.md"
+        )
+        if target_path:
+            # Encode den Pfad in den Link
+            return f'<a href="?page={target_path}">{link_text}</a>'
+        else:
+            return f'<span style="color:red;">[[{link_text}]]</span>'
+
+    return re.sub(r"\[\[([^\]]+)\]\]", replace_link, text)
 
 
 def show_file(file_path: str, with_title=True):
@@ -63,7 +81,6 @@ def show_file(file_path: str, with_title=True):
                     )
                 else:
                     md_path = None
-                print(filename, md_path)
                 # skip game master files
                 if filename.startswith("sl "):
                     pass
