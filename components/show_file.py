@@ -65,10 +65,13 @@ def show_file(file_path: str, with_title=True):
         # 2. Ausgabe: Text → Bild → Text ...
         # ------------------------------
         i = 0
+        columns = st.columns([3, 1])
         while i < len(parts):
             text_part = parts[i]
             if text_part.strip():
-                st.markdown(__process_text_block(text_part), unsafe_allow_html=True)
+                columns[0].markdown(
+                    __process_text_block(text_part), unsafe_allow_html=True
+                )
 
             if i + 1 < len(parts):
                 filename = parts[i + 1]
@@ -86,8 +89,7 @@ def show_file(file_path: str, with_title=True):
                     pass
                 # display images
                 elif is_image:
-                    col = st.columns([1, 2])
-                    col[0].image(image_path)
+                    columns[1].image(image_path)
                 # display inserted markdown files
                 elif md_path:
                     show_file(md_path, with_title=False)

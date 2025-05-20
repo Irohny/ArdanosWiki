@@ -13,6 +13,7 @@ def create_sidebar():
     subtree = utils.get_subtree_by_path(st.session_state["current_path"])
     if st.session_state["current_path"].endswith(".md"):
         show_file(st.session_state["current_path"])
+
     if not subtree:
         st.stop()
 
@@ -41,6 +42,6 @@ def create_sidebar():
                 key=file,
                 use_container_width=True,
                 type="tertiary",
-                on_click=show_file,
+                on_click=utils.set_path,
                 args=(file,),
             )

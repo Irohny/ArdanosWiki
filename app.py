@@ -27,8 +27,8 @@ if __name__ == "__main__":
     st.set_page_config(
         "DnD Wiki", page_icon=f"{cfg.IMAGE_DIR}/dnd_logo.svg", layout="wide"
     )
-    st.session_state["tree"] = utils.find_markdown_files(cfg.MARKDOWN_DIR)
     if "root_path" not in st.session_state:
+        st.session_state["tree"] = utils.find_markdown_files(cfg.MARKDOWN_DIR)
         st.session_state["root_path"] = str(list(st.session_state["tree"].keys())[0])
         st.session_state["current_path"] = str(list(st.session_state["tree"].keys())[0])
 

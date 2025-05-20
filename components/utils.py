@@ -2,6 +2,7 @@ import streamlit as st
 import os
 
 
+@st.cache_data
 def find_markdown_files(folder_path: str) -> dict:
     def build_tree(current_path: str) -> dict:
         tree = {}
@@ -70,6 +71,10 @@ def go_on_top_folder():
     parts = str(target_path).split("/")
     new_path = "/".join(part for part in parts[:-1])
     st.session_state["current_path"] = new_path
+
+
+def set_path(path: str):
+    st.session_state["current_path"] = path
 
 
 def find_file_path_in_tree(
