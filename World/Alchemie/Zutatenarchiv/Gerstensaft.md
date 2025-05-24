@@ -1,0 +1,1 @@
+ - **Seltenheit:** Gewöhnlich - **Wert:** 5 Silber - **Fundort:** Brauereien, Gasthäuser, **Beschreibung:** Vergorener Pflanzensaft, Grundlage vieler Tränke

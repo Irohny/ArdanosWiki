@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 7 Gold - **Fundort:** Gebirgsminen, Zwergenstädte, **Beschreibung:** Stärkende Wurzel, beliebt bei Kriegern

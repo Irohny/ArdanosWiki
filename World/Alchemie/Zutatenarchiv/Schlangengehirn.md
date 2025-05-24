@@ -1,0 +1,1 @@
+ - **Seltenheit:** Sehr selten - **Wert:** 11 Gold - **Fundort:** Sümpfe, Schamanen, Monsterjagd, **Beschreibung:** Seltenes Organ, steigert Reflexe und Giftresistenz

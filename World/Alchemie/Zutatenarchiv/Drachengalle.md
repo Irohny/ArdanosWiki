@@ -1,0 +1,1 @@
+ - **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Drachenkadaver, legendäre Alchemisten, **Beschreibung:** Stark ätzende Flüssigkeit, meist aus toten Drachen gewonnen

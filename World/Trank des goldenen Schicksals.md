@@ -1,0 +1,5 @@
+- **Komponenten:** [[Nymphenblüte]], [[getrocknete Träne]], [[Traumdistel]]
+- **Herstellung:** Fermentation bei Vollmond, durchzogen mit Geisterstaub und verdünnter Hoffnung
+- **SG:** 17 (Alchemie), CHA oder INT + Alchemist’s Supplies
+- **Wirkung – Erfolgreich:** Für 1 Stunde erhält der Trinker **1x Vorteil auf jede Probe, Angriff und Rettungswurf**, bis der Effekt endet oder dreimal verwendet wurde.
+- **Wirkung – Geschwächt:** Nur 1x Vorteil, verfällt danach sofort.

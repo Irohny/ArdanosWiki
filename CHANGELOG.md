@@ -13,6 +13,7 @@
 * fix: Sidebar out of bounds and false title (2025-05-18)
 
 ### Chore
+* chore: add lore (2025-05-20)
 * chore: add lore (2025-05-19)
 * chore: Add lore (2025-05-18)
 * chore: Add website link to README (2025-05-18)

@@ -1,0 +1,1 @@
+Nach alter Bizeptiner Tradition wird dieses wohlschmeckende Bier mit [[Wilder Hopfen]], [[Gerstensaft]] und [[Bärenkraut]] gebraut. Dieses Geheimrezept wird  vom [[Bizeptiner Orden]] streng bewart. 

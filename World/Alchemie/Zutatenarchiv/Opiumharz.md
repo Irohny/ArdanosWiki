@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 4 Gold - **Fundort:** Südliche Gärten, Händler aus fremden Landen, **Beschreibung:** Stark beruhigend, schmerzstillend

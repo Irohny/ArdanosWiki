@@ -1,0 +1,1 @@
+- **Seltenheit:** Ungewöhnlich - **Wert:** 3 Gold - **Fundort:** Kristallminen, Bergtempel, **Beschreibung:** Reiner Kristall, speichert magische Energie

@@ -19,7 +19,7 @@ Die Atmosphäre wechselt abrupt mit jeder Ebene: Oben erklingen Hämmer und Ges�
 ### 🛠️ **Die Rückkehr der Zwerge**
 
 ![[TiefenHallenEbene1.png|300]]
-Seit der **Großen Revolution von Hochkönig [[Dungar Schwarzschild]]** und dem Ende des letzten großen Krieges ist unter seiner Führung ein Projekt angelaufen:
+Seit der **Großen Revolution von Hochkönig [[Durngar Schwarzschild]]** und dem Ende des letzten großen Krieges ist unter seiner Führung ein Projekt angelaufen:
 
 > **„Die Heimkehr in den Stein.“**
 

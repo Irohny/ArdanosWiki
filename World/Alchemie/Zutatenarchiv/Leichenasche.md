@@ -1,0 +1,1 @@
+- **Seltenheit:** Ungewöhnlich - **Wert:** 2 Gold - **Fundort:** Schlachtfelder, Gruften, **Beschreibung:** Asche aus verbrannten Leichen, oft für dunkle Magie verwendet

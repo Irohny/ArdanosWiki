@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 6 Gold - **Fundort:** Dämmerwälder, alte Friedhöfe, **Beschreibung:** Dunkle Blume mit schleichender Wirkung

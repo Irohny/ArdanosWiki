@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 4 Gold - **Fundort:** Traumebenen, Feenwiesen, **Beschreibung:** Lässt Träume lebendig werden, leicht betäubend

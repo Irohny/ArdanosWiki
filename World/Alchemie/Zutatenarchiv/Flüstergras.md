@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 6 Gold - **Fundort:** Ruinen, Geisterwälder, **Beschreibung:** Flüstert im Wind, beruhigend und mit astraler Verbindung

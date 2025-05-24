@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 2 Gold - **Fundort:** Sträucher in Feuchtwäldern, **Beschreibung:** Kleine Beere, verursacht Schlaf bei Einnahme

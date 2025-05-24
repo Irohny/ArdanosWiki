@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 8 Gold - **Fundort:** Vulkangebiete, Magiergilden, **Beschreibung:** Magischer Stein, der bei Reibung Funken erzeugt

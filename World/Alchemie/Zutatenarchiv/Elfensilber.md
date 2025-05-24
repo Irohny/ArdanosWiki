@@ -1,0 +1,1 @@
+ - **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Elfenreiche, uralte Tempel, **Beschreibung:** Magisch reines silbriges Metall, kanalisiert Zauberenergie

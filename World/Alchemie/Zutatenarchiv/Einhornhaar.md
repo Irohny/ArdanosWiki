@@ -1,0 +1,1 @@
+- **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Heilige Wälder, seltene magische Kreaturen, Elfenreiche, **Beschreibung:** Magisch reines Haar eines Einhorns, extrem wertvoll und rein

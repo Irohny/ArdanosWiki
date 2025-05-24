@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 10 Gold - **Fundort:** Geisterhäuser, Begräbnisstätten, **Beschreibung:** Feiner, schimmernder Staub mit ätherischen Eigenschaften

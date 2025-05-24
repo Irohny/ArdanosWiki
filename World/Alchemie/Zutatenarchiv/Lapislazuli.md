@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 5 Gold - **Fundort:** Edelsteinminen, Händler, **Beschreibung:** Blauer Edelstein mit geistiger Klarheit, oft für Tränke des Denkens verwendet

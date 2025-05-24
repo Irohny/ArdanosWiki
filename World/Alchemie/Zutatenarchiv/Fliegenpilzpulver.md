@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 2 Gold - **Fundort:** Wälder, Hexenkreise, **Beschreibung:** Giftiges Pilzpulver, halluzinogen

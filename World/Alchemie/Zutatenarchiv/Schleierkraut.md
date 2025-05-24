@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 6 Gold - **Fundort:** Nebelwälder, verlassene Gärten, **Beschreibung:** Zartes Kraut, das die Sinne verschleiert

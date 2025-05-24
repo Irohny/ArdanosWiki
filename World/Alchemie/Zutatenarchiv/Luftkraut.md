@@ -1,0 +1,1 @@
+- **Seltenheit:** Selten - **Wert:** 5 Gold - **Fundort:** Hohe Berghänge, luftige Ebenen, **Beschreibung:** Leichtes Kraut, verleiht das Gefühl von Schwerelosigkeit

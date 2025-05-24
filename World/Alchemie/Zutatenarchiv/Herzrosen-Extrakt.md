@@ -1,0 +1,1 @@
+- **Seltenheit:** Ungewöhnlich - **Wert:** 5 Gold - **Fundort:** Adelgärten, Elfenanbau, **Beschreibung:** Duftender Extrakt, beruhigend und stärkend

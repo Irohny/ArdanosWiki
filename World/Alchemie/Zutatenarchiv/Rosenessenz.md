@@ -1,0 +1,1 @@
+- **Seltenheit:** Ungewöhnlich - **Wert:** 2 Gold - **Fundort:** Edle Gärten, Tempel, **Beschreibung:** Konzentrierter Rosenduft, beruhigend und klärend

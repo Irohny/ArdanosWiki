@@ -1,0 +1,1 @@
+ - **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Gipfel, magische Stürme, Elementarbinder, **Beschreibung:** Fläschchen mit konzentrierter Blitz- und Windenergie

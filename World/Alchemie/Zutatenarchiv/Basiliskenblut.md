@@ -1,0 +1,1 @@
+ - **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Basiliskennester, Jäger, **Beschreibung:** Blut mit versteinernden Eigenschaften

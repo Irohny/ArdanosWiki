@@ -1,0 +1,1 @@
+- **Seltenheit:** Selten - **Wert:** 7 Gold - **Fundort:** Seltene Jagdtrophäen, Alchemisten, **Beschreibung:** Flüssigkeit mit scharfer Wahrnehmungswirkung

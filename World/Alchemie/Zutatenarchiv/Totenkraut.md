@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 8 Gold - **Fundort:** Verfluchte Moore, Gruften, **Beschreibung:** Tödliche Pflanze, wird für Gifte genutzt

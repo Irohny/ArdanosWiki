@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 9 Gold - **Fundort:** Unterreich, feuchte Höhlen, **Beschreibung:** Sporen, die bei Freisetzung Sicht behindern

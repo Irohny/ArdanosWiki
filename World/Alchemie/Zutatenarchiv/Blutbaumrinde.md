@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 8 Gold - **Fundort:** Alte Wälder, verfluchte Haine, **Beschreibung:** Dunkelrote Rinde, die blutet, heilend und stärkend

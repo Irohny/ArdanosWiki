@@ -1,0 +1,1 @@
+- **Seltenheit:** Ungewöhnlich - **Wert:** 3 Gold - **Fundort:** Juweliere, Tempel, **Beschreibung:** Fein gemahlene Silberpartikel, verstärkt Reinheitstränke

@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 4 Gold - **Fundort:** Schmieden, Vulkangebiete, **Beschreibung:** Pulverisierte Glut, entfacht Hitze beim Kontakt

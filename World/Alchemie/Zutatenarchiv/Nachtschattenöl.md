@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 8 Gold - **Fundort:** Alchemisten, verbotene Gärten, **Beschreibung:** Giftiges Öl aus Nachtschattenextrakt, lähmend und leicht halluzinogen

@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 4 Gold - **Fundort:** Gebirgsausläufer, Jagdgründe, **Beschreibung:** Kräftigendes Kraut, häufig in Stärkungstränken verwendet

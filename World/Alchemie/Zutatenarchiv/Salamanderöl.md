@@ -1,0 +1,1 @@
+- **Seltenheit:** Selten - **Wert:** 8 Gold - **Fundort:** Vulkane, Salamanderbehausungen, **Beschreibung:** Brennbares Öl, heiß und langlebig

@@ -1,0 +1,1 @@
+- **Seltenheit:** Ungewöhnlich - **Wert:** 3 Gold - **Fundort:** Dornenhecken, Trockengebiete, **Beschreibung:** Bitterer Pflanzensaft, hautreizend und abwehrend

@@ -1,0 +1,1 @@
+- **Seltenheit:** Legendär - **Wert:** 4 Platin - **Fundort:** Nur bei Wiedergeburt eines Phönix, **Beschreibung:** Magische Asche eines Phönix, regenerierend und heilend

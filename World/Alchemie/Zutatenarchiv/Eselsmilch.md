@@ -1,0 +1,1 @@
+ - **Seltenheit:** Gewöhnlich - **Wert:** 2 Silber - **Fundort:** Bauernhöfe, Karawanen, **Beschreibung:** Nährende Flüssigkeit, oft als sanfte Basis verwendet

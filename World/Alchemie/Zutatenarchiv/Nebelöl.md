@@ -1,0 +1,1 @@
+- **Seltenheit:** Selten - **Wert:** 7 Gold - **Fundort:** Nebelwälder, Alchemielabore, **Beschreibung:** Ölige Substanz, die einen Schleier erzeugt

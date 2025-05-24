@@ -1,0 +1,1 @@
+ - **Seltenheit:** Sehr selten - **Wert:** 3 Platin - **Fundort:** Drachenhorste, Schwarzmarkt, **Beschreibung:** Schimmernde Schuppe mit elektrischer Leitfähigkeit

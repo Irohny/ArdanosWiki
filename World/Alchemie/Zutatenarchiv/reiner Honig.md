@@ -1,0 +1,1 @@
+ - **Seltenheit:** Gewöhnlich - **Wert:** 7 Silber - **Fundort:** Waldbienenstöcke, Imker, **Beschreibung:** Süßer Stoff, heilend und konservierend

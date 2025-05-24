@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 1 Platin - **Fundort:** Trolle, Schwarzmarkt, Blutjäger, **Beschreibung:** Dunkles regeneratives Blut, Grundlage für starke Heiltränke

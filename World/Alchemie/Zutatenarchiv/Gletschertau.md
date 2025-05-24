@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 6 Gold - **Fundort:** Hochgebirge, Frosttempel, **Beschreibung:** Tau von alten Gletschern, klar und magisch

@@ -1,0 +1,1 @@
+ - **Seltenheit:** Gewöhnlich - **Wert:** 1 Silber - **Fundort:** Glaswerkstätten, Trümmerstätten, **Beschreibung:** Scharfes Glas, häufig als Verstärker in Kampftränken

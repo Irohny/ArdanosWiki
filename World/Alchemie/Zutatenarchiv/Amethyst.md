@@ -1,0 +1,1 @@
+ - **Seltenheit:** Ungewöhnlich - **Wert:** 3 Gold - **Fundort:** Bergwerke, Juwelierläden, **Beschreibung:** Violetter Edelstein, fördert geistige Klarheit

@@ -1,0 +1,1 @@
+ - **Seltenheit:** Gewöhnlich - **Wert:** 8 Silber - **Fundort:** Felder, Hügel, Kräutergärten, **Beschreibung:** Kräftigendes Kraut, gut gegen Erschöpfung und Schwäche

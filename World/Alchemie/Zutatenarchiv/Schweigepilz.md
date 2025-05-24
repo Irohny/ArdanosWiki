@@ -1,0 +1,1 @@
+ - **Seltenheit:** Selten - **Wert:** 5 Gold - **Fundort:** Alte Klöster, Höhlen, **Beschreibung:** Pilz, der Geräusche unterdrückt

@@ -1,0 +1,1 @@
+- **Seltenheit:** Sehr selten - **Wert:** 9 Gold - **Fundort:** Schattenwälder, verbotene Gärten, **Beschreibung:** Dunkle Variante der Alraune, stark betäubend und traumverursachend

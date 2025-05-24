@@ -1,0 +1,1 @@
+ - **Seltenheit:** Gewöhnlich - **Wert:** 1 Gold - **Fundort:** Schlachtfelder, Grabstätten, **Beschreibung:** Pulverisierte Knochen, oft in nekromantischer Alchemie
