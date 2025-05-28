@@ -22,7 +22,9 @@ name = "ardanoswiki"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "black" },
     { name = "markdown" },
+    { name = "ruff" },
     { name = "streamlit" },
 ]
 
@@ -34,7 +36,9 @@ dev-tools = [
 
 [package.metadata]
 requires-dist = [
+    { name = "black", specifier = ">=25.1.0" },
     { name = "markdown", specifier = ">=3.8" },
+    { name = "ruff", specifier = ">=0.11.10" },
     { name = "streamlit", specifier = ">=1.45.1" },
 ]
 
