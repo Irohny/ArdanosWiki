@@ -1,4 +1,5 @@
 #Schwarzklamm #Tiefling #Delegation 
+![[ZyraxDraxar.jpeg|200]]
 - Beiname **"Rußklinge"**
 - Wirtschaftsberaterin für Bergbau und Handel
 - Position: Zyrax ist die führende Experte für Bergbau und Handel im Fürstentum. Er wird nach Luminara geschickt, um versteckte Ressourcen und Handelsrouten auszuhandeln.

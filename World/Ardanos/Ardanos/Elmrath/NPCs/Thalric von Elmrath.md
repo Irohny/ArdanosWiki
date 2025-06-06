@@ -1,3 +1,4 @@
+![[Thalric.jpeg|300]]
 - **Regentschaft:** seit 2443 n.d.D.
 - **Haus:** von Elmrath
 - **Rasse:** Mensch

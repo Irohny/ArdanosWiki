@@ -1,3 +1,4 @@
+![[Candamir Silbrhand.jpeg|200]]
 - **Regentschaft:** 1399–1623 n.d.D.
 - **Haus:** Silberhand
 - **Rasse:** Elf

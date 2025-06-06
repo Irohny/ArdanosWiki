@@ -1,0 +1,3 @@
+**Aetheri**, eine nahezu ausgestorbene, mythische Rasse von Sternenwanderern – humanoide Wesen, deren Blut mit reiner Astralmagie durchzogen war.
+
+Die Aetheri galten als die Ersten, die den Himmel nicht nur betrachteten, sondern verstanden. Ihre Seelen waren mit den Sphären verbunden, ihr Körper leicht transluzent, von innerem Licht durchzogen, das bei starker Magie aufleuchtete. Viele hielten sie für Halbgötter oder Boten aus einer anderen Realität.
