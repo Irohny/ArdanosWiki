@@ -1,0 +1,1 @@
+* Garron sucht einen Käufer für das Armulett [[Träne der Sonne]]. Das er aus den [[Himmelshöfe]]n stehlen ließ um seine Schulden zu bezahlen.

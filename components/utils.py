@@ -1,14 +1,35 @@
 import streamlit as st
 import os
+from components.login import User, Roles
+from config import cfg
 
 
-@st.cache_data
-def find_markdown_files(folder_path: str) -> dict:
+def has_permission(path: str | None, user: User) -> bool:
+    if path is None:
+        return True
+    file = path.split("/")[-1]
+    if user.role == Roles.GameMaster:  # dm can see all files
+        return True
+    elif file == "Spielleiter":  # skip dm files if not dm
+        return False
+    elif "_" not in file:  # show all files without permissions
+        return True
+    elif user.role == Roles.Player:
+        return file.startswith(cfg.ROLE_MAPPING[user.name])
+    return False
+
+
+def find_markdown_files(folder_path: str, user: User) -> dict:
     def build_tree(current_path: str) -> dict:
         tree = {}
         try:
             for item in os.listdir(current_path):
                 item_path = os.path.join(current_path, item)
+                if "Images" in item_path or ".obsidian" in item_path:
+                    continue
+                if not has_permission(item_path, user):
+                    continue
+
                 if os.path.isdir(item_path):
                     subtree = build_tree(item_path)
                     if subtree:  # nur hinzufügen, wenn es Markdown-Dateien enthält

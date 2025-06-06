@@ -9,4 +9,4 @@ Einst war Nyssara Elenvyre eine stolze Abenteurerin, bekannt für ihren Mut und 
 
 In letzter Zeit war sie auf Forschungsreisen in [[Vaylen]] unterwegs.
 
-![[sl Nyssara Schattenfluch]]
+![[ny_Nyssara Schattenfluch]]

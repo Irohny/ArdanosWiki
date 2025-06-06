@@ -52,9 +52,6 @@ def show_file(file_path: str):
         pattern = r"!\[\[([^\]]+)\]\]"
         parts = re.split(pattern, content)
 
-        # ------------------------------
-        # 2. Ausgabe: Text → Bild → Text ...
-        # ------------------------------
         i = 0
         columns = st.columns([3, 1])
         while i < len(parts):
@@ -75,12 +72,12 @@ def show_file(file_path: str):
                     )
                 else:
                     md_path = None
-                # skip game master files
-                if filename.startswith("sl "):
-                    pass
                 # display images
-                elif is_image:
+                if is_image:
                     columns[1].image(image_path)
+                # skip game master files
+                elif utils.has_permission(md_path, st.session_state["user"]):
+                    pass
                 # display inserted markdown files
                 elif md_path:
                     show_file(md_path)

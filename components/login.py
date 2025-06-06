@@ -1,5 +1,7 @@
 import streamlit as st
 from enum import Enum
+from components import utils
+from config import cfg
 
 
 class Roles(Enum):
@@ -31,7 +33,7 @@ def login_filed(place: st):
     else:
         form = place.form("login_filed")
         form.text_input("Charaktername:", key="charackter_name")
-        form.text_input("Passwort", key="password")
+        form.text_input("Passwort", key="password", type="password")
         form.form_submit_button("Login", on_click=check_login_data)
 
 
@@ -47,8 +49,14 @@ def check_login_data():
                 role=Roles(user["role"]),
                 loged_in=True,
             )
+            st.session_state["tree"] = utils.find_markdown_files(
+                cfg.MARKDOWN_DIR, st.session_state["user"]
+            )
             return
 
 
 def logout():
     st.session_state["user"] = User()
+    st.session_state["tree"] = utils.find_markdown_files(
+        cfg.MARKDOWN_DIR, st.session_state["user"]
+    )

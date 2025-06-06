@@ -1,0 +1,1 @@
+Das Versteck dieser Mysteriösen Piratenbande liegt in den Schroffen klippen der [[Schimmernde Klippen]] nahe der Stadt [[Nebelhafen]] am Delta des Flusses [[Graldrim]]. Die Piraten haben eine der unzähligen Höhlen in den Klippen Ausgebaut. Mit etwas Phantasie sieht die Felsformation in der Sich das Lager befindet von weitem aus wie ein Totenschädel.
