@@ -3,13 +3,15 @@ import streamlit as st
 from components.show_file import show_file
 from config import cfg
 from components import utils
+from components.login import login_filed
 
 
 def create_sidebar():
     st.logo(f"{cfg.IMAGE_DIR}/dnd_logo.svg", size="large")
     st.sidebar.header("🧭 Navigation")
     st.sidebar.button("Zurück", on_click=utils.go_on_top_folder)
-
+    print(st.secrets)
+    login_filed(st.sidebar)
     subtree = utils.get_subtree_by_path(st.session_state["current_path"])
     if st.session_state["current_path"].endswith(".md"):
         show_file(st.session_state["current_path"])

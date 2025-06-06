@@ -4,6 +4,7 @@ from components.sidebar import create_sidebar
 from components.header import header
 from components import utils
 from config import cfg
+from components.login import User
 
 
 def main():
@@ -22,5 +23,6 @@ if __name__ == "__main__":
         st.session_state["tree"] = utils.find_markdown_files(cfg.MARKDOWN_DIR)
         st.session_state["root_path"] = str(list(st.session_state["tree"].keys())[0])
         st.session_state["current_path"] = str(list(st.session_state["tree"].keys())[0])
+        st.session_state["user"] = User()
 
     main()
