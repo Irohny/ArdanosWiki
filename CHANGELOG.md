@@ -1,6 +1,7 @@
 # Changelog
 
 ### Feat
+* feat: Show user spezific information based on role (2025-06-06)
 * feat: Add login (2025-06-06)
 * feat: File lookup (2025-05-20)
 * feat: Make document links clickable with redirection to selected page (2025-05-20)
@@ -14,6 +15,7 @@
 * fix: Sidebar out of bounds and false title (2025-05-18)
 
 ### Chore
+* chore: Add lore (2025-07-26)
 * chore: add lore (2025-06-06)
 * chore: add lore (2025-05-28)
 * chore: add lore (2025-05-24)
