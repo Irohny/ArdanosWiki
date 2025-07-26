@@ -14,8 +14,16 @@ Die Kathedrale wirkt wie ein gefrorener Sonnenstrahl, gebaut aus hellem Kalkstei
 - **Lichtorgel:** Eine einzigartige Konstruktion aus Kristallröhren und Windströmen erzeugt beim Morgengebet klare, sphärische Klänge, die in der gesamten Stadt zu hören sind.
     
 
-### 📿 Die Gemeinschaft:
+### Die Gemeinschaft:
 
 Der **Glaube an Pelor** ist tief verwurzelt in Luminara. Die Priesterschaft St. Aurelias ist nicht nur geistlich, sondern auch politisch einflussreich. Sie betreiben Hospize, Schulen und koordinieren die Sonnenfeste, die regelmäßig Pilger aus allen Ecken des Landes anziehen.
 
 Bei Sonnenaufgang füllt sich der große Vorplatz mit Gläubigen, die sich niederknien, um gemeinsam mit der Priesterschaft das **„Lichtgebet“** zu sprechen – eine tägliche Bitte um Wahrheit, Heilung und Schutz vor der Finsternis.
+
+### Krypta der geweihten Flamme:
+
+In der ehrwürdigen **geweihten Krypta aus hellem Sonnenstein** , tief unter dem Hauptschiff der Kathedrale befindet sich der [[Kreis der Teleportation]] von [[Luminara]]. Der Raum ist rund, von goldenen Wandreliefs gesäumt, die Szenen von Pelors Licht und dem Sieg über Dunkelheit zeigen.
+
+Der **Teleportationskreis selbst** besteht aus strahlend weißem Marmor mit **intarsierten Goldlinien**, die in Form eines leuchtenden Sonnenrades angeordnet sind. In der Mitte thront Pelors Runenzeichen, umgeben von konzentrischen Glyphen, die in hellem Licht pulsieren, wenn der Kreis aktiviert wird.
+
+Die Luft im Raum ist warm und lichtdurchflutet, obwohl keine Fenster vorhanden sind – ein sanfter Schein strömt dauerhaft von der gewölbten Decke, als würde Pelors Licht selbst über die Reisenden wachen.

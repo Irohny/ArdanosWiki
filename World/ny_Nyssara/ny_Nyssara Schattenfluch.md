@@ -1,30 +1,22 @@
-Dort, in einer zerschmetterten Kammer aus schwarzem Obsidian, fand sie das Artefakt – eine kalte, pulsierende Kristall in einer dunklen violetten Farbe [[Schattenherz]]
+Tief in den Ruinen der [[Schwebenden Inseln von Arcanis]], fand sie ein uraltes Artefakt – einen kalten, pulsierenden Kristall in einer dunklen violetten Farbe [[Schattenherz]]
 
 Kaum hatte sie es berührt, drang eine Welle dunkler Energie in sie ein. Ihre Sinne schwanden. Doch statt Schmerz spürte sie nur… Verbindung. Das Artefakt hatte sie erwählt.
-
----
-
-### 💀 **Tod und Unsterblichkeit**
 
 Am nächsten Tag, auf dem Rückweg aus den Ruinen, geriet Nyssara in den Hinterhalt einer wilden Hydra. Trotz ihres Könnens, trotz ihrer Magie – sie fiel. Ihre letzten Gedanken waren aus Licht gewebt: Angst, Reue, Dunkelheit.
 
 Doch der Tod kam nicht.
 
-Am Morgen danach erwachte sie – blutverschmiert, aber unversehrt. Dasselbe Gesicht. Derselbe Körper. Nur… war sie nicht allein.
-
----
-
-### 🪦 **Ein Leben für ein Leben**
+Am Morgen danach erwachte sie – blutverschmiert, aber unversehrt. Dasselbe Gesicht. Derselbe Körper. Nur… war sie nicht allein. Sie fühlte eine neue Präsenz in sich, die sie bis dahin noch nicht kannte.
 
 Auf dem Rückweg begegnete sie einer anderen Abenteurergruppe. Sie trauerten um einen Gefährten, der in der Nacht „plötzlich und ohne erkennbaren Grund“ verstorben war. Nyssara schwieg.
 
 Drei Nächte später erwachte sie – als **er**.
 
-Nicht nur sein Gesicht. Seine Stimme. Seine Art. Seine Fähigkeiten.
+Nicht nur sein Gesicht. Seine Stimme. Seine Art. Seine Fähigkeiten, Gedanken und Erinnerungen.
 
 Und in ihrem Inneren spürte sie: **er war noch da**. Nicht lebendig, aber gegenwärtig. Wie ein Echo. Wie ein Schatten.
 
-Verstört und entschlossen zugleich machte sie sich auf den Weg nach **[[Vaylen]]**, um Antworten zu finden. Dort empfing sie **[[Selene Drachenruf]]**, Erzmagierin der Vorhersehung und Fürstin von [[Vaylen]].
+Verstört und entschlossen zugleich machte sie sich auf den Weg nach **[[Velithor]]**, um Antworten zu finden. Dort empfing sie **[[Selene Drachenruf]]**, Erzmagierin der Vorhersehung und Fürstin von [[Vaylen]].
 
 Die Wahrheit war grausam:
 
@@ -50,7 +42,7 @@ In ihren stillen Stunden fragt sie sich:
 
 ## 🎭 **Rollenspielhinweise**
 
-- **Regelmäßiger Wechsel** der Seele (z. B. bei Tod, langer Rast oder kritischem Treffer)
+- **Regelmäßiger Wechsel** der Seele  langer Rast
     
 - Jeder „Avatar“ hat ein anderes Aussehen, vielleicht sogar leicht andere Werte, Akzente, oder Magievorlieben
     

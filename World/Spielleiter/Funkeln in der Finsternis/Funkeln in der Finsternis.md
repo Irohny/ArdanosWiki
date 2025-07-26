@@ -9,19 +9,18 @@ Die **[[Tiefe Hallen]]**, ein uraltes, von Zwergen in den Berg gehauenes Reich i
 ### **Ziel:**
 - Findet die verschollene Expedition.
 - Enthüllt, was wirklich in den Tiefen Hallen geschieht.
-- Entscheidet, ob ihr das „Herz der Tiefe“ birgt, zerstört – oder ob es euch verlockt.
+- Entscheidet, ob ihr das „[[Herz der Tiefe]]“ birgt, zerstört – oder ob es euch verlockt.
 
 ---
 ### **Expeditionstrupp**
 
-- **Thramli Eisenzeichen** Runenschmiede der [[Eisenzinnen]],  _Studiert alte Zwergenrunen, schweigsam und zielstrebig._
-    
-- **Caelen Dorwyn**, Universität von [[Velithor]], _Besessen von der Geschichte [[Caelumbran der Letzte Sternenschmied]], trägt vergilbte Schriftrollen._
-    
-- **Sylwen Schattenblatt**, [[Immergrüner Hain]], _Spürt alte Wege auf, misstraut dunklen Orten._
-    
-- **Brakk Eisenfaust** Grenzlande von [[Drakmora]], _Nur fürs Gold dabei – aber loyal gegenüber seiner Gruppe._
+![[Thramli Eisenzeichen]]
 
+![[Caelen Dorwyn]]
+
+![[Sylwen Schattenblatt]]    
+
+![[Brakk Eisenfaust]]
 
 ---
 ### **Konflikt / Antagonist:**

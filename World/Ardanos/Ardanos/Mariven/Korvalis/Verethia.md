@@ -6,22 +6,7 @@ Die Stadt ist berühmt für ihre Wasserkanäle, die sich wie Adern durch marmorn
 
 Verethia ruht auf dutzenden künstlich angelegten Inseln, die durch gewundene Brücken und prunkvolle Plätze miteinander verbunden sind. Die Stadt wurde nicht gebaut – sie wurde komponiert: wie ein Lied aus Licht, Wasser und Stein.
 
-### **Der Meloratempel**
-
-![[Melora_Tempel.png|300]]
-Im Herzen Verethias erhebt sich der gewaltige **Tempel des [[Melora]]**, Göttin des Meeres, der Stürme und der natürlichen Ordnung. Der Tempel ist zugleich Heiligtum, Flottensegenstätte und Zentrum spiritueller Macht.
-
-- Seine Kuppel ist aus türkisfarbenem Glas, das im Sonnenlicht wie Wasser glänzt.
-    
-- Ein ewiger Brunnen speist die Kanäle mit geweihtem Wasser.
-    
-- Die Priesterschaft [[Melora]]s – teils Seher, teils Navigatoren – gilt als eine der einflussreichsten Institutionen des Landes.
-    
-- Während der **Sturmmondtage** segnet die Hohepriesterin persönlich die Schiffe im Hafen.
-    
-- **Wasserorakel:** Tief unter dem Meloratempel liegt ein heiliger Quell, in dem erfahrene Priester Visionen lesen können – doch nicht jeder Blick in die Tiefe ist folgenlos.
-    
-
+![[Gezeitenhalle]]
 ### 🏰 **Wichtige Bezirke Verethias:**
 
 - **Der Goldene Hafen:** Hauptumschlagplatz für Waren aus aller Welt, gesäumt von Lagerhäusern, Wechslern und Handelsgilden.

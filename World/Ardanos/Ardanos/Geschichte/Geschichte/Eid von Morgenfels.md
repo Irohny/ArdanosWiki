@@ -21,7 +21,7 @@ Vor den versammelten Fürsten – darunter:
     
 - **Comendadore [[Elim Marthus]]** der Handelsinsel [[Mariven]],
     
-- und der König der Klamm **[[Durim Felsenherz]]** ([[Schwarzklamm]])–
+- und der König der Klamm **[[Durim Felsenherz]]** ([[Schwarzklamm]])
     
 
 …trat Elyander in einfacher Rüstung hervor. Seine Rede ist heute in zahllosen Büchern überliefert und beginnt mit den Worten:

@@ -1,0 +1,23 @@
+## Ablauf
+- [[Nyssara Elenvyre]] kommt zur Gruppe und [[Syvaris Nachtseele]] verschwindet
+- Gruppe verhört die Gefangenen Mönche
+	- Mönche erzählen von einem unbekannten Auftraggeber
+	- Waterboarding
+	- Zweiter Attentatplan (Paladin & Kleriker) Verzaubern und Töten
+- Visionen werden ausgelöst ([[Gnodomir]], [[Nyssara Elenvyre]] & [[Bruder Marcus]], [[Vishuda]] & [[Hector]])
+- [[Vishuda]] bekommt den Auftrag die [[Träne der Sonne]] in den [[Nebelhafen]] zu bringen
+- Gruppe erstellt Plan:
+	- Treffen mit [[Marktgraf Reodemus]] (Warnen und Notflass Entführen)
+- Gruppe sammelt Informationen über den [[Marktgraf Reodemus]]:
+	- Der Graf wohnt in dem Palast
+	- [[Bruder Marcus]] und [[Vishuda]] im [[Grüner Wyvern]]:
+		- Boxkampf [[Bruder Marcus]] vs. [[Kapitän Havoc]]
+		- [[Vishuda]] Spricht mit Informationshändler 
+			- [[Träne der Sonne]] verflucht
+			- gestohlen von [[Garron der Grüne]]
+			- in der Schatzkammer des Palastes aufbewahrt
+			- [[Vishuda]] sammelt Informationen über Gifte Klingengift 80GM
+	- [[Gnodomir]] und [[Nyssara Elenvyre]] in der [[Goldene Rune]]
+		- Treffen [[Varian Schattentaenzer]]
+		- [[Varian Schattentaenzer]] macht treffen am nächsten Mittag
+	- [[Hector]] und [[Vishuda]] kaufen Kleidung um auf den Ball zu kommen

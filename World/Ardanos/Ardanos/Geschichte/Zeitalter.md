@@ -34,7 +34,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 „Wenn Schwerter ruhen und die Banner schweigen, wird das Herz des Reiches schlagen wie nie zuvor.“
 
 **2165 n.d.D.** Start des Dritten Zeitalters
-- **2165 n.d.D** Krönung von [[Elyander Goldschild]] zum ersten Kaiser von [[Ardanos]] 
+- **2165 -2199 n.d.D** Krönung von [[Elyander Goldschild]] zum ersten Kaiser von [[Ardanos]] 
 - **2166 n.d.D** Erste Nennung der [[Tashiro'en]] nach einem ungeklärten Attentat
 - **2199–2230 n.d.D.** Regentschaft [[Almareth Silven]]
 - **2230–2256 n.d.D.** Regentschaft [[Barduron Steinmark]]
@@ -51,6 +51,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 - **2447 n.d.D** [[Das Sonnenwunder von Valmere]]
 - **2461 n.d.D.** Start der Neubesiedlung der [[Tiefe Hallen]]
 - **2470–2483 n.d.D.** Regentschaft [[Durnek Eisenmark]]
+- **2478 - 2482 n.d.D.** [[Blutfeldzug in der Aschenweite]]
 - **2484 n.d.D.** Regentschaft [[Aldric von Elmrath]]
 	
 **2486 n.d.D.** aktuelles Jahr

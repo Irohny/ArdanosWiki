@@ -10,5 +10,6 @@ durch die Wahl von Kaiser Aldric von Elmrath, repräsentiert Arandos eine fragil
 * [[Drakmora]], geführt von Fürstin Selene, ist das Land der Magie und Drachen, ein Ort des Wissens und der mystischen Künste, der jedoch von vielen als potenzielle Bedrohung aufgrund seiner Zauberkräfte angesehen wird.
 * [[Mariven]], mit Fürst Lucan an der Spitze, repräsentiert den Wohlstand des Handels und der Seefahrt, und strebt nach wirtschaftlicher Expansion und Kontrolle über wichtige Seewege.
 * [[Vaylen]], unter der mysteriösen Herrschaft von Fürstin Valaine, ist ein Land der Magier und arkanen Künste, das jedoch oftmals kritisch gegenüber den Entscheidungen des Kaisers und der anderen Fürstentümer ist.
+* Maßstab 1Hexagon ca. 20km eine Tagesreise zu Fuß
 ![[Ardanos.jpeg]]
 # Hauptstadt Luminara

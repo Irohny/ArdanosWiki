@@ -1,0 +1,6 @@
+- **Name:** Krinn „Blattwender"
+- **Rasse:** Halb-Ork
+- **Rolle:** Koch & Quartiermeister
+- **Merkmale:** Ehemaliger Gladiator – jetzt Poet und Suppenliebhaber
+- **Besonderheit:** Liest Gedichte aus eigenen Rezepten
+- **Zitat:** „Mein Eintopf bringt dich um… vor Freude. Vielleicht.“

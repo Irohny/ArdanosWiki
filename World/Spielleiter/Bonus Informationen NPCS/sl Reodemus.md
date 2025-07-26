@@ -1,48 +1,82 @@
 
 
-# Spielleiter Kontext
-## Flüsterer im Schatten der Zeit
-### _„Die Welt braucht keine alten Götter. Sie braucht einen, der antwortet.“_
+### **Ursprünge im Dunkel**
 
-### Ursprünge im Dunkel
-
-Geboren als zweiter Sohn eines unbedeutenden Adligen, wurde **Reodemus damals bekannt als Reodemir von jeher übersehen** – von seiner Familie, vom Hof, von den Göttern. In seiner Jugend wanderte er durch Archive und Ruinen, auf der Suche nach verborgenen Wissen. Auf einer seiner Reisen fand er in den Ruinen von [[Althovar]] auf der Insel [[Cirellin]] ein **verlorenes Fragment einer Chronos-Sanduhr**, ein Relikt des [[Moradin]], das einst von [[Ephazul]] korrumpiert wurde.
-
-### Der Pakt mit der Tiefe
-
-Während eines verbotenen Rituals in der unterirdischen Krypta in den untiefen der [[Tiefe Hallen]] der [[Schwarzklamm]] begegnete Reodemus **[[Lord Malvurax]]**, der in der Leere zwischen den Sekunden flüsterte. Der bot ihm Macht durch einen Packt mit seinem Dämonenfürsten [[Ephazul]]  – nicht über ein Land, sondern über die Zeit selbst. Alles, was Reodemus tun müsse:
-
-- **Die Geschichte korrigieren.**
-- **Die Propheten zum Schweigen bringen.**
-- **Die Zeichen neu schreiben.**
-
-Im Austausch würde Reodemus **die Ketten sprengen, die [[Ephazul]]** in der Hölle festhalten.
-
-### Die Manipulation beginnt
-
-Reodemus nutzte das Zeitfragment, um sich in vergangene Epochen zu schleichen. Schritt für Schritt schrieb er Geschichte um:
-
-- Er ließ einen **Seher vor seiner großen Prophezeiung sterben**.
-    
-- Er rettete eine kleine Gemeinde vor einer Flut – **und ließ sie glauben, ein „Herr aus der Zukunft“ habe sie gesegnet.**
-    
-- Er stahl göttliche Relikte aus Tempeln vor ihrer Weihe, um sie als seine eigenen zu deklarieren.
-    
-
-Er platzierte **falsche Chroniken**, ließ **heilige Texte verändern**, und **erschuf in der Vergangenheit eine Gestalt**, die als **„Der Morgenkronenträger“** bekannt wurde – ein Lichtbringer, der angeblich in ferner Zukunft wiederkehren werde.
-
-Niemand weiß, dass diese Figur **er selbst** ist.
-
-### Der Glaube, der wächst
-
-Im Schatten florieren Kultzellen, die dem „Verheißenen König“ dienen. Ihre Symbolik erinnert an Sonne und Unterwelt – Licht aus der Tiefe. Ihre Hohepriester rezitieren Gebete, die **alten Liturgien ähneln, jedoch subtil umgeformt sind**.
-
-Sogar in der Gegenwart beginnen Pilger zu erscheinen, die von Träumen, Visionen oder Schriften sprechen, die sie zu einem „neuen Gott“ führen. Die alten Götter schweigen – doch Reodemus **antwortet.**
+Geboren als zweiter Sohn eines unbedeutenden Adligen, wurde **Reodemus**, damals bekannt als _Reodemir_, von jeher übersehen – von seiner Familie, vom Hof, von den Göttern. In seiner Jugend wanderte er durch Archive und Ruinen, auf der Suche nach verborgenem Wissen, nach einer Bestimmung, die ihn über das Spinnennetz der politischen Bedeutungslosigkeit hinausführen würde.  
+Auf einer seiner Reisen fand er in den Ruinen von [[Althovar]] auf der Insel [[Cirellin]] ein **verlorenes Fragment der Chronos-Sanduhr**, ein uraltes Relikt des Schmiedegottes [[Moradin]], das in dunklen Zeiten von **[[Ephazul]]**, einem uralten Dämon, verdorben worden war.
 
 ---
 
-### Sein Endziel:
+### **Der Pakt mit der Tiefe**
 
-- Ein **Massenerwachen** inszenieren, bei dem sich die „Prophezeiung des Morgenkronenträgers“ erfüllt – durch Krieg, Sturm oder eine „göttliche Erscheinung“.
-- Sich mit einem letzten Ritual in der Gegenwart als **fleischgewordene Gottheit** manifestieren.
-- Die Gläubigen der alten Götter entweder unterwerfen oder durch Zweifel zersetzen.
+Während eines verbotenen Rituals in den Krypten unter den [[Tiefe Hallen]] der [[Schwarzklamm]] begegnete Reodemus **[[Lord Malvurax]]**, einem dämonischen Vermittler, der in der Leere zwischen den Sekunden flüsterte. Dieser offenbarte ihm, dass das Fragment mehr als nur ein Artefakt sei: Es war ein Schlüssel zu **Ephazuls Gitter**, ein Splitter der Ewigkeit.
+
+**Ephazul** selbst erschien nicht – nicht vollständig. Doch er bot Reodemus Macht durch einen Pakt:  
+Nicht über ein Königreich.  
+Nicht über Leben oder Tod.  
+Sondern über die **Zeit selbst**.
+
+---
+
+### **Die Maskerade von Reodemus**
+
+Reodemus kehrte verändert zurück – mit einer neuen Identität, einer neuen Bestimmung.  
+Er nahm den Namen **Reodemus**, baute sich unter einer Maske ein Leben als **Berater des Königs von Ardanos** auf – unter dem Titel **Markgraf der Südhöfe** eine kleinen Provinz im Süden von [[Elmrath]]. Sein öffentliches Gesicht ist charmant, weise, klug. Doch unter dem höfischen Glanz webt er ein Netz aus Manipulation, Spionage und Magie.
+
+---
+
+### **Der große Plan**
+
+Reodemus' Ziel ist klar:  
+Ein uraltes Ritual – von Ephazul selbst geflüstert – soll ihm ermöglichen, **in die Vergangenheit zu reisen**, **die Geschichte umzuschreiben** und **sich selbst als ersten Kaiser von Andaros zu etablieren**.  
+In dieser neuen Zeitlinie würde Reodemus als _Retter_, _Herrscher_ und _Legende_ verehrt werden. Keine Dynastie, kein Gott, kein Dämon würde ihm das Reich nehmen können.
+
+Er manipuliert Ereignisse, flüstert Lügen in den Rat des Königs, lenkt Schicksale, stiehlt Sekunden aus Leben – alles, um die Zeitlinie vorzubereiten.
+
+Was Reodemus jedoch nicht weiß:  
+Das Ritual, das er vorbereitet, wird **nicht ihn in der Zeit zurückversetzen**, sondern **das uralte Siegel zerbrechen, das Ephazul seit Äonen bindet**.  
+Nicht Reodemus wird der Herr über die Zeit sein – sondern **ihr Gefangener.**
+
+---
+
+### **Zitatprofil – Reodemus, der Zeitdieb**
+
+
+**„Ein König wird gekrönt. Ein Kaiser schreibt Geschichte.“**  
+→ _Über seine Ambitionen – er will nicht herrschen, er will unauslöschlich sein._
+
+---
+
+**„Sie lachen über den Mann im Schatten, bis der Schatten ihnen die Krone entreißt.“**  
+→ _Über seine Verachtung gegenüber Hof und Adel._
+
+---
+
+**„Ich rette kein Reich – ich erschaffe eines, das es verdient, gerettet zu werden.“**  
+→ _Über seine Rechtfertigung für das Brechen von Regeln, Zeitlinien und Moral._
+
+---
+
+**„Ihr lebt in einem Fragment. Ich sehe die ganze Uhr.“**  
+→ _Zu jenen, die ihm widersprechen – er hält seine Perspektive für die einzig wahre._
+
+---
+
+**„Ephazul gibt mir nur die Feder. Geschrieben wird von mir.“**  
+→ _Er glaubt, er kontrolliere den Dämon – nicht umgekehrt._
+
+---
+
+**„Die Vergangenheit war ein Irrtum. Ich mache sie wahr.“**  
+→ _Kern seiner Philosophie. Die Welt ist falsch gelaufen – er korrigiert sie._
+
+---
+
+**„Mein Name wird flüstern durch jedes Jahrhundert – als Retter oder Verräter. Ich entscheide.“**  
+→ _Er kennt den Preis – und nimmt ihn in Kauf._
+
+---
+
+**„Ich war niemand. Nun bin ich der, der allen ihre Zeit stiehlt.“**  
+→ _Ein Bekenntnis zu seiner Wandlung – aus dem Nichts zur Macht._
+

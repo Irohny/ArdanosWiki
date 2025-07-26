@@ -1,0 +1,6 @@
+- **Name:** „Onkel“ Bramwell Kupferzahn
+- **Rasse:** Zwerg
+- **Rolle:** Schiffsingenieur / Reparaturmeister
+- **Merkmale:** Zänkisch, aber loyal – liebt sein Werkzeug mehr als Menschen
+- **Besonderheit:** Spricht mit dem Schiff wie mit einem Haustier
+- **Zitat:** „Sie knarzt noch? Dann lebt sie auch noch!“

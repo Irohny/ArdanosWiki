@@ -1,0 +1,3 @@
+- Rettet den [[Marktgraf Reodemus]] vor dem Attentat ([[Vishuda]], [[Hector]], [[Bruder Marcus]], [[Gnodomir]], [[Nyssara Elenvyre]])
+- Bring die [[Träne der Sonne]] zurück in die [[Himmelshöfe]]
+- Bring die [[Die Träne der Sonne]] in das Quartier der [[Tashiro'en]] im [[Nebelhafen]]

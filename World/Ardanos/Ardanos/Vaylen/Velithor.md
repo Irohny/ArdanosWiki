@@ -3,6 +3,12 @@ Die Hauptstadt des Fürstentums **[[Vaylen]]** – ist ein Ort der Magie, des Wi
 
 Die Straßen sind gepflastert mit fein geschliffenem Gestein, in das leuchtende Runen eingelassen wurden. Nachts glimmen Laternen aus magischen Kristallen in weichem Blau, Violett oder Grün, was der Stadt ein ätherisches, beinahe traumhaftes Flair verleiht. Magische Konstrukte und schwebende Plattformen prägen das Stadtbild, während sich über der Stadt gelegentlich arkaner Nebel legt, der aus missglückten Experimenten oder geplanten Ritualen entweicht.
 
-In Velithor leben Gelehrte, Magier, Alchemisten und astrale Chronisten Seite an Seite mit einfachen Bürgern, die durch das Wirken der Magie ein ungewöhnlich komfortables Leben führen. Die Stadt ist Sitz des **Rates der Arkanen Sieben** und beherbergt die berühmte **Bibliothek des Verborgenen Lichts**, in der selbst verbotene oder vergessene Zauber unter strenger Bewachung aufbewahrt werden.
+In Velithor leben Gelehrte, Magier, Alchemisten und astrale Chronisten Seite an Seite mit einfachen Bürgern, die durch das Wirken der Magie ein ungewöhnlich komfortables Leben führen. Die Stadt beherbergt die berühmte **Bibliothek des Verborgenen Lichts**, in der selbst verbotene oder vergessene Zauber unter strenger Bewachung aufbewahrt werden.
 
 Velithor ist nicht nur ein Zentrum der Macht – es ist ein lebendiger Beweis für die Verschmelzung von Zivilisation und Magie.
+
+### **Turm der Weisen**
+Sitz des Erzmagiers und des Fürsten von [[Vaylen]]
+
+![[Bibliothek des Verborgenen Lichts]]
+

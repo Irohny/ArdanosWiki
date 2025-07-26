@@ -1,0 +1,8 @@
+- [[Vishuda]] (Spieler)
+- Adhara
+- Ashuna
+- Mapura
+- Nahata
+- Shtana
+- Suruya
+- Sahasrara

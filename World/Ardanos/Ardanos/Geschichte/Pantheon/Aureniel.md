@@ -1,0 +1,1 @@
+Wächterin der Richtung, Wegweiserin der Reisenden, Engelsgestalt mit Bogen

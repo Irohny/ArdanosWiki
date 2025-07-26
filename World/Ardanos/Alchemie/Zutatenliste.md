@@ -1,6 +1,8 @@
-
-
-
+![[Geistergras]]
+![[Sturmessenz]]
+![[Nachtschattenöl]]
+![[Lapislazuli]]
+![[Zwergenwurz]]
 ![[Alraune]]
 ![[Amethyst]]
 ![[Basiliskenblut]]
@@ -27,7 +29,8 @@
 ![[Silberminze]] 
 ![[Silberstaub]] 
 ![[Skorpionstachel]] 
-
+![[Trollblut]]
+![[Alkohol]]
 ![[Alraunensaft]]
 ![[Bärenkraut]]
 ![[Bleistaub]] 

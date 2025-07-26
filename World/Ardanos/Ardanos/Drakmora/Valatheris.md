@@ -1,2 +1,15 @@
 ![[Valatheris.png|300]]
 **Valatheris**, die Hauptstadt [[Drakmora]]s, thront wie ein steinernes Bollwerk an den Hängen des Aschenkamms, halb in den Fels gehauen, halb auf zerklüfteten Terrassen erbaut. Schwarzer Basalt und dunkelroter Stein prägen die Architektur – stur, wuchtig und von Flammenrunen durchzogen. Ewige Feuerbecken erhellen die breiten Straßen, während riesige Kriegsbanner der Clans über den Wehrgängen flattern. In der Mitte erhebt sich die **Festung der Blutkrone**, Sitz des Königs, ein düsteres Monument aus geschmolzenem Gestein, das wie ein erstarrter Lavastrom wirkt. **Valatheris** ist keine Stadt des Prunks, sondern ein Ort von Disziplin, Stärke und jahrhundertealter Wacht.
+
+### Festung Blutkrone
+**Die Festung** erhebt sich wie ein finsterer Titan im Zentrum der Stadt, gebaut aus erstarrtem Lavagestein, das wie gefrorenes Feuer glänzt. Ihre Türme tragen Helmspitzen wie Speerspitzen, ihre Mauern sind mit Kriegsrunen versiegelt, und aus dem Haupttor hallt stets der Klang von marschierenden Stiefeln. Hier residiert der König von Drakmora und seine Kriegsherren – umgeben von Rauch, Stahl und ewiger Wacht. Die Blutkrone ist nicht nur eine Bastion, sondern Symbol der Unbeugsamkeit eines Volkes, das nie kniete.
+
+### Kolloseum Infernal
+**Das Kolosseum Infernale** ist das lodernde Herz der Kampfeskultur [[Drakmora]]s – ein gewaltiger, offener Rundbau aus geschwärztem Stein, errichtet am Steilhang des Aschenkamms. Die Ränge steigen steil wie Festungsmauern in den Himmel und fassen Tausende. Hier treffen sich die Kriegerclans in brutalen Wettstreiten, um Ruhm, Rang und Blutrecht zu gewinnen. Feuerfontänen schießen aus bronzenen Drachenköpfen entlang der Arena, während die Menge unter Kriegsgesängen tobt. Magie ist hier erlaubt – wenn sie töten kann.
+
+### Raum der Glutpfade
+Der Raum ist in **dunklen Basaltstein** geschlagen, die Wände sind mit **verbrannten Krallensiegeln** und **verrußten Bannzeichen** bedeckt. Aus unzähligen feinen Ritzen strömt eine **rötlich glühende Hitze**, die den Raum mit einer drückenden, ehrfurchtsgebietenden Atmosphäre erfüllt. An den Wänden hängen **Kriegstrommeln und Bannfahnen**, Zeichen alter Blutduelle.
+
+In der Mitte des Raumes pulsiert der **Teleportationskreis aus geschmiedetem Erz und Ascheglas**. Statt leuchtender Runen glimmen hier **rissige Glyphen in glutrotem Licht**, als wären sie aus der **Hölle selbst gebrannt**. Der Kreis ist von **acht schwarzen Speerständen** umgeben, deren Spitzen nach innen zeigen – sie symbolisieren die ewige Bedrohung im Kampf.
+
+Wenn der Kreis aktiviert wird, erklingt ein tiefes **Dröhnen wie Schlachtgetöse**, begleitet vom **Knistern übernatürlicher Flammen**, die aus den Glyphen züngeln. Nur jene, deren Wille nicht vom Feuer verzehrt wird, können den Transport überstehen – schwache Seelen erleben stattdessen **brennende Visionen vergangener Schlachten**.

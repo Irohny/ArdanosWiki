@@ -1,0 +1,1 @@
+der schweigende Schwurträger, verschwand in der [[Schwarze Klamm]] – sein Name aus alten Zwergenrollen gelöscht.

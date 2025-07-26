@@ -4,3 +4,25 @@ Zentrales Küstengebiet von [[Ardanos]]. Es wurde im Zeiten Zeitalter stark umk�
 
 Durch die vielen Konflikte und Herrschaftswechsel ist die Bevölkerung dieses Landgebietes sehr unterschiedlich. Ab und zu gibt es in diesem Gebiet kleiner Aufstände, da kleiner Regionen sich zu frühren Fürstentümern zurück sehnen.
 
+
+## Städte
+1. [[Tiravor]] - Alte Bastionstadt zum Schutz vor [[Elmrath]]
+2. **Marikant** – alter Seehafen mit bernsteinfarbenem Markt
+3. **Branthar’s Heim** – ehemals Piratenhafen, heute florierende Freistadt
+4. **Bernfels**
+5. **Goldhafen**
+6. **Sonnenkliff**
+7. **Strandholm**
+8. **Amberhold**
+
+---
+
+### 🛖 **Dörfer (kleiner, ländlich, Fischerorte oder Harzsammlergemeinden)**
+1. **[[Bernruh]]** – friedlicher Ort mit Blick auf die glitzernden Klippen
+2. **Kielbruch** – ein wettergepeitschtes Fischerdorf
+3. **Windfurt** – kleines Dorf am Mündungssumpf
+4. **Triftmoor** – halb auf Stelzen gebautes Dorf über sumpfigem Küstenboden
+5. **Seltarn** – bekannt für seine Bootsbauer
+6. **Rottangen** – Fischerdorf mit rauem Ruf
+7. **Marnfeld** – ein landwirtschaftlich
+8. **Kieselgrund**

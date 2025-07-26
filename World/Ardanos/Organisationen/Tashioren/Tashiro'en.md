@@ -1,7 +1,7 @@
 ### Tashiro'en – „Tempel der lautlosen Blüte“
 _„Aus der Dunkelheit blühen nur die Reinsten. Und die Tödlichsten.“_
 ![[LautloseBluete Image.png|200]]
-Der **Orden der lautlosen Blüte** ist ein geheimer Mönchsorden, gegründet von abtrünnigen Dunkelelfen (Drow), die sich von [[Elmrath]], nach der Gründung von [[Ardanos]] im Jahre ***2165 n.d.D*** abgewandt haben – nicht aus Moral, sondern aus _Eigeninteresse_. Erste Nennung im Bezug auf ungeklärte Attentate im Jahre ***2166 n.d.D***. Sie haben den chaotischen Kulten der Drow den Rücken gekehrt, um eine eigene, strukturierte Macht aufzubauen: eine **brutale, disziplinierte und präzise agierende Organisation**, die im Verborgenen herrscht.
+Der **Orden der lautlosen Blüte** ist ein geheimer Mönchsorden, gegründet von abtrünnigen Dunkelelfen (Drow), die sich von [[Elmrath]], nach der Gründung von [[Ardanos]] im Jahre ***2165 n.d.D*** abgewandt haben – nicht aus Moral, sondern aus _Eigeninteresse_. Erste Nennung im Bezug auf ungeklärte Attentate ([[Garrik Sturmherr]]) im Jahre ***2166 n.d.D***. Sie haben den chaotischen Kulten der Drow den Rücken gekehrt, um eine eigene, strukturierte Macht aufzubauen: eine **brutale, disziplinierte und präzise agierende Organisation**, die im Verborgenen herrscht.
 ### **Struktur & Philosophie:**
 - Der Orden ist wie eine Mischung aus Kloster, Familie und Verbrechersyndikat aufgebaut.
 - Ihr Kodex ist eine Mischung aus **asketischer Disziplin** und **absoluter Loyalität**.
@@ -21,11 +21,11 @@ Der **Orden der lautlosen Blüte** ist ein geheimer Mönchsorden, gegründet von
 ### **Symbole & Erkennungszeichen:**
 - Narben in Lotosform am Unterarm für vollwertige Mitglieder 
 - Verwendung von Duftnoten (Lotus, Bitterholz, Asche) als Codes untereinander
-###  **Hauptquartier – Das Kloster Tiefwacht**
+###  **Hauptquartier**
+![[Schattenblütengarten]]
 * Ein verstecktes Kloster tief unter einer verlassenen Stadt im [[Immergrüner Hain]] am Rande des [[Schwarzklamm]] Gebirgskette.
-- Von außen unscheinbar – innen voll von Trainingsräumen, Gärten aus Pilzen und stillen Kammern.
-- Die innere Hierarchie basiert auf „Blättern des Lotos“ (Blatt 1 = Großmeister, Blatt 9 = Novize)
 ### **Wichtige Persönlichkeiten:**
+Die innere Hierarchie basiert auf „Blättern des Lotos“ (Blatt 1 = Großmeister, Blatt 9 = Novize)
 
 **„Blatt Eins“ – der Lotus Meisterin _Tenzaku Oroi_**
 - Eiskalt, hochintelligent, angeblich blind, doch nichts entgeht ihr.    
