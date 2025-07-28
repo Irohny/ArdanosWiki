@@ -5,19 +5,13 @@ from config import cfg
 from components import utils
 
 
-def __process_links(text: str) -> str:
-    """Hebt [[Links]] farbig hervor."""
-    return re.sub(r"\[\[([^\]]+)\]\]", r":blue[\1]", text)
-
-
 def __process_tags(text: str) -> str:
     """Hebt #Tags farbig hervor."""
-    return re.sub(r"#\w+", lambda m: f":blue-background[{m.group(0)}]", text)
+    return re.sub(r"#\w+", lambda m: f":blue-background[{m.group(0)}] \n", text)
 
 
 def __process_text_block(text: str) -> str:
     """Verarbeitet einen Textabschnitt: Links & Tags hervorheben."""
-    # text = __process_links(text)
     text = __make_internal_links_clickable(text)
     text = __process_tags(text)
     return text
@@ -35,8 +29,8 @@ def __make_internal_links_clickable(text: str) -> str:
             # Encode den Pfad in den Link
             return f'<a href="?page={target_path}">{link_text}</a>'
         else:
-            return f'<span style="color:red;">[[{link_text}]]</span>'
-
+            return link_text
+        
     return re.sub(r"\[\[([^\]]+)\]\]", replace_link, text)
 
 

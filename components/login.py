@@ -60,3 +60,4 @@ def logout():
     st.session_state["tree"] = utils.find_markdown_files(
         cfg.MARKDOWN_DIR, st.session_state["user"]
     )
+    st.session_state["current_path"] = st.session_state["root_path"] 

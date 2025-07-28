@@ -20,6 +20,7 @@ def header():
         st.image(f"{cfg.IMAGE_DIR}/Ardanos.jpeg")
     else:
         name = st.session_state["current_path"].split("/")[-1].replace(".md", "")
+    name = name.split("_")[-1]
     col[1].title(f":red[{name}]")
 
 
