@@ -1,10 +1,16 @@
-#Illusion #Grad2
-
-**Zeitaufwand:** 1 Aktion
-**Reichweite:** Selbst
-**Komponenten:** V, G
-**Wirkungsdauer:** 1 Minute
-
+- **Grad:**   2
+- **Schule:**  #Illusion 
+- **Ritual:**  nein
+- **Konzentration:** nein  
+- **Zauberzeit/Ausführung:**  1 Aktion 
+- **Reichweite:**  selbst
+- **Komponenten:**   #Verbal #Geste 
+- **Dauer/Wirkung:** 1 Minute
+- **Rettungswürfe:**
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:
 Drei illusionäre Duplikate deiner selbst erscheinen in deinem Bereich. Bis der Zauber endet, bewegen sich die Duplikate mit dir, ahmen deine Aktionen nach und verändern ihre Position, so dass es unmöglich ist, zu erkennen, was real ist. Du kannst deine Aktion verwenden, um die illusionären Duplikate fortzuschicken.
 
 Jedes Mal, wenn dich eine Kreatur während der Wirkungsdauer angreift, würfle mit einem W20, um zu bestimmen, ob der Angriff stattdessen eines deiner Duplikate zum Ziel hat.

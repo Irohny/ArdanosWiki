@@ -3,13 +3,13 @@
 ### **Ursprünge im Dunkel**
 
 Geboren als zweiter Sohn eines unbedeutenden Adligen, wurde **Reodemus**, damals bekannt als _Reodemir_, von jeher übersehen – von seiner Familie, vom Hof, von den Göttern. In seiner Jugend wanderte er durch Archive und Ruinen, auf der Suche nach verborgenem Wissen, nach einer Bestimmung, die ihn über das Spinnennetz der politischen Bedeutungslosigkeit hinausführen würde.  
-Auf einer seiner Reisen fand er in den Ruinen von [[Althovar]] auf der Insel [[Cirellin]] ein **verlorenes Fragment der Chronos-Sanduhr**, ein uraltes Relikt des Schmiedegottes [[Moradin]], das in dunklen Zeiten von **[[Ephazul]]**, einem uralten Dämon, verdorben worden war.
+Auf einer seiner Reisen fand er in den Ruinen von [[Althovar]] auf der Insel [[Cirellin]] ein **verlorenes Fragment der Chronos-Sanduhr**, ein uraltes Relikt des Schmiedegottes [[Moradin]], das in dunklen Zeiten von **[[Spielleiter/Gegner NPCs/Ephazul]]**, einem uralten Dämon, verdorben worden war.
 
 ---
 
 ### **Der Pakt mit der Tiefe**
 
-Während eines verbotenen Rituals in den Krypten unter den [[Tiefe Hallen]] der [[Schwarzklamm]] begegnete Reodemus **[[Lord Malvurax]]**, einem dämonischen Vermittler, der in der Leere zwischen den Sekunden flüsterte. Dieser offenbarte ihm, dass das Fragment mehr als nur ein Artefakt sei: Es war ein Schlüssel zu **Ephazuls Gitter**, ein Splitter der Ewigkeit.
+Während eines verbotenen Rituals in den Krypten unter den [[Tiefe Hallen]] der [[Schwarzklamm]] begegnete Reodemus **[[Spielleiter/Gegner NPCs/Lord Malvurax]]**, einem dämonischen Vermittler, der in der Leere zwischen den Sekunden flüsterte. Dieser offenbarte ihm, dass das Fragment mehr als nur ein Artefakt sei: Es war ein Schlüssel zu **Ephazuls Gitter**, ein Splitter der Ewigkeit.
 
 **Ephazul** selbst erschien nicht – nicht vollständig. Doch er bot Reodemus Macht durch einen Pakt:  
 Nicht über ein Königreich.  

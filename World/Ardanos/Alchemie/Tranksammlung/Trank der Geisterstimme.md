@@ -1,4 +1,4 @@
-#Aktion 
+- Tag: #Trank #Aktion 
 - **Komponenten:** [[Geistergras]], [[Knochenasche]], [[Totenkraut]]
 - **Herstellung:** Mörsern bei Mitternacht, 6h ziehen lassen
 - **Probe:** WIS + Alchemist’s Supplies

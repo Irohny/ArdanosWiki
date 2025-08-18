@@ -1,4 +1,4 @@
-#Verbesserung 
+- Tag: #Trank #Verbesserung 
 - **Komponenten:** [[Nachtschwarzer Pilz]], [[Leichenasche]], [[Schleierkraut]]
 - **Herstellung:** Kaltpressung im Dunkeln
 - **Probe:** WIS + Alchemist’s Supplies

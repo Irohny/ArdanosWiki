@@ -1,4 +1,4 @@
-#Aktion #Verbesserung 
+- Tag: #Trank #Aktion #Verbesserung 
 - **Komponenten:** [[Schattenseide]], [[Geisterstaub]], [[Nymphenblüte]]
 - **Herstellung:** Nur während Dämmerung braubar, 6h
 - **Probe:** WIS + Alchemist’s Supplies

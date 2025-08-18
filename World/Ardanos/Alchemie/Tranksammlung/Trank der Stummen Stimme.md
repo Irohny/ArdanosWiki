@@ -1,4 +1,4 @@
-#Aktion
+- Tag: #Trank #Aktion
 - **Komponenten:** [[Flüstergras]], [[Schweigepilz]], [[Nebelöl]]
 - **Herstellung:** Kaltaufguss bei Vollmond
 - **Probe:** WIS + Alchemist’s Supplies

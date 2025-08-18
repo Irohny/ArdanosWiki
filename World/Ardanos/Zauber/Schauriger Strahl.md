@@ -1,11 +1,16 @@
-#Zaubertrick
-
-Dauer: 1Aktion
-Reichweite: 36m
-Komponenten: V, G
-Wirkungsdauer: Sofort
-
-- Fernkampfzauber
+- **Grad:**   0
+- **Schule:**  #Beschwörung 
+- **Ritual:**  Nein
+- **Konzentration:** nein  
+- **Zauberzeit/Ausführung:** 1 Aktion   
+- **Reichweite:**  36m
+- **Komponenten:**   #Verbal #Geste 
+- **Dauer/Wirkung:** sofort
+- **Rettungswürfe:**
+- **Angriffsart:** Fernkampf
+- **Schaden/Heilung:** 1W10 Energie pro Strahl
+- **Zustände:**
+#### Beschreibung:
 - 1W10 Energieschaden pro Strahl
 	- 1 Strahl bis Stufe 4
 	- 2 Strahlen ab Stufe 5

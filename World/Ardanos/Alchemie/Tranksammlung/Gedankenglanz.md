@@ -1,4 +1,4 @@
-#Verbesserung 
+- Tag: #Trank #Verbesserung 
 - **Komponenten:** [[Schlangengehirn]], [[Denkmoos]], [[Amethyst]]
 - **Herstellung:** Alkoholmazeration, 3 Tage Fermentation
 - **Probe:** INT + Alchemist’s Supplies

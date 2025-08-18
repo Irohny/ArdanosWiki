@@ -1,4 +1,4 @@
-#Verbesserung
+- Tag: #Trank #Verbesserung
 - **Komponenten:** [[Greifenfeder]], [[Eselsmilch]], [[Luftkraut]]
 - **Herstellung:** 24h Mazeration, Einkochen
 - **Probe:** WIS + Alchemist’s Supplies

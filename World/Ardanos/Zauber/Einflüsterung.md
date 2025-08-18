@@ -1,9 +1,16 @@
-#Verzauberung #Grad2
-
-**Zeitaufwand:** 1 Aktion
-**Reichweite:** 9 m
-**Komponenten:** V, M (eine Schlangenzunge und entweder eine kleine Honigwabe oder ein Tropfen süßes Öl)
-**Wirkungsdauer:** Konzentration, bis zu 8 Stunden
+- **Grad:**   2
+- **Schule:**  #Verzauberung 
+- **Ritual:**  Nein
+- **Konzentration:** Ja
+- **Zauberzeit/Ausführung:** 1Aktion   
+- **Reichweite:**  9m
+- **Komponenten:**  #Verbal #Material (eine Schlangenzunge und entweder eine kleine Honigwabe oder ein Tropfen süßes Öl) 
+- **Dauer/Wirkung:** 8h
+- **Rettungswürfe:** Weisheit
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:
 
 Du schlägst eine Vorgehensweise vor (auf einen oder zwei Sätze beschränkt) und beeinflusst auf magische Weise eine Kreatur in Reichweite, die du sehen kannst und die dich hören und verstehen kann. Kreaturen, die nicht bezaubert werden können, sind gegen diesen Effekt immun. Die Einflüsterung muss so formuliert sein, dass die vorgeschlagene Vorgehensweise angemessen erscheint. Aufforderungen, sich selbst zu erstechen, sich in einen Speer zu stürzen, sich anzuzünden oder auf andere Weise zu verletzen, beenden den Zauber.
 

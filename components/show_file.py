@@ -30,7 +30,7 @@ def __make_internal_links_clickable(text: str) -> str:
             return f'<a href="?page={target_path}">{link_text}</a>'
         else:
             return link_text
-        
+
     return re.sub(r"\[\[([^\]]+)\]\]", replace_link, text)
 
 

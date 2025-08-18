@@ -1,4 +1,4 @@
-#Gift
+- Tag: #Trank #Gift 
 - **Komponenten:** [[Pilzspiegel]], [[Gedankengalle]], zerstoßener [[Lapislazuli]]
 - **Herstellung:** 10h unter Schweigen destillieren
 - **Probe:** INT + Alchemist’s Supplies

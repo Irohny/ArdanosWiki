@@ -1,4 +1,4 @@
-#Schaden 
+- Tag: #Trank #Schaden 
 - **Komponenten:** [[Sturmessenz]], [[Drachenschuppe (blau)]], [[Quarzkristall]]
 - **Herstellung:** Blitzabzapfung bei Gewitter, 3h Reifung
 - **Probe:** INT + Alchemist’s Supplies

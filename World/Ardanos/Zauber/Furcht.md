@@ -1,9 +1,16 @@
-#Illusion #Grad3
-
-**Zeitaufwand:** 1 Aktion
-**Reichweite:** Selbst (Kegel von 9 m)
-**Komponenten:** V, G, M (eine weiße Feder oder das Herz einer Henne)
-**Wirkungsdauer:** Konzentration, bis zu 1 Minute
+- **Grad:**   3
+- **Schule:**  #Illusion 
+- **Ritual:**  Nein
+- **Konzentration:** Ja  
+- **Zauberzeit/Ausführung:** 1 Aktion   
+- **Reichweite:**  9m Kegel
+- **Komponenten:**   #Verbal #Geste #Material (eine weiße Feder oder das Herz einer Henne)
+- **Dauer/Wirkung:** 1Minute 
+- **Rettungswürfe:** Weisheit
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:
 
 Du projizierst ein Trugbild der schlimmsten Ängste einer Kreatur. Jede Kreatur in einem Kegel von neun Metern muss einen Weisheitsrettungswurf bestehen, oder sie lässt fallen, was auch immer sie hält, und ist für die Wirkungsdauer verängstigt.
 

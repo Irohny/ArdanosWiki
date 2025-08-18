@@ -1,9 +1,16 @@
-#Illusion #Grad2 
-
-**Zeitaufwand:** 1 Aktion
-**Reichweite:** Berührung
-**Komponenten:** V, G, M (eine Wimper, mit Gummiarabikum ummantelt)
-**Wirkungsdauer:** Konzentration, bis zu 1 Stunde
+- **Grad:**   2
+- **Schule:**  #Illusion 
+- **Ritual:**  Nein
+- **Konzentration:** ja  
+- **Zauberzeit/Ausführung:** 1 Aktion   
+- **Reichweite:**  Berührung
+- **Komponenten:** #Verbal #Geste #Material (eine Wimper, mit Gummiarabikum ummantelt)   
+- **Dauer/Wirkung:** 1h 
+- **Rettungswürfe:**
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:
 
 Eine Kreatur, die du berührst, wird unsichtbar, bis der Zauber endet. Alles, was das Ziel trägt, ist unsichtbar, solange es an der Person bleibt. Der Zauber endet, sobald das Ziel einen Angriff ausführt oder selbst einen Zauber wirkt.
 

@@ -1,4 +1,4 @@
-#Aktion 
+- Tag: #Trank #Aktion 
 - **Komponenten:** [[Nebelöl]], [[Schweigepilz]], [[Schattenlilien]]
 - **Herstellung:** Destillation der Inhaltsstoffe unter schwacher Hitze, anschließende Infusion mit Etherrauch
 - **SG:** 14 (Alchemie), INT oder WIS + Alchemist’s Supplies

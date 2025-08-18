@@ -25,7 +25,7 @@ In einem kleinen, abgeschiedenen Dorf der Insel begegnen die Spieler einer schei
 
 ### 🐲 **Die Enthüllung: Thalmyra, Hüterin der Wahrheit**
 
-Nach bestandenen Prüfungen führt Mirna die Spieler zu einem versteckten Pfad in die Berge. Dort offenbart sie in einem magischen Moment ihre wahre Gestalt: **[[Thalmyra]], die Bronzene Wächterin von Cirellin**, uralt, ehrwürdig, mächtig.
+Nach bestandenen Prüfungen führt Mirna die Spieler zu einem versteckten Pfad in die Berge. Dort offenbart sie in einem magischen Moment ihre wahre Gestalt: **[[Mirna]], die Bronzene Wächterin von Cirellin**, uralt, ehrwürdig, mächtig.
 
 Sie offenbart, dass sie die Wahrheit um das Bündnis mit Candamir kennt – und dass sie **ein Artefakt** bewacht, das einst von den Göttern geschaffen wurde:  
  **„[[Kristall der Offenbarung]]“**, ein Kristall, der göttliche Schriftrollen lesen und zwischen **wahrer Prophetie und Fälschung** unterscheiden kann.

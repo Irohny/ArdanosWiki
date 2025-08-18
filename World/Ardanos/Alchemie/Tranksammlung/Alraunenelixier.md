@@ -1,4 +1,5 @@
-#Heilung #Verbesserung 
+
+- Tag: #Trank #Heilung #Verbesserung 
 - **Komponenten:** [[Alraune]], [[Rosenessenz]], [[Silberstaub]]
 - **Herstellung:** Sieden mit Silberbeimengung
 - **Probe:** WIS + Alchemist’s Supplies

@@ -1,4 +1,4 @@
-#Verbesserung 
+- Tag: #Trank #Verbesserung 
 - **Komponenten:** [[Traumdistel]], [[Elfensilber]], [[getrocknete Träne]]
 - **Herstellung:** 2 Tage Fermentation
 - **Probe:** INT + Alchemist’s Supplies

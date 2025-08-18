@@ -1,3 +1,4 @@
+- Tag: #Trank 
 - **Komponenten:** [[Nymphenblüte]], [[getrocknete Träne]], [[Traumdistel]]
 - **Herstellung:** Fermentation bei Vollmond, durchzogen mit Geisterstaub und verdünnter Hoffnung
 - **SG:** 17 (Alchemie), CHA oder INT + Alchemist’s Supplies

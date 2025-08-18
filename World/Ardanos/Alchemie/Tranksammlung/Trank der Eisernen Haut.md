@@ -1,4 +1,4 @@
-#Verbesserung 
+- Tag: #Trank #Verbesserung 
 - **Komponenten:** [[Golemstaub]], [[Eisenkraut]], [[Trollblut]]
 - **Herstellung:** Destillation unter konstantem Rühren (12h)
 - **Probe:** WIS + Alchemist’s Supplies

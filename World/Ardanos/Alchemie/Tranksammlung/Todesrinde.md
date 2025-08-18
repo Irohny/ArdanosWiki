@@ -1,4 +1,4 @@
-#Gift
+- Tag: #Trank #Gift
 - **Komponenten:** [[Blutbaumrinde]], [[Basiliskenblut]], [[Skorpionstachel]]
 - **Herstellung:** Extraktion & Pulverisierung
 - **Probe:** INT + Alchemist’s Supplies

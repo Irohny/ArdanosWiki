@@ -1,4 +1,4 @@
-#Verbesserung 
+- Tag: #Trank #Verbesserung 
 - **Komponenten:** [[Bleistaub]], [[Zwergenwurz]], [[Erdgeist-Essenz]]
 - **Herstellung:** 8h Einkochen unter Druck
 - **Probe:** INT + Alchemist’s Supplies

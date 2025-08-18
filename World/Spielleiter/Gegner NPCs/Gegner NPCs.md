@@ -1,7 +1,7 @@
-- [[Zerra die Flüsterin]] Spionin und Botin, Zauberin 
+- [[Spielleiter/Gegner NPCs/Zerra die Flüsterin]] Spionin und Botin, Zauberin 
 - [[Eldrin Velmara]] Heiler Manipulirt von Zerra, Forscht am ewigen leben
-- [[Lord Malvurax]] Botschafter von Ephazul, Cambion
-- [[Ephazul]] Dämonenfürst, Herr des Bösen
+- [[Spielleiter/Gegner NPCs/Lord Malvurax]] Botschafter von Ephazul, Cambion
+- [[Spielleiter/Gegner NPCs/Ephazul]] Dämonenfürst, Herr des Bösen
 - [[Ser Varkor]] Krieger der Bösen, Paladin Tiefling
 - [[Luredan van Harl]]
 - Lord Vareth Nocthollow, Vampir

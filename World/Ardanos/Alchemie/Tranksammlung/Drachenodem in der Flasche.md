@@ -1,4 +1,5 @@
-#Schaden 
+
+- Tag: #Trank #Schaden 
 - **Komponenten:** [[Drachengalle]], [[Glutpulver]], [[Essenz des Zorns]]
 - **Herstellung:** 24h unter Hitze in versiegeltem Gefäß
 - **Probe:** INT + Alchemist’s Supplies

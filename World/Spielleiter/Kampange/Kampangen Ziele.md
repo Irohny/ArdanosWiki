@@ -1,7 +1,7 @@
 ### **Reodemus**
 - **Das Leben eines Unsterblichen**
 	- **Siegel der Sonne** ([[Pelor]])
-	- **Gegner:** [[Zerra die Flüsterin]] Spionin und Botin, Zauberin
+	- **Gegner:** [[Spielleiter/Gegner NPCs/Zerra die Flüsterin]] Spionin und Botin, Zauberin
 	- **Gegner:** Seliré & Thaven Succus & Incubus
 	- **Region:** [[Elmrath]]
 	- **Paladin:** [[Sir Daryn Velios]], „Der Lichtwächter“
@@ -30,7 +30,7 @@
 - **Ritual des Zeitreisenden**
 	- **Siegel des Chaos** ([[Asmodeus]])
 	- **Gegner:** [[sl Reodemus]]
-	- **Gegner:** [[Lord Malvurax]] Botschafter von Ephazul, Cambion
+	- **Gegner:** [[Spielleiter/Gegner NPCs/Lord Malvurax]] Botschafter von Ephazul, Cambion
 	- ***Region:** [[Vaylen]]
 	- **Paladin:** [[Lady Caelira von Thornewald]]
 ### Sidequest
@@ -48,7 +48,7 @@ Doch **keiner der Paladine kehrte je zurück.**
 In verschiedenen Regionen verschwanden sie spurlos, einige wurden tot aufgefunden – ihre Körper jedoch verunstaltet, als wären sie nie geboren worden.
 
 **Hinter allem: Der Zeitdieb.**  
-Versteckt hinter der Maske eines königlichen Beraters, manipulierte er mit **gestohlener Zeitmagie** das Schicksal der fünf Helden. Jeder Mord geschah in einem perfekten Moment – **ausgelöscht aus der Geschichte im Auftrag von [[Ephazul]]**, bevor sie das Wissen verbreiten konnten.
+Versteckt hinter der Maske eines königlichen Beraters, manipulierte er mit **gestohlener Zeitmagie** das Schicksal der fünf Helden. Jeder Mord geschah in einem perfekten Moment – **ausgelöscht aus der Geschichte im Auftrag von [[Spielleiter/Gegner NPCs/Ephazul]]**, bevor sie das Wissen verbreiten konnten.
 
 Die Standorte der Siegel **verloren sich mit dem Fall der Paladine**, ebenso wie ihre Namen… bis auf **eine Handvoll Fragmente**, die heute in Legenden, Liedern und alten Berichten verstreut liegen.
 

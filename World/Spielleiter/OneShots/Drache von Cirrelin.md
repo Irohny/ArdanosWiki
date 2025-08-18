@@ -12,7 +12,7 @@ Die Barbarenüberfälle mehren sich, die alte Hauptstadt liegt in Trümmern, und
 ### 1. **Einleitung – Die Bitte von Candamir**
 
 Die Spieler werden als Leibwachen, Berater oder ausgewählte Champions in den Dienst von **Candamir Silberhand** gerufen.  
-Er offenbart seine Vision: Nur ein uraltes Bündnis mit dem Drachen ([[Thalmyra]]) von[[Cirellin]] kann die Insel retten.
+Er offenbart seine Vision: Nur ein uraltes Bündnis mit dem Drachen ([[Mirna]]) von[[Cirellin]] kann die Insel retten.
 
 **Ziel:**  
 Begleitet Candamir durch die Wildnis in den großen Berg, findet den Drachenhort – und helft, das Bündnis zu erneuern.
@@ -31,7 +31,7 @@ Begleitet Candamir durch die Wildnis in den großen Berg, findet den Drachenhort
         
 - **Mögliche Begegnungen:**
     
-    - Eine wunderschöne rotharige Kriegerin (Mirna), die die Gruppe begleitet (Menschenform von [[Thalmyra]]) 
+    - Eine wunderschöne rotharige Kriegerin (Mirna), die die Gruppe begleitet (Menschenform von [[Mirna]]) 
     - Ein spieler erhält eine Vision, das einer aus der Gruppe nicht lebend zurück kommt
     - Mirna stirbt auf der Tour (Als Mensch)
         

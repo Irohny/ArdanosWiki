@@ -1,5 +1,4 @@
-#Gift 
-Inhalationsgift
+- Tag: #Trank #Gift #Inhalationsgift
 - **Komponenten:** [[Nebelpilzsporen]], [[Silbergift]], [[Zwielichtmoos]]
 - **Herstellung:** Sporen 24h fermentieren, dann pulverisieren
 - **Probe:** INT + Alchemist’s Supplies

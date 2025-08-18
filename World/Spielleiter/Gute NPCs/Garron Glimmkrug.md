@@ -1,85 +1,65 @@
- *„Kein Getränk heilt so sehr wie das, das du in Gesellschaft trinkst.“*
-
-- **Volk (scheinbar):** Mensch  
-- **Volk (tatsächlich):** Geist  
-- **Alter (scheinbar):** ca. 50 Jahre  
-- **Alter (wirklich):** über 200 Jahre  
-- **Rolle:** Wirt der Taverne "Zum Grünen Wyvern"  
+- **Klasse & Stufe/Herausfordungsgrad:** Geist, CR ~3
+- **Volk/Herkunft:** #Mensch (scheinbar), tatsächlich Geist  
+- **Alias:** Wirt des „Grünen Wyvern“  
+- **Alter:** scheinbar ~50, wirklich über 200 Jahre  
 - **Gesinnung:** Neutral Gut  
-- **Beruf:** Barkeeper, Zuhörer, heimlicher Beschützer  
+- **Sprachen:** #Gemeinsprache #Elfisch #Halbling #Gnomisch  
+- **Merkmale:** Freundlich, ruhig, wirkt immer beschäftigt, leicht schelmisches Zwinkern  
+- **Ideale:** „Kein Getränk heilt so sehr wie das, das du in Gesellschaft trinkst.“  
+- **Bindungen:** Gebunden an die Taverne „Zum Grünen Wyvern“  
+---
+## ⚔️ Eigenschaften
+- **Rüstungsklasse (RK)/ Rüstung:** 13 (ätherische Präsenz)  
+- **Waffen:** keine (friedlicher Geist)  
+- **Initiative:** +1  
+- **Bewegung:** 9 m (fliegend, lautlos)  
+- **Trefferpunkte:** — (nicht relevant, an Ort gebunden)  
+- **Trefferwürfel:** —  
+- **Fertigkeiten:** Geschichte +6, Arkane Kunde +6, Überzeugen +7, Auftreten +6  
+
+|           | Stärke<br> | Geschick.<br> | Konsti.<br> | Intelligenz | Weisheit | Charisma |
+| --------- | ---------- | ------------- | ----------- | ----------- | -------- | -------- |
+| Attribute | 10 (+0)    | 12 (+1)       | —           | 16 (+3)     | 14 (+2)  | 18 (+4)  |
+| Rettungs. |            |               |             |             | +4       | +6       |
+- **Immunitäten:** Alter, Krankheit, Schlaf, Zwang, körperliche Erschöpfung  
+- **Resistenzen:** nichtmagische physische Angriffe  
+- **Schwächen:** Gebunden an die Taverne, kann sie nicht verlassen  
 
 ---
+## **Aktionen**
+### **Standard:**
+- keine (Garron kämpft nicht aktiv)  
 
+### **Spezialfähigkeiten:**
+- **🍺 Ewiger Krug:** Kann jedes Getränk erschaffen, das jemals in der Taverne serviert wurde.  
+- **🎭 Beruhigende Aura:** Gäste im Umkreis von 6 m haben Nachteil auf Zorn-, Furcht- oder Gewaltwürfe (SG 15 CHA).  
+- **🧠 Alte Geschichten:** 50 %-Chance, wahres historisches Wissen preiszugeben (wie *Legendenkunde*).  
+- **🕯 Flackern des Lichts:** Erkennt böse Wesen, Lampen flackern, Stimme verändert sich.  
+
+### **Zauber:**
+- *Unsichtbarkeit* (jederzeit freiwillig)  
+- *Calm Emotions* (passiv, nur in Taverne)  
+- *Dream* (nur auf Gäste, die in der Taverne schlafen)  
+
+### **Legendenaktionen:**
+- **Geisterhände:** Manipuliert Objekte, reinigt Krüge, poliert Gläser.  
+- **Spukerscheinung:** Kann kurzzeitig als gespenstische Gestalt erscheinen (rein narrativ).  
+
+---
+## Ausrüstung
+- kein physisches Inventar (alles Manifestationen der Taverne selbst)  
+
+---
 ## Hintergrund
-Garron war einst ein legendärer Abenteurer und Alchemist, der die Taverne selbst gründete – ursprünglich als Zufluchtsort für verwundete Helden. Vor über 170 Jahren starb er bei einem mysteriösen Brand, doch seine Seele kehrte mit letzter Kraft zurück und band sich an die Taverne.
+Garron war einst ein legendärer Abenteurer und Alchemist, der die Taverne „Zum Grünen Wyvern“ als Zuflucht für verwundete Helden gründete.  
+Vor über 170 Jahren starb er bei einem mysteriösen Brand, doch seine Seele kehrte zurück, gebunden an diesen Ort.  
 
-Niemand erinnert sich mehr an den ursprünglichen Besitzer. Garron jedoch blieb – erscheint seit Jahrzehnten als "neuer Besitzer", immer mit dem gleichen freundlichen Gesicht und einer unfehlbaren Erinnerung an uralte Geschichten...
+Seitdem erscheint er stets als derselbe freundliche Wirt – niemand bemerkt die jahrhundertelange Wiederholung.  
+Er kann die Taverne nicht verlassen, wirkt aber völlig lebendig. Nur wahre Seher oder starke Magie erkennen seine geisterhafte Natur.  
 
-- Garron **existiert nur innerhalb der Taverne**. Er kann diese nicht verlassen.  
-- Sein **Körper ist eine geisterhafte Manifestation** – fühlt sich echt an, lässt sich aber nicht mit Magie scannen (Verhüllung).  
-- **Magische Kreaturen** oder Spieler mit *Wahrnehmung für das Übernatürliche* (z. B. *Wahrer Blick*) erkennen Garron als eine sanft leuchtende, friedliche Präsenz.
-
----
-
-## 🛠 Fähigkeiten (NSC, CR ~3)
-
-### **Attribute**
-| Attribut | Wert | Mod |
-|----------|------|-----|
-| Stärke   | 10   | +0  |
-| Geschick | 12   | +1  |
-| Konsti   | -    | -   |
-| Intell.  | 16   | +3  |
-| Weisheit | 14   | +2  |
-| Charisma | 18   | +4  |
-
-- **Trefferpunkte:** Nicht relevant (Geistform)  
-- **Rüstungsklasse:** 13 (ätherische Präsenz)  
-- **Bewegung:** 9 m (fliegend in Geisterform, 0 Geräusche)  
+Er gilt als guter Zuhörer, stiller Beschützer und heimlicher Mentor für viele Abenteurer. Doch seine Existenz bleibt ein Geheimnis – bis jemand das alte Grab auf dem Friedhof findet...  
 
 ---
-
-### 🧪 Fähigkeiten
-
-**🍺 Ewiger Krug:** Garron kann auf Wunsch jedes Getränk erschaffen, das in seiner Taverne je serviert wurde.
-
-**🎭 Beruhigende Aura:** In einem Umkreis von 6 m erleiden Gäste Nachteil auf Zorn-, Furcht- oder Gewaltwürfe (SG 15 CHA-Rettungswurf, passiv).  
-
-**🧠 Alte Geschichten:** Wenn ein Spieler eine wichtige Frage über die Gegend, eine Kreatur oder ein historisches Ereignis stellt, hat Garron eine 50 %-Chance, eine wahre und wertvolle Information zu geben (wie *Legendenkunde*).
-
-**🕯 Flackern des Lichts:** Wenn sich dämonische, untote oder besonders böse Wesen in der Taverne befinden, beginnen die Lampen zu flackern, und Garrons Stimme wird plötzlich kälter...
-
----
-
-### 🧙 Geisterhafte Kräfte (nicht-offensiv, subtil)
-
-- **Unsichtbarkeit** (freiwillig, jederzeit)  
-- **Erscheinen in Träumen**: Kann mit Personen sprechen, die in der Taverne schlafen.  
-- **Geisterhände**: Manipuliert Objekte, reinigt Krüge, poliert Gläser – niemand sieht es wirklich.
-
----
-
-## 🧭 Rollenspieltipps
-
-**Sprache & Auftreten:**
-- Ruhige, freundliche Stimme  
-- Schelmisches Zwinkern bei alten Geschichten  
-- Oft mit einem Lappen und einem Krug beschäftigt  
-- Gibt Ratschläge, ohne konkret zu sein  
-- Nennt Gäste mit alten Namen, die sie nie sagten
-
-**Geheimnis lüften?**
-- Nur bei *starker Magie*, *geistiger Verbindung*, oder *direkter Konfrontation*  
-- Wenn jemand sein Grab auf dem alten Friedhof der Stadt entdeckt...
-
----
-
-## 📌 Verwendung im Spiel
-
-- **Questgeber** für alchemistische Tränke, Geisterbeschwörung, uralte Geheimnisse  
-- **Verbündeter**, der Spielern in Not durch subtile Hinweise hilft  
-- **Plot-Twist**: Enthüllt sich als Schutzgeist der Taverne, wenn diese bedroht wird  
-
----
-
-> *„Ich hab viele kommen und gehen sehen. Aber du... du trägst die Art von Blick, die auf eine Geschichte zusteuert.“*
+## Zitate
+- „Ich hab viele kommen und gehen sehen. Aber du... du trägst die Art von Blick, der auf eine Geschichte zusteuert.“  
+- „Kein Getränk heilt so sehr wie das, das du in Gesellschaft trinkst.“  

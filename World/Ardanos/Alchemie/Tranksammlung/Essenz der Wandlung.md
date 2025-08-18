@@ -1,3 +1,4 @@
+- Tag: #Trank #Verbesserung 
 - **Komponenten:** [[Pilzspiegel]], [[Denkmoos]], reiner [[Honig]]
 - **Herstellung:** Alchemistische Reduktion unter ständiger magischer Bewegung – 6 Stunden Prozess
 - **SG:** 16 (Alchemie), INT oder WIS + Alchemist’s Supplies

@@ -1,11 +1,18 @@
-#Illusionsmagie #Grad1
+- **Grad:**   1
+- **Schule:**  #Illusion 
+- **Ritual:**  Nein
+- **Konzentration:** nein  
+- **Zauberzeit/Ausführung:** 1 Aktion   
+- **Reichweite:**  selbst
+- **Komponenten:**   #Verbal #Geste 
+- **Dauer/Wirkung:** 1 Stunde
+- **Rettungswürfe:**
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:
 
-Dauer: 1 Aktion
-Wirkungsdauer: 1 Stunde
-Reichweite: Selbst
-Komponenten: V, G
 Klassen: Barde, Kleriker, Zauberer, Magier
-Ritual: Nein
 
 Verändere dein Aussehen einschließlich Kleidung, Rüstung, Waffen und anderer Habseligkeiten, bis der Zauber endet oder du deine Aktion verwendest, um ihn zu beenden. Du kannst 30 Zentimeter größer oder kleiner sowie dick, dünn oder normal erscheinen. Deinen Körpertyp kannst du nicht verändern, musst also eine Form mit der gleichen Grundanordnung von Gliedmaßen annehmen. Abgesehen davon sind Form und Ausmaß der Illusion dir überlassen.
 

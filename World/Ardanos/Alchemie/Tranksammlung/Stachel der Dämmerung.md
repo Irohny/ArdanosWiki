@@ -1,5 +1,5 @@
-#Gift 
-Klingengift: 1mal pro Auftragung beim ersten Schaden nutzbar
+- Tag: #Trank #Gift #Klingengift 
+- 1mal pro Auftragung beim ersten Schaden nutzbar
 - **Komponenten:** [[Schattenlilien]]-Extrakt, [[Skorpionstachel]], [[Nachtschattenöl]], [[Kohleasche]]
 - **Herstellung:** 6h sanft köcheln, dickflüssig rühren
 - **Probe:** INT + Alchemist’s Supplies

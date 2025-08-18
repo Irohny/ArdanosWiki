@@ -1,0 +1,13 @@
+- **Grad:**   
+- **Schule:**  
+- **Ritual:**  
+- **Konzentration:**  
+- **Zauberzeit/Ausführung:**   
+- **Reichweite:**  
+- **Komponenten:**   
+- **Dauer/Wirkung:** 
+- **Rettungswürfe:**
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:

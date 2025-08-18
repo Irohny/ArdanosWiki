@@ -1,4 +1,4 @@
-#Heilung 
+- Tag: #Trank #Heilung 
 - **Komponenten:** [[Phönixfeder]], [[Drachenträne]], [[Herzrosen-Extrakt]], reiner [[Honig]]
 - **Herstellung:** 24h Brauvorgang bei gleichmäßiger Hitze, mit rituellem Gesang
 - **Probe:** INT + Alchemist’s Supplies

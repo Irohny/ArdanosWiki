@@ -1,9 +1,16 @@
-#Verwandlung #Grad9
-
-**Zeitaufwand:** 1 Aktion
-**Reichweite:** Selbst
-**Komponenten:** V, G, M (ein Jadediadem im Wert von mindestens 1.500 GM, das du aufsetzen musst, bevor du den Zauber wirkst)
-**Wirkungsdauer:** Konzentration, bis zu 1 Stunde
+- **Grad:**   9
+- **Schule:**  #Verwandlung 
+- **Ritual:** Nein  
+- **Konzentration:** ja  
+- **Zauberzeit/Ausführung:** 1 Aktion   
+- **Reichweite:**  selbst
+- **Komponenten:**   #Verbal #Geste #Material (ein Jadediadem im Wert von mindestens 1.500 GM, das du aufsetzen musst, bevor du den Zauber wirkst)
+- **Dauer/Wirkung:** 1Stunde
+- **Rettungswürfe:**
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:
 
 Für die Wirkungsdauer nimmst du die Gestalt einer anderen Kreatur an. Dabei kann es sich um eine beliebige Kreatur handeln, deren Herausforderungsgrad maximal deiner Stufe entspricht. Es darf sich weder um ein Konstrukt noch um einen Untoten handeln. Zudem musst du diese Art von Kreatur mindestens einmal gesehen haben. Du verwandelst dich ein durchschnittliches Exemplar dieser Kreatur, ohne Klassenstufen oder das Merkmal „Zauberwirken".
 

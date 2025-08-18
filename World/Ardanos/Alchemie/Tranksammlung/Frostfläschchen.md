@@ -1,4 +1,4 @@
-#Schaden
+- Tag: #Trank #Schaden
 - **Komponenten:** [[Eisquarz]], [[Gletschertau]], [[Drachenatem (weiß)]]
 - **Herstellung:** Kaltdestillation in Eiseisen
 - **Probe:** INT + Alchemist’s Supplies

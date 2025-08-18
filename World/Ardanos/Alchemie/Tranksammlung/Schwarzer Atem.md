@@ -1,4 +1,4 @@
-#Gift 
+- Tag: #Trank #Gift 
 - **Komponenten:** [[Nachtalraune]], [[Glassplitter]], [[Krötengalle]]
 - **Herstellung:** 3 Tage Mazeration
 - **Probe:** INT + Alchemist’s Supplies

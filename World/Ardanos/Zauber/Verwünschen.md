@@ -1,10 +1,16 @@
-#Verzauberung #Grad1
-
-Dauer: 1 Bonusaktion
-Wirkungsdauer: Konzentration, bis zu 1 Stunde
-Reichweite: 27m
-Komponenten: V, G, M (das versteinerte Auge eines Molches)
-Ritual: Nein
+- **Grad:**   1
+- **Schule:**  #Verzauberung 
+- **Ritual:**  nein
+- **Konzentration:** ja  
+- **Zauberzeit/Ausführung:** 1 Bonusaktion   
+- **Reichweite:**  27m
+- **Komponenten:**   #Verbal #Geste #Material (das versteinerte Auge eines Molches)
+- **Dauer/Wirkung:** 1 Stunde
+- **Rettungswürfe:**
+- **Angriffsart:**
+- **Schaden/Heilung:**
+- **Zustände:**
+#### Beschreibung:
 
 Du verwünschst eine Kreatur in Reichweite, die du sehen kannst. Bis der Zauber endet, fügst du dem Ziel zusätzlich 1W6 nekrotischen Schaden zu, wenn du es mit einem Angriff triffst. Wähle außerdem ein Attribut, wenn du den Zauber wirkst. Das Ziel hat Nachteil bei Attributswürfen mit dem gewählten Attribut.  
   

@@ -1,4 +1,4 @@
-#Verbesserung #Schaden
+- Tag: #Trank #Verbesserung #Schaden
 - **Komponenten:** [[Phönixasche]], [[Salamanderöl]], [[Funkenstein]]
 - **Herstellung:** Kristallisation bei Hitze
 - **Probe:** INT + Alchemist’s Supplies
