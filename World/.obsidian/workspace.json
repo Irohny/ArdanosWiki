@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a498356ad8f5bd03",
+    "type": "split",
+    "children": [
+      {
+        "id": "088b508282e23bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26bc992c96440a62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Das Bunte Band.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Das Bunte Band"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd5f5f3063f339aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "30e5b4756ece19f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e94c86397ec2adea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "23ba70a7634e1495",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "005cbc8112f8c08e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b693fe0798ea280e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9693804f7d46fcc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69afc9aee28c1658",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Das Bunte Band.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für Das Bunte Band"
+            }
+          },
+          {
+            "id": "5159ebd20986aa1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Das Bunte Band.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von Das Bunte Band öffnen"
+            }
+          },
+          {
+            "id": "4ce4562c50a82687",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2d70cb653330447",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Das Bunte Band.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von Das Bunte Band"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Graph-Ansicht öffnen": false,
+      "bases:Create new base": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "26bc992c96440a62",
+  "lastOpenFiles": [
+    "NPCs.base",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Spielleiter/Neutrale NPCs/Lyrius Vael.md",
+    "Spielleiter/Der Liebhaber auf der Flucht.md",
+    "Ardanos/Charakter/Kaiser/Alinor Thorne II.md",
+    "Spielleiter/Gegner NPCs/Zerra die Flüsterin.md",
+    "Das Bunte Band.md",
+    "Spielleiter/Neutrale NPCs/ECHO.md",
+    "Spielleiter/Klan Seelenhauch.md",
+    "Spielleiter/Neutrale NPCs/Kyra die goldene Kette.md",
+    "Spielleiter/Gegner NPCs/Der Namensnehmer.md",
+    "Spielleiter/Codex des Nichtseins.md",
+    "Spielleiter/Liga des wahren Mets.md",
+    "Spielleiter/Skaldentrunk.md",
+    "Images/Wappen der Liga des Wahren Mets.png",
+    "Ardanos/Alchemie/Tranksammlung/Zunderelixier.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank des goldenen Schicksals.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Stummen Stimme.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Katzenwahrnehmung.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Heilung.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Gravitas.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Geisterstimme.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Federleichtigkeit.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Erinnerungsflut.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der elementaren Haut.md",
+    "Ardanos/Alchemie/Tranksammlung/Trank der Eisernen Haut.md",
+    "templates",
+    "Spielleiter/Paladine des Goldenen Schildes",
+    "Assets/08. Player Characters",
+    "Assets",
+    "Chroniken von Ardanos",
+    "Tokens/token3.png",
+    "Tokens/token2.png",
+    "Tokens/token1.png",
+    "Tokens/Vishuda.png",
+    "Tokens/Nyssara.png",
+    "Tokens/Marcus.png",
+    "Tokens/Hector.png",
+    "Tokens/Gnodomir.png",
+    "Tokens",
+    "Images/Schatzkammer_Vorraum.jpeg",
+    "Spielleiter/Auf dem Weg",
+    "Spielleiter/Kampange/Feuersiegel",
+    "Spielleiter/Kampange/Lichtsiegel"
+  ]
+}
