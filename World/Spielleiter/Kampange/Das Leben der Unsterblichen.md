@@ -1,6 +1,6 @@
 ### Überblick:
 
-Die Spieler begeben sich nach **[[Elmrath]]**, um einem alten Hinweis auf das Artefakt **„Das Leben eines Unsterblichen“** nachzugehen – ein uraltes Relikt, das in Verbindung zum **Siegel der Sonne ([[Pelor]])** steht. Während sie den Spuren eines vergessenen Paladins folgen, geraten sie zwischen die Intrigen von **[[Spielleiter/Gegner NPCs/Zerra die Flüsterin]]**, der dämonischen Spionin, und den Verführungskünsten der Geschwister **Seliré & Thaven** – und müssen zusehen, wie das göttliche Siegel trotz ihres Widerstands gebrochen wird.
+Die Spieler begeben sich nach **[[Elmrath]]**, um einem alten Hinweis auf das Artefakt **„Das Leben eines Unsterblichen“** nachzugehen – ein uraltes Relikt, das in Verbindung zum **Siegel der Sonne ([[Pelor]])** steht. Während sie den Spuren eines vergessenen Paladins folgen, geraten sie zwischen die Intrigen von **[[Zerra die Flüsterin]]**, der dämonischen Spionin, und den Verführungskünsten der Geschwister **Seliré & Thaven** – und müssen zusehen, wie das göttliche Siegel trotz ihres Widerstands gebrochen wird.
 
 #### **1. Ruf der Sonne – Erste Hinweise**
 

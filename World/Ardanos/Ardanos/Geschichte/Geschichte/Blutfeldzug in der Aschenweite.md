@@ -1,7 +1,7 @@
 **Konfliktjahr:** 2478 - 2482 n.d.D.
-**Ort:** Hochebene von **Aschenweite** – ein zerklüftetes, windgepeitschtes Niemandsland nördlich von Valatheris, bedeckt von schwarzer Schlacke und rissiger Erde.
+**Ort:** Hochebene von **Aschenweite** – ein zerklüftetes, windgepeitschtes Niemandsland nördlich von [[Valatheris]], bedeckt von schwarzer Schlacke und rissiger Erde.
 
-#### 📜 **Hintergrund des Feldzugs**
+#### **Hintergrund des Feldzugs**
 Der **Feldzug in die Aschenweite** begann auf Drängen mehrerer einflussreicher Clans Drakmoras, insbesondere derer, die an Ansehen und Einfluss gewinnen wollten. Ihr Ziel war es, die unwirtliche, aber strategisch gelegene **Aschenweite** im Norden zu sichern – ein ödes, schwarzes Hochland voller alter Ruinen und verlassener Zwergenanlagen.
 
 **Offiziell** sollte der Feldzug die **Nordgrenze Drakmoras festigen** und potenzielle Bedrohungen bannen.
@@ -21,7 +21,7 @@ Der Angriff galt unter erfahrenen Offizieren als **strategisch sinnlos**:
 - Der Angriff sollte also kommen – **für Ruhm, nicht für Sinn**.
     
 
-#### 💥 **Die Schlacht von Schwarzgrat**
+#### **Die Schlacht von Schwarzgrat**
 
 Die Vorhut bestand aus jungen Rekruten, Kriegsversehrten – und Hectors Einheit. Sie marschierten durch grauen Schlamm und fliegende Asche, ohne Deckung, unter feindlichem Beschuss.
 

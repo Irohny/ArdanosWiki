@@ -78,11 +78,11 @@ _„Zeit ist eine Kette. Und ich bin das Glied, das deine Freiheit bricht.“_
 - **Volle Titel:** Malvurax, Stimme der Flammen, Bote der Neunten Hölle, Chronist des Verderbens
 - **Rolle:**
     - **Berater des Zeitdiebes**, dem Anführer des Kults der Ewigen Spaltung
-    - **Botschafter [[Spielleiter/Gegner NPCs/Ephazul]]s**, überbringt Befehle, Geschenke und Warnungen aus Nessus (der 9. Höllenebene)
+    - **Botschafter [[Ephazul]]s**, überbringt Befehle, Geschenke und Warnungen aus Nessus (der 9. Höllenebene)
     - **Wächter des „Buchs der Zeitlinien“**, einem höllischen Artefakt, das alternative Schicksale beschreibt
         
 - **Hintergrund:**  
-    Einst ein gefallener Adliger in einem sterblichen Reich, wurde Malvurax durch einen finsteren Pakt mit [[Spielleiter/Gegner NPCs/Ephazul]] wiedergeboren. Nach dem **Finsternen Ritual der Zeitbindung** wurde er dauerhaft an den Zeitdieb gebunden – nicht nur als Berater, sondern als **Schatten und Zunge der Hölle**.
+    Einst ein gefallener Adliger in einem sterblichen Reich, wurde Malvurax durch einen finsteren Pakt mit [[Ephazul]] wiedergeboren. Nach dem **Finsternen Ritual der Zeitbindung** wurde er dauerhaft an den Zeitdieb gebunden – nicht nur als Berater, sondern als **Schatten und Zunge der Hölle**.
     
 ---
 ## Zitate

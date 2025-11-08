@@ -22,7 +22,7 @@ Start Datum: 13 (Markttag) Licht (Frühling) 2486 ndD
 - Ritter und Kleriker passen Gruppe im Keller ab
 - Rettung der [[Träne der Sonne]]
 
-- [[Spielleiter/Gegner NPCs/Zerra die Flüsterin]]
+- [[Zerra die Flüsterin]]
 	- Telepatische Verbindung mit Hector
 	- Rettet den Grafen Bericht des Plans
 	- Zera schmunzelt verstohlen

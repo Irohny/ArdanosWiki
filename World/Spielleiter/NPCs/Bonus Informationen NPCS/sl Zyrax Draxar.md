@@ -1,3 +1,3 @@
 Handlungsoptionen
-- Anhänger von [[Spielleiter/Gegner NPCs/Ephazul]]
+- Anhänger von [[Ephazul]]
 - Verbündeter von [[Marktgraf Reodemus]]

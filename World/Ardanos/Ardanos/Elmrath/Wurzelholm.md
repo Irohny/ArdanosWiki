@@ -9,7 +9,7 @@ Das Dorf wurde im Jahr 1973 n.d.D unter der Regenschaft von [[Naeryss Silven]] g
 
 ---
 
-### 🧑‍🌾 **Bewohner & Familien**
+### **Bewohner & Familien**
 
 Wurzelholm ist eng verbunden mit traditionellen Halblingsfamilien, die seit Generationen hier leben. Besonders bekannt sind:
 
@@ -26,7 +26,7 @@ Wurzelholm ist eng verbunden mit traditionellen Halblingsfamilien, die seit Gene
 
 ---
 
-### 🍻 **Der Grüne Drache – Taverne & Herz des Dorfes**
+### **Der Grüne Drache – Taverne & Herz des Dorfes**
 
 Im Herzen des Dorfes liegt die Taverne **„Zum Grünen Drachen“**, ein gemütliches Fachwerkhaus mit niedrigen Balken, dicken Eichentischen und einem stets gut gefüllten Fasskeller. Hier trifft man sich am Abend, hört Geschichten vom Großonkel, der einst beinahe ein Ork-Camp gesehen hat, und spielt Pfeife um Pfeife beim Würfelspiel **„Sieben Gänse“**.
 
@@ -34,7 +34,7 @@ Wirtin **Mirabella Tuck**, eine spitzzüngige Halblingsdame mit einem Herz aus H
 
 ---
 
-### 🌳 **Besonderheiten in Wurzelgrund**
+### **Besonderheiten in Wurzelgrund**
 
 - **Das Alte Steinrad** am Dorfrand soll einst Teil eines alten Weges von Elmrath gewesen sein – oder ein Mühlstein. Niemand weiß es genau.
     

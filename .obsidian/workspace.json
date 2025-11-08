@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "ca676490bbf17a60",
+    "type": "split",
+    "children": [
+      {
+        "id": "d06f25ffc587e4b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd5e878daed5455e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11fffd6bb074f24e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b042cc7e163faf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bb59a01a7be8bd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6a00efb876a6f6bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0a46d92d093c25d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "49288e380e9748a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "af32615063dc011b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78512af95e51abd4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "a210622dc84da5f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5dd6f86c02c53496",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bc01c703f599c511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5bb59a01a7be8bd2",
+  "lastOpenFiles": [
+    "World/Ardanos/Organisationen/Rabenwache.md",
+    "World/Spielleiter/Orte/sl_Erytratempel.md",
+    "World/vs_Vishuda/Tashioren/Tashiro'en.md",
+    "World/vs_Vishuda/Tashioren/Schattenblütengarten.md",
+    "World/vs_Vishuda/Tashioren/Mitglieder der Tashiro'en.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Velgrin Dämmermark.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Tharun Flammenbund.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Sashara Morgenfall.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Quillis Kupferfuß.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Orden der Klarheit.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Nytheas Schattenquell.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Malbion Graubart.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Lysira Weidenflair.md",
+    "World/Ardanos/Organisationen/Orden der Klarheit/Kreis der Teleportation.md",
+    "World/Ardanos/Organisationen/Gischtgeborene/Schwarze Granat.md",
+    "World/Ardanos/Organisationen/Gischtgeborene/Gischtgeborenen.md",
+    "World/Ardanos/Organisationen/Gischtgeborene/Blood Pearl.md",
+    "World/Ardanos/Organisationen/Gischtgeborene/Blackwood Blake.md",
+    "World/mc_Marcus/Bizeptiner Orden/Sanctum Pumpitorium.md",
+    "World/mc_Marcus/Bizeptiner Orden/Refugium des reinen Gains.md",
+    "World/mc_Marcus/Bizeptiner Orden/Bizeptiner Orden.md",
+    "World/mc_Marcus/Bizeptiner Orden/Bizeptiner Bräu.md",
+    "World/mc_Marcus/Bizeptiner Orden/Arn'Old.md",
+    "World/Ardanos/Charakter/Spieler/Vishuda.md",
+    "World/Ardanos/Charakter/Spieler/Syvaris Nachtseele.md",
+    "World/Ardanos/Charakter/Spieler/Nyssara Elenvyre.md",
+    "World/Spielleiter/Fundus/Gegner/Gefallender Stern 1.png",
+    "World/Spielleiter/Fundus/Gegner/Gefallender Stern 2.png",
+    "World/Spielleiter/Fundus/Tränke/Elexir der Wandelnen Träume.png",
+    "World/Spielleiter/Fundus/Tränke/Flasche des ewigen Rums.png",
+    "World/Spielleiter/Fundus/Tränke/Trank 1.png",
+    "World/Spielleiter/Fundus/Tränke/Trank 2.png",
+    "World/Spielleiter/Fundus/Tränke/Trank 3.png",
+    "World/Spielleiter/Fundus/Waffen/Bogen der Wispernen Blätter.png",
+    "World/Spielleiter/Fundus/Waffen/Bogen Reiter 1.png",
+    "World/Spielleiter/Fundus/Waffen/Efeustab.png",
+    "World/Spielleiter/NPCs",
+    "World/Spielleiter/Orte",
+    "World/NPCs.base"
+  ]
+}

@@ -13,11 +13,17 @@ def header():
 
     if not st.session_state["current_path"].endswith(".md"):
         st.header(f"{st.session_state['current_path'].split('/')[-1]}")
+        name = "Ardanos Wiki"
         st.text(
             """Navigiere mit der Sidebar durch das Wiki und erkunde die Ecken von Andaros. Mit zurück kommst du in den vorherigen Ordner. Viel Spaß und melde dich, wenn du mal wieder eine Runde in diesem Universum spielen willst."""
         )
-        name = "Ardanos Wiki"
-        st.image(f"{cfg.IMAGE_DIR}/Ardanos.jpeg")
+        cols = st.columns([1, 7])
+        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Drakmora.png")
+        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Elmrath.png")
+        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Mariven.png")
+        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Vaylen.png")
+        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Schwarzklamm.png")
+        cols[1].image(f"{cfg.IMAGE_DIR}/Ardanos.jpeg")
     else:
         name = st.session_state["current_path"].split("/")[-1].replace(".md", "")
     name = name.split("_")[-1]

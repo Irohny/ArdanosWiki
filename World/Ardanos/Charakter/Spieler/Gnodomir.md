@@ -3,4 +3,5 @@
 ## Aktuelle Infos:
 * Hat 4 Bettlerspione in [[Luminara]] angeworben
 * Wettsüchtig
+
 ![[gn_Backstory Gnodomir]]

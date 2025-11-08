@@ -72,7 +72,7 @@ Eldrin ist ein **Zauberwirker des 7. Grades** (Warlock, Pakt der Schatten, Chari
 
 ## Hintergrund
 
-Eldrin war einst ein einfacher Heiler – mitfühlend, aufopferungsvoll, ein Licht in den dunklen Gassen der Armenviertel von [[Nebelhafen]]. Sein Leben war dem Helfen gewidmet, bis er eines Nachts einer Gestalt begegnete, die mehr Schatten als Substanz war: **[[Spielleiter/Gegner NPCs/Zerra die Flüsterin]]**, eine Gesante des Zeitdiebs. Sie trat mit sanfter Stimme und schimmernden Augen, die mehr sahen, als Worte je ausdrücken konnten.
+Eldrin war einst ein einfacher Heiler – mitfühlend, aufopferungsvoll, ein Licht in den dunklen Gassen der Armenviertel von [[Nebelhafen]]. Sein Leben war dem Helfen gewidmet, bis er eines Nachts einer Gestalt begegnete, die mehr Schatten als Substanz war: **[[Zerra die Flüsterin]]**, eine Gesante des Zeitdiebs. Sie trat mit sanfter Stimme und schimmernden Augen, die mehr sahen, als Worte je ausdrücken konnten.
 
 Sie bot ihm eine **Schriftrolle**, auf der das **Ritual des Lebenstransfers** verzeichnet war – ein uraltes, nekrotisches Werk, das die Lebensjahre eines Menschen nehmen und auf einen anderen übertragen konnte. Für Eldrin war es keine dunkle Gabe, sondern ein Werkzeug: eine Möglichkeit, **die Reichen jung zu halten** und mit dem Gold, das sie dafür bezahlten, **Krankenhäuser für die Bedürftigen zu errichten**. Er wurde gefeiert, bewundert – ein Wohltäter mit geheimen Mitteln.
 

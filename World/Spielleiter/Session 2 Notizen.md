@@ -4,7 +4,10 @@
 	- Mönche erzählen von einem unbekannten Auftraggeber
 	- Waterboarding
 	- Zweiter Attentatplan (Paladin & Kleriker) Verzaubern und Töten
-- Visionen werden ausgelöst ([[Gnodomir]], [[Nyssara Elenvyre]] & [[Bruder Marcus]], [[Vishuda]] & [[Hector]])
+- Visionen werden ausgelöst 
+	- [[Gnodomir]] -> Untergang von [[]]
+	- [[Nyssara Elenvyre]] & [[Bruder Marcus]],
+	- [[Vishuda]] & [[Hector]])
 - [[Vishuda]] bekommt den Auftrag die [[Träne der Sonne]] in den [[Nebelhafen]] zu bringen
 - Gruppe erstellt Plan:
 	- Treffen mit [[Marktgraf Reodemus]] (Warnen und Notflass Entführen)

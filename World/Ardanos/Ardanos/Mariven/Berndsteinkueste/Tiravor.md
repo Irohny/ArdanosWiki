@@ -21,7 +21,7 @@ Im Inneren beherbergt sie:
 
 ---
 
-### 📜 Besonderheiten & Geheimnisse
+### Besonderheiten & Geheimnisse
 
 - **Die Brücke singt bei Sturm** – Der Wind lässt die alten Gewölbe singen, und manche sagen, es seien die Stimmen gefallener Soldaten.
     
@@ -31,15 +31,4 @@ Im Inneren beherbergt sie:
     
 - Der Lumaros selbst bringt manchmal **leuchtendes Treibgut** aus dem Norden – seltsame Holzstücke, Knochen oder alte Artefakte.
     
-
----
-
-### 🧑‍🤝‍🧑 NSC-Ideen
-
-- **Hauptmann Virelda Thorne**: Kommandantin der Grenzwache, hart aber gerecht, einst Heldin an der Nordgrenze.
-    
-- **Mirun der Ältere**: Der Flusschronist, ein alter Gelehrter mit Liebe zu Legenden über das Wasser.
-    
-- **Revai „Sechsaugen“**: Exzentrische Fischerin, behauptet, sie sehe „Geister auf der Insel“.
-    
-- **Der Einsiedler von Darnûn**: Ein ehemaliger Soldat, lebt zurückgezogen im alten Westturm und spricht in Rätseln.
+![[sl_NPCs_Tiravor]]
