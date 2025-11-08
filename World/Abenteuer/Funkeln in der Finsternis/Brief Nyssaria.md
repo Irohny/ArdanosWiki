@@ -2,7 +2,7 @@
 
 im Auftrag von [[Varian Schattentaenzer]] (er ließ nur vage Grüße ausrichten) und mit dem bekannten Elross an meiner Seite haben wir uns aufgemacht, um den Kontakt zu deinem Expeditionstrupp wiederherzustellen.
 
-Varian berichtete, die fünfköpfige Gruppe sei auf der Suche nach den drei magischen Artefakten, die [[Caelumbran der Letzte Sternenschmied]], als _„[[Schattenherz]]“_, _„[[Herz der Tiefe]]“_ und _„[[World/Abenteuer/Funkeln in der Finsternis/Sternensplitter]]“_ bezeichnete, gewesen. Ich hatte die Hoffnung, dass die Erforschung dieser Artefakte unser Verständnis von arkaner Magie erweitern könnte.
+Varian berichtete, die fünfköpfige Gruppe sei auf der Suche nach den drei magischen Artefakten, die [[Caelumbran der Letzte Sternenschmied]], als _„[[Schattenherz]]“_, _„[[Herz der Tiefe]]“_ und _„[[Sternensplitter]]“_ bezeichnete, gewesen. Ich hatte die Hoffnung, dass die Erforschung dieser Artefakte unser Verständnis von arkaner Magie erweitern könnte.
 
 Übrigens: Auf unserem Weg stieß ein weiterer Abenteurer zu uns, der behauptete, er habe seinen Namen offenbar vergessen. Da wir keine bessere Wahl hatten, tauften wir ihn auf „Sir Hoppel“. Was genau ihn hierher geführt hat, bleibt ein Rätsel, und niemand hielt es im Verlauf unserer Expedition für wichtig, genauer nachzufragen.
 

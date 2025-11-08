@@ -11,7 +11,7 @@ Die Arbeit ist vollendet. Der Wille der Entitäten war wie ein Sturm durch mein 
 
 Das Erste. Geschnitten aus den Kristallen der Unterwelt. Dort, wo das Licht stirbt und der Druck der Tiefe das Bewusstsein zerreißt, formte ich das Gefäß. _Thal’Aruun_, die Gläserne Königin, ist darin gefesselt – ihr Spiegelhauch durchdringt das Kristallherz.
 
-#### II. Der **[[World/Abenteuer/Funkeln in der Finsternis/Sternensplitter]]**
+#### II. Der **[[Sternensplitter]]**
 
 Das Zweite. Gebrochen aus dem Schuppenlicht eines gefallenen Himmelskörpers. Myzzarith, das Sternblut, wünschte sich keinen Körper – nur Sichtbarkeit. In jedem Splitter hallt sein Bewusstsein nach, gefesselt in dem Moment seines Absturzes. Die Realität um das Artefakt vibriert… ich kann es nicht lange berühren, ohne Zeit zu verlieren.
 

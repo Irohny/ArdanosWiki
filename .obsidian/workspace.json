@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "282187e6f65f9676",
+        "id": "3b4ac32035724bf4",
         "type": "tabs",
         "children": [
           {
-            "id": "96547278e418f3db",
+            "id": "5b23b959d3516bf9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gnodomirs Chroniken"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Gnodomirs Chroniken"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gnodomirs Chroniken"
+              "title": "Outgoing links"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gnodomirs Chroniken"
+              "title": "Outline"
             }
           }
         ]
@@ -169,34 +162,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "96547278e418f3db",
+  "active": "5b23b959d3516bf9",
   "lastOpenFiles": [
-    "World/Abenteuer/Funkeln in der Finsternis/Brief Nyssaria.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Brakk Eisenfaust.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Funkeln in der Finsternis.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Sternensplitter.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Schattenherz.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Kristallwald.md",
-    "World/Spielleiter/Played Funkeln in der Finsternis/Funkeln in der Finsternis.md",
-    "World/Spielleiter/Artefakte/sl_Sternensplitter.md",
-    "World/Spielleiter/NPCs/Myzzarith, das Sternblut.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Herz der Tiefe.md",
-    "World/Spielleiter/NPCs/Thal'Aruun die Gläserne Königin.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Werkstattnotiz Nr. 47 – Letzter Eintrag.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Werkstatt von Caelumbran.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Thramli Eisenzeichen.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Tagebuch- Expedition 1.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Tagebuch - Expedition 2.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Sylwen Schattenblatt.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Halle des Herzens.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Caelumbran der Letzte Sternenschmied.md",
-    "World/Abenteuer/Funkeln in der Finsternis/Caelen Dorwyn.md",
-    "World/Spielleiter/Played Funkeln in der Finsternis/Caelumbran Werkstatt Fight.md",
-    "World/Ardanos/Ardanos/Schwarzklamm/Tiefe Hallen.md",
-    "World/Spielleiter/Played Funkeln in der Finsternis/Zwergentür der Tiefen Hallen.md",
-    "World/Spielleiter/Played Funkeln in der Finsternis/Kristallwald Skillchallange.md",
-    "World/Spielleiter/Played Funkeln in der Finsternis/Suche der Werkstatt.md",
-    "World/Abenteuer/Gnodomirs Chroniken.md",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Session 3.md",
+    "World/Images/Schatzkammer_innen.png",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Visionen für den Weg.md",
+    "World/vs_Vishuda/vs_Backstory.md",
+    "World/gn_Gnodomir/gn_Backstory Gnodomir.md",
+    "World/ny_Nyssara/ny_Nyssara Schattenfluch.md",
+    "World/hc_Hector/hc_Backstory.md",
+    "World/mc_Marcus/mc_Bruder Marcus Backstory.md",
+    "Untitled.md",
+    "World/mc_Marcus/Brief Bruder Marcus.md",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Zeitungsartikel.png",
+    "World/gn_Gnodomir/Brief Gnodomir.md",
+    "World/vs_Vishuda/Brief Bruder.md",
+    "World/hc_Hector/Brief.md",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Nachrichten.md",
+    "World/Spielleiter/Played OneShots",
+    "World/Spielleiter/Kampange/Das Leben der Unsterblichen.md",
+    "World/Images/Untitled.md",
+    "World/Images/Schatzkammer_Eingang.jpg",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Session 1.md",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Notizen.md",
+    "World/Ardanos/Ardanos/Geschichte/Kalender.md",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Session 2.md",
+    "World/Ardanos/Ardanos/Elmrath/NPCs/Lady Maerina von Elmrath.md",
+    "World/Spielleiter/NPCs/Gegner NPCs/Zerra die Flüsterin.md",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Delegationen.md",
+    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Monster.md",
+    "World/Ardanos/Ardanos/Elmrath/NPCs/Elsinya von Elmrath.md",
+    "World/Ardanos/Ardanos/Elmrath/NPCs/Viktoria von Elmrath.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Items",
+    "World/Abenteuer/Funkeln in der Finsternis/Orte",
+    "World/Abenteuer/Funkeln in der Finsternis/Charakter",
     "World/Abenteuer/Funkeln in der Finsternis",
     "World/Abenteuer",
     "World/Spielleiter/Fundus/Gegner/Gefallender Stern 1.png",
@@ -206,9 +205,6 @@
     "World/Spielleiter/Fundus/Tränke/Trank 1.png",
     "World/Spielleiter/Fundus/Tränke/Trank 2.png",
     "World/Spielleiter/Fundus/Tränke/Trank 3.png",
-    "World/Spielleiter/Fundus/Waffen/Bogen der Wispernen Blätter.png",
-    "World/Spielleiter/Fundus/Waffen/Bogen Reiter 1.png",
-    "World/Spielleiter/Fundus/Waffen/Efeustab.png",
     "World/Spielleiter/NPCs",
     "World/Spielleiter/Orte",
     "World/NPCs.base"

@@ -13,3 +13,19 @@ Er war der einzige Überlebende. Offiziell: totgemeldet. Inoffiziell: ein gebroc
 ---
 
 **Heute** reist Hector durch das Land – nicht als Retter, sondern als Richter. Sein Glaube an Ordnung wurde durch das Versagen der Edlen zerstört. Er glaubt nur noch an eins: gerechte Vergeltung. Seine Macht zieht er nicht aus Hoffnung, sondern aus Rache. Und wo immer das Banner mit den Lilien weht, ist sein Zorn nicht weit.
+
+---
+
+#### Vision im [[Stolzes Einhorn]] Session 2:
+
+> __Schwarze Wellen brechen donnernd an einen Strand aus versteinertem Bernstein. Ihr Schaum schimmert wie Tinte im Licht eines sterbenden Himmels._
+
+_In der Ferne liegt eine Stadt – von Nebel umfangen, ihre Türme wie Schattenrisse im Zwielicht. Es ist **Nebelhafen**._
+
+_Hinter ihr dehnt sich die weite Ebene **Drakmoras** aus, goldene Lilien wie ein endloses Meer, sanft im Wind – noch._
+
+_Doch das Meer selbst verdunkelt sich. Die Flut wird schwarz wie Öl, gischtet auf und stürzt sich gegen die Stadtmauern. Welle um Welle schlingt sich um Nebelhafen wie eine ertrinkende Hand._
+
+_Gleichzeitig färbt sich der Horizont rot. Rauch steigt auf. Die goldenen Felder hinter der Stadt brennen – langsam zuerst, dann in gieriger Glut. Das Feuer kriecht, frisst, tobt – und alles, was lebt, wird zu Asche._
+
+_Die Vision endet mit einem einzelnen Lilienstängel, der in der Luft schwebt. Seine Blüte rußgeschwärzt, sein Stiel blutrot.__

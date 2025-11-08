@@ -22,32 +22,13 @@ Die Wahrheit war grausam:
 
 > _„Das Schattenherz rettet dich. Immer. Doch nie umsonst. Für jedes Leben, das du verlierst, stirbt ein anderes in deiner Nähe. Eine Seele wird ausgelöscht – und in dich aufgenommen.“_
 
----
-
-### 👥 **Der Fluch der Vielen**
+#### **Der Fluch der Vielen**
 
 Seitdem trägt Nyssara **zahlreiche Seelen** in sich. Manche ruhig, manche zornig, manche voller Trauer oder Rachedurst. Wenn eine von ihnen die Kontrolle übernimmt, ändert sich nicht nur ihr Aussehen – sondern auch ihr Verhalten, ihre Fähigkeiten, ihre Sicht auf die Welt.
 
 Sie kann diese Wechsel mittlerweile _steuern_ – meist. Doch in Momenten großer Gefahr oder seelischer Erschütterung wechseln die Seelen von selbst.
 
 ---
-
-### ⚖️ **Das ewige Dilemma**
-
-Sie lebt – aber auf Kosten anderer. Sie kann retten, doch nur, indem sie nimmt.  
-In ihren stillen Stunden fragt sie sich:  
-**Wie viele Leben ist mein eigenes wert?**
-
----
-
-## 🎭 **Rollenspielhinweise**
-
-- **Regelmäßiger Wechsel** der Seele  langer Rast
-    
-- Jeder „Avatar“ hat ein anderes Aussehen, vielleicht sogar leicht andere Werte, Akzente, oder Magievorlieben
-    
-- Nyssara erinnert sich **an alles**, was ihre anderen Gestalten getan haben
-    
-- Die Seelen können im Traum zu ihr sprechen (Rollenspielpotenzial!)
-    
-- Sie trägt das Schattenherz immer bei sich – in der Brust oder eingebrannt als Mal
+#### Vision im [[Stolzes Einhorn]] Session 2:
+Ein silberner Pfad, von Morgensonne bestrahlt, windet sich durch goldene Felder. In der Ferne: eine grün-bewachsene Anhöhe, von Halblingsmusik erfüllt.  
+Doch plötzlich zieht ein Schatten über das Land – die Musik wandelt sich und klingt schief und krum.  Das Festzelt in der Ferne fängt Feuer. Ein Glockenturm schlägt 12.

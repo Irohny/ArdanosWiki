@@ -1,7 +1,7 @@
 ![[ZeraFluesterin.jpeg|200]]
 - **Klasse & Stufe/Herausfordungsgrad:** Spion 6
 - **Volk/Herkunft:**  #Elf  Schwarzer Zirkel von Thal’Korith
-- **Alias:** __Lady Iryll Silberglanz__ am Hofe
+- **Alias:** [[Lady Maerina von Elmrath]]
 - **Alter:** 542
 - **Gesinnung:** Rechtschaffend Böse 
 - **Sprachen:** #Elfisch #Gemeinsprache #Infernalisch #Abysisch 
