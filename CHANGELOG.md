@@ -15,6 +15,7 @@
 * fix: Sidebar out of bounds and false title (2025-05-18)
 
 ### Chore
+* chore: Add lore and setup (2025-11-05)
 * chore: Add lore and Setup (2025-11-05)
 * chore: Add lore and restructure templates (2025-08-19)
 * chore: Add lore and restructure templates (2025-08-19)
