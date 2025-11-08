@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d06f25ffc587e4b0",
+        "id": "282187e6f65f9676",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5e878daed5455e",
+            "id": "96547278e418f3db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Gnodomirs Chroniken"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 324.5
   },
   "right": {
     "id": "49288e380e9748a4",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Gnodomirs Chroniken"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Gnodomirs Chroniken"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "World/Abenteuer/Gnodomirs Chroniken.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Gnodomirs Chroniken"
             }
           }
         ]
@@ -162,34 +169,36 @@
       "bases:Create new base": false
     }
   },
-  "active": "5bb59a01a7be8bd2",
+  "active": "96547278e418f3db",
   "lastOpenFiles": [
-    "World/Ardanos/Organisationen/Rabenwache.md",
-    "World/Spielleiter/Orte/sl_Erytratempel.md",
-    "World/vs_Vishuda/Tashioren/Tashiro'en.md",
-    "World/vs_Vishuda/Tashioren/Schattenblütengarten.md",
-    "World/vs_Vishuda/Tashioren/Mitglieder der Tashiro'en.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Velgrin Dämmermark.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Tharun Flammenbund.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Sashara Morgenfall.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Quillis Kupferfuß.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Orden der Klarheit.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Nytheas Schattenquell.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Malbion Graubart.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Lysira Weidenflair.md",
-    "World/Ardanos/Organisationen/Orden der Klarheit/Kreis der Teleportation.md",
-    "World/Ardanos/Organisationen/Gischtgeborene/Schwarze Granat.md",
-    "World/Ardanos/Organisationen/Gischtgeborene/Gischtgeborenen.md",
-    "World/Ardanos/Organisationen/Gischtgeborene/Blood Pearl.md",
-    "World/Ardanos/Organisationen/Gischtgeborene/Blackwood Blake.md",
-    "World/mc_Marcus/Bizeptiner Orden/Sanctum Pumpitorium.md",
-    "World/mc_Marcus/Bizeptiner Orden/Refugium des reinen Gains.md",
-    "World/mc_Marcus/Bizeptiner Orden/Bizeptiner Orden.md",
-    "World/mc_Marcus/Bizeptiner Orden/Bizeptiner Bräu.md",
-    "World/mc_Marcus/Bizeptiner Orden/Arn'Old.md",
-    "World/Ardanos/Charakter/Spieler/Vishuda.md",
-    "World/Ardanos/Charakter/Spieler/Syvaris Nachtseele.md",
-    "World/Ardanos/Charakter/Spieler/Nyssara Elenvyre.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Brief Nyssaria.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Brakk Eisenfaust.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Funkeln in der Finsternis.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Sternensplitter.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Schattenherz.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Kristallwald.md",
+    "World/Spielleiter/Played Funkeln in der Finsternis/Funkeln in der Finsternis.md",
+    "World/Spielleiter/Artefakte/sl_Sternensplitter.md",
+    "World/Spielleiter/NPCs/Myzzarith, das Sternblut.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Herz der Tiefe.md",
+    "World/Spielleiter/NPCs/Thal'Aruun die Gläserne Königin.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Werkstattnotiz Nr. 47 – Letzter Eintrag.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Werkstatt von Caelumbran.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Thramli Eisenzeichen.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Tagebuch- Expedition 1.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Tagebuch - Expedition 2.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Sylwen Schattenblatt.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Halle des Herzens.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Caelumbran der Letzte Sternenschmied.md",
+    "World/Abenteuer/Funkeln in der Finsternis/Caelen Dorwyn.md",
+    "World/Spielleiter/Played Funkeln in der Finsternis/Caelumbran Werkstatt Fight.md",
+    "World/Ardanos/Ardanos/Schwarzklamm/Tiefe Hallen.md",
+    "World/Spielleiter/Played Funkeln in der Finsternis/Zwergentür der Tiefen Hallen.md",
+    "World/Spielleiter/Played Funkeln in der Finsternis/Kristallwald Skillchallange.md",
+    "World/Spielleiter/Played Funkeln in der Finsternis/Suche der Werkstatt.md",
+    "World/Abenteuer/Gnodomirs Chroniken.md",
+    "World/Abenteuer/Funkeln in der Finsternis",
+    "World/Abenteuer",
     "World/Spielleiter/Fundus/Gegner/Gefallender Stern 1.png",
     "World/Spielleiter/Fundus/Gegner/Gefallender Stern 2.png",
     "World/Spielleiter/Fundus/Tränke/Elexir der Wandelnen Träume.png",

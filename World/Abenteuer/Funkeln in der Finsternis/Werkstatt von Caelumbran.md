@@ -9,10 +9,5 @@ In der Mitte der Halle klafft ein gewaltiger Riss im Boden – tief und finster,
 - Ein kalter Luftzug strömt aus dem Riss, begleitet von einem kaum wahrnehmbaren, pulsierenden Rhythmus – als würde etwas darunter atmen.
 - Immer wieder flackern Trugbilder auf: Schatten von Zwergen an Schmiedefeuern, kurz sichtbar, dann verschwunden.
 
-**Kampfbegegnung:**
-
-- **4 kleine Erdelementare**
--  An der Leiche des gelehrten findet man die Tagebücher [[Tagebuch- Expedition 1]] und [[Tagebuch - Expedition 2]]
-- In der Bibliothek findet sich die Aufzeichnung von [[Werkstattnotiz Nr. 47 – Letzter Eintrag]]
 
 ![[Schmiede von Caelebran.jpg]]
