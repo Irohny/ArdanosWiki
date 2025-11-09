@@ -4,9 +4,24 @@ Der Schlossplatz liegt direkt vor dem prächtigen Schloss und bietet einen eindr
 
 ### Schloss Erdgeschoss
 * [[Delegationen]] treffen sich in der Bibliothek
-![[Ballraum.jpg|750]]
+* Ballsaal
+* Küche
+* Atrium
+![[Ballraum.jpg|350]]
+
 ### Schlosskeller
 * Ausgänge Schlossplatz, Hafen, Stadtmauer(Innenseite beim Stadttor)
 * Krypta ([[Pelor]])
-![[Schlosskeller.jpg|750]]
+* Küche Untergeschoss
+* Untergeschoss Ballsaal
+* Schatzkammer
+* Zwinger/Kerker Laboratorium
+* Bibliothek
+* Wachkammern
+![[Schlosskeller.jpg|350]]
+![[Ballsaal_Keller.jpeg|300]]
+## Schatzkammer
 
+![[Schatzkammer_Eingang.jpg|200]]
+![[Schatzkammer_innen.png|200]]
+![[Schatzkammer_Vorraum.jpeg|200]]
