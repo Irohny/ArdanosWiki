@@ -15,8 +15,7 @@
 
 - **Der Kodex der Unvollendeten Kapitel**
 	- **Siegel der Ströme** ([[Melora]])
-	- **Gegner:** Lady Seress, Medusa und Formwandlerin
-	- **Gegner:** Xal'Zhurn, Gedankenmeister
+	- **Gegner:** [[Lady Seress]], [[Xal'Zhurn]]
 	- **Region:** [[Mariven]]
 	- **Paladin:** [[Edran Tiefstrom]], _„Der Schild der Gezeiten“_
 

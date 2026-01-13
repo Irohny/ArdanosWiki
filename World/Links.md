@@ -1,0 +1,3 @@
+- https://inkarnate.com
+- https://mr-dialect.com/deutscher-dialekt-uebersetzer/deutsch-elbisch-uebersetzer/
+- 

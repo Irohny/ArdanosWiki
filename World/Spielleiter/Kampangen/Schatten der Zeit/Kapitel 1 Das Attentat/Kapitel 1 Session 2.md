@@ -1,4 +1,5 @@
-Start Datum: 13 (Markttag) Licht (Frühling) 2486 ndD 
+Startdatum: 13 (Markttag) Licht (Frühling) 2486 ndD 
+Endatum: 14 (Gnadentag) Licht (Frühling) 2486 n.d.D. 
 ### Breaking Point:
 * Spieler haben die 2 Mönche gefangen genommen und bringe sie in das [[Stolzes Einhorn]]
 * Kleriker baut ein Bettlernetzwerk auf. Aktuelle größe = 4

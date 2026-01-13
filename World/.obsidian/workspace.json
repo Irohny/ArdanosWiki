@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "423c27804642b294",
+        "id": "3560a6f3ae3e6807",
         "type": "tabs",
         "children": [
           {
-            "id": "019c3bb65dfd3608",
+            "id": "033fd2abaa5c796f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ardanos/Ardanos/Elmrath/Luminara/Palast des Kaisers.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Palast des Kaisers"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 353.5
   },
   "right": {
     "id": "b693fe0798ea280e",
@@ -170,53 +166,53 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "019c3bb65dfd3608",
+  "active": "033fd2abaa5c796f",
   "lastOpenFiles": [
+    "gn_Gnodomir/gn_Backstory Gnodomir.md",
+    "templates/nsc_template.md",
+    "Ardanos/Charakter/Spieler/Gnodomir.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 1 Das Attentat/Kapitel 1 Session 4.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Ziele.md",
+    "Spielleiter/NPCs/Gegner NPCs/Xal'Zhurn.md",
+    "Spielleiter/NPCs/Gegner NPCs/Lady Seress.md",
+    "Spielleiter/Session 2 Notizen.md",
+    "Spielleiter/Aufgaben.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Die Suche nach dem Kodex.md",
+    "Spielleiter/Paladine des Goldenen Schildes/Edran Tiefstrom.md",
+    "Spielleiter/Paladine des Goldenen Schildes/Die Paladine des Goldschildes.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Muschelkrieg.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Invasion der Nordbarbaren.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Feuerfeld von Nebelstein.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Erzkrieg von Eron’Gath.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Eid von Morgenfels.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Die Feuertaufe von Kar'drathar.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Das Sonnenwunder von Valmere.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Blutfeldzug in der Aschenweite.md",
+    "Ardanos/Ardanos/Geschichte/Geschichte/Baraberenüberfälle von Mariven.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Von Stärke und Sehnsucht.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Wenn Wasser schweigen.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Ritual der Aionen.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 1 Das Attentat/Kapitel 1 Session 3.md",
+    "Ardanos/Ardanos/Elmrath/Marktgraf Reodemus.md",
+    "Spielleiter/Kampangen/Vor dem ewigen Pakt",
+    "Spielleiter/Kampangen",
+    "Spielleiter/Kampangen/Der Fall der Eisenzinnen",
+    "Tokens/TokenHector.png",
+    "Images/Hector.jpeg",
     "Images/Tokens/TokenTeppich.png",
     "Images/Tokens/TokenRüstung.png",
     "Images/Tokens/TokenReodemus.png",
     "Images/Tokens/TokenPaladin.png",
     "Images/Tokens/TokenKlerik.png",
     "Images/Tokens",
-    "Ardanos/Ardanos/Elmrath/Luminara/Luminara.md",
-    "Ardanos/Ardanos/Elmrath/Luminara/Hafen von Luminara.md",
-    "Ardanos/Ardanos/Elmrath/Luminara/Grüner Wyvern.md",
-    "Ardanos/Ardanos/Elmrath/Luminara/Goldene Rune.md",
-    "Ardanos/Ardanos/Ardanos.md",
     "Images/Ballsaal_Keller.jpeg",
     "Images/StAurelia_map.png",
     "NPCs.base",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Spielleiter/Neutrale NPCs/Lyrius Vael.md",
-    "Spielleiter/Der Liebhaber auf der Flucht.md",
-    "Ardanos/Charakter/Kaiser/Alinor Thorne II.md",
-    "Spielleiter/Gegner NPCs/Zerra die Flüsterin.md",
-    "Das Bunte Band.md",
-    "Spielleiter/Neutrale NPCs/ECHO.md",
-    "Spielleiter/Klan Seelenhauch.md",
-    "Spielleiter/Neutrale NPCs/Kyra die goldene Kette.md",
-    "Spielleiter/Gegner NPCs/Der Namensnehmer.md",
-    "Spielleiter/Codex des Nichtseins.md",
-    "Spielleiter/Liga des wahren Mets.md",
-    "Spielleiter/Skaldentrunk.md",
     "Images/Wappen der Liga des Wahren Mets.png",
-    "Ardanos/Alchemie/Tranksammlung/Zunderelixier.md",
-    "Ardanos/Alchemie/Tranksammlung/Trank des goldenen Schicksals.md",
-    "Ardanos/Alchemie/Tranksammlung/Trank der Stummen Stimme.md",
-    "Ardanos/Alchemie/Tranksammlung/Trank der Katzenwahrnehmung.md",
-    "Ardanos/Alchemie/Tranksammlung/Trank der Heilung.md",
-    "Ardanos/Alchemie/Tranksammlung/Trank der Gravitas.md",
     "templates",
     "Spielleiter/Paladine des Goldenen Schildes",
     "Assets/08. Player Characters",
     "Assets",
-    "Chroniken von Ardanos",
-    "Tokens/token3.png",
-    "Tokens/token2.png",
-    "Tokens/token1.png",
-    "Tokens",
-    "Spielleiter/Auf dem Weg",
-    "Spielleiter/Kampange/Feuersiegel"
+    "Chroniken von Ardanos"
   ]
 }
