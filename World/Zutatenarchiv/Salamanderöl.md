@@ -1,1 +1,4 @@
-- **Seltenheit:** Selten - **Wert:** 8 Gold - **Fundort:** Vulkane, Salamanderbehausungen, **Beschreibung:** Brennbares Öl, heiß und langlebig
+- **Seltenheit:** #Selten 
+- **Wert:** 8G 
+- **Fundort:** Vulkane, Salamanderbehausungen, 
+- **Beschreibung:** Brennbares Öl, heiß und langlebig

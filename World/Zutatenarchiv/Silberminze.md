@@ -1,1 +1,4 @@
-- **Seltenheit:** Ungewöhnlich - **Wert:** 3 Gold - **Fundort:** Gärten, Klosteranlagen, **Beschreibung:** Minze mit silbernem Schimmer, reinigend und erfrischend
+- **Seltenheit:** #Ungewöhnlich 
+- **Wert:** 3G 
+- **Fundort:** Gärten, Klosteranlagen, 
+- **Beschreibung:** Minze mit silbernem Schimmer, reinigend und erfrischend

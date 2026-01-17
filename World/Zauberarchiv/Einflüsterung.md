@@ -4,7 +4,8 @@
 - **Konzentration:** Ja
 - **Zauberzeit/Ausführung:** 1Aktion   
 - **Reichweite:**  9m
-- **Komponenten:**  #Verbal #Material (eine Schlangenzunge und entweder eine kleine Honigwabe oder ein Tropfen süßes Öl) 
+- **Komponenten:**  #Verbal #Material 
+- **Materialien:** eine Schlangenzunge und entweder eine kleine Honigwabe oder ein Tropfen süßes Öl
 - **Dauer/Wirkung:** 8h
 - **Rettungswürfe:** Weisheit
 - **Angriffsart:**

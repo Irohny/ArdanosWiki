@@ -1,1 +1,4 @@
-- **Seltenheit:** Selten - **Wert:** 6 Gold - **Fundort:** Wüsten, Monsterjäger, **Beschreibung:** Giftiger Stachel, ideal für Waffengifte
+- **Seltenheit:** #Selten 
+- **Wert:** 6G
+- **Fundort:** Wüsten, Monsterjäger, 
+- **Beschreibung:** Giftiger Stachel, ideal für Waffengifte

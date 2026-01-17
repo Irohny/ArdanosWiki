@@ -4,7 +4,8 @@
 - **Konzentration:** ja  
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  Berührung
-- **Komponenten:** #Verbal #Geste #Material (eine Wimper, mit Gummiarabikum ummantelt)   
+- **Komponenten:** #Verbal #Geste #Material 
+- **Materialien:** eine Wimper, mit Gummiarabikum ummantelt
 - **Dauer/Wirkung:** 1h 
 - **Rettungswürfe:**
 - **Angriffsart:**

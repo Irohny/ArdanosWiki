@@ -1,4 +1,4 @@
- - **Seltenheit:** Legendär 
- - **Wert:** 5 Platin 
+ - **Seltenheit:** #Legendär 
+ - **Wert:** 5P
  - **Fundort:** Alte Drachen, mythische Orte, 
  - **Beschreibung:** Eine selten vergossene Träne eines Drachen, rein und mächtig

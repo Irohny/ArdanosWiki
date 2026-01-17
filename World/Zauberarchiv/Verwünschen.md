@@ -4,7 +4,8 @@
 - **Konzentration:** ja  
 - **Zauberzeit/Ausführung:** 1 Bonusaktion   
 - **Reichweite:**  27m
-- **Komponenten:**   #Verbal #Geste #Material (das versteinerte Auge eines Molches)
+- **Komponenten:**   #Verbal #Geste #Material 
+- **Materialien:** das versteinerte Auge eines Molches
 - **Dauer/Wirkung:** 1 Stunde
 - **Rettungswürfe:**
 - **Angriffsart:**

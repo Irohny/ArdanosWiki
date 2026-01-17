@@ -5,6 +5,7 @@
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  36m
 - **Komponenten:**   #Verbal #Geste 
+- **Materialien:**
 - **Dauer/Wirkung:** sofort
 - **Rettungswürfe:**
 - **Angriffsart:** Fernkampf

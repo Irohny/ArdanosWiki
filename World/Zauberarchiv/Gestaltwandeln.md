@@ -4,7 +4,8 @@
 - **Konzentration:** ja  
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  selbst
-- **Komponenten:**   #Verbal #Geste #Material (ein Jadediadem im Wert von mindestens 1.500 GM, das du aufsetzen musst, bevor du den Zauber wirkst)
+- **Komponenten:**   #Verbal #Geste #Material 
+- **Materialien:** ein Jadediadem im Wert von mindestens 1.500 GM, das du aufsetzen musst, bevor du den Zauber wirkst
 - **Dauer/Wirkung:** 1Stunde
 - **Rettungswürfe:**
 - **Angriffsart:**

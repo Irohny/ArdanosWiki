@@ -1,1 +1,4 @@
- - **Seltenheit:** Gewöhnlich - **Wert:** 6 Silber - **Fundort:** Waldlichtungen, alte Brauereien, **Beschreibung:** Aromatische Pflanze, beruhigt und stärkt
+ - **Seltenheit:** #Gewöhnlich 
+ - **Wert:** 6 S 
+ - **Fundort:** Waldlichtungen, alte Brauereien, 
+ - **Beschreibung:** Aromatische Pflanze, beruhigt und stärkt

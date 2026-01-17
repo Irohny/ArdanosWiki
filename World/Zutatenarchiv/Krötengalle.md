@@ -1,1 +1,4 @@
-- **Seltenheit:** Ungewöhnlich - **Wert:** 2 Gold - **Fundort:** Sümpfe, Hexenhütten, **Beschreibung:** Bittere, schleimige Flüssigkeit mit toxischer Wirkung
+- **Seltenheit:** #Ungewöhnlich 
+- **Wert:** 2 G 
+- **Fundort:** Sümpfe, Hexenhütten, 
+- **Beschreibung:** Bittere, schleimige Flüssigkeit mit toxischer Wirkung

@@ -51,7 +51,9 @@ def create_sidebar():
     if not subtree:
         st.stop()
 
-    dnd_line(st.sidebar, "Ordner:")
+    name = st.session_state["current_path"].split("/")[-1].replace(".md", "")
+    dnd_line(st.sidebar, name)
+
     i = 1
     for folder in subtree:
         if folder == "__files__" or any([f in folder for f in cfg.DATABASE_LIST]):
@@ -67,7 +69,7 @@ def create_sidebar():
         i += 1
 
     if st.session_state["current_path"] == st.session_state["root_path"]:
-        dnd_line(st.sidebar, "Datenbanken:")
+        dnd_line(st.sidebar, "Sammlungen:")
         for db in cfg.DATABASE_LIST:
             # show bestiarium only for the gamemaster
             if (

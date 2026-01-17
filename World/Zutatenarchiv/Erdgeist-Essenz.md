@@ -1,1 +1,4 @@
- - **Seltenheit:** Sehr selten - **Wert:** 12 Gold - **Fundort:** Höhlen, Elementarrituale, **Beschreibung:** Dichte, erdige Flüssigkeit mit stabilisierender Wirkung
+ - **Seltenheit:** #SehrSelten 
+ - **Wert:** 12G 
+ - **Fundort:** Höhlen, Elementarrituale, 
+ - **Beschreibung:** Dichte, erdige Flüssigkeit mit stabilisierender Wirkung

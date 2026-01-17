@@ -1,1 +1,4 @@
-- **Seltenheit:** Sehr selten - **Wert:** 10 Gold - **Fundort:** Tiefwälder, Höhlen, Unterreich, **Beschreibung:** Pilz, der nur bei Neumond wächst und Dunkelheit erzeugt
+- **Seltenheit:** #SehrSelten 
+- **Wert:** 10G 
+- **Fundort:** Tiefwälder, Höhlen, Unterreich, 
+- **Beschreibung:** Pilz, der nur bei Neumond wächst und Dunkelheit erzeugt

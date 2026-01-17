@@ -1,1 +1,4 @@
- - **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Schattenebenen, Dämmerdickicht, **Beschreibung:** Leuchtendes Moos, das Illusionen erzeugt
+ - **Seltenheit:** #SehrSelten 
+ - **Wert:** 2P 
+ - **Fundort:** Schattenebenen, Dämmerdickicht, 
+ - **Beschreibung:** Leuchtendes Moos, das Illusionen erzeugt

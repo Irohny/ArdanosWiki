@@ -1,1 +1,4 @@
- - **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Basiliskennester, Jäger, **Beschreibung:** Blut mit versteinernden Eigenschaften
+ - **Seltenheit:** #SehrSelten 
+ - **Wert:** 2P 
+ - **Fundort:** Basiliskennester, Jäger
+ - **Beschreibung:** Blut mit versteinernden Eigenschaften

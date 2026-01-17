@@ -1,1 +1,4 @@
-- **Seltenheit:** Gewöhnlich - **Wert:** 1 Silber - **Fundort:** Minen, Schmieden, **Beschreibung:** Schwermetallstaub, dämpft magische Energien
+- **Seltenheit:** #Gewöhnlich 
+- **Wert:** 1S 
+- **Fundort:** Minen, Schmieden
+- **Beschreibung:** Schwermetallstaub, dämpft magische Energien

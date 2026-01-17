@@ -1,4 +1,4 @@
- - **Seltenheit:** Selten 
- - **Wert:** 6 Gold 
+ - **Seltenheit:** #Selten 
+ - **Wert:** 6G
  - **Fundort:** Tiefe Wälder, Hexengärten, Druidenzirkel
  - **Beschreibung:** Magische Wurzel mit betäubender Wirkung

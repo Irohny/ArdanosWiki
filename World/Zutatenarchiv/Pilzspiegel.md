@@ -1,1 +1,4 @@
- - **Seltenheit:** Selten - **Wert:** 9 Gold - **Fundort:** Mykologische Tempel, Sumpfwälder, **Beschreibung:** Spiegelt andere Pilze in Wirkung und Gestalt
+ - **Seltenheit:** #Selten 
+ - **Wert:** 9G 
+ - **Fundort:** Mykologische Tempel, Sumpfwälder, 
+ - **Beschreibung:** Spiegelt andere Pilze in Wirkung und Gestalt

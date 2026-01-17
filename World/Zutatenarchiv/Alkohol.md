@@ -1,2 +1,5 @@
-| Gewöhnlich | 5 Kupfer | Spirituose als Lösungsmittel | Tavernen, Händler |
-| ---------- | -------- | ---------------------------- | ----------------- |
+
+- **Seltenheit:** #Gewöhnlich 
+ - **Wert:** 5K
+ - **Fundort:** Tavernen, Händler
+ - **Beschreibung:** Spirituose als Lösungsmittel

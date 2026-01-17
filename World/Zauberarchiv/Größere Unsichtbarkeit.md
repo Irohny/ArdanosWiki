@@ -5,6 +5,7 @@
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  selbst, Berührung
 - **Komponenten:**   #Verbal #Geste 
+- **Materialien:**
 - **Dauer/Wirkung:** 1Minute
 - **Rettungswürfe:**
 - **Angriffsart:**

@@ -1,1 +1,4 @@
- - **Seltenheit:** Gewöhnlich - **Wert:** 3 Kupfer - **Fundort:** Feuerstellen, Werkstätten, **Beschreibung:** Rückstand verbrannter Pflanzen, neutralisierend
+ - **Seltenheit:** #Gewöhnlich 
+ - **Wert:** 3K 
+ - **Fundort:** Feuerstellen, Werkstätten, 
+ - **Beschreibung:** Rückstand verbrannter Pflanzen, neutralisierend

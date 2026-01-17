@@ -1,1 +1,4 @@
- - **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Verlassene Festungen, zerstörte Golems, **Beschreibung:** Magischer Reststaub, verstärkt Festigkeit und Härte
+ - **Seltenheit:** #SehrSelten 
+ - **Wert:** 2P 
+ - **Fundort:** Verlassene Festungen, zerstörte Golems, 
+ - **Beschreibung:** Magischer Reststaub, verstärkt Festigkeit und Härte

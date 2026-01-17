@@ -1,4 +1,4 @@
- - **Seltenheit:**
+ - **Seltenheit:** #Gewöhnlich #Ungewöhnlich #Selten #SehrSelten #Legendär
  - **Wert:**
  - **Fundort:** 
  - **Beschreibung:** 

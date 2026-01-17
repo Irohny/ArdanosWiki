@@ -1,1 +1,4 @@
- - **Seltenheit:** Selten - **Wert:** 7 Gold - **Fundort:** Alchemistenlabore, Hexengärten, **Beschreibung:** Konzentrierter Saft der Alraune, stark betäubend und bewusstseinsverändernd
+ - **Seltenheit:** #Selten 
+ - **Wert:** 7G
+ - **Fundort:** Alchemistenlabore, Hexengärten, 
+ - **Beschreibung:** Konzentrierter Saft der Alraune, stark betäubend und bewusstseinsverändernd

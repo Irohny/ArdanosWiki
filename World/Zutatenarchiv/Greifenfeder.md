@@ -1,1 +1,4 @@
-- **Seltenheit:** Sehr selten - **Wert:** 14 Gold - **Fundort:** Greifennester, Luftkavallerie, **Beschreibung:** Feder eines Greifen, beschleunigt Bewegungen
+- **Seltenheit:** #SehrSelten 
+- **Wert:** 14G 
+- **Fundort:** Greifennester, Luftkavallerie, 
+- **Beschreibung:** Feder eines Greifen, beschleunigt Bewegungen

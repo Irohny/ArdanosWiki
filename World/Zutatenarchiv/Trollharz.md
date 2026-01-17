@@ -1,1 +1,4 @@
-- **Seltenheit:** Selten - **Wert:** 9 Gold - **Fundort:** Höhlen, Trollnester, Schwarzmarkt, **Beschreibung:** Harziger Ausfluss von Trollwunden, regenerativ und zäh
+- **Seltenheit:** #Selten 
+- **Wert:** 9G 
+- **Fundort:** Höhlen, Trollnester, Schwarzmarkt, 
+- **Beschreibung:** Harziger Ausfluss von Trollwunden, regenerativ und zäh

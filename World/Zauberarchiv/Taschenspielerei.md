@@ -5,6 +5,7 @@
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  3m
 - **Komponenten:**  #Verbal #Geste  
+- **Materialien:**
 - **Dauer/Wirkung:** 1 Stunde
 - **Rettungswürfe:**
 - **Angriffsart:**

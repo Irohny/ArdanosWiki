@@ -1,1 +1,4 @@
-- **Seltenheit:** Gewöhnlich - **Wert:** 5 Kupfer - **Fundort:** Berghänge, Druidenquellen, heilige Orte, **Beschreibung:** Reines Wasser aus einer magischen Quelle
+- **Seltenheit:** #Gewöhnlich 
+- **Wert:** 5K 
+- **Fundort:** Berghänge, Druidenquellen, heilige Orte, 
+- **Beschreibung:** Reines Wasser aus einer magischen Quelle

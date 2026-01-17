@@ -1,1 +1,4 @@
-- **Seltenheit:** Sehr selten - **Wert:** 2 Platin - **Fundort:** Drachenhöhlen, legendäre Jäger, **Beschreibung:** Kristallisierter Hauch eines weißen Drachen, eisige Wirkung
+- **Seltenheit:** #SehrSelten 
+- **Wert:** 2 P 
+- **Fundort:** Drachenhöhlen, legendäre Jäger, 
+- **Beschreibung:** Kristallisierter Hauch eines weißen Drachen, eisige Wirkung

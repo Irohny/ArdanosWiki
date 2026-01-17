@@ -1,1 +1,4 @@
- - **Seltenheit:** Gewöhnlich - **Wert:** 2 Silber - **Fundort:** Bauernhöfe, Karawanen, **Beschreibung:** Nährende Flüssigkeit, oft als sanfte Basis verwendet
+ - **Seltenheit:** #Gewöhnlich 
+ - **Wert:** 2S 
+ - **Fundort:** Bauernhöfe, Karawanen, 
+ - **Beschreibung:** Nährende Flüssigkeit, oft als sanfte Basis verwendet

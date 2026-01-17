@@ -1,1 +1,4 @@
- - **Seltenheit:** Ungewöhnlich - **Wert:** 2 Gold - **Fundort:** Tempel, Reliktstätten, **Beschreibung:** Kristallisierte Träne mit leichter magischer Resonanz
+ - **Seltenheit:** #Ungewöhnlich 
+ - **Wert:** 2G 
+ - **Fundort:** Tempel, Reliktstätten, 
+ - **Beschreibung:** Kristallisierte Träne mit leichter magischer Resonanz

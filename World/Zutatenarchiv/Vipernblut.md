@@ -1,1 +1,4 @@
- - **Seltenheit:** Ungewöhnlich - **Wert:** 3 Gold - **Fundort:** Schlangenfänger, Sümpfe, **Beschreibung:** Toxische Flüssigkeit, lähmend
+ - **Seltenheit:** #Ungewöhnlich
+ - **Wert:** 3G 
+ - **Fundort:** Schlangenfänger, Sümpfe, 
+ - **Beschreibung:** Toxische Flüssigkeit, lähmend

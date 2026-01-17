@@ -1,1 +1,4 @@
- - **Seltenheit:** Sehr selten - **Wert:** 14 Gold - **Fundort:** Spinnengrüfte, Drow-Höhlen, **Beschreibung:** Magisch gewebte Seide, nahezu unsichtbar
+ - **Seltenheit:** #SehrSelten 
+ - **Wert:** 14G 
+ - **Fundort:** Spinnengrüfte, Drow-Höhlen, 
+ - **Beschreibung:** Magisch gewebte Seide, nahezu unsichtbar

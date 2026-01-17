@@ -4,7 +4,8 @@
 - **Konzentration:** Nein  
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  45m
-- **Komponenten:**   #Verbal #Geste #Material (eine winzige Kugel aus Fledermausguano und Schwefel)
+- **Komponenten:**   #Verbal #Geste #Material 
+- **Materialien:** eine winzige Kugel aus Fledermausguano und Schwefel
 - **Dauer/Wirkung:** sofort
 - **Rettungswürfe:** Geschicklicheit
 - **Angriffsart:** Fernkampf

@@ -1,1 +1,4 @@
- - **Seltenheit:** Selten - **Wert:** 11 Gold - **Fundort:** Giftmischer, Assassinenzirkel, **Beschreibung:** Flüssiges Gift aus Silber, wirkt gegen Untote
+ - **Seltenheit:** #Selten 
+ - **Wert:** 11G
+ - **Fundort:** Giftmischer, Assassinenzirkel, 
+ - **Beschreibung:** Flüssiges Gift aus Silber, wirkt gegen Untote

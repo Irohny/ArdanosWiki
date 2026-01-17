@@ -1,1 +1,4 @@
- - **Seltenheit:** Selten - **Wert:** 9 Gold - **Fundort:** Kriegsruinen, Dämonenkulte, **Beschreibung:** Brennende Essenz reinen Hasses, steigert Aggression
+ - **Seltenheit:** #Selten 
+ - **Wert:** 9G
+ - **Fundort:** Kriegsruinen, Dämonenkulte, 
+ - **Beschreibung:** Brennende Essenz reinen Hasses, steigert Aggression

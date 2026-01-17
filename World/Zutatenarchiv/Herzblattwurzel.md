@@ -1,4 +1,4 @@
- - **Seltenheit:** Selten 
- - **Wert:** 8 Gold 
+ - **Seltenheit:** #Selten 
+ - **Wert:** 8G
  - **Fundort:** Tiefwälder, Heilgärten, 
  - **Beschreibung:** Lebensspendende Wurzel, in vielen Heiltränken enthalten

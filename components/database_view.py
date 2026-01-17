@@ -1,6 +1,7 @@
 import streamlit as st
-from components import utils
 import pandas as pd
+from components.show_file import make_internal_links_clickable
+import re
 
 
 def show_database(db: str):
@@ -19,28 +20,60 @@ def set_to_databse_view(db: str):
     st.session_state["db"] = db
 
 
-def show_table(df: pd.DataFrame, columns: list[str]):
+def process_option(options: list[str]) -> list[str]:
+    filtering = [False]
+    for j, opt in enumerate(options):
+        if isinstance(opt, str) and "#" in opt:
+            filtering.append(True)
+    if not any(filtering):
+        return options
+    alternatives = []
+    for opt in options:
+        alternatives.extend(opt.split("#")[1:])
+    return alternatives
+
+
+def show_table(
+    df: pd.DataFrame,
+    columns: list[str],
+    column_filter: list[str] | None = None,
+    db: str = "",
+):
+    if column_filter is not None:
+        cols = st.columns(len(column_filter))
+        for i, cf in enumerate(column_filter):
+            options = list(df[cf].unique())
+            options = process_option(options)
+            cols[i].multiselect(
+                cf,
+                options,
+                key=f"filter_{cf}",
+                on_change=set_to_databse_view,
+                args=(db,),
+            )
+
+    if column_filter is not None:
+        for cf in column_filter:
+            if len(st.session_state[f"filter_{cf}"]) > 0:
+                pattern = "|".join(map(re.escape, st.session_state[f"filter_{cf}"]))
+                df = df[df[cf].str.contains(pattern, case=False, na=False)]
+
+    df.sort_values("Name", inplace=True, ignore_index=True)
     cols = st.columns(len(columns))
     for i, c in enumerate(columns):
-        if c == "Pfad":
-            cols[i].subheader("Infos")
-            continue
         cols[i].subheader(c)
     st.markdown("---")
     for _, row in df.iterrows():
         cols = st.columns(len(columns))
         for i, c in enumerate(columns):
-            if c == "Pfad":
-                cols[i].button(
-                    "Mehr",
-                    key=f"{row['Name']}_view",
-                    use_container_width=True,
-                    type="tertiary",
-                    on_click=utils.set_path,
-                    args=(row[c],),
-                )
+            text = row[c]
+            if text is None:
                 continue
-            cols[i].markdown(row[c])
+            if c == "Name":
+                text = make_internal_links_clickable(f"[[{text}]]")
+            if "#" in text:
+                text = ", ".join(text.split("#")[1:])
+            cols[i].markdown(text, unsafe_allow_html=True)
         st.markdown("---")
 
 
@@ -52,9 +85,8 @@ def bestiarium_view():
         "Gesinnung",
         "Rüstungsklasse",
         "Grundlage",
-        "Pfad",
     ]
-    show_table(st.session_state["Bestiarium"], columns)
+    show_table(st.session_state["Bestiarium"], columns, "Bestiarium")
 
 
 def zauberarchiev_view():
@@ -64,9 +96,9 @@ def zauberarchiev_view():
         "Schule",
         "Komponenten",
         "Konzentration",
-        "Pfad",
     ]
-    show_table(st.session_state["Zauberarchiv"], columns)
+    column_filter = ["Grad", "Schule", "Komponenten"]
+    show_table(st.session_state["Zauberarchiv"], columns, column_filter, "Zauberarchiv")
 
 
 def trank_view():
@@ -75,9 +107,11 @@ def trank_view():
         "Tags",
         "Wert",
         "Seltenheit",
-        "Pfad",
     ]
-    show_table(st.session_state["Tranksammlung"], columns)
+    column_filter = ["Seltenheit", "Tags"]
+    show_table(
+        st.session_state["Tranksammlung"], columns, column_filter, "Tranksammlung"
+    )
 
 
 def zutaten_view():
@@ -86,6 +120,8 @@ def zutaten_view():
         "Wert",
         "Seltenheit",
         "Fundort",
-        "Pfad",
     ]
-    show_table(st.session_state["Zutatenarchiv"], columns)
+    column_filter = ["Seltenheit"]
+    show_table(
+        st.session_state["Zutatenarchiv"], columns, column_filter
+    ), "Zutatenarchiv"

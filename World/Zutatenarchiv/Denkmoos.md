@@ -1,1 +1,4 @@
- - **Seltenheit:** Selten - **Wert:** 5 Gold - **Fundort:** Nebelwälder, Ruinen, alte Bibliotheken, **Beschreibung:** Moos, das mentale Fähigkeiten schärft
+ - **Seltenheit:** #Selten 
+ - **Wert:** 5G
+ - **Fundort:** Nebelwälder, Ruinen, alte Bibliotheken, 
+ - **Beschreibung:** Moos, das mentale Fähigkeiten schärft

@@ -1,1 +1,4 @@
- - **Seltenheit:** Legendär - **Wert:** 5 Platin - **Fundort:** Nest eines sterbenden Phönix, **Beschreibung:** Glühende Feder mit enorm regenerativer Kraft
+ - **Seltenheit:** #Legendär 
+ - **Wert:** 5P
+ - **Fundort:** Nest eines sterbenden Phönix, 
+ - **Beschreibung:** Glühende Feder mit enorm regenerativer Kraft

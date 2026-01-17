@@ -1,1 +1,4 @@
- - **Seltenheit:** Sehr selten - **Wert:** 15 Gold - **Fundort:** Gehirnfresser, psionische Wesen, **Beschreibung:** Dunkle Flüssigkeit, verstärkt mentale Fähigkeiten
+ - **Seltenheit:** #SehrSelten 
+ - **Wert:** 15G 
+ - **Fundort:** Gehirnfresser, psionische Wesen, 
+ - **Beschreibung:** Dunkle Flüssigkeit, verstärkt mentale Fähigkeiten

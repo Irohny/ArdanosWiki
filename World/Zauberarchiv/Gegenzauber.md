@@ -5,6 +5,7 @@
 - **Zauberzeit/Ausführung:**  1 Reaktion   
 - **Reichweite:**  18m
 - **Komponenten:**   #Geste 
+- **Materialien:**
 - **Dauer/Wirkung:**  sofort
 - **Rettungswürfe:**
 - **Angriffsart:**

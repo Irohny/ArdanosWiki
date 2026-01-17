@@ -4,7 +4,8 @@
 - **Konzentration:** Nein  
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  9m
-- **Komponenten:**  #Geste #Material (1 Stück Vlies) 
+- **Komponenten:**  #Geste #Material 
+- **Materialien:** 1 Stück Vlies 
 - **Dauer/Wirkung:** 1 Minute
 - **Rettungswürfe:**
 - **Angriffsart:**

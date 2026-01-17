@@ -1,1 +1,4 @@
- - **Seltenheit:** Selten - **Wert:** 7 Gold - **Fundort:** Gletscherhöhlen, Eisregionen, **Beschreibung:** Kalter Kristall mit konservierender Wirkung
+ - **Seltenheit:** #Selten 
+ - **Wert:** 7G 
+ - **Fundort:** Gletscherhöhlen, Eisregionen, 
+ - **Beschreibung:** Kalter Kristall mit konservierender Wirkung

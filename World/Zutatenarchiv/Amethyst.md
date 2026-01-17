@@ -1,1 +1,4 @@
- - **Seltenheit:** Ungewöhnlich - **Wert:** 3 Gold - **Fundort:** Bergwerke, Juwelierläden, **Beschreibung:** Violetter Edelstein, fördert geistige Klarheit
+ - **Seltenheit:** #Ungewöhnlich 
+ - **Wert:** 3G 
+ - **Fundort:** Bergwerke, Juwelierläden
+ - **Beschreibung:** Violetter Edelstein, fördert geistige Klarheit

@@ -4,7 +4,8 @@
 - **Konzentration:** ja  
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  18m
-- **Komponenten:**   #Verbal #Geste #Material (ein kleines, gerades Stück Eisen)
+- **Komponenten:**   #Verbal #Geste #Material 
+- **Materialien:** ein kleines, gerades Stück Eisen
 - **Dauer/Wirkung:** 1Minute
 - **Rettungswürfe:** Weisheit
 - **Angriffsart:**

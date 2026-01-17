@@ -1,1 +1,4 @@
- - **Seltenheit:** Gewöhnlich - **Wert:** 1 Gold - **Fundort:** Schlachtfelder, Grabstätten, **Beschreibung:** Pulverisierte Knochen, oft in nekromantischer Alchemie
+ - **Seltenheit:** #Gewöhnlich 
+ - **Wert:** 1G
+ - **Fundort:** Schlachtfelder, Grabstätten, 
+ - **Beschreibung:** Pulverisierte Knochen, oft in nekromantischer Alchemie

@@ -1,1 +1,4 @@
-- **Seltenheit:** Gewöhnlich - **Wert:** 1 Silber - **Fundort:** Felder, Gärten, Kräutermärkte, **Beschreibung:** Rote Blüte mit beruhigender und schmerzstillender Wirkung
+- **Seltenheit:** #Gewöhnlich 
+- **Wert:** 1S 
+- **Fundort:** Felder, Gärten, Kräutermärkte, 
+- **Beschreibung:** Rote Blüte mit beruhigender und schmerzstillender Wirkung

@@ -1,1 +1,4 @@
- - **Seltenheit:** Sehr selten - **Wert:** 13 Gold - **Fundort:** Feenlichtwiesen, Nymphenhaine, **Beschreibung:** Magische Blüte, die Charisma und Ausstrahlung stärkt
+ - **Seltenheit:** #SehrSelten 
+ - **Wert:** 13G 
+ - **Fundort:** Feenlichtwiesen, Nymphenhaine, 
+ - **Beschreibung:** Magische Blüte, die Charisma und Ausstrahlung stärkt

@@ -1,0 +1,4 @@
+ - **Seltenheit:**  #Selten
+ - **Wert:** 5G
+ - **Fundort:** Verfluchte Ruinen,  hochmagische Ebenen
+ - **Beschreibung:** Blasses leicht schimmernde Grashalme

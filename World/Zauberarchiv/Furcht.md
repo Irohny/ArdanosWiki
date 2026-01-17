@@ -4,7 +4,8 @@
 - **Konzentration:** Ja  
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  9m Kegel
-- **Komponenten:**   #Verbal #Geste #Material (eine weiße Feder oder das Herz einer Henne)
+- **Komponenten:**   #Verbal #Geste #Material 
+- **Materialien:** eine weiße Feder oder das Herz einer Henne
 - **Dauer/Wirkung:** 1Minute 
 - **Rettungswürfe:** Weisheit
 - **Angriffsart:**

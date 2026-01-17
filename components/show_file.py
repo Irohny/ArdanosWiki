@@ -11,12 +11,12 @@ def __process_tags(text: str) -> str:
 
 def __process_text_block(text: str) -> str:
     """Verarbeitet einen Textabschnitt: Links & Tags hervorheben."""
-    text = __make_internal_links_clickable(text)
+    text = make_internal_links_clickable(text)
     text = __process_tags(text)
     return text
 
 
-def __make_internal_links_clickable(text: str) -> str:
+def make_internal_links_clickable(text: str) -> str:
     """Ersetzt [[Link]] durch klickbare HTML-Links mit ?page=... Parametern."""
 
     def replace_link(match):

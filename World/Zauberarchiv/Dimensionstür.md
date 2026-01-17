@@ -5,6 +5,7 @@
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  150m
 - **Komponenten:**   #Verbal
+- **Materialien:**
 - **Dauer/Wirkung:** sofort
 - **Rettungswürfe:**
 - **Angriffsart:**

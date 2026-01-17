@@ -5,6 +5,7 @@
 - **Zauberzeit/Ausführung:** 1Reaktion   
 - **Reichweite:**  18m
 - **Komponenten:**   #Verbal #Geste 
+- **Materialien:**
 - **Dauer/Wirkung:** sofort
 - **Rettungswürfe:** Geschicklichteit
 - **Angriffsart:**
