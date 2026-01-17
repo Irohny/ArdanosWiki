@@ -1,6 +1,7 @@
-# Changelog 0.8.1
+# Changelog 0.9.1
 
 ### Feat
+* feat (2026-01-17): Add basic filter in Sammlung Views
 * feat (2026-01-17): Add databse view for Monster, Recepies, Ingridiendes and Spells
 * feat (2025-06-06): Show user spezific information based on role
 * feat (2025-06-06): Add login
