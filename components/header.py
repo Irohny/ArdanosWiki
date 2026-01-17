@@ -1,7 +1,8 @@
 import streamlit as st
 import os
 from components import utils
-from config import cfg
+from components.show_file import show_image
+from components.database_view import show_database
 
 
 def header():
@@ -9,21 +10,28 @@ def header():
     cols[0].markdown(f":gray-badge[{st.session_state['current_path']}]")
     __search_field(cols[1])
     col = st.columns([1, 15])
-    col[0].image(f"{cfg.IMAGE_DIR}/dnd_logo.svg", use_container_width=True)
+    show_image(col[0], "dnd_logo.svg", False)
 
-    if not st.session_state["current_path"].endswith(".md"):
+    if (
+        not st.session_state["current_path"].endswith(".md")
+        and not st.session_state["db_flag"]
+    ):
         st.header(f"{st.session_state['current_path'].split('/')[-1]}")
         name = "Ardanos Wiki"
         st.text(
             """Navigiere mit der Sidebar durch das Wiki und erkunde die Ecken von Andaros. Mit zurück kommst du in den vorherigen Ordner. Viel Spaß und melde dich, wenn du mal wieder eine Runde in diesem Universum spielen willst."""
         )
         cols = st.columns([1, 7])
-        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Drakmora.png")
-        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Elmrath.png")
-        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Mariven.png")
-        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Vaylen.png")
-        cols[0].image(f"{cfg.IMAGE_DIR}/Wappen Schwarzklamm.png")
-        cols[1].image(f"{cfg.IMAGE_DIR}/Ardanos.jpeg")
+        show_image(cols[0], "Wappen Drakmora.png")
+        show_image(cols[0], "Wappen Elmrath.png")
+        show_image(cols[0], "Wappen Mariven.png")
+        show_image(cols[0], "Wappen Vaylen.png")
+        show_image(cols[0], "Wappen Schwarzklamm.png")
+        show_image(cols[1], "Ardanos.jpeg")
+    elif st.session_state["db_flag"]:
+        show_database(f"{st.session_state['root_path']}/{st.session_state['db']}")
+        name = st.session_state["db"]
+        st.session_state["db_flag"] = False
     else:
         name = st.session_state["current_path"].split("/")[-1].replace(".md", "")
     name = name.split("_")[-1]

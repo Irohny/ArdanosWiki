@@ -1,3 +1,4 @@
+![[Federbart.jpg|200]]
 - **Name:** „Prinz“ Federbart
 - **Rasse:** Kenku
 - **Rolle:** Scharfschützin & Ausguck

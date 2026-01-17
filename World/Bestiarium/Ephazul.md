@@ -1,5 +1,7 @@
-- **Klasse & Stufe/Herausfordungsgrad:** 
-- **Volk/Herkunft:**  #9Höllenkreis , Zeitschatten zwischen Realitäten
+- **Grundlage:** #Homebrew 
+- **Stufe/Herausfordungsgrad:** 20
+- **Volk/Herkunft:** #9Höllenkreis , Zeitschatten zwischen den Realitäten  
+- **Klasse:**
 - **Alias:** __Erzdämon der Unzeit__, __Niemalsgeborene__
 - **Alter:** unbekannt
 - **Gesinnung:** Rechtschaffend Böse

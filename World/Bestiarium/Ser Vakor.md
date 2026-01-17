@@ -1,6 +1,8 @@
 ![[SerValkor.jpeg|200]]
-- **Klasse & Stufe/Herausfordungsgrad:**  #Paladin 10
-- **Volk/Herkunft:**  #Tiefling
+- **Grundlage:** #Homebrew 
+- **Stufe/Herausfordungsgrad:** 10
+- **Volk/Herkunft:**  #Tiefling  
+- **Klasse:** #Paladin 
 - **Alias:** __Klinge der Verdammnis__
 - **Alter:** 65
 - **Gesinnung:** Rechtschaffend Böse 

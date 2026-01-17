@@ -5,6 +5,7 @@
 - **Zauberzeit/Ausführung:**   
 - **Reichweite:**  
 - **Komponenten:**   
+- **Materialien:**
 - **Dauer/Wirkung:** 
 - **Rettungswürfe:**
 - **Angriffsart:**

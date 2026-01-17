@@ -4,7 +4,8 @@
 - **Konzentration:** Nein  
 - **Zauberzeit/Ausführung:** 1 Aktion   
 - **Reichweite:**  #Berührung
-- **Komponenten:**   #Verbal #Geste #Material (eine gegabelte Metallrute im Wert von mindestens 250 GM, die auf eine bestimmte Existenzebene eingestimmt ist)
+- **Komponenten:**   #Verbal #Geste #Material 
+- **Materialien:** eine gegabelte Metallrute im Wert von mindestens 250 GM, die auf eine bestimmte Existenzebene eingestimmt ist
 - **Dauer/Wirkung:** sofort
 - **Rettungswürfe:**
 - **Angriffsart:**

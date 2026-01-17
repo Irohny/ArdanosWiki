@@ -1,3 +1,4 @@
+![[ThavosWindzunge.jpg|400]]
 - **Rasse:** Mensch
 - **Rolle:** Zauberkundiger Navigator
 - **Merkmale:** Überdrehter Windmagier, der ständig auf der Suche nach dem „perfekten Sturm“ ist

@@ -2,19 +2,37 @@ import streamlit as st
 import os
 from components.login import User, Roles
 from config import cfg
+from pathlib import Path
+
+
+def collect_images_by_name(root_path: str) -> dict[str, str]:
+    """
+    Durchsucht rekursiv root_path nach Bildern und gibt ein Dict
+    {bildname: voller_pfad} zurück.
+    """
+    image_extensions = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp", ".svg"}
+    images = {}
+
+    root = Path(root_path)
+
+    for file in root.rglob("*"):
+        if file.is_file() and file.suffix.lower() in image_extensions:
+            images[file.name] = str(file.resolve())
+
+    return images
 
 
 def has_permission(path: str | None, user: User) -> bool:
     if path is None:
         return True
     file = path.split("/")[-1]
-    if user.role == Roles.GameMaster:  # dm can see all files
+    if user.role.value == Roles.GameMaster.value:  # dm can see all files
         return True
     elif file == "Spielleiter":  # skip dm files if not dm
         return False
     elif "_" not in file:  # show all files without permissions
         return True
-    elif user.role == Roles.Player:
+    elif user.role.value == Roles.Player.value:
         return file.startswith(cfg.ROLE_MAPPING[user.name])
     return False
 
@@ -98,6 +116,10 @@ def format_path(path):
 
 def go_to_folder(folder):
     st.session_state["current_path"] = folder
+
+
+def go_to_root():
+    go_to_folder(st.session_state["root_path"])
 
 
 def go_on_top_folder():

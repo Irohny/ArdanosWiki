@@ -1,6 +1,5 @@
 import streamlit as st
 import re
-import os
 from config import cfg
 from components import utils
 
@@ -34,7 +33,11 @@ def __make_internal_links_clickable(text: str) -> str:
     return re.sub(r"\[\[([^\]]+)\]\]", replace_link, text)
 
 
-def show_file(file_path: str):
+def show_image(pos: st, image: str, full_width: bool = True):
+    pos.image(st.session_state["images"][image], use_container_width=full_width)
+
+
+def show_file(file_path: str, columns=None):
     """Zeigt eine Markdown-Datei in Streamlit an, mit Bildern, Links und Tags."""
     try:
         with open(file_path, "r", encoding="utf-8") as f:
@@ -47,7 +50,8 @@ def show_file(file_path: str):
         parts = re.split(pattern, content)
 
         i = 0
-        columns = st.columns([3, 1])
+        if columns is None:
+            columns = st.columns([3, 1])
         while i < len(parts):
             text_part = parts[i]
             if text_part.strip():
@@ -58,7 +62,7 @@ def show_file(file_path: str):
             if i + 1 < len(parts):
                 filename = parts[i + 1]
                 filename = str(filename).split("|")[0]
-                image_path = os.path.join(cfg.IMAGE_DIR, filename)
+                image_path = filename
                 is_image = any([img_kind in filename for img_kind in cfg.IMAGE_TYPES])
                 if not is_image:
                     md_path = utils.find_file_path_in_tree(
@@ -68,13 +72,16 @@ def show_file(file_path: str):
                     md_path = None
                 # display images
                 if is_image:
-                    columns[1].image(image_path)
+                    show_image(columns[1], image_path)
+                # display inserted markdown files
+                elif md_path and utils.has_permission(
+                    md_path, st.session_state["user"]
+                ):
+                    columns[0].markdown("---")
+                    show_file(md_path, columns=columns)
                 # skip game master files
                 elif utils.has_permission(md_path, st.session_state["user"]):
                     pass
-                # display inserted markdown files
-                elif md_path:
-                    show_file(md_path)
                 # error case
                 else:
                     st.error(f"Datei nicht gefunden: {filename}")

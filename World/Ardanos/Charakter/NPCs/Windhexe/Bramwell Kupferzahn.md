@@ -1,3 +1,4 @@
+![[BRamwellKupferzahn.jpg|200]]
 - **Name:** „Onkel“ Bramwell Kupferzahn
 - **Rasse:** Zwerg
 - **Rolle:** Schiffsingenieur / Reparaturmeister

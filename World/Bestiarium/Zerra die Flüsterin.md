@@ -1,6 +1,8 @@
 ![[ZeraFluesterin.jpeg|200]]
-- **Klasse & Stufe/Herausfordungsgrad:** Spion 6
-- **Volk/Herkunft:**  #Elf  Schwarzer Zirkel von Thal’Korith
+- **Grundlage:** #Homebrew
+- **Stufe/Herausfordungsgrad:** 6
+- **Volk/Herkunft:**  #Elf Spion
+- **Klasse:** Schwarzer Zirkel von Thal’Korith
 - **Alias:** [[Lady Maerina von Elmrath]]
 - **Alter:** 542
 - **Gesinnung:** Rechtschaffend Böse 

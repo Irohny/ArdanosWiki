@@ -1,3 +1,4 @@
+![[KrinnBlatwender.jpg|200]]
 - **Name:** Krinn „Blattwender"
 - **Rasse:** Halb-Ork
 - **Rolle:** Koch & Quartiermeister

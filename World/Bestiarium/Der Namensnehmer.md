@@ -1,6 +1,7 @@
-
-- **Klasse & Stufe/Herausfordungsgrad:** Untot 13
+- **Grundlage:** #Online 
+- **Stufe/Herausfordungsgrad:** 13
 - **Volk/Herkunft:**  
+- **Klasse:** Untod
 - **Alias:** Variel Dhoran
 - **Alter:** unebekannt
 - **Gesinnung:** Neutral Böse

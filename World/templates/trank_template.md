@@ -1,6 +1,8 @@
-- Tag: #Trank 
+- Tag: #Trank #Heilung #Verbesserung 
 - **Komponenten:** 
 - **Herstellung:** 
+- **Wert:**
+- **Seltenheit:**
 - **Probe:** 
 - **SG:** 
 - **Erfolg:**

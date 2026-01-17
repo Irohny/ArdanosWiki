@@ -1,5 +1,7 @@
-- **Klasse & Stufe/Herausfordungsgrad:** #Vampir 16
-- **Volk/Herkunft:**  Altes Imperium Val'Thalor
+- **Grundlage:** #Book
+- **Stufe/Herausfordungsgrad:** 16
+- **Volk/Herkunft:** #Vampir   
+- **Klasse:**  Altes Imperium Val'Thalor
 - **Alias:** __Schattenfürst__, __Schlächter Schutzlosen__
 - **Alter:** unbekannt
 - **Gesinnung:** Rechtschaffend Böse

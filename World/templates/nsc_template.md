@@ -1,5 +1,8 @@
-- **Klasse & Stufe/Herausfordungsgrad:** 
-- **Volk/Herkunft:**  
+- **Grundlage:** #Homebrew #Book #Online
+ - **Stufe/Herausfordungsgrad:**
+- **Volk:** 
+- **Herkunft:**
+- **Klasse:**
 - **Alias:**
 - **Alter:**
 - **Gesinnung:** 

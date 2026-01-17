@@ -1,1 +1,0 @@
- - **Seltenheit:** Selten - **Wert:** 6 Gold - **Fundort:** Tiefe Wälder, Hexengärten, **Beschreibung:** Magische Wurzel mit betäubender Wirkung

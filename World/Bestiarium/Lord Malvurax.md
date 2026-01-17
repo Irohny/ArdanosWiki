@@ -1,5 +1,7 @@
-- **Klasse & Stufe/Herausfordungsgrad:** Cambion 7
-- **Volk/Herkunft:**  #Hölle
+- **Grundlage:** #Homebrew
+- **Stufe/Herausfordungsgrad:** 7
+- **Volk/Herkunft:**  Cambion, #Hölle 
+- **Klasse:** Cambion
 - **Alias:** __Botschafter der Tiefe__ , __Lord der Manipulation__
 - **Alter:** unbekannt
 - **Gesinnung:** Rechtschaffend Böse

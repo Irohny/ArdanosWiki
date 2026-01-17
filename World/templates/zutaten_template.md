@@ -1,0 +1,4 @@
+ - **Seltenheit:**
+ - **Wert:**
+ - **Fundort:** 
+ - **Beschreibung:** 
