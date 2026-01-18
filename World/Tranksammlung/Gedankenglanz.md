@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung 
+- Tag:  #Verbesserung 
 - **Komponenten:** [[Schlangengehirn]], [[Denkmoos]], [[Amethyst]]
+- **Wert:**  44G
 - **Herstellung:** Alkoholmazeration, 3 Tage Fermentation
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 14

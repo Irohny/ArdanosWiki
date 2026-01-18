@@ -1,6 +1,7 @@
-- Tag: #Trank #Schaden
+- Tag: #Schaden
 - **Komponenten:** [[Eisquarz]], [[Gletschertau]], [[Drachenatem (weiß)]]
 - **Herstellung:** Kaltdestillation in Eiseisen
+- **Wert:** 334G
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 17
 - **Erfolg:** 3W6 Kälteschaden, Reflex SG 13 halbiert

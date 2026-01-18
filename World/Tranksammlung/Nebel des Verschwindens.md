@@ -1,5 +1,6 @@
-- Tag: #Trank #Aktion 
+- Tag: #Aktion 
 - **Komponenten:** [[Nebelöl]], [[Schweigepilz]], [[Schattenlilien]]
+- **Wert:**  41G
 - **Herstellung:** Destillation der Inhaltsstoffe unter schwacher Hitze, anschließende Infusion mit Etherrauch
 - **SG:** 14 (Alchemie), INT oder WIS + Alchemist’s Supplies
 - **Wirkung – Erfolgreich:** Beim Zerbrechen des Fläschchens entsteht ein dichter Nebel (wie _Nebelschritt_), der eine 6m-Radius-Sphäre vollständig verdeckt (wie _Nebelwolke_ für 1 Minute).

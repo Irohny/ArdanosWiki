@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung 
+- Tag: #Verbesserung 
 - **Komponenten:** [[Golemstaub]], [[Eisenkraut]], [[Trollblut]]
+- **Wert:** 207G
 - **Herstellung:** Destillation unter konstantem Rühren (12h)
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 16

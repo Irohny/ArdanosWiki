@@ -23,13 +23,23 @@ def set_to_databse_view(db: str):
 def process_option(options: list[str]) -> list[str]:
     filtering = [False]
     for j, opt in enumerate(options):
-        if isinstance(opt, str) and "#" in opt:
+        if opt and isinstance(opt, str) and ("#" in opt or "[[" in opt):
             filtering.append(True)
     if not any(filtering):
         return options
     alternatives = []
     for opt in options:
-        alternatives.extend(opt.split("#")[1:])
+        if isinstance(opt, str) and "#" in opt:
+            alternatives.extend(
+                [t.replace(",", "").strip() for t in opt.split("#")[1:]]
+            )
+        elif isinstance(opt, str) and "[[" in opt:
+            alternatives.extend(
+                [
+                    t.replace(",", "").replace("]]", "").strip()
+                    for t in opt.split("[[")[1:]
+                ]
+            )
     return alternatives
 
 
@@ -63,6 +73,7 @@ def show_table(
     for i, c in enumerate(columns):
         cols[i].subheader(c)
     st.markdown("---")
+
     for _, row in df.iterrows():
         cols = st.columns(len(columns))
         for i, c in enumerate(columns):
@@ -71,8 +82,10 @@ def show_table(
                 continue
             if c == "Name":
                 text = make_internal_links_clickable(f"[[{text}]]")
-            if "#" in text:
+            if isinstance(text, str) and "#" in text:
                 text = ", ".join(text.split("#")[1:])
+            if isinstance(text, str) and "[[" in text:
+                text = make_internal_links_clickable(text)
             cols[i].markdown(text, unsafe_allow_html=True)
         st.markdown("---")
 
@@ -86,7 +99,8 @@ def bestiarium_view():
         "Rüstungsklasse",
         "Grundlage",
     ]
-    show_table(st.session_state["Bestiarium"], columns, "Bestiarium")
+    column_filter = ["Stufe", "Volk", "Grundlage"]
+    show_table(st.session_state["Bestiarium"], columns, column_filter, "Bestiarium")
 
 
 def zauberarchiev_view():
@@ -102,13 +116,8 @@ def zauberarchiev_view():
 
 
 def trank_view():
-    columns = [
-        "Name",
-        "Tags",
-        "Wert",
-        "Seltenheit",
-    ]
-    column_filter = ["Seltenheit", "Tags"]
+    columns = ["Name", "Tags", "Wert", "Komponenten"]
+    column_filter = ["Komponenten", "Tags"]
     show_table(
         st.session_state["Tranksammlung"], columns, column_filter, "Tranksammlung"
     )

@@ -1,4 +1,4 @@
  - **Seltenheit:** #SehrSelten 
- - **Wert:** 2P 
+ - **Wert:** 1P 
  - **Fundort:** Schattenebenen, Dämmerdickicht, 
  - **Beschreibung:** Leuchtendes Moos, das Illusionen erzeugt

@@ -1,7 +1,8 @@
 ![[Eldrin Velmara.jpeg|200]]
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:** 6
-- **Volk/Herkunft:**  Mensch [[Nebelhafen]]
+- **Volk:** #Mensch 
+- **Herkunft:**  [[Nebelhafen]]
 - **Klasse:** Heiler
 - **Alias:** __Heiler der Reichen und Schönen__
 - **Alter:** 34

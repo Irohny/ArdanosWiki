@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung
+- Tag: #Verbesserung
 - **Komponenten:** [[Greifenfeder]], [[Eselsmilch]], [[Luftkraut]]
+- **Wert:**  40G
 - **Herstellung:** 24h Mazeration, Einkochen
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 13

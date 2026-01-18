@@ -19,6 +19,7 @@ class Config:
         "Tranksammlung",
         "Zutatenarchiv",
     ]
+    IGNORE_LIST: list[str] = ["templates", "Images", ".obsidian"]
 
 
 cfg = Config()

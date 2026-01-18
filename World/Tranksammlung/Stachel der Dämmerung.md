@@ -1,6 +1,6 @@
-- Tag: #Trank #Gift #Klingengift 
-- 1mal pro Auftragung beim ersten Schaden nutzbar
+- Tag: #Gift #Klingengift 
 - **Komponenten:** [[Schattenlilien]]-Extrakt, [[Skorpionstachel]], [[Nachtschattenöl]], [[Kohleasche]]
+- **Wert:** 66G
 - **Herstellung:** 6h sanft köcheln, dickflüssig rühren
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 16

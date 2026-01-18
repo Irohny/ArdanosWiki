@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung
+- Tag: #Verbesserung
 - **Komponenten:** [[Luchsentränen]], [[Silberminze]], [[Fliegenpilzpulver]]
+- **Wert:** 28G
 - **Herstellung:** Destillation & Mondlichtabkühlung
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 14

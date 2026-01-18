@@ -1,5 +1,6 @@
-- Tag: #Trank #Gift #Kontaktgift
+- Tag:  #Gift #Kontaktgift
 - **Komponenten:** [[Schlafbeere]], [[Alraunensaft]], [[Opiumharz]]
+- **Wert:** 38G
 - **Herstellung:** Nachtarbeit – 8h Rühren unter Flüstern (Mythos)
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 17

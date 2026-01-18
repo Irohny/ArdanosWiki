@@ -1,4 +1,4 @@
  - **Seltenheit:** #Selten 
- - **Wert:** 1P 
+ - **Wert:** 25G 
  - **Fundort:** Trolle, Schwarzmarkt, Blutjäger, 
  - **Beschreibung:** Dunkles regeneratives Blut, Grundlage für starke Heiltränke

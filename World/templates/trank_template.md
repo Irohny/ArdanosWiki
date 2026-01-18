@@ -1,8 +1,8 @@
-- Tag: #Trank #Heilung #Verbesserung 
+- Tag:  #Gift #Heilung #Verbesserung 
 - **Komponenten:** 
 - **Herstellung:** 
 - **Wert:**
-- **Seltenheit:**
 - **Probe:** 
 - **SG:** 
 - **Erfolg:**
+- **Geschwächt:**

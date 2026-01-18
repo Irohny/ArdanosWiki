@@ -1,7 +1,8 @@
 
-- Tag: #Trank #Heilung #Verbesserung 
+- Tag: #Heilung #Verbesserung 
 - **Komponenten:** [[Alraune]], [[Rosenessenz]], [[Silberstaub]]
 - **Herstellung:** Sieden mit Silberbeimengung
+- **Wert:** 21G
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 12
 - **Erfolg:** 1W4 temporäre TP pro Stufe (max 5), 1h

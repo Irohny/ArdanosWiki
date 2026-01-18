@@ -1,4 +1,4 @@
  - **Seltenheit:** #SehrSelten 
- - **Wert:** 2P 
+ - **Wert:** 1P 
  - **Fundort:** Basiliskennester, Jäger
  - **Beschreibung:** Blut mit versteinernden Eigenschaften

@@ -1,6 +1,7 @@
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:** 7
-- **Volk/Herkunft:**  Cambion, #Hölle 
+- **Volk:** #Unhold 
+- **Herkunft:**  #Hölle 
 - **Klasse:** Cambion
 - **Alias:** __Botschafter der Tiefe__ , __Lord der Manipulation__
 - **Alter:** unbekannt

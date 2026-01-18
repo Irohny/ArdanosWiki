@@ -1,5 +1,6 @@
-- Tag: #Trank #Gift 
+- Tag: #Gift 
 - **Komponenten:** [[Nachtalraune]], [[Glassplitter]], [[Krötengalle]]
+- **Wert:**  28G
 - **Herstellung:** 3 Tage Mazeration
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 15

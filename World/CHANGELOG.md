@@ -17,6 +17,7 @@
 * fix (2025-05-18): Sidebar out of bounds and false title
 
 ### Chore
+* chore (2026-01-17): Add lore
 * chore (2025-11-09): Add lore
 * chore (2025-11-08): Add lore
 * chore (2025-11-08): Add lore

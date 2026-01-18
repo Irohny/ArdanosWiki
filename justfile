@@ -30,3 +30,6 @@ commit msg:
     git push
     git pull
     
+# calculate the cost of a trank given material cost and difficulty
+trank material sg:
+    python3 trank.py {{material}} {{sg}}

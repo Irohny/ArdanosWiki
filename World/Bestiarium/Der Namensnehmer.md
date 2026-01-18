@@ -1,16 +1,17 @@
 - **Grundlage:** #Online 
 - **Stufe/Herausfordungsgrad:** 13
-- **Volk/Herkunft:**  
-- **Klasse:** Untod
+- **Volk:** #Untod 
+- **Herkunft:**  unbekannt
+- **Klasse:** 
 - **Alias:** Variel Dhoran
-- **Alter:** unebekannt
+- **Alter:** unbekannt
 - **Gesinnung:** Neutral Böse
 - **Sprachen:** alle, #Telepathie 
 - **Merkmale:**  
 - **Ideale:**  
 - **Bindungen:**  
 ---
-## ⚔️ Eigenschaften
+##  Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 18 magischer Umhang
 - **Waffen:**
 - **Initiative:** 

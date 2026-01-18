@@ -1,7 +1,8 @@
 ![[SerValkor.jpeg|200]]
 - **Grundlage:** #Homebrew 
 - **Stufe/Herausfordungsgrad:** 10
-- **Volk/Herkunft:**  #Tiefling  
+- **Volk:** #Tiefling 
+- **Herkunft:**  #Drakmora   
 - **Klasse:** #Paladin 
 - **Alias:** __Klinge der Verdammnis__
 - **Alter:** 65

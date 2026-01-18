@@ -1,4 +1,4 @@
  - **Seltenheit:** #SehrSelten 
- - **Wert:** 3P 
+ - **Wert:** 75G
  - **Fundort:** Drachenhorste, Schwarzmarkt, 
  - **Beschreibung:** Schimmernde Schuppe mit elektrischer Leitfähigkeit

@@ -1,7 +1,8 @@
-- Tag: #Trank #Heilung 
-- **Komponenten:** [[Phönixfeder]], [[Drachenträne]], [[Herzrosen-Extrakt]], reiner [[Honig]]
+- Tag: #Heilung 
+- **Komponenten:** [[Phönixfeder]], [[Drachenträne]], [[Herzrosen-Extrakt]], [[Honig]]
+- **Wert:** 1000G
 - **Herstellung:** 24h Brauvorgang bei gleichmäßiger Hitze, mit rituellem Gesang
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 20
 - **Erfolg:** Stellt 8W4 + 8 TP wieder her, entfernt zusätzlich 1 Zustand (Blind, Verängstigt, Vergiftet, etc.)
-- **Geschwächt:** 4W4 + 4 TP, kein Zusatz
+- **Geschwächt:** 6W4 + 6 TP, kein Zusatz

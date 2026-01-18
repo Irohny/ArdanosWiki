@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung 
-- **Komponenten:** [[Bleistaub]], [[Zwergenwurz]], [[Erdgeist-Essenz]]
+- Tag: #Verbesserung 
+- **Komponenten:** [[Bleistaub]], [[Zwergwurz]], [[Erdgeist-Essenz]]
+- **Wert:** 56G
 - **Herstellung:** 8h Einkochen unter Druck
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 17

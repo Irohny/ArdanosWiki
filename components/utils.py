@@ -43,7 +43,7 @@ def find_markdown_files(folder_path: str, user: User) -> dict:
         try:
             for item in os.listdir(current_path):
                 item_path = os.path.join(current_path, item)
-                if "Images" in item_path or ".obsidian" in item_path:
+                if any([ignore in item_path for ignore in cfg.IGNORE_LIST]):
                     continue
                 if not has_permission(item_path, user):
                     continue

@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung 
+- Tag:  #Verbesserung 
 - **Komponenten:** [[Wilder Hopfen]], [[Bärenkraut]], [[Gerstensaft]], [[Herzblattwurzel]]
+- **Wert:** 27G
 - **Herstellung:** 8h Gärung bei Sonnenaufgang, mildes Umrühren
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 13

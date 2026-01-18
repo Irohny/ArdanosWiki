@@ -1,5 +1,6 @@
-- Tag: #Trank #Heilung
+- Tag: #Heilung
 - **Komponenten:** [[Mohnblüte]], [[Trollharz]], [[Einhornhaar]], [[Quellwasser]]
+- **Wert:** 50G
 - **Herstellung:** 8h köcheln und filtern
 - **Probe:** INT oder WIS + Alchemist’s Supplies
 - **SG:** 10

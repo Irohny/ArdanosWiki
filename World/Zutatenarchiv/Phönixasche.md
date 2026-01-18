@@ -1,4 +1,4 @@
-- **Seltenheit:** #Legendär 
-- **Wert:** 4P
+- **Seltenheit:** #SehrSelten 
+- **Wert:** 1P
 - **Fundort:** Nur bei Wiedergeburt eines Phönix, 
 - **Beschreibung:** Magische Asche eines Phönix, regenerierend und heilend

@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung 
-- **Komponenten:** [[Pilzspiegel]], [[Denkmoos]], reiner [[Honig]]
+- Tag: #Verbesserung 
+- **Komponenten:** [[Pilzspiegel]], [[Denkmoos]], [[Honig]]
+- **Wert:**  39G
 - **Herstellung:** Alchemistische Reduktion unter ständiger magischer Bewegung – 6 Stunden Prozess
 - **SG:** 16 (Alchemie), INT oder WIS + Alchemist’s Supplies
 - **Wirkung – Erfolgreich:** Diese Essenz kann **bei einem Brauvorgang eines Tranks der SG 15 oder kleiner zwei beliebige Zutaten ersetzen**, muss jedoch vor dem Brauen hinzugefügt werden.

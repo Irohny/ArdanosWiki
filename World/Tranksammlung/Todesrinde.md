@@ -1,5 +1,6 @@
-- Tag: #Trank #Gift
+- Tag: #Gift
 - **Komponenten:** [[Blutbaumrinde]], [[Basiliskenblut]], [[Skorpionstachel]]
+- **Wert:**  203G
 - **Herstellung:** Extraktion & Pulverisierung
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 18

@@ -1,4 +1,4 @@
  - **Seltenheit:** #SehrSelten 
- - **Wert:** 2P 
+ - **Wert:** 1P 
  - **Fundort:** Elfenreiche, uralte Tempel, 
  - **Beschreibung:** Magisch reines silbriges Metall, kanalisiert Zauberenergie

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a88f0e32d0db38fe",
+        "id": "e61a7f5f9819fc6e",
         "type": "tabs",
         "children": [
           {
-            "id": "24c37b73907c3f6e",
+            "id": "558ae2530f28e92f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Bestiarium/Zerra die Flüsterin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Zerra die Flüsterin"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Material",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 259.5
   },
   "right": {
     "id": "b693fe0798ea280e",
@@ -166,34 +170,34 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "e94c86397ec2adea",
+  "active": "558ae2530f28e92f",
   "lastOpenFiles": [
-    "Kaiserreich/Mariven/NPCs/Kommodore/Zordak Eisenbeiß.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Zallion Vintar III.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Yllian Marris.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Vennira Cassalay.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Vanya Cerelin.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Perrik Grahm.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Orryn Talzo II.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Marcellus Daevorn.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Lureano Vintar.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Irion Cassalay II.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Halren Marris II.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Faelyn Niros.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Elim Marthus.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Domerr Talzo.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Celetha Vintar II.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Candamir Silberhand.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Aerinelle Vellora.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Aelaria Talzo.md",
-    "Kaiserreich/Vaylen/NPCs/Varian Schattentaenzer.md",
-    "Kaiserreich/Vaylen/NPCs/Tharion Veyl.md",
-    "Kaiserreich/Vaylen/NPCs/Syrell Drachenruf.md",
-    "Kaiserreich/Vaylen/NPCs/Solarys Drachenruf.md",
-    "Kaiserreich/Vaylen/NPCs/Seralyss Drachenruf.md",
-    "Kaiserreich/Vaylen/NPCs/Selene Drachenruf.md",
-    "Kaiserreich/Vaylen/NPCs/Saelarion Drachenruf.md",
-    "Kaiserreich/Vaylen/NPCs/Nymira Lichthauch.md",
+    "Bestiarium/Xal'Zhurn.md",
+    "Bestiarium/Ser Vakor.md",
+    "Bestiarium/Lord Vareth Nocthollow.md",
+    "Bestiarium/Lord Malvurax.md",
+    "Bestiarium/Lady Seress.md",
+    "Bestiarium/Ephazul.md",
+    "Bestiarium/Eldrin Velmara.md",
+    "Bestiarium/Der Namensnehmer.md",
+    "templates/nsc_template.md",
+    "templates/trank_template.md",
+    "Tranksammlung/Herzblut des Lebens.md",
+    "Zutatenarchiv/Drachenträne.md",
+    "Zutatenarchiv/Phönixfeder.md",
+    "Tranksammlung/Trank der starken Heilung.md",
+    "Tranksammlung/Trank der größeren Heilung.md",
+    "Tranksammlung/Trank der Heilung.md",
+    "Tranksammlung/Trank der Eisernen Haut.md",
+    "Tranksammlung/Zunderelixier.md",
+    "Tranksammlung/Trank des goldenen Schicksals.md",
+    "Tranksammlung/Trank der Stummen Stimme.md",
+    "Tranksammlung/Trank der Katzenwahrnehmung.md",
+    "Tranksammlung/Trank der Gravitas.md",
+    "Tranksammlung/Trank der Geisterstimme.md",
+    "Tranksammlung/Trank der Federleichtigkeit.md",
+    "Tranksammlung/Trank der Erinnerungsflut.md",
+    "Tranksammlung/Trank der elementaren Haut.md",
     "Kaiserreich/Mariven/NPCs/Kommodore",
     "Kaiserreich/Vaylen/NPCs",
     "Kaiserreich/Schwarzklamm/NPCs",

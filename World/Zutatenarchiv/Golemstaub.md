@@ -1,4 +1,4 @@
  - **Seltenheit:** #SehrSelten 
- - **Wert:** 2P 
+ - **Wert:** 1P 
  - **Fundort:** Verlassene Festungen, zerstörte Golems, 
  - **Beschreibung:** Magischer Reststaub, verstärkt Festigkeit und Härte

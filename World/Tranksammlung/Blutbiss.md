@@ -1,5 +1,6 @@
-- Tag: #Trank #Gift #Pfeilgift #Projektilgift
+- Tag:  #Gift #Pfeilgift #Projektilgift
 - **Komponenten:** [[Vipernblut]], [[Dornkrautsaft]], [[Alkohol]]
+- **Wert:** 14G
 - **Herstellung:** 12h kalt extrahieren, dann verdampfen
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 14

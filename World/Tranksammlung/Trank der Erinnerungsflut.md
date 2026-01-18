@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung 
+- Tag: #Verbesserung 
 - **Komponenten:** [[Traumdistel]], [[Elfensilber]], [[getrocknete Träne]]
+- **Wert:** 129G
 - **Herstellung:** 2 Tage Fermentation
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 14

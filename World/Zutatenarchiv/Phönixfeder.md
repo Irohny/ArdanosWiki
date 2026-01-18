@@ -1,4 +1,4 @@
  - **Seltenheit:** #Legendär 
- - **Wert:** 5P
+ - **Wert:** 3P
  - **Fundort:** Nest eines sterbenden Phönix, 
  - **Beschreibung:** Glühende Feder mit enorm regenerativer Kraft

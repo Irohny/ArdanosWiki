@@ -1,4 +1,4 @@
 - **Seltenheit:** #SehrSelten 
-- **Wert:** 2P 
+- **Wert:** 25G
 - **Fundort:** Heilige Wälder, seltene magische Kreaturen, Elfenreiche, 
 - **Beschreibung:** Magisch reines Haar eines Einhorns, extrem wertvoll und rein

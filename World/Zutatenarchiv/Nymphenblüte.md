@@ -1,4 +1,4 @@
  - **Seltenheit:** #SehrSelten 
- - **Wert:** 13G 
+ - **Wert:** 53G 
  - **Fundort:** Feenlichtwiesen, Nymphenhaine, 
  - **Beschreibung:** Magische Blüte, die Charisma und Ausstrahlung stärkt

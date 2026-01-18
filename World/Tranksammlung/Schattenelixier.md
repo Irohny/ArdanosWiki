@@ -1,5 +1,6 @@
-- Tag: #Trank #Verbesserung 
+- Tag:  #Verbesserung 
 - **Komponenten:** [[Nachtschwarzer Pilz]], [[Leichenasche]], [[Schleierkraut]]
+- **Wert:** 38G
 - **Herstellung:** Kaltpressung im Dunkeln
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 13

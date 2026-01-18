@@ -1,5 +1,6 @@
-- Tag: #Trank #Gift 
+- Tag: #Gift 
 - **Komponenten:** [[Pilzspiegel]], [[Gedankengalle]], zerstoßener [[Lapislazuli]]
+- **Wert:** 92G
 - **Herstellung:** 10h unter Schweigen destillieren
 - **Probe:** INT + Alchemist’s Supplies
 - **SG:** 18

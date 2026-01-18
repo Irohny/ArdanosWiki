@@ -1,5 +1,6 @@
-- Tag: #Trank #Aktion
+- Tag: #Aktion
 - **Komponenten:** [[Flüstergras]], [[Schweigepilz]], [[Nebelöl]]
+- **Wert:** 38G
 - **Herstellung:** Kaltaufguss bei Vollmond
 - **Probe:** WIS + Alchemist’s Supplies
 - **SG:** 13

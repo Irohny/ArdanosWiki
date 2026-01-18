@@ -1,4 +1,4 @@
  - **Seltenheit:** #SehrSelten 
- - **Wert:** 2P
+ - **Wert:** 1P
  - **Fundort:** Gipfel, magische Stürme, Elementarbinder, 
  - **Beschreibung:** Fläschchen mit konzentrierter Blitz- und Windenergie
