@@ -6,6 +6,7 @@ from components import utils
 from components.login import login_filed
 from components.database_view import set_to_databse_view
 from components.login import Roles
+from components.encounter_calculator import set_to_encounter_calculator_view
 
 
 def dnd_line(pos: st, label: str, value: str = ""):
@@ -85,6 +86,14 @@ def create_sidebar():
                 type="tertiary",
                 on_click=set_to_databse_view,
                 args=(db,),
+            )
+        for feat in cfg.SPECIAL_FEATURE:
+            st.sidebar.button(
+                feat,
+                key=f"{feat}_view",
+                use_container_width=True,
+                type="tertiary",
+                on_click=set_to_encounter_calculator_view,
             )
 
     if "__files__" in subtree:

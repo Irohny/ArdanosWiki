@@ -3,6 +3,8 @@ import os
 from components import utils
 from components.show_file import show_image
 from components.database_view import show_database
+from components.encounter_calculator import encounter_calculator_view
+from config import cfg
 
 
 def header():
@@ -29,9 +31,13 @@ def header():
         show_image(cols[0], "Wappen Schwarzklamm.png")
         show_image(cols[1], "Ardanos.jpeg")
     elif st.session_state["db_flag"]:
-        show_database(f"{st.session_state['root_path']}/{st.session_state['db']}")
         name = st.session_state["db"]
         st.session_state["db_flag"] = False
+        if any([db in st.session_state["db"] for db in cfg.DATABASE_LIST]):
+            show_database(f"{st.session_state['root_path']}/{st.session_state['db']}")
+        elif any([db in st.session_state["db"] for db in cfg.SPECIAL_FEATURE]):
+            encounter_calculator_view()
+
     else:
         name = st.session_state["current_path"].split("/")[-1].replace(".md", "")
     name = name.split("_")[-1]

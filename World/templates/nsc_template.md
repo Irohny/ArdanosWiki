@@ -7,9 +7,6 @@
 - **Alter:**
 - **Gesinnung:** 
 - **Sprachen:**
-- **Merkmale:**  
-- **Ideale:**  
-- **Bindungen:**  
 ---
 ## ⚔️ Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 

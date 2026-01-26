@@ -1,4 +1,4 @@
-# Changelog 0.9.1
+# Changelog 0.9.2
 
 ### Feat
 * feat (2026-01-17): Add basic filter in Sammlung Views
@@ -13,6 +13,7 @@
 * feat (2025-05-17): Creating DnD wiki project
 
 ### Fix
+* fix (2026-01-18): Fix some filtering problems in database views and optimize data quality
 * fix (2025-05-20): Duplications of displayed text and optimization of image views
 * fix (2025-05-18): Sidebar out of bounds and false title
 

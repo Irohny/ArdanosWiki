@@ -19,6 +19,7 @@ class Config:
         "Tranksammlung",
         "Zutatenarchiv",
     ]
+    SPECIAL_FEATURE: list[str] = ["Encounter Rechner"]
     IGNORE_LIST: list[str] = ["templates", "Images", ".obsidian"]
 
 

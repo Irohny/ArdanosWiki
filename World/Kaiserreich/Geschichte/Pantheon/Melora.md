@@ -9,6 +9,10 @@ Melora wird als die **wilde und ungezähmte Kraft der Natur** angesehen. Sie her
 - In **[[Mariven]]** (Handel & Seehandel) ist sie eine der meistverehrten Gottheiten. Tempel und Schreine zu ihren Ehren stehen in den großen Hafenstädten.
 - In **[[Elmrath]]** (Landwirtschaft) wird sie als eine Göttin der Ernte respektiert, wenn auch nicht so stark wie Pelor.
 - **[[Vaylen]]** (Magie) sieht sie als eine chaotische, aber nicht feindliche Macht, die Magie in der Natur symbolisiert.
+
+**Boten:**
+Die Naturgeister Meloras erscheinen in Gestalt von Wind, Wasser, Feuer oder Pflanzenwesen und wachen über die Elemente und die Ökosysteme der Welt. Sie helfen Sterblichen, die Natur zu schützen, leiten zu verborgenen Quellen oder alten Ritualorten und prüfen diejenigen, die die Natur missbrauchen. Ihre Anwesenheit bringt spürbare Veränderungen der Umwelt mit sich – ein plötzlicher Sturm, rauschendes Wasser oder ein Blätterwirbel kündigt sie an.
+
 ### Glaubensstruktur
 | Rang                       | Beschreibung                                                                    |
 | -------------------------- | ------------------------------------------------------------------------------- |

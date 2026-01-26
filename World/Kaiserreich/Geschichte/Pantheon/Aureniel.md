@@ -1,1 +1,1 @@
-Wächterin der Richtung, Wegweiserin der Reisenden, Engelsgestalt mit Bogen
+Aureniel, die Wächterin der Richtungen, ist eine Engelsgestalt mit elegantem Bogen, die Reisenden den richtigen Weg weist und sie sicher durch unbekannte oder gefährliche Gebiete führt. Sie gilt als Bote Meloras, der Naturgöttin, und verbindet Schutz und Führung: Wer sich in der Wildnis verirrt, kann auf ihr Erscheinen hoffen, das oft von einem sanften Lichtschein oder dem leisen Klang eines Bogenseils angekündigt wird.

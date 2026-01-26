@@ -1,1 +1,1 @@
-Göttin des Sonnenauf- und untergangs. 
+Göttin des Sonnenauf- und -untergangs, Untergöttin Pelors. In [[Ardanos]] kaum bekannt, wird sie in anderen Teilen des Kontinents stark verehrt. Sie symbolisiert den Rhythmus von Licht und Dunkelheit und beschützt Reisende und Sterbliche auf ihrem Weg.
