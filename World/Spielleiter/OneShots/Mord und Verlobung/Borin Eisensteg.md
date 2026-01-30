@@ -43,7 +43,7 @@
 | Attribute | 19 (+4)    | 13 (+1)       | 18 (+4)     | 11 (0)      | 9 (-1)   | 18 (+4)  |
 | Rettungs. |            |               |             |             | +3       | +3       |
 
-| Akrobatik (Ges)<br>+1                  | Arkane Kunde (Int)<br>0           | Athletik (Str)<br>+4         | Auftreten (Char)<br>+4          | Einschüchtern (Cha)<br>+7, geübt     |
+| Akrobatik (Ges)<br>+1                  | Arkane Kunde (Int)<br>0           | Athletik (Str)<br>+4         | Auftreten (Cha)<br>+4           | Einschüchtern (Cha)<br>+7, geübt     |
 | -------------------------------------- | --------------------------------- | ---------------------------- | ------------------------------- | ------------------------------------ |
 | **Fingerfertigkeit** (Ges)<br>+1       | **Geschichte** (Int)<br>0         | **Heilkunde** (Weis)<br>-1   | **Heimlichkeit** (Ges)<br>+1    | **Mit Tiieren umgehen** (Weis)<br>-1 |
 | **Motiv erkennen** (Weis)<br>+2, geübt | **Nachforschung** (Int)<br>0      | **Naturkunde** (Int)<br>0    | **Religion** (Int)<br>+3, geübt | **Täuschen** (Cha)<br>+4             |
@@ -64,17 +64,20 @@
 4 Grad 1, 2 Grad 2
 Zauber SG: 15
 Bonus +7
-### **Vorberitete Zauberr:**
-- Heiligtum
-- Schutz vor Gut und Böse
-- Schwache Genesung
-- Zone der Wahrheit
-- Schild des Glaubens
-- Donnerndes Niederstrecken
-- Wunden Heilen
-- Magie entdecken
-- Befehl
-- Heldenmut
+### **Vorberitete Zauber:**
+**Zaubergrad 1:**
+- [[Heiligtum]]
+- [[Schutz vor Gut und Böse]]
+- [[Schild des Glaubens]]
+- [[Donnerndes Niederstrecken]]
+- [[Wunden heilen]]
+- [[Magie entdecken]]
+- [[Befehl]]
+- [[Heldenmut]]
+
+**Zaubergrad 2:**
+- [[Schwache Genesung]]
+- [[Zone der Wahrheit]]
 
 ---
 
@@ -111,4 +114,19 @@ Doch eines hat er sich geschworen:
 **Verrat an Schutzlosen wird er niemals vergeben.**
 
 ---
-## Zitate
+## Zauber
+![[Heiligtum]]
+
+![[Schutz vor Gut und Böse]]
+
+ ![[Schild des Glaubens]]
+![[Donnerndes Niederstrecken]]
+
+ ![[Wunden heilen]]
+ ![[Magie entdecken]]
+![[Befehl]]
+
+![[Heldenmut]]
+
+ ![[Schwache Genesung]]
+![[Zone der Wahrheit]]

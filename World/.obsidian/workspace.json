@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7f9837a3f15bb228",
+        "id": "53fea93e743e63fb",
         "type": "tabs",
         "children": [
           {
-            "id": "d5a74642da70a3de",
+            "id": "6cbdacd15164e614",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spielleiter/OneShots/Mord und Verlobung/Borin Eisensteg.md",
+                "file": "Spielleiter/OneShots/Mord und Verlobung/Thalion Grünquell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Borin Eisensteg"
+              "title": "Thalion Grünquell"
             }
           }
         ]
@@ -170,35 +170,35 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "d5a74642da70a3de",
+  "active": "e94c86397ec2adea",
   "lastOpenFiles": [
-    "Kaiserreich/Flüsse/Lumaros.md",
-    "Kaiserreich/Geschichte/Pantheon/Aszula.md",
-    "Kaiserreich/Geschichte/Pantheon/Aureniel.md",
-    "Kaiserreich/Geschichte/Pantheon/Moradin.md",
-    "Kaiserreich/Geschichte/Pantheon/Melora.md",
-    "Kaiserreich/Geschichte/Pantheon/Pelor.md",
-    "Kaiserreich/Geschichte/Pantheon/Pantheon.md",
-    "Kaiserreich/Geschichte/Pantheon/Erythra.md",
-    "Kaiserreich/Geschichte/Pantheon/Asmodeus.md",
-    "Bestiarium/Valkyre.md",
-    "Bestiarium/Raffon.md",
-    "Kaiserreich/Elmrath/Bernruh & Nordtor.md",
-    "Images/Umwelt/Stromkrone.png",
-    "Bestiarium/Schwarze Viper (Attentäter).md",
-    "Bestiarium/Blutjäger.md",
-    "Bestiarium/Söldner.md",
-    "Spielleiter/OneShots/Mord und Verlobung/Eldric Feldhain.md",
-    "Spielleiter/OneShots/Mord und Verlobung/Borin Eisensteg.md",
     "Spielleiter/OneShots/Mord und Verlobung/Maran Danlauf.md",
     "Spielleiter/OneShots/Mord und Verlobung/Joram Lumarsson.md",
     "Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md",
+    "Spielleiter/OneShots/Mord und Verlobung/Eldric Feldhain.md",
+    "Spielleiter/OneShots/Mord und Verlobung/Borin Eisensteg.md",
+    "Zauberarchiv/Heldenmut.md",
+    "Zauberarchiv/Befehl.md",
+    "Zauberarchiv/Magie entdecken.md",
+    "Zauberarchiv/Donnerndes Niederstrecken.md",
+    "Zauberarchiv/Dornenwuchs.md",
+    "Zauberarchiv/Fesselnder Schlag.md",
+    "Zauberarchiv/Gute Beeren.md",
     "Spielleiter/OneShots/Mord und Verlobung/Thalion Grünquell.md",
-    "Spielleiter/OneShots/Mord und Verlobung/NPCs.md",
-    "Kaiserreich/Geschichte/Geschichte/Muschelkrieg.md",
-    "Kaiserreich/Mariven/Berndsteinkueste/Tiravor.md",
-    "templates/player_template.md",
-    "templates/nsc_template.md",
+    "Zauberarchiv/Schneesturm.md",
+    "Zauberarchiv/Blitz herbeirufen.md",
+    "Zauberarchiv/Zerbersten.md",
+    "Zauberarchiv/Windstoß.md",
+    "Zauberarchiv/Donnerwoge.md",
+    "Zauberarchiv/Nebelwolke.md",
+    "Zauberarchiv/Wunden heilen.md",
+    "Zauberarchiv/Mit Toten sprechen.md",
+    "Zauberarchiv/Wiederbeleben.md",
+    "Zauberarchiv/Heilendes Wort.md",
+    "Zauberarchiv/Lenkendes Geschoss.md",
+    "Zauberarchiv/Schild des Glaubens.md",
+    "Zauberarchiv/Thaumarturgie.md",
+    "Images/Umwelt/Stromkrone.png",
     "Spielleiter/OneShots/Mord und Verlobung",
     "Kaiserreich/Mariven/NPCs/Kommodore",
     "Kaiserreich/Vaylen/NPCs",

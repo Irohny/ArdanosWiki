@@ -7,4 +7,9 @@
 
 ## Nebengötter
 ![[Aszula]]
+
 ![[Aureniel]]
+
+![[Kraeth]]
+
+![[Veyrun]]

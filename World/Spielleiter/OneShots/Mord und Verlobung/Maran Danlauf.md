@@ -66,12 +66,12 @@
 **Zauberbonus:** +5
 
 Grad 1:
-	- Nebelwolke
-	- Wundenheilen
-	- Gute Beeren
-	- Fesselnder schalg
+	- [[Nebelwolke]]
+	- [[Wunden heilen]]
+	- [[Gute Beeren]]
+	- [[Fesselnder Schlag]]
 Grad 2:
-	- Dornenwuchs
+	- [[Dornenwuchs]]
 
 ---
 ## Ausrüstung
@@ -103,4 +103,14 @@ Maran traut dem Frieden nicht.
 Er weiß: Die gefährlichsten Feinde tragen keine Klauen.
 
 ---
-## Zitate
+## Zauber
+
+![[Nebelwolke]]
+
+![[Wunden heilen]]
+
+![[Gute Beeren]]
+
+![[Fesselnder Schlag]]
+
+![[Dornenwuchs]]

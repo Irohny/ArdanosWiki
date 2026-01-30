@@ -1,5 +1,5 @@
 - **Grundlage:** #Homebrew 
- - **Stufe/Herausfordungsgrad:** 5
+ - **Stufe:** 5
 - **Volk:** #Mensch 
 - **Herkunft:** [[Tiravor]], [[Mariven]]
 - **Klasse:** #Kriger #Champion #Fußsoldat

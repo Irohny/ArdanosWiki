@@ -38,7 +38,7 @@
 | Attribute | 12 (+1)    | 12 (+1)       | 14 (+2)     | 12 (+1)     | 18 (+4)  | 14 (+2)  |
 | Rettungs. |            |               |             |             | +3       | +3       |
 
-| Akrobatik (Ges)<br>+1            | Arkane Kunde (Int)<br>+4, geübt   | Athletik (Str)<br>+1              | Auftreten (Char)<br>+2          | Einschüchtern (Cha)<br>+2            |
+| Akrobatik (Ges)<br>+1            | Arkane Kunde (Int)<br>+4, geübt   | Athletik (Str)<br>+1              | Auftreten (Cha)<br>+2           | Einschüchtern (Cha)<br>+2            |
 | -------------------------------- | --------------------------------- | --------------------------------- | ------------------------------- | ------------------------------------ |
 | **Fingerfertigkeit** (Ges)<br>+1 | **Geschichte** (Int)<br>+1        | **Heilkunde** (Weis)<br>+7, geübt | **Heimlichkeit** (Ges)<br>+1    | **Mit Tiieren umgehen** (Weis)<br>+4 |
 | **Motiv erkennen** (Weis)<br>+4  | **Nachforschung** (Int)<br>+1     | **Naturkunde** (Int)<br>+4, geübt | **Religion** (Int)<br>+4, geübt | **Täuschen** (Cha)<br>+2             |
@@ -63,27 +63,26 @@
 - **Bonus:** +7
 - **Zauberplätze:** 4Grad1, 3Grad2, 2Grad3
 - **Zaubertricks:**
-	- Ausbessern
-	- Resistenz
-	- Göttliche Führung
-	- Thaumarturgie
+	- [[Ausbessern]]
+	- [[Resistenz]]
+	- [[Göttliche Führung]]
+	- [[Thaumarturgie]]
 - **Grad 1:**
-	- Schild des Glaubens
-	- Lenkendes Gechoss
-	- Heilendes Wort
+	- [[Schild des Glaubens]]
+	- [[Lenkendes Geschoss]]
+	- [[Heilendes Wort]]
+	- [[Nebelwolke]]
+	- [[Donnerwoge]]
 - **Grad 2:**
-	- Person festhalten
-	- Schwache Genesung
+	- [[Person festhalten]]
+	- [[Schwache Genesung]]
+	- [[Windstoß]]
+	- [[Zerbersten]]
 - **Grad 3:**
-	- Wiederbeleben
-	- Mit Toten Sprechen
-- **Kleriker Zauber**
-	- Nebelwolke
-	- Donnerwoge
-	- Windstoß
-	- Zerbersten
-	- Blitz herbeirufen
-	- Schneesturm
+	- [[Wiederbeleben]]
+	- [[Mit Toten sprechen]]
+	- [[Blitz herbeirufen]]
+	- [[Schneesturm]]
 ---
 ## Hintergrund 
 
@@ -113,5 +112,36 @@ Es ist die Stille davor.
 
 ---
 
-## Zitate
+## Zauber
+![[Ausbessern]]
 
+![[Resistenz]]
+
+![[Göttliche Führung]]
+
+![[Thaumarturgie]]
+
+![[Schild des Glaubens]]
+
+ ![[Lenkendes Geschoss]]
+![[Heilendes Wort]]
+
+![[Nebelwolke]]
+
+![[Donnerwoge]]
+
+![[Person festhalten]]
+
+![[Schwache Genesung]]
+
+![[Windstoß]]
+
+![[Zerbersten]]
+
+![[Wiederbeleben]]
+
+![[Mit Toten sprechen]]
+
+![[Blitz herbeirufen]]
+
+![[Schneesturm]]

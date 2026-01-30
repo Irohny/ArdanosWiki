@@ -1,6 +1,7 @@
-# Changelog 0.9.2
+# Changelog 0.10.2
 
 ### Feat
+* feat (2026-01-26): Encounter calculator basic implementation
 * feat (2026-01-17): Add basic filter in Sammlung Views
 * feat (2026-01-17): Add databse view for Monster, Recepies, Ingridiendes and Spells
 * feat (2025-06-06): Show user spezific information based on role
