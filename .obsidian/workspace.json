@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3b4ac32035724bf4",
+        "id": "6883959dbc5dcccc",
         "type": "tabs",
         "children": [
           {
-            "id": "5b23b959d3516bf9",
+            "id": "572a50302ab56121",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "World/Spielleiter/Organisationen/Nachtgeweihte.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nachtgeweihte"
             }
           }
         ]
@@ -162,37 +166,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b23b959d3516bf9",
+  "active": "5bb59a01a7be8bd2",
   "lastOpenFiles": [
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Session 3.md",
+    "World/Spielleiter/Organisationen/Nachtgeweihte.md",
+    "World/Spielleiter/Organisationen/Alchemistischen Konvent.md",
+    "World/Spielleiter/Organisationen/Rote Jäger.md",
+    "World/Spielleiter/Organisationen/Klan Seelenhauch.md",
+    "World/Spielleiter/Organisationen/Morgenwacht.md",
+    "World/Gruppen/Crew der Windhexe/Windhexe.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Velgrin Dämmermark.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Tharun Flammenbund.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Sashara Morgenfall.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Quillis Kupferfuß.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Orden der Klarheit.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Nytheas Schattenquell.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Malbion Graubart.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Lysira Weidenflair.md",
+    "World/Spielleiter/Organisationen/Orden der Klarheit/Kreis der Teleportation.md",
+    "World/Spielleiter/Kampangen/Die Legende von Ephazul, dem Niemalsgeborenen.md",
+    "World/Spielleiter/Kampangen/Gegner NPCs.md",
+    "World/Spielleiter/Organisationen/Liga des wahren Mets.md",
+    "World/Spielleiter/Orte/Lichtung des Friedens.md",
+    "World/Spielleiter/OneShots/Ideen Sammlung/Zeitloses Gefänginss.md",
+    "World/Spielleiter/Orte/Hopfenberge.md",
+    "World/Spielleiter/Organisationen/Das Bunte Band.md",
+    "World/Spielleiter/Organisationen",
+    "World/Spielleiter/Artefakte und Tränke/Codex des Nichtseins.md",
+    "World/Spielleiter/Kampangen/Aufgaben.md",
+    "World/Spielleiter/Played OneShots/Funkeln in der Finsternis/Funkeln in der Finsternis.md",
+    "World/Spielleiter/Played OneShots/Funkeln in der Finsternis/Caelumbran Werkstatt Fight.md",
+    "World/Spielleiter/OneShots/Ideen Sammlung",
     "World/Images/Schatzkammer_innen.png",
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Visionen für den Weg.md",
-    "World/vs_Vishuda/vs_Backstory.md",
-    "World/gn_Gnodomir/gn_Backstory Gnodomir.md",
-    "World/ny_Nyssara/ny_Nyssara Schattenfluch.md",
-    "World/hc_Hector/hc_Backstory.md",
-    "World/mc_Marcus/mc_Bruder Marcus Backstory.md",
-    "Untitled.md",
-    "World/mc_Marcus/Brief Bruder Marcus.md",
     "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Zeitungsartikel.png",
-    "World/gn_Gnodomir/Brief Gnodomir.md",
-    "World/vs_Vishuda/Brief Bruder.md",
-    "World/hc_Hector/Brief.md",
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Nachrichten.md",
     "World/Spielleiter/Played OneShots",
-    "World/Spielleiter/Kampange/Das Leben der Unsterblichen.md",
-    "World/Images/Untitled.md",
     "World/Images/Schatzkammer_Eingang.jpg",
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Session 1.md",
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Notizen.md",
-    "World/Ardanos/Ardanos/Geschichte/Kalender.md",
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Kapitel 1 Session 2.md",
-    "World/Ardanos/Ardanos/Elmrath/NPCs/Lady Maerina von Elmrath.md",
-    "World/Spielleiter/NPCs/Gegner NPCs/Zerra die Flüsterin.md",
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Delegationen.md",
-    "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Monster.md",
-    "World/Ardanos/Ardanos/Elmrath/NPCs/Elsinya von Elmrath.md",
-    "World/Ardanos/Ardanos/Elmrath/NPCs/Viktoria von Elmrath.md",
     "World/Abenteuer/Funkeln in der Finsternis/Items",
     "World/Abenteuer/Funkeln in der Finsternis/Orte",
     "World/Abenteuer/Funkeln in der Finsternis/Charakter",
@@ -206,7 +213,6 @@
     "World/Spielleiter/Fundus/Tränke/Trank 2.png",
     "World/Spielleiter/Fundus/Tränke/Trank 3.png",
     "World/Spielleiter/NPCs",
-    "World/Spielleiter/Orte",
-    "World/NPCs.base"
+    "World/Spielleiter/Orte"
   ]
 }
