@@ -1,0 +1,7 @@
+- **Gluttag** erster Tag der Woche, (Montag)  
+- **Lichttag** (Dienstag)  
+- **Steinmark** (Mittwoch)  
+- **Nebeltag**  (Donnerstag)  
+- **Flusslauf**  (Freitag)  
+- **Markttag** (Samstag)  
+- **Gnadentag** (Sonntag)

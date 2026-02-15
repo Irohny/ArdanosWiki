@@ -29,7 +29,7 @@ def header():
         show_image(cols[0], "Wappen Mariven.png")
         show_image(cols[0], "Wappen Vaylen.png")
         show_image(cols[0], "Wappen Schwarzklamm.png")
-        show_image(cols[1], "Ardanos.jpeg")
+        show_image(cols[1], "Ardanos.jpg")
     elif st.session_state["db_flag"]:
         name = st.session_state["db"]
         st.session_state["db_flag"] = False

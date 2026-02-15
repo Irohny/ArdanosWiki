@@ -11,7 +11,7 @@ Durch die vielen Konflikte und Herrschaftswechsel ist die Bevölkerung dieses La
 3. **Branthar’s Heim** – ehemals Piratenhafen, heute florierende Freistadt
 4. **Bernfels**
 5. **Goldhafen**
-6. **Sonnenkliff**
+6. **[[Sonnenkliff]]**
 7. **Strandholm**
 8. **Amberhold**
 

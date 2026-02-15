@@ -1,7 +1,7 @@
 
 Arandos ist ein mächtiges und vielfältiges Kaiserreich, das aus den fünf Fürstentümern [[Elmrath]], [[Schwarzklamm]], [[Drakmora]], [[Mariven]] und [[Vaylen]] besteht. 
 
-Gegründet im Jahre ***2160 n.d.D*** des zweiten Zeitalters durch den Zusammenschluss der Fürstentümer um die ewigen Streitereien und Kiregen zwischen den Fürsten zu beenden und um die Plünderen Horden aus dem gemeinsamen Gebieten zu vertreiben ([[Eid von Morgenfels]]). Nach dem Zusammenschluss und dem Sieg gegen die Barbarenhorden in der [[Nebelsteppe]] im Jahre ***2162 n.d.D*** wurde der General [[Elyander Goldschild]] zum Kaiser auf Lebenszeit von den Fürsten gewählt.
+Gegründet im Jahre ***2160 n.d.D*** des zweiten Zeitalters durch den Zusammenschluss der Fürstentümer um die ewigen Streitereien und Kiergen zwischen den Fürsten zu beenden und um die Plünderen Horden aus dem gemeinsamen Gebieten zu vertreiben ([[Eid von Morgenfels]]). Nach dem Zusammenschluss und dem Sieg gegen die Barbarenhorden in der [[Nebelsteppe]] im Jahre ***2162 n.d.D*** wurde der General [[Elyander Goldschild]] zum Kaiser auf Lebenszeit von den Fürsten gewählt.
 
 durch die Wahl von Kaiser Aldric von Elmrath, repräsentiert Arandos eine fragile Union der Fürstentümer, die trotz ihrer unterschiedlichen Interessen und Kulturen zusammenarbeiten, um das Reich zu stabilisieren.
 ![[Ardanos_Politik.png]]

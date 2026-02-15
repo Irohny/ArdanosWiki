@@ -1,5 +1,5 @@
 _Religiöser Militärorden Pelors_
-
+![[Morgenwacht.png|200]]
 Die **Morgenwacht** ist ein religiöser Militärorden, der im Namen Pelors für Licht, Leben und Reinheit kämpft. Sie versteht sich als erste Verteidigungslinie gegen Dunkelheit, Verderbnis und monströse Bedrohungen. Ihr Name symbolisiert den Moment vor dem Sonnenaufgang – die Zeit, in der die Dunkelheit am gefährlichsten ist und das Licht am dringendsten gebraucht wird.
 
 ---

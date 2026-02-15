@@ -10,6 +10,7 @@ Mariven ist ein florierendes Küstenfürstentum, das für seinen Seehandel, sein
 **Hauptstadt:** [[Verethia]]
 
 ### Geographie & Landschaft
+![[SeewegeMariven.jpg|300]]
 Mariven erstreckt sich über eine malerische Inselkette und einen schmalen Küstenstreifen, der von geschäftigen Hafenstädten gesäumt ist. Die Kanäle und Wasserstraßen der Inseln sind die Lebensadern des Fürstentums, während elegante Brücken, kunstvolle Gebäude und Marmorkais die Städte prägen. Handelsschiffe aus aller Welt legen in den Häfen an, beladen mit exotischen Waren, Gewürzen und Gold. Der salzige Geruch des Meeres mischt sich mit dem Duft von frischem Fisch und den Räucherwaren der Märkte.
 
 **Die Goldenen Inseln** – Das Herzstück Marivens, eine Gruppe von Handelsinseln ([[Cirellin]], [[Havgrim]], [[Korvalis]], [[Ael'Varin]]) mit prachtvollen Palästen, Kanälen und schwimmenden Märkten. Hier liegen die wichtigsten Handelshäuser, und Verträge werden mit einem Handschlag ebenso besiegelt wie mit Tinte.  

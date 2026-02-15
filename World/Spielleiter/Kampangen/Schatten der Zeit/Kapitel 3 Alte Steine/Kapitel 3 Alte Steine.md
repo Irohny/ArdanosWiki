@@ -1,6 +1,7 @@
 #Mariven 
 ### **Titel:** _Die Flüsternden Zinnen von Althovar_
 
+![[Zauberturm.jpg|300]]
 #### **Setting:**
 
 Die Session spielt in einem abgelegenen Gebirgsdorf namens **Darnhollow**, das am Fuß einer zerfallenen Festung liegt – **Althovar**, einst ein Sitz mächtiger Arkanisten, jetzt eine verfluchte Ruine. In letzter Zeit berichten die Dorfbewohner von „Steinstatuen“, die sich nachts bewegen, und Menschen, die verschwinden.

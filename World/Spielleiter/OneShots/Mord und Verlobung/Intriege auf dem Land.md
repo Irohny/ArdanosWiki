@@ -1,387 +1,77 @@
-Mittelalterliche Fantasy, Intrige, Verrat, Tragödie
+**Empfohlene Stufe:** Lvl 3–5 (skalierbar)
+**Dauer:** 3–5 Stunden
+**Zeitalter** egal
 
-#### Empfohlene Stufe
-Lvl 3–5 (skalierbar)
-
-#### Dauer
-3–5 Stunden
-
-#### Zeitalter
-egal
-
-### Orte
-[[Tiravor]] an der [[Bernsteinküste]]
+**Orte:** [[Tiravor]] an der [[Bernsteinküste]] am [[Lumaros]]
+**Zeit:** Zeit des Lichtes/ Frühling kurz nach der Zeit des Todes / Winter)
 
 ---
-## Prämisse
-
-Die Gruppe erhält einen scheinbar harmlosen Auftrag (Eskorte oder Botengang).  
-Unterwegs geraten sie in einen Hinterhalt durch professionelle Attentäter.  
-Im Verlauf der Ereignisse entfaltet sich eine Intrige, die in einem persönlichen Verrat gipfelt.
-
----
-
 ## Akt 1 – Der Auftrag
 
-**Auftraggeber**
-
-- Händler, Gildenbote oder lokaler Verwalter
-    
-- Auftrag: Eskorte durch unsicheres Gebiet **ODER** Botengang in die Nachbargrafschaft
-    
-
-**Ziel**
-
-- Ruhige Einführung
-    
-- Zeit für Rollenspiel & Gruppendynamik
-    
-- Kleine Hinweise auf politische Spannungen (Graf, Grafschaft, Heiraten)
-    
-
-**Foreshadowing (optional)**
-
-- Verlobte wirkt angespannt / distanziert
-    
-- Erwähnung des Grafen der Nachbargrafschaft
-    
-- Gerüchte über bezahlte Klingen / Söldner
-    
+- Die Gruppe trift sich auf dem Markt in Tiravor
+- Der Händler [[Hendrik Vaelor]] bittet um eine Eskorte nach [[Sonnenkliff]]
+	- es sollen unbekannte Söldner in der Nähe gesehen worden sein
+- [[Elowen Marith]] die Verlobte von [[Eldric Feldhain]] ist auf dem Markt um Blumen (Rosen) und Kräuter zu besorgen
+	- Sie ist lieb und führsorglich
+	- leicht nervös
+	- hat auch von den Gerüchten um die Söldner gehört
+	- weiß von dem Eskorte Auftrag da ihr Vater [[Roderic Marith]] dem Händler Eldric  und seine Freunde empfohlen hat
+- Auf dem Markt
+	- Blumenhändler / Kräuterhändler
+	- kleine Heiltränke sind kaufbar (40G mit 2W4 +2)
+- Das Wetter ist sonnig, allerdings ist der [[Lumaros]] wilder als sonst, da es in den letzten Tagen stark geregnet hat 
+- [[Graf Albrecht von Dornfels]] hat sich mit [[Roderic Marith]] getrroffen. Handelsbeziehungen verbessern
+- [[NPCs Tiravor]]
 
 ---
-
 ## Akt 2 – Der Hinterhalt
 
 **Ort**
+-  Engstelle leicht bewaldeter Hohlweg
+-  Später Nachmittag → Abend → Nacht
 
-- Waldpass, Brücke, Engstelle, alte Ruine
-    
-
-**Gegner**
-
-- 3–6 Attentäter (je nach Stufe)
-    
-- Koordiniert, professionell
-    
-- Ziel: **eine bestimmte Person aus der Gruppe**
-    
-
-**Kampfbesonderheiten**
-
-- Fokusangriffe auf das Ziel
-    
-- Versuche zu fesseln oder tödlich zu verwunden
-    
-- Rückzug, wenn der Kampf kippt
-    
-
----
-
-## Akt 3 – Die Spur
-
-Nach dem Kampf:
-
-**Mögliche Hinweise**
-
-- Brief mit Siegel des Vaters der Verlobten
-    
-- Bezahlung in Münzen der Heimatstadt
-    
-- Attentäter kennen den Namen des Ziels
-    
-
-**Wenn Attentäter gefangen**
-
-- Sie wurden von einem „älteren Mann“ beauftragt
-    
-- Er gab sich als Vater der Verlobten aus
-    
-- Motiv: „Unwürdige Verbindung“
-    
-
-➡️ **Falsche Fährte:**  
-Alles deutet auf den Vater hin.
-
----
-
-## Akt 4 – Konfrontation mit dem Vater
-
-**Der Vater**
-
-- Adliger / wohlhabender Bürger
-    
-- Aufrichtig schockiert
-    
-- Leugnet glaubhaft
-    
-- Hat Alibi / widersprüchliche Details
-    
-
-**Ziel dieser Szene**
-
-- Zweifel säen
-    
-- Spieler denken: „Jemand lügt“
-    
-- Spannung aufbauen
-    
-
----
-
-## Akt 5 – Die Rückkehr & der Verrat
-
-**Szene**
-
-- Wiedersehen mit der Verlobten
-    
-- Emotionale Umarmung
-    
-- Erleichterung & Tränen
-    
-
-**Twist**
-
-- Während der Umarmung:
-    
-    - Verlobte stößt einen **vergifteten Dolch** in die Seite ihres Geliebten
-        
-
-**Mechanik**
-
-- Gift:
-    
-    - Tod nach **2 Kampfrunden**
-        
-    - Heilung nur durch:
-        
-        - _Lesser Restoration / Neutralize Poison_
-            
-        - Gegengift (sehr schwer erreichbar)
-            
-        - Kreative Lösungen (SL-Entscheid)
-            
-
-**Motiv**
-
-- Sie will den Geliebten loswerden
-    
-- Ziel: Heirat mit dem Grafen der Nachbargrafschaft
-    
-- Mehr Macht, Reichtum, Einfluss
-    
-
----
-
-## Akt 6 – Finale Konsequenzen
-
-**Optionen**
-
-- Rettung gelingt → Konfrontation / Verfolgung
-    
-- Rettung scheitert → Tragisches Ende
-    
-- Verlobte flieht → offenes Ende
-    
-- Graf wird involviert → politisches Nachspiel
-    
-
-**Mögliche Enden**
-
-- Tragödie
-    
-- Gerechte Strafe
-    
-- Moralisches Dilemma
-    
-- Startpunkt für Kampagne
-    
-
----
-
-## Wichtige NSCs (Kurz)
-
-**Die Verlobte**
-
-- Intelligent, manipulativ
-    
-- Emotional überzeugend
-    
-- Sieht sich selbst als Opfer der Umstände
-    
-
-**Der Vater**
-
-- Ehrbar, traditionsbewusst
-    
-- Liebt seine Tochter
-    
-- Wird selbst zum Opfer der Intrige
-    
-
-**Der Graf**
-
-- Ambitioniert
-    
-- Politische Ehe geplant
-    
-- Weiß evtl. mehr, als er zugibt
-    
-
----
-
-## Themen & Stimmung
-
-- Verrat
-    
-- Liebe vs. Macht
-    
-- Moralische Grauzonen
-    
-- Tragik statt Heldentum
-    
-
----
-
-# Mehrstufige Hinterhaltsszene
-
-## _„Schatten am Lumaros“_
-
-### Ort
-
-- Flussuferpfad außerhalb von **Lumarwacht**
-    
-- Schilf, knorrige Weiden, flache Felsen
-    
-- Der **Dan** mündet hier ruhig in den Lumaros
-    
-
-### Zeit
-
-- Später Nachmittag → Abend → Nacht
-    
-
----
-
-## PHASE I – Der erste Hinterhalt (Tag / Dämmerung)
-
-### Aufbau
-
+![[MapHinterhalt.jpg|400]]
 > „Der Pfad wird schmaler.  
-> Zu eurer Rechten glitzert der Lumaros ruhig.  
-> Links steigt feuchtes Buschwerk an, dicht und unübersichtlich.“
+> Links und rechts steigt feuchtes Buschwerk an, dicht und unübersichtlich.“
 
 Lass **Wahrnehmung** zu – egal ob erfolgreich oder nicht, **etwas fühlt sich falsch an**.
 
----
-
-### Auslöser
-
-> „Ein Stein rollt ins Wasser.  
-> Dann – ein Pfeil.“
-
-⚔️ **Initiative.**
-
----
-
-### Gegner (Welle 1)
-
-- 3–4 Attentäter
-    
-- Leichte Rüstung, Dolche, Kurzschwerter
-    
-- 1 Fernkämpfer im Gebüsch
-    
-
-**Taktik**
-
-- Fokusangriffe auf **den Verlobten**
-    
-- Versuchen ihn zu isolieren
-    
-- Keine wilden Schreie, keine Beleidigungen
-    
-- Profis
-    
-
----
-
-### Subtile Hinweise (wichtig!)
-
-- Gegner rufen **keine Namen**, außer den des Zielcharakters
-    
-- Einer murmelt:
-    
-    > „Nicht töten, wenn’s nicht sein muss… nur ihn.“
-    
-
----
-
-### Wendepunkt
-
-Sobald:
-
-- 1–2 Attentäter fallen **ODER**
-    
-- die Gruppe klar die Oberhand gewinnt
-    
-
----
+**Gegner**
+- [[Grauklingen]]
+- [[Blutjäger]], [[Söldner]],  [[Schwarze Viper (Attentäter)]]
+- Söldner steht erhöht mit dem Bogen
+- Hinterhalt
+- Fokusangriffe auf das Ziel (Rufen seinen Namen)
+- Versuche zu fesseln oder tödlich zu verwunden
+- Rückzug, wenn der Kampf kippt
 
 ### Rückzug
-
 > „Ein schrilles Pfeifsignal.  
 > Ohne weitere Worte lösen sich die Angreifer aus dem Kampf.“
-
 - Rauch
-    
-- Rückzug ins Dickicht
-    
+- Rückzug ins Dickicht    
 - Keine Verfolgung erzwingen
     
-
 > „Sie fliehen nicht panisch.  
 > Sie ziehen sich zurück.“
 
-⏸️ **Kurze Atempause für die Spieler.**
+Nach dem Kampf:
+**Mögliche Hinweise**
+- Geldbeutel mit eingeprägtem Wappen (zwei Rosen vor einer Sonne)
+- Münzen mit dem Wappen zweier Bäume vor einem Felsen (Haus Dornfels)
+- Attentäter kennen den Namen des Ziels
+    
+
+**Hinweise auf dem Schlachtfeld**
+- Sie wurden von einem „älteren Mann“ beauftragt
+- Er gab sich als Vater der Verlobten aus
+- Motiv: „Unwürdige Verbindung“
+
+Szene endet in der Abenddämerung, sodass die Gruppe in der Wildniss übernachten muss zu weit zum nächsten Dorf, entlang beider Richtungen
+![[Lagerfeuer.jpg|400]]
 
 ---
-
-## PHASE II – Die trügerische Ruhe
-
-### Übergang
-
-> „Die Sonne sinkt.  
-> Die Geräusche des Flusses kehren zurück.“
-
-Wenn die Gruppe untersucht:
-
-- Blutspuren → verlieren sich
-    
-- Fußspuren → bewusst verwischt
-    
-
-**Gefühl:**  
-Sie wurden **getestet**.
-
----
-
-### Entscheidungspunkt
-
-Die Gruppe:
-
-- Lagert
-    
-- Oder reist weiter (beides funktioniert)
-    
-
-Egal was sie tun:  
-➡️ **Die Gegner kommen wieder.**
-
----
-
-## PHASE III – Der zweite Angriff (Nacht)
-
-### Atmosphäre
+## Akt 3 – Der zweite Versuch
 
 > „Die Nacht ist still.  
 > Zu still.“
@@ -390,124 +80,93 @@ Egal was sie tun:
 > Kein Vogel.  
 > Nur das leise Glucksen des Wassers.“
 
-⏸️ **Pause.**
+In der Nacht greifen die Attentäter erneut an
+- Je nachdem 2x [[Söldner]] + [[Schwarze Viper (Attentäter)]] oder 2x [[Blutjäger]] + [[Schwarze Viper (Attentäter)]]
+- Angriff während einer Nachtwache Schleichversche um das Ziel zu entführen
 
----
-
-### Auslöser
-
-Wähle einen:
-
-- Lagerfeuer knackt ungewöhnlich laut
-    
-- Ein Pferd schlägt aus
-    
-- Ein Schatten bewegt sich gegen das Licht
-    
-
+Lagerfeuer knackt ungewöhnlich laut / Ein Schatten bewegt sich gegen das Licht
 Dann:
 
 > „Aus der Dunkelheit schält sich eine Klinge.  
 > Direkt hinter euch.“
 
-⚔️ **Initiative.**
+##### Sprüche
+> „Der Auftrag muss heute enden.“
+> „Der Alte zahlt doppelt, wenn wir’s sauber machen.“
 
----
-
-### Gegner (Welle 2 – tödlicher)
-
-- 4–5 Attentäter
-    
-- 1 Anführer
-    
-- Gift auf Klingen (leichter Schaden, kein Todesgift!)
-    
-
-**Taktik**
-
-- Überraschungsangriffe
-    
-- Dunkelheit nutzen
-    
+**Taktiken:**
+- Dunkelheit nutzen    
 - Fokus **noch stärker** auf den Verlobten
-    
 - Versuchen ihn zu Boden zu bringen oder zu fesseln
+
+**Flucht:**
+- Der Anführer schwer verwundet wird    
+- Oder die 2/3 der Angreifer fällt
     
-
----
-
-### Dramatische Details
-
-- Flüstern im Kampf:
-    
-    > „Der Auftrag muss heute enden.“
-    
-- Einer ruft:
-    
-    > „Der Alte zahlt doppelt, wenn wir’s sauber machen.“
-    
-
-➡️ **Falsche Fährte wird verstärkt.**
-
----
-
-### Wendepunkt 2
-
-Wenn:
-
-- Der Anführer schwer verwundet wird
-    
-- Oder die Hälfte der Angreifer fällt
-    
-
----
-
-### Erneuter Rückzug / Gefangennahme
-
+**Wenn noch keiner gefangen wurde:**
 > „Ein Angreifer stolpert.  
 > Die anderen zögern – nur einen Herzschlag.“
 
-Hier kannst du:
 
-- Einen Attentäter bewusst zurücklassen
+Nach dem Kampf am nächsten morgen 
+- Gruppe soll wieder zurück nach [[Tiravor]]
+- Händler möchte lieber alleine weiter Riesen, da die Söldner es ja nur auf die Gruppe abgesehen haben
+- Er schlägt vor, dass die Gruppe in [[Tiravor]] versucht herauszufinden, wer die Söldner angeheuert hat
+
+
+---
+
+## Akt 4 – Konfrontation & Verrat
+
+**Phase 1:**
+**Der Vater** befindet sich im Anwesen
+- Szene spielt in einem schönen gemütlichen Kaminzimmer
+- Adliger / wohlhabender Bürger
+- Aufrichtig schockiert
+- Leugnet glaubhaft,
+- er war unter zeugen die ganze Zeit im Haus oder im Tempel
     
-- Oder eine Gefangennahme ermöglichen
+**Phase 2:**
+- [[Elowen Marith]] betritt das Zimmer
+	- sie ist aufgelöst und schluchtzt
+	- sie geht zu [[Eldric Feldhain]] und nimmt ihn in den Arm
+	- Laut: Ich hab gehört was passiert ist, ich bin so froh, dass du wohl auf bist
+	- Ges RW (Eldric) SG 18
+	- Leise Flüsternt ins Ohr: Du hättest sterben sollen, warum muss man alles selber machen
+	- Sie sticht einen vergifteten Dolch in seine Seite
+	- Bei erfolg: 5 Aktionen bis tot, Misserfolg 2 Aktionen
+	- Sie stößt ihn weg und versucht weg zu laufen
+
+**Mechanik**
+
+- Gift:
+    - nicht heilbar durch:
+        - [[Schwache Genesung]] oder Heilzauber des Grad 1
+	- Heilung durch gegengift in ihrem Zimmer
+        - Gegengift (sehr schwer erreichbar)
+        - Kreative Lösungen (SL-Entscheid)
+	- Toter kann nicht stabilisiert werden
+
+**Motiv**
+- Sie will den Geliebten loswerden
+- Ziel: Heirat mit dem [[Graf Albrecht von Dornfels]] der Nachbargrafschaft
+- Mehr Macht, Reichtum, Einfluss
     
 
 ---
 
-## PHASE IV – Nachhall
+## Akt 5 – Finale Konsequenzen
 
-### Stille nach dem Kampf
+**Optionen**
 
-> „Die Nacht kehrt zurück.  
-> Aber sie fühlt sich jetzt feindlich an.“
+- Rettung gelingt → Konfrontation / Verfolgung
+- Rettung scheitert → Tragisches Ende
+- Verlobte flieht → offenes Ende
+- Graf wird involviert → politisches Nachspiel
 
-Die Gruppe weiß:
+**Mögliche Enden**
 
-- Das war **kein Zufall**
-    
-- Das war **persönlich**
-    
-
----
-
-### Abschluss der Szene
-
-Beende mit:
-
-> „Egal, wie diese Nacht endet –  
-> ihr wisst:  
-> Das hier war erst der Anfang.“
-
----
-
-## SL-Tipps für maximale Wirkung
-
-- Kämpfe **nicht zu lang**, aber **intensiv**
-    
-- Lass die Gegner intelligent wirken
-    
-- Wiederhole subtil: _Fokus auf eine Person_
-    
-- Keine Erklärung – nur Hinweise
+- Tragödie
+- Gerechte Strafe
+- Moralisches Dilemma
+- Startpunkt für Kampagne

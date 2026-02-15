@@ -1,3 +1,4 @@
+![[Nachtgeweihte.png|200]]
 Die **Nachtgeweihten** sind ein Schwurklan aus Kreaturen der Dunkelheit, vereint durch das gemeinsame Ziel, einen sicheren Lebensraum zu finden, in dem sie unbehelligt existieren können. Sie werden von Monsterjägern und den Paladinen Pelors verfolgt und getötet, was den Klan stetig unter Druck setzt.
 ### **Ziel**
 - Beanspruchung einer abgelegenen Region als Heimat    
