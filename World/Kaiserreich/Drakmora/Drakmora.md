@@ -45,6 +45,6 @@ Drakmoras Armee ist eine der diszipliniertesten und am besten ausgerüsteten Str
 
 ### Glaube & Religion
 * **[[Erythra]]** ist eine zentrale Göttin, verehrt als Wächterin über Leben, Tod und das magische Gleichgewicht.
-- **[[Moradin]]** wird von magischen Handwerkern und Forschern geschätzt, da er Wissen und Schöpfung symbolisiert.
-- **[[Pelor]]** wird von jenen respektiert, die sich mit Pakten, Magie und verborgenen Wahrheiten beschäftigen.
+- **[[Volgrin]]** wird von magischen Handwerkern und Forschern geschätzt, da er Wissen und Schöpfung symbolisiert.
+- **[[Solyra]]** wird von jenen respektiert, die sich mit Pakten, Magie und verborgenen Wahrheiten beschäftigen.
 

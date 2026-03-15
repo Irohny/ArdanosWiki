@@ -18,5 +18,5 @@ Verethia ruht auf dutzenden künstlich angelegten Inseln, die durch gewundene Br
     
 - **Arathkai:** Das alte Stadtviertel der Handwerker und Künstler, bekannt für seine Glasbläsereien, Maskenmacher und Wasseruhrenbauer.
     
-- **Sankt Thalor:** Der geistliche Bezirk rund um den Meloratempel, mit Schulen, Archiven und Bibliotheken.
+- **Sankt Thalor:** Der geistliche Bezirk rund um den [[Ocyra]]tempel, mit Schulen, Archiven und Bibliotheken.
 

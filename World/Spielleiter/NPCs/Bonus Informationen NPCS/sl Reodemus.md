@@ -1,82 +1,200 @@
+## Geburt im Ende eines Zeitalters
 
+Reodemus wurde am Ende des **zweiten Zeitalters** geboren – in einer der dunkelsten Epochen der Geschichte.
 
-### **Ursprünge im Dunkel**
+Während seiner Kindheit tobte die  [[Invasion der Nordbarbaren]]  (**2025–2165 n.d.D.**).
+Über Jahrzehnte hinweg verwüsteten die Barbaren aus dem Norden:
+- Grenzstädte
+- Handelsrouten
+- ganze Fürstentümer
 
-Geboren als zweiter Sohn eines unbedeutenden Adligen, wurde **Reodemus**, damals bekannt als _Reodemir_, von jeher übersehen – von seiner Familie, vom Hof, von den Göttern. In seiner Jugend wanderte er durch Archive und Ruinen, auf der Suche nach verborgenem Wissen, nach einer Bestimmung, die ihn über das Spinnennetz der politischen Bedeutungslosigkeit hinausführen würde.  
-Auf einer seiner Reisen fand er in den Ruinen von [[Althovar]] auf der Insel [[Cirellin]] ein **verlorenes Fragment der Chronos-Sanduhr**, ein uraltes Relikt des Schmiedegottes [[Moradin]], das in dunklen Zeiten von **[[Ephazul]]**, einem uralten Dämon, verdorben worden war.
+Armeen kollidierten in endlosen Schlachten, während Plünderer und Söldner das Chaos nutzten.
+Reodemus war noch ein Kind, als seine Heimat zerstört wurde.
 
----
+In einer einzigen Nacht verlor er:
+- seinen Vater im Krieg
+- seine Mutter durch Plünderer
+- seine Geschwister auf der Flucht
 
-### **Der Pakt mit der Tiefe**
-
-Während eines verbotenen Rituals in den Krypten unter den [[Tiefe Hallen]] der [[Schwarzklamm]] begegnete Reodemus **[[Lord Malvurax]]**, einem dämonischen Vermittler, der in der Leere zwischen den Sekunden flüsterte. Dieser offenbarte ihm, dass das Fragment mehr als nur ein Artefakt sei: Es war ein Schlüssel zu **Ephazuls Gitter**, ein Splitter der Ewigkeit.
-
-**Ephazul** selbst erschien nicht – nicht vollständig. Doch er bot Reodemus Macht durch einen Pakt:  
-Nicht über ein Königreich.  
-Nicht über Leben oder Tod.  
-Sondern über die **Zeit selbst**.
-
----
-
-### **Die Maskerade von Reodemus**
-
-Reodemus kehrte verändert zurück – mit einer neuen Identität, einer neuen Bestimmung.  
-Er nahm den Namen **Reodemus**, baute sich unter einer Maske ein Leben als **Berater des Königs von Ardanos** auf – unter dem Titel **Markgraf der Südhöfe** eine kleinen Provinz im Süden von [[Elmrath]]. Sein öffentliches Gesicht ist charmant, weise, klug. Doch unter dem höfischen Glanz webt er ein Netz aus Manipulation, Spionage und Magie.
+Er überlebte – aber alles, was er kannte, verschwand im Feuer des Krieges.
 
 ---
 
-### **Der große Plan**
+## Der Wanderer ohne Heimat
 
-Reodemus' Ziel ist klar:  
-Ein uraltes Ritual – von Ephazul selbst geflüstert – soll ihm ermöglichen, **in die Vergangenheit zu reisen**, **die Geschichte umzuschreiben** und **sich selbst als ersten Kaiser von Andaros zu etablieren**.  
-In dieser neuen Zeitlinie würde Reodemus als _Retter_, _Herrscher_ und _Legende_ verehrt werden. Keine Dynastie, kein Gott, kein Dämon würde ihm das Reich nehmen können.
+Nach dem Fall seiner Heimat wurde Reodemus zu einem **Kind der Ruinen**.
+Über Jahre streifte er durch die Welt:
+- als Bettler
+- als Bote für Händler
+- manchmal als Dieb, um zu überleben
 
-Er manipuliert Ereignisse, flüstert Lügen in den Rat des Königs, lenkt Schicksale, stiehlt Sekunden aus Leben – alles, um die Zeitlinie vorzubereiten.
+Er sah überall dasselbe Bild:
+- zerstörte Dörfer
+- Massengräber
+- Veteranen ohne Hoffnung
 
-Was Reodemus jedoch nicht weiß:  
-Das Ritual, das er vorbereitet, wird **nicht ihn in der Zeit zurückversetzen**, sondern **das uralte Siegel zerbrechen, das Ephazul seit Äonen bindet**.  
-Nicht Reodemus wird der Herr über die Zeit sein – sondern **ihr Gefangener.**
+Während andere Menschen vom Wiederaufbau sprachen, verstand Reodemus etwas anderes:
 
----
+> Krieg endet nie wirklich.  
+> Er wartet nur auf den nächsten Herrscher.
 
-### **Zitatprofil – Reodemus, der Zeitdieb**
-
-
-**„Ein König wird gekrönt. Ein Kaiser schreibt Geschichte.“**  
-→ _Über seine Ambitionen – er will nicht herrschen, er will unauslöschlich sein._
-
----
-
-**„Sie lachen über den Mann im Schatten, bis der Schatten ihnen die Krone entreißt.“**  
-→ _Über seine Verachtung gegenüber Hof und Adel._
+Diese Überzeugung wurde zum Kern seiner späteren Ideologie.
 
 ---
 
-**„Ich rette kein Reich – ich erschaffe eines, das es verdient, gerettet zu werden.“**  
-→ _Über seine Rechtfertigung für das Brechen von Regeln, Zeitlinien und Moral._
+## Die Insel Cirellin und die Ruinen von Althovar
+
+Seine Wanderungen führten ihn schließlich über das Meer zur Insel [[Cirellin]].
+Dort liegen die Ruinen der zerstörten Stadt [[Althovar]].
+
+Althovar war einst das Zentrum der Insel und des Reiches des heutigen [[Mariven]]s gewesen.  
+Doch nun war sie nur noch ein zerfallenes Labyrinth aus Stein.
+
+Bei der Erkundung eines halb eingestürzten Tempels fand Reodemus einen seltsamen Dolch ([[Mors Cerva]])
+
+Die Klinge war aus schwarzem Metall gefertigt, das kein Rost kannte.  
+Runen flimmerten schwach auf seiner Oberfläche.
+
+Doch Reodemus verstand seine Bedeutung nicht.
+
+Für ihn war es nur:
+- ein ungewöhnliches Artefakt
+- vielleicht wertvoll
+- vielleicht ein Glücksbringer
+
+Er nahm den Dolch mit, ohne zu wissen, dass er sein Schicksal bereits verändert hatte.
 
 ---
 
-**„Ihr lebt in einem Fragment. Ich sehe die ganze Uhr.“**  
-→ _Zu jenen, die ihm widersprechen – er hält seine Perspektive für die einzig wahre._
+## Der Beginn des dritten Zeitalters
+
+Als die [[Invasion der Nordbarbaren]] schließlich endete und das dritte Zeitalter mit der Gründung des Kaiserreiches [[Ardanos]] begann, startete die Zeit des Neuanfanges, Friedens und Wohlstandes.
+
+Doch für Reodemus war dieser Frieden unerträglich.
+
+Er sah:
+- Familien, die gemeinsam lachten
+- Kinder, die ohne Angst aufwuchsen
+- Städte voller Hoffnung
+
+Und in seinem Herzen wuchs ein bitterer Gedanke:
+
+> Sie haben vergessen.
+
+Die Welt vergaß die Schrecken des Krieges –  
+aber Reodemus konnte es nicht.
+
+Er hasste die Gleichgültigkeit der Welt gegenüber dem Leid der Vergangenheit.
+
+Und langsam formte sich eine radikale Idee:
+
+> Wenn Krieg immer wiederkehrt, muss seine Quelle zerstört werden.
+
+Nicht Generäle.  
+Nicht Könige.
+
+**Der Krieg selbst.**
 
 ---
 
-**„Ephazul gibt mir nur die Feder. Geschrieben wird von mir.“**  
-→ _Er glaubt, er kontrolliere den Dämon – nicht umgekehrt._
+## Die Suche nach dem Ursprung des Krieges
+
+Reodemus begann alte Texte, Mythen und Chroniken zu studieren.
+
+Überall fand er Hinweise auf eine göttliche Wahrheit:
+
+Kriege waren mehr als politische Konflikte.  
+Sie waren Teil einer kosmischen Ordnung.
+
+Der Krieg selbst hatte einen göttlichen Ursprung.
+
+Ein Gott.
+
+Der Gott des Krieges - [[Volgrin]].
+
+Wenn dieser Gott existierte, würde Krieg **immer wieder zurückkehren**.
+
+Also fasste Reodemus einen unmöglichen Entschluss:
+
+> Der Gott des Krieges muss sterben.
 
 ---
 
-**„Die Vergangenheit war ein Irrtum. Ich mache sie wahr.“**  
-→ _Kern seiner Philosophie. Die Welt ist falsch gelaufen – er korrigiert sie._
+## Die Tiefenhalle
+
+Seine Forschungen führten ihn schließlich zu einem verlassenen Ort tief im Herzen der [[Schwarzklamm]] - die [[Tiefe Hallen]].
+
+Ein uraltes unterirdisches Zwergenheiligtum.
+
+In den tiefsten Ebenen hörte er eine Stimme.
+Die Stimme gehörte dem uralten Dämon [[Ephazul]]
+Ephazul war seit Äonen in den Tiefen der Welt versiegelt.
+
+Doch er konnte flüstern.
+Und er erkannte sofort, was Reodemus war:
+
+Ein Mann mit Hass.  
+Ein Mann mit Vision.  
+Ein Mann, der bereit war, Götter herauszufordern.
 
 ---
 
-**„Mein Name wird flüstern durch jedes Jahrhundert – als Retter oder Verräter. Ich entscheide.“**  
-→ _Er kennt den Preis – und nimmt ihn in Kauf._
+## Das Versprechen von Ephazul
+
+Ephazul erklärte ihm zwei Dinge:
+1. Der Dolch sei ein uraltes Artefakt mit der Macht der **Zeit**.    
+2. Der Gott des Krieges könne tatsächlich getötet werden.
+
+Der Dämon versprach Reodemus zu helfen.
+Er zeigte ihm die wahre Macht des Dolches:
+
+Mit ihm konnte Reodemus:
+- Sekunden zurück in der Zeit springen
+- Fehler korrigieren
+- Ereignisse manipulieren
+
+Für einen Strategen war diese Macht unbezahlbar.
+Und er gab Reodemus die Information zum [[Ritual des letzten Krieges]], welches es erlaubt einen Gott zu töten.
 
 ---
 
-**„Ich war niemand. Nun bin ich der, der allen ihre Zeit stiehlt.“**  
-→ _Ein Bekenntnis zu seiner Wandlung – aus dem Nichts zur Macht._
+## Aufstieg am Kaiserhof
 
+Mit der Macht des Dolches begann Reodemus seinen großen Plan.
+
+Durch Zeitmanipulation konnte er:
+- politische Katastrophen verhindern
+- Intrigen durchschauen
+- Attentate vereiteln
+
+Seine Entscheidungen wirkten oft **unheimlich perfekt**.
+So wurde er schließlich bekannt am Hof des Kaisers.
+Schritt für Schritt stieg er auf:
+
+- Berater von Adligen
+- Diplomat zwischen Provinzen
+- schließlich **Markgraf**
+
+Am Ende wurde er der **engste Berater des Kaisers**.
+Seine Weisheit machte ihn zu einer Legende am Hof.
+Niemand wusste:
+
+Seine Erfolge waren das Ergebnis unzähliger **korrigierter Zeitlinien**.
+
+---
+
+## Das Schattennetzwerk
+
+Während er öffentlich dem Kaiser diente, erschuf Reodemus im Verborgenen eine Organisation.
+
+Ein geheimes Netzwerk aus:
+- Spionen
+- Gelehrten
+- Assassinen
+- Reliktjägern
+
+Ihre Aufgabe:
+Die Artefakte zu finden, die nötig waren, um den Kriegsgott zu töten.
+Viele Mitglieder glauben tatsächlich an Reodemus’ Vision:
+
+> Eine Welt ohne Krieg.

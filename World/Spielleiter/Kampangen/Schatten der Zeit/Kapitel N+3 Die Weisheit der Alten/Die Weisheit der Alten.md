@@ -42,7 +42,7 @@ Thalmyra erklärt, dass dieses Artefakt einst benutzt wurde, um Fälschungen zu 
 
 - **Thalmyra kennt Selene Drachenruf** von früher – sie haben sich über magische Zirkel ausgetauscht, als die Drachin in Menschengestalt reiste.
     
-- Thalmyra spürt durch das Prisma, dass in Reodemus **ein Echo von Asmodeus selbst** widerhallt – eine Art Splitter der Gottheit, der durch Zeitmagie in ihn gesät wurde.
+- Thalmyra spürt durch das Prisma, dass in Reodemus **ein Echo von Lyrithiel selbst** widerhallt – eine Art Splitter der Gottheit, der durch Zeitmagie in ihn gesät wurde.
     
 
 ---

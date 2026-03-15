@@ -3,7 +3,7 @@ Enddatum: (Nachmittags) 14 (Gnadentag) Licht (Frühling) 2486 n.d.D.
 ### Ablauf:
 - [[Vishuda]] streift durch den Hafen und begenet [[Bramwell Kupferzahn]] auf der [[Windhexe]]
 - [[Gnodomir]] spricht mit Paulus dem Messdiender im [[Tempel St. Aurelia]] und lässt zwei seiner Bettler als Mönche für das Ritual auf dem Ball einschläusen
-- In der Schlossvorhalle treffen mit [[Zerra die Flüsterin]] alias [[Lady Maerina von Elmrath]]
+- In der Schlossvorhalle treffen mit [[Lady Maerina von Elmrath]]
 	- Flirtet mit [[Hector]]
 	- [[Hector]] belügt Zerra und lässt sie übere ihre Mission im Schloss im unklaren
 -  Treffen mit [[Marktgraf Reodemus]] 

@@ -50,7 +50,7 @@
 	- Überzeugen
 ---
 ## Ausrüstung
-- Heiliges Symbol (Muschel von Melora, Magie Fokus)
+- Heiliges Symbol (Muschel von [[Ocyra]], Magie Fokus)
 - Gebetsbuch
 - 5 Räucherstäbchen
 - Robe
@@ -88,7 +88,7 @@
 
 Als Kind einer flüchtigen Beziehung zwischen einer reisenden Heilerin und einem elfischen Naturkundigen war er früh gezwungen, zuzuhören – auf Menschen wie auf die Welt selbst. Während andere Kinder spielten, saß Thalion am Wasser und lauschte dem Wind, als würde er antworten.
 
-Die Priester Meloras erkannten die Zeichen. Thalion wurde in den **Tempel an der Klippe** aufgenommen, nicht als Gärtner oder Hüter der Haine, sondern als **Sturmkind**. Seine Ausbildung war streng. Er lernte, dass Meloras Zorn ebenso heilig ist wie ihre Sanftmut.
+Die Priester [[Ocyra]]s erkannten die Zeichen. Thalion wurde in den **Tempel an der Klippe** aufgenommen, nicht als Gärtner oder Hüter der Haine, sondern als **Sturmkind**. Seine Ausbildung war streng. Er lernte, dass [[Ocyra]]s Zorn ebenso heilig ist wie ihre Sanftmut.
 
 Schon Jahre vor dem Cambion warnte Thalion vor einer Veränderung im Fluss: Strömungen, die sich widersprachen, Fische, die gegen die Zeit laichten, Gebete, die hohl klangen.
 

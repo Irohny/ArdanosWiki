@@ -58,7 +58,7 @@ _Helmbrach-Massiv | Politisch & verdeckt_
     
 - **Dûm-Khadrak** (Hauptstadt)
     
-- **Tempel Moradins** (religiös & politisch brisant)
+- **Tempel [[Volgrin]]s** (religiös & politisch brisant)
     
 
 ---
@@ -109,7 +109,7 @@ _Helmbrach-Massiv | Politisch & verdeckt_
 
 ---
 
-#### 3️⃣ Tempel Moradins – _„Der Wille des Schmiedegottes“_
+#### 3️⃣ Tempel [[Volgrin]]s – _„Der Wille des Schmiedegottes“_
 
 - Rebellenpriester stellen Durngars Legitimität infrage
     

@@ -9,7 +9,7 @@ Die strahlende Hauptstadt von [[Elmrath]] und [[Ardanos]], gelegen an der Küste
 	* [[Stolzes Einhorn]]
 	* [[Grüner Wyvern]]
 * [[Palast des Kaisers]]
-* [[Tempel St. Aurelia]] Pelor
+* [[Tempel St. Aurelia]] [[Solyra]]
 * [[Hafen von Luminara]]
 ### Stadttor
 * Großes Imposantes Tor (Stark bewacht)

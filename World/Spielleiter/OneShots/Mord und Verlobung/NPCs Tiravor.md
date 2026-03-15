@@ -8,7 +8,7 @@
     
 ### **Bruder Calen Wellenruh**
 - **Rasse:** Halbelf
-- **Rolle:** Priester im Melora-Tempel
+- **Rolle:** Priester im [[Ocyra]]-Tempel
 - **Auftreten:** Ruhig, mitfühlend
 - **Wissen:** Spürte Elowens innere Unruhe
 - **Rolle nach Tod:** Abschiedsritual

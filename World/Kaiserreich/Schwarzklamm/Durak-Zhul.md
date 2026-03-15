@@ -20,6 +20,6 @@ Die Zwerge hier sind wahre Meister der Logistik. Jeder Arbeitsschritt ist eingeh
     
 - **Kanalhaus der drei Wasser**: Verwaltungssitz des Flusshandels, mit einer magisch verstärkten Karte aller bekannten unterirdischen Wasseradern.
     
-- **Schrein der Fließenden Ader**: Ein kleiner, ehrwürdiger Tempel, der Moradin in seiner Form als **Lenker des Stroms** verehrt.
+- **Schrein der Fließenden Ader**: Ein kleiner, ehrwürdiger Tempel, der [[Volgrin]] in seiner Form als **Lenker des Stroms** verehrt.
     
 - **Die Hallen von Raukhar**: Eine alte Spelunke für Schmuggler, verbotene Händler und Barden aus vergessenen Tagen – „was hier fließt, fragt nicht nach Herkunft“.

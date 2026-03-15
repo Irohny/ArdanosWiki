@@ -359,7 +359,7 @@ Bei Teilerfolg oder Scheitern:
     
 - Menschlicher Bauer mit druidischer Begabung
     
-- Priester Pelors als Beobachter des Gleichgewichts
+- Priester [[Solyra]]s als Beobachter des Gleichgewichts
     
 
 ---

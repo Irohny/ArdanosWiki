@@ -70,7 +70,7 @@ Der **Heilige Bimbatz** soll einst ein einfacher Kellerknecht gewesen sein, der 
 Er wird in vielen Dörfern als Wundertäter und in anderen als Scharlatan verehrt – doch jeder kennt die Legende, wie er in **Weinberg am Quell** den **Hohen Proster von Luminara** beim Weinkelch-Wettstreit besiegte und danach stundenlang predigte – mit nichts als einem Blatt Feigenbrot in der Hand.
 
 #### **Gerüchte über ihn**
-- Einige glauben, **er sei ein Gefäß für Meloras göttlichen Humor**. 
+- Einige glauben, **er sei ein Gefäß für [[Ocyra]]s göttlichen Humor**. 
 - Andere meinen, **er sei ein uralter vergessener Halbgott, der sich selbst vergessen hat**.
 - Kinder sagen, **sein Krug flüstert nachts**.
 - Es heißt, **wenn Bimbatz ernst wird, hören selbst Dämonen auf zu lachen**.

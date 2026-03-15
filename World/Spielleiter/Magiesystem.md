@@ -46,7 +46,7 @@ Magie ist keine willkürliche Kraft, sondern ein **natürliches Geflecht**, das 
     
 - **Merkmal:** Diese Magie ist **vertraglich** gebunden – sie kann wachsen, aber auch entzogen werden.
     
-- **Beispiel:** Ein Kleriker Pelors heilt mit Licht, während ein Hexenmeister Asmodeus’ mit Feuer und Schmerz verflucht.
+- **Beispiel:** Ein Kleriker [[Solyra]]s heilt mit Licht, während ein Hexenmeister Lyrithiels mit Feuer und Schmerz verflucht.
     
 
 ---

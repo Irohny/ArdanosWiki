@@ -11,7 +11,7 @@ Der Schlossplatz liegt direkt vor dem prächtigen Schloss und bietet einen eindr
 
 ### Schlosskeller
 * Ausgänge Schlossplatz, Hafen, Stadtmauer(Innenseite beim Stadttor)
-* Krypta ([[Pelor]])
+* Krypta ([[Solyra]])
 * Küche Untergeschoss
 * Untergeschoss Ballsaal
 * Schatzkammer

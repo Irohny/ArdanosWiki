@@ -50,9 +50,9 @@ Kein Feind hat Schwarzklamm jemals vollständig eingenommen – jeder Angriff en
 - Konflikte mit [[Mariven]] – [[Mariven]] kontrolliert den Seehandel, während Schwarzklamm auf Erzexporte angewiesen ist.
 
 ### Glaube & Religion
-- **[[Moradin]]** ist der Hauptgott, verehrt als Schutzpatron der Schmiede, Krieger und Bergleute.
+- **[[Volgrin]]** ist der Hauptgott, verehrt als Schutzpatron der Schmiede, Krieger und Bergleute.
 - **[[Erythra]]** wird als jene angesehen, die das Leben der Bergarbeiter verwaltet – sowohl den Schutz als auch die Begleitung ins Jenseits.
-- **[[Asmodeus]]** hat einige Anhänger unter Kriegern und Waffenschmieden, die das Licht des Schmiedefeuers als heilig betrachten.
-- **[[Pelor]]** wird von jenen Zwergen respektiert, die glauben, dass geschickte Worte genauso mächtig sind wie eine Klinge.
+- **[[Lyrithiel]]** hat einige Anhänger unter Kriegern und Waffenschmieden, die das Licht des Schmiedefeuers als heilig betrachten.
+- **[[Solyra]]** wird von jenen Zwergen respektiert, die glauben, dass geschickte Worte genauso mächtig sind wie eine Klinge.
 ### Geschichten
 ![[Krieg der Klüfte]]

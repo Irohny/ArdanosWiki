@@ -61,6 +61,6 @@ Das Reich selbst wird durch ein gewaltiges magisches Schild geschützt, der nur 
 - Neutral gegenüber [[Schwarzklamm]]  & [[Elmrath]] – Die Gelehrten Vaylens haben wenig Interesse an Rohstoffen oder Ackerbau.
 ### Glaube und Religion
 - **[[Erythra]]** ist besonders unter jenen angesehen, die sich mit Ehre im Kampf und dem Schicksal der Gefallenen beschäftigen.
-- **[[Moradin]]** wird als göttlicher Lehrer der Kriegsführung und des Handwerks verehrt.
-- **[[Pelor]]** wird von Heilern als Gott des Schutzes und der Hoffnung verehrt.
-- **[[Melora]]** hat nur wenige Anhänger, außer unter Naturverbundenen Magiern oder Waldläufern.
+- **[[Volgrin]]** wird als göttlicher Lehrer der Kriegsführung und des Handwerks verehrt.
+- **[[Solyra]]** wird von Heilern als Gott des Schutzes und der Hoffnung verehrt.
+- **[[Ocyra]]** hat nur wenige Anhänger, außer unter Naturverbundenen Magiern oder Waldläufern.

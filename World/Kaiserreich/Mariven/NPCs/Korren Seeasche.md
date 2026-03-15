@@ -1,4 +1,4 @@
-#Hoheprister #Drachengeborener #Melora 
+#Hoheprister #Drachengeborener #Ocyra 
 Ein wettergegerbter Seher mit Narben aus Sturm und Feuer. Hört angeblich die Geister der Tiefe im Schlaf murmeln. 
 
-Er ist der [[Melora]] Hoheprister auf der Insel [[Havgrim]] im Tempel der [[Smaragdlagune]].
+Er ist der [[Ocyra]] Hoheprister auf der Insel [[Havgrim]] im Tempel der [[Smaragdlagune]].

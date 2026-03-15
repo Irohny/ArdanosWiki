@@ -18,7 +18,7 @@ Doch unter Gelehrten und Mönchen mehren sich Flüstern und Fragmente anderer Wa
     
 - **Ser Kaelis Morn**, die Flammenklinge, soll in einer brennenden Kapelle gebetet haben, die nie erbaut wurde.
     
-- **Thamira Sternfall**, Schildmaid von Melora, war auf einem Pilgerschiff, das laut Protokollen nie ausgelaufen ist.
+- **Thamira Sternfall**, Schildmaid von [[Ocyra]], war auf einem Pilgerschiff, das laut Protokollen nie ausgelaufen ist.
     
 - **Alvar Dornhart**, der Grenzwahrer, wurde im Reichsarchiv zur „nicht existenten Person“ erklärt – seine Blutlinie endet laut Registern vor seiner Geburt.
     

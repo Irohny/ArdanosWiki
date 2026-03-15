@@ -12,7 +12,7 @@ Bimbatz bittet die Gruppe, **ein altes Liederbuch** aus einem längst verfallene
 
 ### **Ort der Quest:**
 
-- Die Ruine eines Tempels des **Gottes der Zeit oder Ordnung** (vielleicht sogar ein gefallener Moradin-Schrein).
+- Die Ruine eines Tempels des **Gottes der Zeit oder Ordnung** (vielleicht sogar ein gefallener [[Volgrin]]-Schrein).
     
 - Innerhalb gibt es ein Zeitverzerrungs-Phänomen: Räume, die altern oder verjüngen.
     

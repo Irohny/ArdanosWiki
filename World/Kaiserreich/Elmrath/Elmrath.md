@@ -42,7 +42,7 @@ Das Volk Elmraths kämpft nicht mit Schwertern, sondern mit List und Naturgewalt
 - Feindselig gegenüber [[Drakmora]] & [[Schwarzklamm]]  – Elmrath verachtet die Kriegerkultur [[Drakmora]]s und sieht die Bergbaunationen als Umweltzerstörer.
 
 ## Glaube & Religion
-- **[[Pelor]]** ist der Hauptgott von Elmrath, verehrt als Gott des Lichts, der Ernte und des Lebens. Seine Priester segnen Felder und Vieh.
-- **[[Melora]]** wird als Schutzpatronin der Natur und des Wetters angerufen, insbesondere für günstige Regenzeiten.
+- **[[Solyra]]** ist die Hauptgottin von Elmrath, verehrt als Gottin des Lichts, der Ernte und des Lebens. Ihre Priester segnen Felder und Vieh.
+- **[[Ocyra]]** wird als Schutzpatronin der Natur und des Wetters angerufen, insbesondere für günstige Regenzeiten.
 - **[[Erythra]]** wird von Heilern und Totengräbern verehrt, die das Gleichgewicht zwischen Leben und Tod achten.
-- **[[Moradin]]** wird als Gott des Wissens und der Baukunst respektiert, insbesondere von Handwerkern und Baumeistern.
+- **[[Volgrin]]** wird als Gott des Wissens und der Baukunst respektiert, insbesondere von Handwerkern und Baumeistern.

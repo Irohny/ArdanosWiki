@@ -4,7 +4,7 @@ An den sanften Ufern des mächtigen **[[Lumaros]]**, auf der Seite des Königrei
 
 Die Stadt selbst ist in warmem, honigfarbenem Stein erbaut, gewonnen aus nahegelegenen Steinbrüchen. Reihen alter, steiler Dächer mit grauen Ziegeln ziehen sich entlang der Uferstraße, wo Fischerboote anlegen, Händler ihre Waren ausbreiten und Kräuterfrauen im Wind des Flusses ihre Bündel trocknen.
 
-Einfache Wege durchziehen die Stadt. Zwei kleine Brücken überspannen den **Fluss [[Darn]]**, der Tiravor von Süden nach Norden teilt. An der Nordbrücke erhebt sich das Rathaus – schlicht, aber solide. Hoch über allem, auf der nordwestlichen Felsklippe, steht der **Tempel der [[Melora]]**, dem Wind und dem Wasser gleichermaßen geweiht.
+Einfache Wege durchziehen die Stadt. Zwei kleine Brücken überspannen den **Fluss [[Darn]]**, der Tiravor von Süden nach Norden teilt. An der Nordbrücke erhebt sich das Rathaus – schlicht, aber solide. Hoch über allem, auf der nordwestlichen Felsklippe, steht der **Tempel der [[Ocyra]]**, dem Wind und dem Wasser gleichermaßen geweiht.
 
 Reisende können den **[[Lumaros]]** hier mit kleinen Fährbooten überqueren – ein Geschäft, das ebenso alt ist wie die Stadt selbst.
 

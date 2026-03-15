@@ -1,5 +1,5 @@
 - [[Vishuda]] (Spieler)
-- Adhara
+- Adhara (Novize)
 - Ashuna
 - Mapura
 - Nahata

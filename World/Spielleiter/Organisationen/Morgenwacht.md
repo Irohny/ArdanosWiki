@@ -1,11 +1,11 @@
-_Religiöser Militärorden Pelors_
+_Religiöser Militärorden [[Solyra]]s_
 ![[Morgenwacht.png|200]]
-Die **Morgenwacht** ist ein religiöser Militärorden, der im Namen Pelors für Licht, Leben und Reinheit kämpft. Sie versteht sich als erste Verteidigungslinie gegen Dunkelheit, Verderbnis und monströse Bedrohungen. Ihr Name symbolisiert den Moment vor dem Sonnenaufgang – die Zeit, in der die Dunkelheit am gefährlichsten ist und das Licht am dringendsten gebraucht wird.
+Die **Morgenwacht** ist ein religiöser Militärorden, der im Namen [[Solyra]]s für Licht, Leben und Reinheit kämpft. Sie versteht sich als erste Verteidigungslinie gegen Dunkelheit, Verderbnis und monströse Bedrohungen. Ihr Name symbolisiert den Moment vor dem Sonnenaufgang – die Zeit, in der die Dunkelheit am gefährlichsten ist und das Licht am dringendsten gebraucht wird.
 
 ---
 ### **Auftrag**
 
-Die Morgenwacht schützt die Schwachen, bekämpft Monster und widernatürliche Wesen und verbreitet die Lehre Pelors. Wo das Licht bedroht wird, zieht der Orden aus, um Ordnung wiederherzustellen und Hoffnung zu bringen – notfalls mit dem Schwert.
+Die Morgenwacht schützt die Schwachen, bekämpft Monster und widernatürliche Wesen und verbreitet die Lehre [[Solyra]]s. Wo das Licht bedroht wird, zieht der Orden aus, um Ordnung wiederherzustellen und Hoffnung zu bringen – notfalls mit dem Schwert.
 
 ---
 ### **Glaube & Ideale**
@@ -39,7 +39,7 @@ Die Morgenwacht befindet sich in offenem Konflikt mit:
 - Blutmagiern und verbotenen Kulten
 - Schwurklans wie den **Nachtgeweihten**
 
-Interne Uneinigkeit besteht darüber, wie weit Pelors Licht reichen darf – und wann es zur Flamme wird.
+Interne Uneinigkeit besteht darüber, wie weit [[Solyra]]s Licht reichen darf – und wann es zur Flamme wird.
 
 ---
 ### **Leitspruch**

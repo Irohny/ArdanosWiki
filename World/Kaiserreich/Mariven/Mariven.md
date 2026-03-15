@@ -52,7 +52,7 @@ Mariven ist keine militärische Macht im traditionellen Sinne, doch seine Flotte
 - Verfeindet mit [[Schwarzklamm]] & [[Drakmora]] – [[Schwarzklamm]]  kontrolliert viele Erzvorkommen und setzt Mariven unter wirtschaftlichen Druck, während [[Drakmora]]s kriegerische Natur als Bedrohung für die Handelsrouten gilt.
 - Misstrauen gegenüber [[Vaylen]] – Die Magier von [[Vaylen]] sind unberechenbar, und Mariven traut keiner Macht, die sich nicht durch Gold oder Stahl beeinflussen lässt.
 ### Glaube & Religion
-- **[[Melora]]** ist die wichtigste Göttin, da sie über das Meer, den Wind und die Stürme herrscht. Seefahrer beten zu ihr für sichere Reisen.
-- **[[Asmodeus]]** wird von cleveren Händlern und Diplomaten verehrt, die in Verhandlungen einen Vorteil suchen.
-- **[[Pelor]]** hat kleinere Tempel in Städten, wo er als Gott des Wohlstandes und des fairen Handels angesehen wird.
+- **[[Ocyra]]** ist die wichtigste Göttin, da sie über das Meer, den Wind und die Stürme herrscht. Seefahrer beten zu ihr für sichere Reisen.
+- **[[Lyrithiel]]** wird von cleveren Händlern und Diplomaten verehrt, die in Verhandlungen einen Vorteil suchen.
+- **[[Solyra]]** hat kleinere Tempel in Städten, wo er als Gott des Wohlstandes und des fairen Handels angesehen wird.
 - **[[Erythra]]** wird nur selten verehrt, außer von jenen, die sich mit Übergängen und Schicksal beschäftigen.

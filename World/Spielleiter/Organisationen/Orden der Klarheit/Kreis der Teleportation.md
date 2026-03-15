@@ -37,7 +37,7 @@
 - Kolluseum Infernale in [[Valatheris]]
 - Raum der tiefen Stille - [[Bibliothek des Verborgenen Lichts]], [[Velithor]]
 - Halle der Ahnen - [[Dûm-Khadrak]], [[Schwarzklamm]]
-- Moradin Tempel vor den [[Tiefe Hallen]], [[Schwarzklamm]]
+- [[Volgrin]] Tempel vor den [[Tiefe Hallen]], [[Schwarzklamm]]
 - Siedlung am [[Morgenfels]]
 - Elfenstadt im [[Immergrüner Hain]]
 ### Nicht benutzbare Kreise

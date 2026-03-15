@@ -18,7 +18,7 @@ Ein erfahrener Intrigant, ehemals General der westlichen Clans. Nach einem „un
 
 - Trägt sich mit dem Gedanken, einen Sitz im **Kriegsherrenzirkel von Valatheris** zu beanspruchen.
     
-- Misstraut der Priesterschaft, hat jedoch heimlich einen Berater aus Asmodeus’ Kult empfangen.
+- Misstraut der Priesterschaft, hat jedoch heimlich einen Berater aus Lyrithiels Kult empfangen.
     
 ### **2. Oberst Luredan van Harl**
 ![[Luredan van Harl]]
