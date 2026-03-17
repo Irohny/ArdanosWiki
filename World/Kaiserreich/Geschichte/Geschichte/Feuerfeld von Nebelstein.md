@@ -1,3 +1,8 @@
+#Ereignis
+#Kaiserreich
+
+Zeitspanne: 2162 n.d.D
+
 ![[SchlachAmFeuerfeld.png|500]]
 Im Spätherbst des Jahres ***2162 n.d.D***., als der Himmel über der weiten **[[Nebelsteppe]]** in trübem Grau hing, entschied sich das Schicksal eines Zeitalters. Das **Zeitalter der Flammenkronen****, in denen Horden wilder Barbaren das Land verheert hatten, fanden auf jenem geschichtsträchtigen Boden ihr Ende – im **Feuerfeld von Nebelstein**.
 

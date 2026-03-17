@@ -3,6 +3,13 @@ set shell := ["bash", "-cu"]
 default:
     just --list
 
+# rebuild extracted timeline data and svg
+svg:
+    uv run python timeline_tools/metadata_extractor/scan_lore.py
+    uv run python timeline_tools/metadata_extractor/validate_metadata.py
+    uv run python timeline_tools/metadata_extractor/build_timeline_json.py
+    uv run python timeline_tools/vertical_svg/generate_svg.py
+
 # run streamlit app
 run:
     uv run streamlit run app.py
@@ -24,7 +31,8 @@ changelog:
 commit msg:
     just lint
     just req
-    just changelog
+    #just changelog
+    just svg
     git add -A
     git commit -m "{{msg}}"
     git push

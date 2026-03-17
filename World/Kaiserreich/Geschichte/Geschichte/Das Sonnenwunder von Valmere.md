@@ -1,3 +1,8 @@
+#Ereignis
+#Elmrath
+
+Zeitspanne: 2447 n.d.D
+
 Es geschah im Jahre 2447 n.d.D im dritten Zeitalter, in einem vergessenen Winkel des Südens von [[Elmrath]]– im Dorf **Valmere**, das zwischen dichten Nebelwäldern und verwitterten Hügelgräbern lag. Dunkle Tage hatten das Land umfangen. Eine Seuche, bleich und grausam, zog durch die Felder wie giftiger Dunst. Die Erde war kalt, das Korn verdorrt, und selbst die Sonne schien Valmere vergessen zu haben.
 
 Inmitten dieser Finsternis kam ein wandernder Priester mit nichts als einem alten Stab, einem vergoldeten Symbol [[Solyra]]s und einem abgegriffenen Buch der Liturgien. Sein Name war **[[Thamior Lucenval]]**, ein stiller Mann mit müden Augen und einer Stimme, die wie Honig über heiße Steine floss.

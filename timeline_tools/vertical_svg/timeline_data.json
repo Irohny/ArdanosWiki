@@ -1,0 +1,837 @@
+{
+  "title": "Ardanos: Chronik des Reiches",
+  "subtitle": "Geschichte der Kaiser und Fürstenhäuser",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 2,
+      "width": 120
+    },
+    {
+      "id": "emperor",
+      "label": "Ardanos",
+      "color": "#c69c2d",
+      "lanes": 2
+    },
+    {
+      "id": "elmrath",
+      "label": "Elmrath",
+      "color": "#7aa23f",
+      "lanes": 2
+    },
+    {
+      "id": "drakmora",
+      "label": "Drakmora",
+      "color": "#b35c44",
+      "lanes": 2
+    },
+    {
+      "id": "mariven",
+      "label": "Mariven",
+      "color": "#2f8a7f",
+      "lanes": 2
+    },
+    {
+      "id": "schwarzklamm",
+      "label": "Schwarzklamm",
+      "color": "#4f5563",
+      "lanes": 2
+    },
+    {
+      "id": "vaylen",
+      "label": "Vaylen",
+      "color": "#5f83b0",
+      "lanes": 2
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "emperor",
+      "label": "Gruendung Kaiserreich",
+      "start": 2160,
+      "end": 2160,
+      "kind": "foundation"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Elyander Goldschild",
+      "start": 2165,
+      "end": 2199,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Almareth Silven",
+      "start": 2199,
+      "end": 2230,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Barduron Steinmark",
+      "start": 2230,
+      "end": 2256,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Calvius Thorne",
+      "start": 2256,
+      "end": 2283,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Dural Goldschild II",
+      "start": 2283,
+      "end": 2318,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Marcellon Arven",
+      "start": 2319,
+      "end": 2354,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Virella Nyssien",
+      "start": 2355,
+      "end": 2381,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Balrik Hammergrund",
+      "start": 2382,
+      "end": 2409,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Alinor Thorne II",
+      "start": 2410,
+      "end": 2442,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Elsinya Arven",
+      "start": 2443,
+      "end": 2469,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Durnek Eisenmark",
+      "start": 2470,
+      "end": 2483,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 0,
+      "label": "Aldric von Elmrath",
+      "start": 2484,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "emperor",
+      "lane": 1,
+      "label": "Invasion der Nordbarbaren",
+      "start": 2025,
+      "end": 2165,
+      "kind": "range",
+      "fill": "#d1b057"
+    },
+    {
+      "column": "emperor",
+      "lane": 1,
+      "label": "Eid von Morgenfels",
+      "start": 2160,
+      "end": 2160,
+      "kind": "point",
+      "fill": "#d1b057"
+    },
+    {
+      "column": "emperor",
+      "lane": 1,
+      "label": "Feuerfeld von Nebelstein",
+      "start": 2162,
+      "end": 2162,
+      "kind": "point",
+      "fill": "#d1b057"
+    },
+    {
+      "column": "emperor",
+      "lane": 1,
+      "label": "Blutfeldzug in der Aschenweite",
+      "start": 2478,
+      "end": 2482,
+      "kind": "range",
+      "fill": "#d1b057"
+    },
+    {
+      "column": "elmrath",
+      "label": "Gruendung Elmrath",
+      "start": 553,
+      "end": 553,
+      "kind": "foundation"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Caelynn Morgenblatt",
+      "start": 553,
+      "end": 1041,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Elenion Silberhain",
+      "start": 1041,
+      "end": 1455,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Orellan Dämmerwald",
+      "start": 1487,
+      "end": 1610,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Isilme Dämmerwald",
+      "start": 1610,
+      "end": 1765,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Arannis Silven",
+      "start": 1765,
+      "end": 1914,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Naeryss Silven",
+      "start": 1914,
+      "end": 2325,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Viktoria von Elmrath",
+      "start": 2325,
+      "end": 2383,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Elsinya von Elmrath",
+      "start": 2383,
+      "end": 2448,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Thalric von Elmrath",
+      "start": 2443,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 1,
+      "label": "Nord-Süd-Konflikt",
+      "start": 1304,
+      "end": 1307,
+      "kind": "range",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath",
+      "lane": 1,
+      "label": "Muschelkrieg",
+      "start": 1401,
+      "end": 1402,
+      "kind": "range",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath",
+      "lane": 1,
+      "label": "Das Sonnenwunder von Valmere",
+      "start": 2447,
+      "end": 2447,
+      "kind": "point",
+      "fill": "#95b565"
+    },
+    {
+      "column": "drakmora",
+      "label": "Gruendung Drakmora",
+      "start": 610,
+      "end": 610,
+      "kind": "foundation"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Brogorn Klingenzorn",
+      "start": 610,
+      "end": 688,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Khara Eisenblick",
+      "start": 688,
+      "end": 721,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Uldak Schmetterschlag",
+      "start": 721,
+      "end": 790,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Harnak Blutgeboren",
+      "start": 853,
+      "end": 910,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Rogda Speerflamme",
+      "start": 910,
+      "end": 1002,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Durvak Grimmhammer",
+      "start": 1002,
+      "end": 1230,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Marthok Goldschild",
+      "start": 1231,
+      "end": 1284,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Tyrak der Wilde",
+      "start": 1284,
+      "end": 1332,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Sigrid Eisenfaust",
+      "start": 1332,
+      "end": 1410,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Varrun Brechmaul",
+      "start": 1410,
+      "end": 1527,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Thorgim Donnerklinge",
+      "start": 1527,
+      "end": 1694,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Karnok Splitterbart",
+      "start": 1694,
+      "end": 1790,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Oghrim der Alte",
+      "start": 1790,
+      "end": 1990,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Garrik Sturmherr",
+      "start": 1990,
+      "end": 2166,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Barag Steinhorn",
+      "start": 2166,
+      "end": 2233,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Torgak Eisenbrand",
+      "start": 2233,
+      "end": 2344,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Valaine Nebelhain",
+      "start": 2344,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 1,
+      "label": "Nord-Süd-Konflikt",
+      "start": 1304,
+      "end": 1307,
+      "kind": "range",
+      "fill": "#c27d69"
+    },
+    {
+      "column": "drakmora",
+      "lane": 1,
+      "label": "Erzkrieg von Eron’Gath",
+      "start": 1526,
+      "end": 1528,
+      "kind": "range",
+      "fill": "#c27d69"
+    },
+    {
+      "column": "drakmora",
+      "lane": 1,
+      "label": "Reiterkriege der Nebelsteppe",
+      "start": 1740,
+      "end": 1755,
+      "kind": "range",
+      "fill": "#c27d69"
+    },
+    {
+      "column": "mariven",
+      "label": "Gruendung Mariven",
+      "start": 503,
+      "end": 503,
+      "kind": "foundation"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Lureano Vintar",
+      "start": 503,
+      "end": 547,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Vennira Cassalay",
+      "start": 547,
+      "end": 603,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Domerr Talzo",
+      "start": 603,
+      "end": 685,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Yllian Marris",
+      "start": 685,
+      "end": 750,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Faelyn Niros",
+      "start": 750,
+      "end": 912,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Perrik Grahm",
+      "start": 912,
+      "end": 983,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Celetha Vintar II",
+      "start": 983,
+      "end": 1036,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Zordak Eisenbeiß",
+      "start": 1036,
+      "end": 1121,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Aerinelle Vellora",
+      "start": 1121,
+      "end": 1399,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Candamir Silberhand",
+      "start": 1399,
+      "end": 1623,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Marcellus Daevorn",
+      "start": 1623,
+      "end": 1664,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Vanya Cerelin",
+      "start": 1664,
+      "end": 1886,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Halren Marris II",
+      "start": 1886,
+      "end": 1912,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Orryn Talzo II",
+      "start": 1912,
+      "end": 1971,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Zallion Vintar III",
+      "start": 1971,
+      "end": 2030,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Aelaria Talzo",
+      "start": 2030,
+      "end": 2158,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Elim Marthus",
+      "start": 2158,
+      "end": 2245,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Irion Cassalay II",
+      "start": 2245,
+      "end": 2456,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 0,
+      "label": "Lyssander Valera",
+      "start": 2456,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "mariven",
+      "lane": 1,
+      "label": "Baraberenüberfälle von Mariven",
+      "start": 1236,
+      "end": 1387,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven",
+      "lane": 1,
+      "label": "Muschelkrieg",
+      "start": 1401,
+      "end": 1402,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven",
+      "lane": 1,
+      "label": "Runenbann-Konflikt",
+      "start": 1603,
+      "end": 1611,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "schwarzklamm",
+      "label": "Gruendung Schwarzklamm",
+      "start": 328,
+      "end": 328,
+      "kind": "foundation"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 0,
+      "label": "Durngar Schwarzschild",
+      "start": 2410,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 1,
+      "label": "Bardum Eisenklang",
+      "start": 328,
+      "end": 328,
+      "kind": "point",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 1,
+      "label": "Erzkrieg von Eron’Gath",
+      "start": 1526,
+      "end": 1528,
+      "kind": "range",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 1,
+      "label": "Die Erschütterung der Tiefe",
+      "start": 1698,
+      "end": 1698,
+      "kind": "point",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 1,
+      "label": "Die Feuertaufe von Kar'drathar",
+      "start": 2163,
+      "end": 2163,
+      "kind": "point",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 1,
+      "label": "Krieg der Klüfte",
+      "start": 2319,
+      "end": 2410,
+      "kind": "range",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 1,
+      "label": "Zeitalter des Schildes",
+      "start": 2410,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#727782"
+    },
+    {
+      "column": "vaylen",
+      "label": "Gruendung Vaylen",
+      "start": 441,
+      "end": 441,
+      "kind": "foundation"
+    },
+    {
+      "column": "vaylen",
+      "lane": 0,
+      "label": "Seralyss Drachenruf",
+      "start": 441,
+      "end": 1219,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen",
+      "lane": 0,
+      "label": "Saelarion Drachenruf",
+      "start": 1219,
+      "end": 1542,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen",
+      "lane": 0,
+      "label": "Solarys Drachenruf",
+      "start": 1542,
+      "end": 1872,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen",
+      "lane": 0,
+      "label": "Syrell Drachenruf",
+      "start": 1872,
+      "end": 2153,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen",
+      "lane": 0,
+      "label": "Selene Drachenruf",
+      "start": 2153,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen",
+      "lane": 1,
+      "label": "Runenbann-Konflikt",
+      "start": 1603,
+      "end": 1611,
+      "kind": "range",
+      "fill": "#7f9cc0"
+    },
+    {
+      "column": "vaylen",
+      "lane": 1,
+      "label": "Reiterkriege der Nebelsteppe",
+      "start": 1740,
+      "end": 1755,
+      "kind": "range",
+      "fill": "#7f9cc0"
+    }
+  ]
+}

@@ -1,3 +1,9 @@
+#Krieg
+#Elmrath
+#Mariven
+
+Zeitspanne: 1401 - 1402 n.d.D
+
 **1401–1402 n.d.D.**
 
 **Konfliktparteien:** [[Mariven]] vs. [[Elmrath]]

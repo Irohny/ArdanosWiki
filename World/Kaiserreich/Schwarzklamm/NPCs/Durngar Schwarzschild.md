@@ -1,4 +1,8 @@
-#Fürst #Zwerg #Schwarzklamm #Delegation 
+#Herrscher
+#Schwarzklamm
+
+Zeitspanne: 2410 - heute n.d.D
+
 ![[Durngar Schwarzschild.png|200]]
 Geboren: 2224 n.d.D. im dritten Zeitalter, jetzt 265 Jahre
 

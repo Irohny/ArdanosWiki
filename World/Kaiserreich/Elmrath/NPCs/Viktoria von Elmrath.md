@@ -1,3 +1,8 @@
+#Herrscher
+#Elmrath
+
+Zeitspanne: 2325 - 2383 n.d.D
+
  - **Regentschaft:** 2325 - 2383 n.d.D.
 - **Haus:** von Elmrath
 - **Rasse:** Mensch

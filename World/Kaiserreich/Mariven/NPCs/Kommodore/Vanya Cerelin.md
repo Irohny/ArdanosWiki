@@ -1,3 +1,8 @@
+#Herrscher
+#Mariven
+
+Zeitspanne: 1664 - 1886 n.d.D
+
 - **Regentschaft:** 1664–1886 n.d.D.
 - **Haus:** Cerelin
 - **Rasse:** Hochelfe

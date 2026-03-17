@@ -1,3 +1,8 @@
+#Herrscher
+#Drakmora
+
+Zeitspanne: 2233 - 2344 n.d.D
+
 **Regentschaft:** 2233–2344 n.d.D.
 **Rasse:** Mensch
 **Haus:** Eisenbrand

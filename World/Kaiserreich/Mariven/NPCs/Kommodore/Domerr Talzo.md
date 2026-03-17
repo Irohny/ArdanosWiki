@@ -1,3 +1,8 @@
+#Herrscher
+#Mariven
+
+Zeitspanne: 603 - 685 n.d.D
+
 - **Regentschaft:** 603–685 n.d.D.
 - **Haus:** Talzo
 - **Rasse:** Zwerg

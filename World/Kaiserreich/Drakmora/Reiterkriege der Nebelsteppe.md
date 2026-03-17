@@ -1,3 +1,9 @@
+#Krieg
+#Drakmora
+#Vaylen
+
+Zeitspanne: 1740 - 1755 n.d.D
+
 1740–1755 n.d.D.
 
 **Konfliktparteien:** [[Drakmora]] vs. mehrere kleinere Reiterstämme, mit indirekter Unterstützung von [[Vaylen]]

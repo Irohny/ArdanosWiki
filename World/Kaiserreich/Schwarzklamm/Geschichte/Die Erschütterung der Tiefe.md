@@ -1,3 +1,8 @@
+#Ereignis
+#Schwarzklamm
+
+Zeitspanne: 1698 n.d.D
+
 _„Und so brach die Stille – nicht durch Schlacht oder Streit, sondern durch den Schrei eines Wesens, das nie hätte erwachen dürfen.“_  
 – **Aus dem Schwarzen Kodex der Runenhalle**
 

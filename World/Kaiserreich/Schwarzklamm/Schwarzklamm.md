@@ -1,4 +1,8 @@
-#Fürstentum #Schwarzklamm
+#Gruendung
+#Schwarzklamm
+
+Zeitspanne: 328 n.d.D
+
 # Das Fürstentum Schwarzklamm – Das Reich der Tiefen
 ![[Wappen Schwarzklamm.png|200]]
 Tief in den Bergen, wo das Licht der Sonne kaum hinabdringt, liegt das mächtige Zwergenfürstentum Schwarzklamm. Hier, zwischen gewaltigen Schmieden, endlosen Minen und uneinnehmbaren Festungen, leben die Zwerge, deren Leben sich um Erz, Stein und Stahl dreht. Sie sind Meister der Schmiedekunst, Baumeister unvergänglicher Hallen und Krieger mit unerschütterlicher Entschlossenheit. Doch Schwarzklamm ist nicht nur eine Nation der Handwerker – es ist eine uneinnehmbare Bastion, geprägt von alten Fehden, uralten Tiefen und Geheimnissen, die in der Dunkelheit lauern.

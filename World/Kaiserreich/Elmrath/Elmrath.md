@@ -1,4 +1,8 @@
-#Fürstentum #Elmrath 
+#Gruendung
+#Elmrath
+
+Zeitspanne: 553 n.d.D
+
 # Das Volk von Elmrath – Das Reich der Erde und des Lebens
 ![[Wappen Elmrath.png|200]]
 Zwischen weiten Feldern, endlosen Wäldern und sanften Hügeln erstreckt sich Elmrath, das Fürstentum der Bauern, Jäger und Druiden. Es ist die Kornkammer der Welt, ein Land, das sich der Natur, der Landwirtschaft und dem einfachen Leben verschrieben hat. Seine Bewohner sind bodenständig, friedliebend und tief mit der Erde verbunden – doch wer glaubt, sie seien schwach, irrt gewaltig.

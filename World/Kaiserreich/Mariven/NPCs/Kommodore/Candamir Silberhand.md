@@ -1,3 +1,8 @@
+#Herrscher
+#Mariven
+
+Zeitspanne: 1399 - 1623 n.d.D
+
 ![[Candamir Silbrhand.jpeg|200]]
 - **Regentschaft:** 1399–1623 n.d.D.
 - **Haus:** Silberhand

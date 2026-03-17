@@ -1,3 +1,8 @@
+#Gruendung
+#Vaylen
+
+Zeitspanne: 441 n.d.D
+
 # Das Volk von Vaylen – Das Reich der Magie und des Wissens
 ![[Wappen Vaylen.png|200]]
 Hoch über den Nebeln der Welt, in Türmen aus schimmerndem Stein und von uralten Drachen bewachten Bibliotheken, liegt Vaylen – das Fürstentum der Gelehrten, Zauberer und Drachengeborenen. Hier regieren Wissen und arkanes Können über Stahl und Münzen.

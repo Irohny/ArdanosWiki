@@ -1,3 +1,8 @@
+#Krieg
+#Kaiserreich
+
+Zeitspanne: 2025 - 2165 n.d.D
+
 2025- 2165 n.d.D.
 
 **Konfliktparteien:** alle Fürstentümer

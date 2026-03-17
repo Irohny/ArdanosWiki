@@ -1,3 +1,9 @@
+#Krieg
+#Schwarzklamm
+#Drakmora
+
+Zeitspanne: 1526 - 1528 n.d.D
+
 1526–1528 n.d.D.
 
 **Konfliktparteien:** [[Schwarzklamm]] vs. [[Drakmora]]  

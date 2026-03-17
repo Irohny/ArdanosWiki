@@ -1,3 +1,8 @@
+#Herrscher
+#Mariven
+
+Zeitspanne: 1886 - 1912 n.d.D
+
 - **Regentschaft:** 1886–1912 n.d.D.
 - **Haus:** Marris
 - **Rasse:** Mensch

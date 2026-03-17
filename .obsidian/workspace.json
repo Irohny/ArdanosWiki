@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6883959dbc5dcccc",
+        "id": "175876ca4fa33823",
         "type": "tabs",
         "children": [
           {
-            "id": "572a50302ab56121",
+            "id": "d5842904c97c2329",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "World/Spielleiter/Organisationen/Nachtgeweihte.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Nachtgeweihte"
+              "title": "New tab"
             }
           }
         ]
@@ -166,8 +162,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "5bb59a01a7be8bd2",
+  "active": "d5842904c97c2329",
   "lastOpenFiles": [
+    "CHANGELOG.md",
     "World/Spielleiter/Organisationen/Nachtgeweihte.md",
     "World/Spielleiter/Organisationen/Alchemistischen Konvent.md",
     "World/Spielleiter/Organisationen/Rote Jäger.md",
@@ -194,7 +191,6 @@
     "World/Spielleiter/Artefakte und Tränke/Codex des Nichtseins.md",
     "World/Spielleiter/Kampangen/Aufgaben.md",
     "World/Spielleiter/Played OneShots/Funkeln in der Finsternis/Funkeln in der Finsternis.md",
-    "World/Spielleiter/Played OneShots/Funkeln in der Finsternis/Caelumbran Werkstatt Fight.md",
     "World/Spielleiter/OneShots/Ideen Sammlung",
     "World/Images/Schatzkammer_innen.png",
     "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Zeitungsartikel.png",

@@ -1,3 +1,8 @@
+#Herrscher
+#Elmrath
+
+Zeitspanne: 1914 - 2325 n.d.D
+
 **Regentschaft:** 1914–2325 n.d.D.
 **Haus:** von Elmrath
 **Rasse:** Hochelfe

@@ -1,4 +1,8 @@
-#Fürst #Elb #Delegation #Drakmora 
+#Herrscher
+#Drakmora
+
+Zeitspanne: 2344 - heute n.d.D
+
 ![[ValaineNebelhain.jpeg|300]]
 **Regentschaft:** seit 2344 n.d.D
 

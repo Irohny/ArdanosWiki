@@ -1,3 +1,8 @@
+#Ereignis
+#Kaiserreich
+
+Zeitspanne: 2160 n.d.D
+
 _Jahr 2160 n.d.D. – Wendepunkt der Fürstentümer_
 
 In einer Zeit, in der Zwietracht, alte Fehden und Misstrauen die Fürstentümer lähmten, formte sich in der Dringlichkeit der Bedrohung eine neue Hoffnung. Die Barbarenhorden aus dem Norden hatten bereits tief ins Herz des Reiches gestoßen. Handel brach ein, Grenzburgen fielen, und die Menschen begannen, den Glauben an bessere Zeiten zu verlieren.

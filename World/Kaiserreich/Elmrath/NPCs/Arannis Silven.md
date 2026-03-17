@@ -1,3 +1,8 @@
+#Herrscher
+#Elmrath
+
+Zeitspanne: 1765 - 1914 n.d.D
+
 - **Regentschaft:** 1765–1914 n.d.D.
 - **Haus:** Silven
 - **Rasse:** Hochelfe

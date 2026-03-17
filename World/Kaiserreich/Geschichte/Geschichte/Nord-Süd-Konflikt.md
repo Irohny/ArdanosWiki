@@ -1,3 +1,9 @@
+#Konflikt
+#Drakmora
+#Elmrath
+
+Zeitspanne: 1304 - 1307 n.d.D
+
 1304–1307 n.d.D.
 
 **Konfliktparteien:** [[Drakmora]] vs. [[Elmrath]]  

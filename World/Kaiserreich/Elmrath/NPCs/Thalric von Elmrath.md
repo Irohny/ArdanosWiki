@@ -1,3 +1,8 @@
+#Herrscher
+#Elmrath
+
+Zeitspanne: 2443 - heute n.d.D
+
 ![[Thalric.jpeg|300]]
 - **Regentschaft:** seit 2443 n.d.D.
 - **Haus:** von Elmrath

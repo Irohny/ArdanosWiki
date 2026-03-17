@@ -1,3 +1,8 @@
+#Krieg
+#Kaiserreich
+
+Zeitspanne: 2478 - 2482 n.d.D
+
 **Konfliktjahr:** 2478 - 2482 n.d.D.
 **Ort:** Hochebene von **Aschenweite** – ein zerklüftetes, windgepeitschtes Niemandsland nördlich von [[Valatheris]], bedeckt von schwarzer Schlacke und rissiger Erde.
 

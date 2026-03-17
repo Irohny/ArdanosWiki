@@ -1,4 +1,8 @@
-#Fürstentum #Mariven 
+#Gruendung
+#Mariven
+
+Zeitspanne: 503 n.d.D
+
 # Das Volk von Mariven – Die Perle der See
 ![[Wappen Mariven.png|200]]
 Mariven ist ein florierendes Küstenfürstentum, das für seinen Seehandel, seine prächtigen Hafenstädte und seine florierende Fischerei bekannt ist. Es ist ein Reich der Händler, Seefahrer und Entdecker, das auf Diplomatie, Wohlstand und die Kontrolle der Meere setzt. Die Marivenier sind bekannt für ihren Geschäftssinn, ihre Geschicklichkeit auf dem Wasser und ihre Liebe zur Freiheit.

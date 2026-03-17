@@ -1,3 +1,8 @@
+#Krieg
+#Schwarzklamm
+
+Zeitspanne: 2319 - 2410 n.d.D
+
 2319 - 2410 n.d.D im dritten Zeitalter
 
 Clan Schwarzschild war schon immer einer der mächtigsten Clans [[Schwarzklamm]]s, bekannt für seine unbezwingbaren Krieger und genialen Taktiker. Doch lange Zeit mussten sie im Schatten von Clan Hammersturm und Clan Felsenherz agieren.

@@ -1,0 +1,4326 @@
+{
+  "lore_root": "World/Kaiserreich",
+  "current_year": 2486,
+  "items": [
+    {
+      "path": "World/Kaiserreich/Ardanos.md",
+      "title": "Ardanos",
+      "primary_types": [
+        "Gruendung"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2160 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 2160,
+        "end": 2160,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Gruendung",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2160 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Altlicht.md",
+      "title": "Altlicht",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Chroniken Drakmora.md",
+      "title": "Chroniken Drakmora",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Drachengründe.md",
+      "title": "Drachengründe",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Drakmora.md",
+      "title": "Drakmora",
+      "primary_types": [
+        "Gruendung"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 610 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 610,
+        "end": 610,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Gruendung",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 610 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Alerion Sternensaenger.md",
+      "title": "Alerion Sternensaenger",
+      "primary_types": [],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Elf #Drakmora #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Barag Steinhorn.md",
+      "title": "Barag Steinhorn",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2166 - 2233 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2166,
+        "end": 2233,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 2166 - 2233 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Brogorn Klingenzorn.md",
+      "title": "Brogorn Klingenzorn",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 610 - 688 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 610,
+        "end": 688,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 610 - 688 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Dunmorr der Stählerne.md",
+      "title": "Dunmorr der Stählerne",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Durvak Grimmhammer.md",
+      "title": "Durvak Grimmhammer",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1002 - 1230 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1002,
+        "end": 1230,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1002 - 1230 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Faelan Drachenfluegel.md",
+      "title": "Faelan Drachenfluegel",
+      "primary_types": [],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Dragonborn #Drakmora #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Garrik Sturmherr.md",
+      "title": "Garrik Sturmherr",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1990 - 2166 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1990,
+        "end": 2166,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1990 - 2166 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Harnak Blutgeboren.md",
+      "title": "Harnak Blutgeboren",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 853 - 910 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 853,
+        "end": 910,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 853 - 910 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Karnok Splitterbart.md",
+      "title": "Karnok Splitterbart",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1694 - 1790 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1694,
+        "end": 1790,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1694 - 1790 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Khara Eisenblick.md",
+      "title": "Khara Eisenblick",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 688 - 721 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 688,
+        "end": 721,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 688 - 721 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Marthok Goldschild.md",
+      "title": "Marthok Goldschild",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1231 - 1284 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1231,
+        "end": 1284,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1231 - 1284 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Oghrim der Alte.md",
+      "title": "Oghrim der Alte",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1790 - 1990 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1790,
+        "end": 1990,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1790 - 1990 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Rogda Speerflamme.md",
+      "title": "Rogda Speerflamme",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 910 - 1002 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 910,
+        "end": 1002,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 910 - 1002 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Sigrid Eisenfaust.md",
+      "title": "Sigrid Eisenfaust",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1332 - 1410 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1332,
+        "end": 1410,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1332 - 1410 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Thorgim Donnerklinge.md",
+      "title": "Thorgim Donnerklinge",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1527 - 1694 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1527,
+        "end": 1694,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1527 - 1694 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Torgak Eisenbrand.md",
+      "title": "Torgak Eisenbrand",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2233 - 2344 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2233,
+        "end": 2344,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 2233 - 2344 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Tyrak der Wilde.md",
+      "title": "Tyrak der Wilde",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1284 - 1332 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1284,
+        "end": 1332,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1284 - 1332 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Uldak Schmetterschlag.md",
+      "title": "Uldak Schmetterschlag",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 721 - 790 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 721,
+        "end": 790,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 721 - 790 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Valaine Nebelhain.md",
+      "title": "Valaine Nebelhain",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2344 - heute n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2344,
+        "end": 2486,
+        "is_open": true
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 2344 - heute n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/NPCs/Varrun Brechmaul.md",
+      "title": "Varrun Brechmaul",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Drakmora"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1410 - 1527 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1410,
+        "end": 1527,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1410 - 1527 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Nebelsteppe/Feuerstele von Nebelstein.md",
+      "title": "Feuerstele von Nebelstein",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Nebelsteppe/Morgenfels.md",
+      "title": "Morgenfels",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Nebelsteppe/Nebelsteppe.md",
+      "title": "Nebelsteppe",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Reiterkriege der Nebelsteppe.md",
+      "title": "Reiterkriege der Nebelsteppe",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Drakmora",
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora",
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1740 - 1755 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1740,
+        "end": 1755,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Drakmora",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 1740 - 1755 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Rußstein.md",
+      "title": "Rußstein",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Schimmernde Klippen.md",
+      "title": "Schimmernde Klippen",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Stahlwölfe.md",
+      "title": "Stahlwölfe",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Valatheris.md",
+      "title": "Valatheris",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Bernruh & Nordtor.md",
+      "title": "Bernruh & Nordtor",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Chroniken von Elmrath.md",
+      "title": "Chroniken von Elmrath",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Elmrath.md",
+      "title": "Elmrath",
+      "primary_types": [
+        "Gruendung"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 553 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 553,
+        "end": 553,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Gruendung",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 553 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Goldene Weite.md",
+      "title": "Goldene Weite",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Himmelshöfe.md",
+      "title": "Himmelshöfe",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Immergrüner Hain.md",
+      "title": "Immergrüner Hain",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Goldene Rune.md",
+      "title": "Goldene Rune",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Taverne "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Grüner Wyvern.md",
+      "title": "Grüner Wyvern",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Taverne"
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Hafen von Luminara.md",
+      "title": "Hafen von Luminara",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Luminara.md",
+      "title": "Luminara",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Palast des Kaisers.md",
+      "title": "Palast des Kaisers",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Scriptorium Luminis.md",
+      "title": "Scriptorium Luminis",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Stolzes Einhorn.md",
+      "title": "Stolzes Einhorn",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Taverne "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Luminara/Tempel St. Aurelia.md",
+      "title": "Tempel St. Aurelia",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Marktgraf Reodemus.md",
+      "title": "Marktgraf Reodemus",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Mensch ",
+        ""
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Aenyris Silberhain.md",
+      "title": "Aenyris Silberhain",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Arannis Silven.md",
+      "title": "Arannis Silven",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1765 - 1914 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1765,
+        "end": 1914,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 1765 - 1914 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Caelynn Morgenblatt.md",
+      "title": "Caelynn Morgenblatt",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 553 - 1041 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 553,
+        "end": 1041,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 553 - 1041 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Elenion Silberhain.md",
+      "title": "Elenion Silberhain",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1041 - 1455 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1041,
+        "end": 1455,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 1041 - 1455 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Elirae Nyssien.md",
+      "title": "Elirae Nyssien",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Elsinya von Elmrath.md",
+      "title": "Elsinya von Elmrath",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2383 - 2448 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2383,
+        "end": 2448,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 2383 - 2448 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Garron der Grüne.md",
+      "title": "Garron der Grüne",
+      "primary_types": [],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Elmrath #Elb #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Isilme Dämmerwald.md",
+      "title": "Isilme Dämmerwald",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1610 - 1765 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1610,
+        "end": 1765,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 1610 - 1765 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Lady Maerina von Elmrath.md",
+      "title": "Lady Maerina von Elmrath",
+      "primary_types": [],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Mensch #Elmrath  #Delegation ",
+        ""
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Naeryss Silven.md",
+      "title": "Naeryss Silven",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1914 - 2325 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1914,
+        "end": 2325,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 1914 - 2325 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Orellan Dämmerwald.md",
+      "title": "Orellan Dämmerwald",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1487 - 1610 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1487,
+        "end": 1610,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 1487 - 1610 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Thaevan Silberhain.md",
+      "title": "Thaevan Silberhain",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Thalric von Elmrath.md",
+      "title": "Thalric von Elmrath",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2443 - heute n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2443,
+        "end": 2486,
+        "is_open": true
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 2443 - heute n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Thamior Lucenval.md",
+      "title": "Thamior Lucenval",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Mensch #Prister #Solyra"
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/NPCs/Viktoria von Elmrath.md",
+      "title": "Viktoria von Elmrath",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2325 - 2383 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2325,
+        "end": 2383,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 2325 - 2383 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Paktfest von Len'yrel.md",
+      "title": "Paktfest von Len'yrel",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Wurzelholm.md",
+      "title": "Wurzelholm",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Flüsse/Graldrim.md",
+      "title": "Graldrim",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Flüsse/Kristallsee.md",
+      "title": "Kristallsee",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Flüsse/Lumaros.md",
+      "title": "Lumaros",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Flüsse/Maldras.md",
+      "title": "Maldras",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Flüsse/Syralith.md",
+      "title": "Syralith",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Flüsse/Velgrin.md",
+      "title": "Velgrin",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Baraberenüberfälle von Mariven.md",
+      "title": "Baraberenüberfälle von Mariven",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1236 - 1387 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1236,
+        "end": 1387,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1236 - 1387 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Blutfeldzug in der Aschenweite.md",
+      "title": "Blutfeldzug in der Aschenweite",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2478 - 2482 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2478,
+        "end": 2482,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2478 - 2482 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Das Sonnenwunder von Valmere.md",
+      "title": "Das Sonnenwunder von Valmere",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2447 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 2447,
+        "end": 2447,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 2447 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Die Feuertaufe von Kar'drathar.md",
+      "title": "Die Feuertaufe von Kar'drathar",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2163 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 2163,
+        "end": 2163,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis",
+        "#Schwarzklamm",
+        "",
+        "Zeitspanne: 2163 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Eid von Morgenfels.md",
+      "title": "Eid von Morgenfels",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2160 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 2160,
+        "end": 2160,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2160 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Erzkrieg von Eron’Gath.md",
+      "title": "Erzkrieg von Eron’Gath",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Schwarzklamm",
+        "Drakmora"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Schwarzklamm",
+        "Drakmora"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1526 - 1528 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1526,
+        "end": 1528,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Schwarzklamm",
+        "#Drakmora",
+        "",
+        "Zeitspanne: 1526 - 1528 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Feuerfeld von Nebelstein.md",
+      "title": "Feuerfeld von Nebelstein",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2162 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 2162,
+        "end": 2162,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2162 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Invasion der Nordbarbaren.md",
+      "title": "Invasion der Nordbarbaren",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2025 - 2165 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2025,
+        "end": 2165,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2025 - 2165 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Muschelkrieg.md",
+      "title": "Muschelkrieg",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Elmrath",
+        "Mariven"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Elmrath",
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1401 - 1402 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1401,
+        "end": 1402,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Elmrath",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1401 - 1402 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Nord-Süd-Konflikt.md",
+      "title": "Nord-Süd-Konflikt",
+      "primary_types": [
+        "Konflikt"
+      ],
+      "declared_categories": [
+        "Drakmora",
+        "Elmrath"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Drakmora",
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1304 - 1307 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1304,
+        "end": 1307,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Konflikt",
+        "#Drakmora",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 1304 - 1307 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Runenbann-Konflikt.md",
+      "title": "Runenbann-Konflikt",
+      "primary_types": [
+        "Konflikt"
+      ],
+      "declared_categories": [
+        "Mariven",
+        "Vaylen"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Mariven",
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1603 - 1611 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1603,
+        "end": 1611,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Konflikt",
+        "#Mariven",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 1603 - 1611 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Zeitalter.md",
+      "title": "Zeitalter",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Aldric von Elmrath.md",
+      "title": "Aldric von Elmrath",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2484 - heute n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2484,
+        "end": 2486,
+        "is_open": true
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2484 - heute n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Alinor Thorne II.md",
+      "title": "Alinor Thorne II",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2410 - 2442 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2410,
+        "end": 2442,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2410 - 2442 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Almareth Silven.md",
+      "title": "Almareth Silven",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2199 - 2230 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2199,
+        "end": 2230,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2199 - 2230 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Balrik Hammergrund.md",
+      "title": "Balrik Hammergrund",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2382 - 2409 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2382,
+        "end": 2409,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2382 - 2409 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Barduron Steinmark.md",
+      "title": "Barduron Steinmark",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2230 - 2256 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2230,
+        "end": 2256,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2230 - 2256 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Calvius Thorne.md",
+      "title": "Calvius Thorne",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2256 - 2283 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2256,
+        "end": 2283,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2256 - 2283 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Dural Goldschild II.md",
+      "title": "Dural Goldschild II",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2283 - 2318 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2283,
+        "end": 2318,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2283 - 2318 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Durnek Eisenmark.md",
+      "title": "Durnek Eisenmark",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2470 - 2483 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2470,
+        "end": 2483,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2470 - 2483 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Elsinya Arven.md",
+      "title": "Elsinya Arven",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2443 - 2469 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2443,
+        "end": 2469,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2443 - 2469 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Elyander Goldschild.md",
+      "title": "Elyander Goldschild",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2165 - 2199 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2165,
+        "end": 2199,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2165 - 2199 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Marcellon Arven.md",
+      "title": "Marcellon Arven",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2319 - 2354 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2319,
+        "end": 2354,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2319 - 2354 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Kaiser/NPCs/Virella Nyssien.md",
+      "title": "Virella Nyssien",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2355 - 2381 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2355,
+        "end": 2381,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Kaiserreich",
+        "",
+        "Zeitspanne: 2355 - 2381 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/AelVarin/Ael'Varin.md",
+      "title": "Ael'Varin",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Bernruh.md",
+      "title": "Bernruh",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Bernsteinküste.md",
+      "title": "Bernsteinküste",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Nebelhafen.md",
+      "title": "Nebelhafen",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Sonnenkliff.md",
+      "title": "Sonnenkliff",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Tiravor.md",
+      "title": "Tiravor",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Chroniken Mariven.md",
+      "title": "Chroniken Mariven",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Cirellin/Althovar.md",
+      "title": "Althovar",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Cirellin/Cirellin.md",
+      "title": "Cirellin",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Cirellin/Cirion.md",
+      "title": "Cirion",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Havgrim/Havgrim.md",
+      "title": "Havgrim",
+      "primary_types": [],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Mariven "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Havgrim/Smaragdlagune.md",
+      "title": "Smaragdlagune",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Korvalis/Gezeitenhalle.md",
+      "title": "Gezeitenhalle",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Korvalis/Goldene Armada.md",
+      "title": "Goldene Armada",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Korvalis/Korvalis.md",
+      "title": "Korvalis",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Korvalis/Verethia.md",
+      "title": "Verethia",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Mariven.md",
+      "title": "Mariven",
+      "primary_types": [
+        "Gruendung"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 503 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 503,
+        "end": 503,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Gruendung",
+        "#Mariven",
+        "",
+        "Zeitspanne: 503 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Brenna Wellenklinge.md",
+      "title": "Brenna Wellenklinge",
+      "primary_types": [],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Elb #Mariven #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Elaena Silberhand.md",
+      "title": "Elaena Silberhand",
+      "primary_types": [],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Elb #Mariven #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Hoan Vel'Maril.md",
+      "title": "Hoan Vel'Maril",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Hoheprister #Ocyra #Mensch "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kaiser Chroniken.md",
+      "title": "Kaiser Chroniken",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Aelaria Talzo.md",
+      "title": "Aelaria Talzo",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2030 - 2158 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2030,
+        "end": 2158,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 2030 - 2158 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Aerinelle Vellora.md",
+      "title": "Aerinelle Vellora",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1121 - 1399 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1121,
+        "end": 1399,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1121 - 1399 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Candamir Silberhand.md",
+      "title": "Candamir Silberhand",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1399 - 1623 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1399,
+        "end": 1623,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1399 - 1623 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Celetha Vintar II.md",
+      "title": "Celetha Vintar II",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 983 - 1036 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 983,
+        "end": 1036,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 983 - 1036 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Domerr Talzo.md",
+      "title": "Domerr Talzo",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 603 - 685 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 603,
+        "end": 685,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 603 - 685 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Elim Marthus.md",
+      "title": "Elim Marthus",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2158 - 2245 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2158,
+        "end": 2245,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 2158 - 2245 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Faelyn Niros.md",
+      "title": "Faelyn Niros",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 750 - 912 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 750,
+        "end": 912,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 750 - 912 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Halren Marris II.md",
+      "title": "Halren Marris II",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1886 - 1912 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1886,
+        "end": 1912,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1886 - 1912 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Irion Cassalay II.md",
+      "title": "Irion Cassalay II",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2245 - 2456 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2245,
+        "end": 2456,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 2245 - 2456 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Lureano Vintar.md",
+      "title": "Lureano Vintar",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 503 - 547 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 503,
+        "end": 547,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 503 - 547 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Marcellus Daevorn.md",
+      "title": "Marcellus Daevorn",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1623 - 1664 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1623,
+        "end": 1664,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1623 - 1664 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Orryn Talzo II.md",
+      "title": "Orryn Talzo II",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1912 - 1971 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1912,
+        "end": 1971,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1912 - 1971 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Perrik Grahm.md",
+      "title": "Perrik Grahm",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 912 - 983 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 912,
+        "end": 983,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 912 - 983 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Vanya Cerelin.md",
+      "title": "Vanya Cerelin",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1664 - 1886 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1664,
+        "end": 1886,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1664 - 1886 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Vennira Cassalay.md",
+      "title": "Vennira Cassalay",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 547 - 603 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 547,
+        "end": 603,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 547 - 603 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Yllian Marris.md",
+      "title": "Yllian Marris",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 685 - 750 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 685,
+        "end": 750,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 685 - 750 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Zallion Vintar III.md",
+      "title": "Zallion Vintar III",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1971 - 2030 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1971,
+        "end": 2030,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1971 - 2030 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Zordak Eisenbeiß.md",
+      "title": "Zordak Eisenbeiß",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1036 - 1121 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1036,
+        "end": 1121,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 1036 - 1121 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Korren Seeasche.md",
+      "title": "Korren Seeasche",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Hoheprister #Drachengeborener #Ocyra "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Lyssander Valera.md",
+      "title": "Lyssander Valera",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2456 - heute n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2456,
+        "end": 2486,
+        "is_open": true
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Mariven",
+        "",
+        "Zeitspanne: 2456 - heute n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Nyari Sturmlicht.md",
+      "title": "Nyari Sturmlicht",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Elf #Hoheprister #Ocyra "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Talvarin.md",
+      "title": "Talvarin",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Tirenne.md",
+      "title": "Tirenne",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Hoheprister #Elf #Ocyra "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Nebelsee.md",
+      "title": "Nebelsee",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Codex Feramor.md",
+      "title": "Codex Feramor",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Durak-Zhul.md",
+      "title": "Durak-Zhul",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Dûm-Khadrak.md",
+      "title": "Dûm-Khadrak",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Eisenzinnen.md",
+      "title": "Eisenzinnen",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Erytra Tempel.md",
+      "title": "Erytra Tempel",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Geschichte/Die Erschütterung der Tiefe.md",
+      "title": "Die Erschütterung der Tiefe",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1698 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 1698,
+        "end": 1698,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis",
+        "#Schwarzklamm",
+        "",
+        "Zeitspanne: 1698 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Geschichte/Krieg der Klüfte.md",
+      "title": "Krieg der Klüfte",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2319 - 2410 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2319,
+        "end": 2410,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Schwarzklamm",
+        "",
+        "Zeitspanne: 2319 - 2410 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Helmbrach-Massiv.md",
+      "title": "Helmbrach-Massiv",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Kar'drathar.md",
+      "title": "Kar'drathar",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Balin Graubart.md",
+      "title": "Balin Graubart",
+      "primary_types": [],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Zwerg #Schwarzklamm "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Bardum Eisenklang.md",
+      "title": "Bardum Eisenklang",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 328 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 328,
+        "end": 328,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis",
+        "#Schwarzklamm",
+        "",
+        "Zeitspanne: 328 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Durim Felsenherz.md",
+      "title": "Durim Felsenherz",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Zwerg #König"
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Durngar Schwarzschild.md",
+      "title": "Durngar Schwarzschild",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2410 - heute n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2410,
+        "end": 2486,
+        "is_open": true
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Schwarzklamm",
+        "",
+        "Zeitspanne: 2410 - heute n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Grimli Aschenbart.md",
+      "title": "Grimli Aschenbart",
+      "primary_types": [],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Zwerg #Schwarzklamm #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Zyrax Draxar.md",
+      "title": "Zyrax Draxar",
+      "primary_types": [],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Schwarzklamm #Tiefling #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Nordfels-Krone.md",
+      "title": "Nordfels-Krone",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Schwarze Klamm.md",
+      "title": "Schwarze Klamm",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Schwarzklamm.md",
+      "title": "Schwarzklamm",
+      "primary_types": [
+        "Gruendung"
+      ],
+      "declared_categories": [
+        "Schwarzklamm"
+      ],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 328 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 328,
+        "end": 328,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Gruendung",
+        "#Schwarzklamm",
+        "",
+        "Zeitspanne: 328 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Tiefe Hallen.md",
+      "title": "Tiefe Hallen",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Ur-Gralnir.md",
+      "title": "Ur-Gralnir",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Bibliothek des Verborgenen Lichts.md",
+      "title": "Bibliothek des Verborgenen Lichts",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Chroniken von Vaylen.md",
+      "title": "Chroniken von Vaylen",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Nymira Lichthauch.md",
+      "title": "Nymira Lichthauch",
+      "primary_types": [],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Elb #Vaylen #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Saelarion Drachenruf.md",
+      "title": "Saelarion Drachenruf",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1219 - 1542 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1219,
+        "end": 1542,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 1219 - 1542 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Selene Drachenruf.md",
+      "title": "Selene Drachenruf",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2153 - heute n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2153,
+        "end": 2486,
+        "is_open": true
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 2153 - heute n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Seralyss Drachenruf.md",
+      "title": "Seralyss Drachenruf",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 441 - 1219 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 441,
+        "end": 1219,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 441 - 1219 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Solarys Drachenruf.md",
+      "title": "Solarys Drachenruf",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1542 - 1872 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1542,
+        "end": 1872,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 1542 - 1872 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Syrell Drachenruf.md",
+      "title": "Syrell Drachenruf",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1872 - 2153 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1872,
+        "end": 2153,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Herrscher",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 1872 - 2153 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Tharion Veyl.md",
+      "title": "Tharion Veyl",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Erzmagier #Gnome "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/NPCs/Varian Schattentaenzer.md",
+      "title": "Varian Schattentaenzer",
+      "primary_types": [],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Elb #Vaylen #Delegation "
+      ],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Schwebenden Inseln von Arcanis.md",
+      "title": "Schwebenden Inseln von Arcanis",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Stille Akademie.md",
+      "title": "Stille Akademie",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Vaylen.md",
+      "title": "Vaylen",
+      "primary_types": [
+        "Gruendung"
+      ],
+      "declared_categories": [
+        "Vaylen"
+      ],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 441 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 441,
+        "end": 441,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Gruendung",
+        "#Vaylen",
+        "",
+        "Zeitspanne: 441 n.d.D",
+        ""
+      ],
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Velithor.md",
+      "title": "Velithor",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Glut.md",
+      "title": "Zeit der Glut",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Schatten.md",
+      "title": "Zeit der Schatten",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Winde.md",
+      "title": "Zeit der Winde",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit des Lichts.md",
+      "title": "Zeit des Lichts",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit des Steins.md",
+      "title": "Zeit des Steins",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Überblick.md",
+      "title": "Überblick",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Zeitmessung/Wochentage.md",
+      "title": "Wochentage",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "is_relevant": false
+    }
+  ]
+}

@@ -1,4 +1,8 @@
-#Fürst #Vaylen  #Delegation #Dragonborn
+#Herrscher
+#Vaylen
+
+Zeitspanne: 2153 - heute n.d.D
+
 ![[Selene Drachenruf.png|200]]
 **Regentschaft:** 2153 n.d.D.
 **Haus:** Drachenruf
@@ -17,4 +21,3 @@ Fürstin Selene ist eine der mächtigsten Erzmagierinnen der bekannten Welt. Sie
 * **Charakter:** Geheimnisvoll, manipulierend und äußerst klug. Ihre Magie ist ebenso gewaltig wie ihre diplomatischen Fähigkeiten.
 
 ![[sl Selene Drachenruf]]
-

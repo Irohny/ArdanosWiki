@@ -1,3 +1,7 @@
+#Gruendung
+#Kaiserreich
+
+Zeitspanne: 2160 n.d.D
 
 Arandos ist ein mächtiges und vielfältiges Kaiserreich, das aus den fünf Fürstentümern [[Elmrath]], [[Schwarzklamm]], [[Drakmora]], [[Mariven]] und [[Vaylen]] besteht. 
 
@@ -12,4 +16,3 @@ durch die Wahl von Kaiser Aldric von Elmrath, repräsentiert Arandos eine fragil
 * [[Vaylen]], unter der mysteriösen Herrschaft von Fürstin Valaine, ist ein Land der Magier und arkanen Künste, das jedoch oftmals kritisch gegenüber den Entscheidungen des Kaisers und der anderen Fürstentümer ist.
 * Maßstab 1Hexagon ca. 20km eine Tagesreise zu Fuß
 ![[Ardanos.jpeg]]
-
