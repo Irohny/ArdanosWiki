@@ -2,6 +2,7 @@ import streamlit as st
 import os
 from components import utils
 from components.show_file import show_image
+from components.dashboard import render_dashboard
 from components.database_view import show_database
 from components.encounter_calculator import encounter_calculator_view
 from config import cfg
@@ -20,16 +21,14 @@ def header():
     ):
         st.header(f"{st.session_state['current_path'].split('/')[-1]}")
         name = "Ardanos Wiki"
-        st.text(
-            """Navigiere mit der Sidebar durch das Wiki und erkunde die Ecken von Andaros. Mit zurück kommst du in den vorherigen Ordner. Viel Spaß und melde dich, wenn du mal wieder eine Runde in diesem Universum spielen willst."""
-        )
-        cols = st.columns([1, 7])
-        show_image(cols[0], "Wappen Drakmora.png")
-        show_image(cols[0], "Wappen Elmrath.png")
-        show_image(cols[0], "Wappen Mariven.png")
-        show_image(cols[0], "Wappen Vaylen.png")
-        show_image(cols[0], "Wappen Schwarzklamm.png")
-        show_image(cols[1], "Ardanos.jpg")
+        dashboard_config_errors = st.session_state.get("dashboard_config_errors", [])
+        if dashboard_config_errors:
+            st.error(
+                "Dashboard-Konfiguration fehlerhaft:\n- "
+                + "\n- ".join(dashboard_config_errors)
+            )
+        dashboard_view = utils.resolve_dashboard_view(st.session_state["current_path"])
+        render_dashboard(dashboard_view)
     elif st.session_state["db_flag"]:
         name = st.session_state["db"]
         st.session_state["db_flag"] = False

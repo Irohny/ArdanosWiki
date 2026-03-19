@@ -1,0 +1,261 @@
+{
+  "profile_id": "drakmora",
+  "title": "Drakmora: Chronik des Fürstentums",
+  "subtitle": "Geschichte des Fürstentums Drakmora",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 2,
+      "width": 120,
+      "label_mode": "event"
+    },
+    {
+      "id": "drakmora_rulers",
+      "label": "Drakmora Fürsten",
+      "color": "#b35c44",
+      "lanes": 1,
+      "width": 170,
+      "label_mode": "person"
+    },
+    {
+      "id": "drakmora_ranges",
+      "label": "Drakmora Zeitspannen",
+      "color": "#b96953",
+      "lanes": 1,
+      "label_mode": "event"
+    },
+    {
+      "id": "drakmora_points",
+      "label": "Drakmora Zeitpunkte",
+      "color": "#bf7662",
+      "lanes": 1,
+      "label_mode": "event"
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "drakmora_rulers",
+      "label": "Gruendung Drakmora",
+      "start": 610,
+      "end": 610,
+      "kind": "foundation"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Brogorn Klingenzorn",
+      "start": 610,
+      "end": 688,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Khara Eisenblick",
+      "start": 688,
+      "end": 721,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Uldak Schmetterschlag",
+      "start": 721,
+      "end": 790,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Harnak Blutgeboren",
+      "start": 853,
+      "end": 910,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Rogda Speerflamme",
+      "start": 910,
+      "end": 1002,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Durvak Grimmhammer",
+      "start": 1002,
+      "end": 1230,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Marthok Goldschild",
+      "start": 1231,
+      "end": 1284,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Tyrak der Wilde",
+      "start": 1284,
+      "end": 1332,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Sigrid Eisenfaust",
+      "start": 1332,
+      "end": 1410,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Varrun Brechmaul",
+      "start": 1410,
+      "end": 1527,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Thorgim Donnerklinge",
+      "start": 1527,
+      "end": 1694,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Karnok Splitterbart",
+      "start": 1694,
+      "end": 1790,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Oghrim der Alte",
+      "start": 1790,
+      "end": 1990,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Garrik Sturmherr",
+      "start": 1990,
+      "end": 2166,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Barag Steinhorn",
+      "start": 2166,
+      "end": 2233,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Torgak Eisenbrand",
+      "start": 2233,
+      "end": 2344,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
+      "label": "Valaine Nebelhain",
+      "start": 2344,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_ranges",
+      "lane": 0,
+      "label": "Nord-Süd-Konflikt",
+      "start": 1304,
+      "end": 1307,
+      "kind": "range",
+      "fill": "#c27d69"
+    },
+    {
+      "column": "drakmora_ranges",
+      "lane": 0,
+      "label": "Erzkrieg von Eron’Gath",
+      "start": 1526,
+      "end": 1528,
+      "kind": "range",
+      "fill": "#c27d69"
+    },
+    {
+      "column": "drakmora_ranges",
+      "lane": 0,
+      "label": "Reiterkriege der Nebelsteppe",
+      "start": 1740,
+      "end": 1755,
+      "kind": "range",
+      "fill": "#c27d69"
+    }
+  ],
+  "output_file": "World/Images/drakmora_vertical_timeline.svg"
+}

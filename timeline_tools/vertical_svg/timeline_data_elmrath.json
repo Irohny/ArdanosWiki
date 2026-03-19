@@ -1,0 +1,197 @@
+{
+  "profile_id": "elmrath",
+  "title": "Elmrath: Chronik des Fürstentums",
+  "subtitle": "Geschichte des Fürstentums Elmrath",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 2,
+      "width": 120,
+      "label_mode": "event"
+    },
+    {
+      "id": "elmrath_rulers",
+      "label": "Elmrath Fürsten",
+      "color": "#7aa23f",
+      "lanes": 1,
+      "width": 170,
+      "label_mode": "person"
+    },
+    {
+      "id": "elmrath_ranges",
+      "label": "Elmrath Zeitspannen",
+      "color": "#85a94e",
+      "lanes": 1,
+      "label_mode": "event"
+    },
+    {
+      "id": "elmrath_points",
+      "label": "Elmrath Zeitpunkte",
+      "color": "#8fb15e",
+      "lanes": 1,
+      "label_mode": "event"
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "elmrath_rulers",
+      "label": "Gruendung Elmrath",
+      "start": 553,
+      "end": 553,
+      "kind": "foundation"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Caelynn Morgenblatt",
+      "start": 553,
+      "end": 1041,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Elenion Silberhain",
+      "start": 1041,
+      "end": 1455,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Orellan Dämmerwald",
+      "start": 1487,
+      "end": 1610,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Isilme Dämmerwald",
+      "start": 1610,
+      "end": 1765,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Arannis Silven",
+      "start": 1765,
+      "end": 1914,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Naeryss Silven",
+      "start": 1914,
+      "end": 2325,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Viktoria von Elmrath",
+      "start": 2325,
+      "end": 2383,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Elsinya von Elmrath",
+      "start": 2383,
+      "end": 2448,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Thalric von Elmrath",
+      "start": 2443,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_ranges",
+      "lane": 0,
+      "label": "Nord-Süd-Konflikt",
+      "start": 1304,
+      "end": 1307,
+      "kind": "range",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath_ranges",
+      "lane": 0,
+      "label": "Muschelkrieg",
+      "start": 1401,
+      "end": 1402,
+      "kind": "range",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath_points",
+      "lane": 0,
+      "label": "Das Sonnenwunder von Valmere",
+      "start": 2447,
+      "end": 2447,
+      "kind": "point",
+      "fill": "#95b565"
+    }
+  ],
+  "output_file": "World/Images/elmrath_vertical_timeline.svg"
+}

@@ -1,7 +1,8 @@
 import streamlit as st
 import os
 from components.login import User, Roles
-from config import cfg
+from config import DashboardViewConfig, cfg
+from collections import Counter
 from pathlib import Path
 
 
@@ -163,3 +164,87 @@ def find_file_path_in_tree(
             if result:
                 return result
     return None
+
+
+def relative_path_from_root(path: str) -> str:
+    root_path = Path(st.session_state["root_path"]).resolve()
+    current_path = Path(path).resolve()
+
+    if current_path.suffix == ".md":
+        current_path = current_path.parent
+
+    try:
+        relative_path = current_path.relative_to(root_path)
+    except ValueError:
+        return ""
+
+    return relative_path.as_posix()
+
+
+def resolve_dashboard_view(path: str) -> DashboardViewConfig | None:
+    relative_path = relative_path_from_root(path)
+    for view in cfg.DASHBOARD_VIEWS:
+        if relative_path == view.path_prefix or relative_path.startswith(
+            f"{view.path_prefix}/"
+        ):
+            return view
+    return None
+
+
+def resolve_dashboard_asset_path(view: DashboardViewConfig) -> Path | None:
+    if view.asset_path is None:
+        return None
+
+    asset_path = Path(view.asset_path)
+    if not asset_path.is_absolute():
+        asset_path = cfg.REPO_ROOT / asset_path
+
+    resolved_path = asset_path.resolve()
+    if not resolved_path.exists() or not resolved_path.is_file():
+        return None
+    return resolved_path
+
+
+def validate_dashboard_views() -> list[str]:
+    errors: list[str] = []
+    allowed_modes = {"default", "timeline"}
+
+    prefix_counter = Counter(view.path_prefix for view in cfg.DASHBOARD_VIEWS)
+    duplicate_prefixes = sorted(
+        prefix for prefix, count in prefix_counter.items() if count > 1
+    )
+    for prefix in duplicate_prefixes:
+        errors.append(f"Dashboard path_prefix mehrfach definiert: {prefix}")
+
+    key_counter = Counter(view.key for view in cfg.DASHBOARD_VIEWS)
+    duplicate_keys = sorted(key for key, count in key_counter.items() if count > 1)
+    for key in duplicate_keys:
+        errors.append(f"Dashboard key mehrfach definiert: {key}")
+
+    for view in cfg.DASHBOARD_VIEWS:
+        if view.mode not in allowed_modes:
+            errors.append(
+                f"Dashboard {view.key} verwendet unbekannten mode: {view.mode}"
+            )
+
+        if view.layout_columns is not None:
+            if len(view.layout_columns) != 3 or any(
+                value <= 0 for value in view.layout_columns
+            ):
+                errors.append(
+                    f"Dashboard {view.key} hat ungueltige layout_columns: {view.layout_columns}"
+                )
+
+        if view.mode != "timeline":
+            continue
+
+        if view.asset_path is None:
+            errors.append(f"Dashboard {view.key} fehlt asset_path fuer Timeline-Modus")
+            continue
+
+        if resolve_dashboard_asset_path(view) is None:
+            errors.append(
+                f"Dashboard {view.key} referenziert fehlendes Asset: {view.asset_path}"
+            )
+
+    return errors

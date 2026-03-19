@@ -33,4 +33,6 @@ if __name__ == "__main__":
         for db in cfg.DATABASE_LIST:
             st.session_state[db] = build_markdown_database(f"World/{db}")
 
+    st.session_state["dashboard_config_errors"] = utils.validate_dashboard_views()
+
     main()

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import json
 import math
 import re
@@ -7,8 +8,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parent
-DATA_FILE = ROOT / "timeline_data.json"
-OUTPUT_FILE = ROOT.parent.parent / "World" / "Images" / "ardanos_vertical_timeline.svg"
+REPO_ROOT = ROOT.parent.parent
 
 
 def escape_xml(text: str) -> str:
@@ -30,8 +30,8 @@ def rgba(value: str, alpha: float) -> str:
     return f"rgba({red}, {green}, {blue}, {alpha})"
 
 
-def load_data() -> dict:
-    with DATA_FILE.open("r", encoding="utf-8") as handle:
+def load_data(data_file: Path) -> dict:
+    with data_file.open("r", encoding="utf-8") as handle:
         return json.load(handle)
 
 
@@ -59,21 +59,14 @@ def split_event_label(label: str) -> list[str]:
     return [" ".join(words[:midpoint]), " ".join(words[midpoint:])]
 
 
-def build_label_lines(item: dict) -> list[str]:
+def build_label_lines(item: dict, column_meta: dict[str, dict]) -> list[str]:
     label = item["label"]
     if item["kind"] == "foundation":
         return split_event_label(label)
     if item["kind"] == "point":
         return split_event_label(label)
 
-    if item["column"] in {
-        "emperor",
-        "elmrath",
-        "drakmora",
-        "mariven",
-        "schwarzklamm",
-        "vaylen",
-    }:
+    if column_meta[item["column"]].get("label_mode") == "person":
         return split_person_name(label)
 
     return split_event_label(label)
@@ -130,6 +123,7 @@ def rotated_text_block(
 
 def block_text(
     item: dict,
+    column_meta: dict[str, dict],
     item_x: float,
     y: float,
     item_width: float,
@@ -137,7 +131,7 @@ def block_text(
     start: int,
     end: int,
 ) -> str:
-    lines = build_label_lines(item)
+    lines = build_label_lines(item, column_meta)
     max_len = 18 if item_width > 120 else 14
     safe_lines = fit_lines(lines, max_len)
     text_x = item_x + 6
@@ -213,7 +207,7 @@ def build_svg(data: dict) -> str:
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
         f'viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">'
     )
-    append('<title id="title">Ardanos Timeline</title>')
+    append(f'<title id="title">{escape_xml(data["title"])}</title>')
     append(f'<desc id="desc">{escape_xml(data["subtitle"])}</desc>')
     append(
         "<style>"
@@ -317,7 +311,7 @@ def build_svg(data: dict) -> str:
             append(
                 f'<line class="point-line" x1="{cx:.1f}" y1="{cy + size:.1f}" x2="{cx:.1f}" y2="{cy + size + 18:.1f}"/>'
             )
-            point_lines = fit_lines(build_label_lines(item), 16)
+            point_lines = fit_lines(build_label_lines(item, column_meta), 16)
             append(
                 text_block(
                     point_lines[:2], cx + 4, cy + size + 14, css_class="item-label-dark"
@@ -339,7 +333,7 @@ def build_svg(data: dict) -> str:
                 f'<rect x="{label_x:.1f}" y="{y - 15:.1f}" width="{label_width:.1f}" height="18" '
                 f'fill="#fbf8f1" stroke="{fill}" stroke-width="1" rx="8" ry="8"/>'
             )
-            foundation_lines = fit_lines(build_label_lines(item), 22)
+            foundation_lines = fit_lines(build_label_lines(item, column_meta), 22)
             append(
                 f'<text class="item-label-dark-small" x="{label_x + 8:.1f}" y="{y - 3:.1f}">'
                 f'<tspan x="{label_x + 8:.1f}" dy="0">{foundation_lines[0]}</tspan></text>'
@@ -364,18 +358,71 @@ def build_svg(data: dict) -> str:
             f'fill="{fill}" stroke="{stroke_color}" stroke-width="{stroke_width}"{dash_attr} rx="7" ry="7"/>'
         )
         append(
-            f'<g clip-path="url(#{clip_id})">{block_text(item, item_x, y, item_width, height_rect, start, end)}</g>'
+            f'<g clip-path="url(#{clip_id})">{block_text(item, column_meta, item_x, y, item_width, height_rect, start, end)}</g>'
         )
 
     append("</svg>")
     return "".join(parts)
 
 
-def main() -> None:
-    data = load_data()
+def resolve_output_path(data: dict, output_file: Path | None = None) -> Path:
+    if output_file is not None:
+        return output_file
+
+    configured_output = data.get("output_file")
+    if configured_output:
+        candidate = Path(configured_output)
+        if candidate.is_absolute():
+            return candidate
+        return REPO_ROOT / candidate
+
+    profile_id = data.get("profile_id", "timeline")
+    return REPO_ROOT / "World" / "Images" / f"{profile_id}_vertical_timeline.svg"
+
+
+def render_file(data_file: Path, output_file: Path | None = None) -> Path:
+    data = load_data(data_file)
     svg = build_svg(data)
-    OUTPUT_FILE.write_text(svg, encoding="utf-8")
-    print(f"Wrote {OUTPUT_FILE}")
+    resolved_output = resolve_output_path(data, output_file)
+    resolved_output.write_text(svg, encoding="utf-8")
+    print(f"Wrote {resolved_output}")
+    return resolved_output
+
+
+def collect_default_data_files() -> list[Path]:
+    default_file = ROOT / "timeline_data.json"
+    profile_files = sorted(
+        path for path in ROOT.glob("timeline_data_*.json") if path.is_file()
+    )
+    if default_file.exists():
+        return [default_file, *profile_files]
+    return profile_files
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(
+        description="Render one or more timeline JSON files to SVG."
+    )
+    parser.add_argument(
+        "data_files",
+        nargs="*",
+        help="Optional timeline JSON files. Defaults to all generated timeline_data*.json files.",
+    )
+    return parser.parse_args()
+
+
+def main() -> None:
+    args = parse_args()
+    data_files = (
+        [Path(value) for value in args.data_files]
+        if args.data_files
+        else collect_default_data_files()
+    )
+    if not data_files:
+        raise SystemExit("No timeline JSON files found to render.")
+
+    for data_file in data_files:
+        render_file(data_file)
 
 
 if __name__ == "__main__":

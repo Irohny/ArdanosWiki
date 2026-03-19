@@ -1,0 +1,277 @@
+{
+  "profile_id": "mariven",
+  "title": "Mariven: Chronik des Fürstentums",
+  "subtitle": "Geschichte des Fürstentums Mariven",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 2,
+      "width": 120,
+      "label_mode": "event"
+    },
+    {
+      "id": "mariven_rulers",
+      "label": "Mariven Fürsten",
+      "color": "#2f8a7f",
+      "lanes": 1,
+      "width": 170,
+      "label_mode": "person"
+    },
+    {
+      "id": "mariven_ranges",
+      "label": "Mariven Zeitspannen",
+      "color": "#409389",
+      "lanes": 1,
+      "label_mode": "event"
+    },
+    {
+      "id": "mariven_points",
+      "label": "Mariven Zeitpunkte",
+      "color": "#509d93",
+      "lanes": 1,
+      "label_mode": "event"
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "mariven_rulers",
+      "label": "Gruendung Mariven",
+      "start": 503,
+      "end": 503,
+      "kind": "foundation"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Lureano Vintar",
+      "start": 503,
+      "end": 547,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Vennira Cassalay",
+      "start": 547,
+      "end": 603,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Domerr Talzo",
+      "start": 603,
+      "end": 685,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Yllian Marris",
+      "start": 685,
+      "end": 750,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Faelyn Niros",
+      "start": 750,
+      "end": 912,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Perrik Grahm",
+      "start": 912,
+      "end": 983,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Celetha Vintar II",
+      "start": 983,
+      "end": 1036,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Zordak Eisenbeiß",
+      "start": 1036,
+      "end": 1121,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Aerinelle Vellora",
+      "start": 1121,
+      "end": 1399,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Candamir Silberhand",
+      "start": 1399,
+      "end": 1623,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Marcellus Daevorn",
+      "start": 1623,
+      "end": 1664,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Vanya Cerelin",
+      "start": 1664,
+      "end": 1886,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Halren Marris II",
+      "start": 1886,
+      "end": 1912,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Orryn Talzo II",
+      "start": 1912,
+      "end": 1971,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Zallion Vintar III",
+      "start": 1971,
+      "end": 2030,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Aelaria Talzo",
+      "start": 2030,
+      "end": 2158,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Elim Marthus",
+      "start": 2158,
+      "end": 2245,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Irion Cassalay II",
+      "start": 2245,
+      "end": 2456,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_rulers",
+      "lane": 0,
+      "label": "Lyssander Valera",
+      "start": 2456,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Baraberenüberfälle von Mariven",
+      "start": 1236,
+      "end": 1387,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Muschelkrieg",
+      "start": 1401,
+      "end": 1402,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Runenbann-Konflikt",
+      "start": 1603,
+      "end": 1611,
+      "kind": "range",
+      "fill": "#59a199"
+    }
+  ],
+  "output_file": "World/Images/mariven_vertical_timeline.svg"
+}

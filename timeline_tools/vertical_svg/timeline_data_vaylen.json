@@ -1,0 +1,156 @@
+{
+  "profile_id": "vaylen",
+  "title": "Vaylen: Chronik des Fürstentums",
+  "subtitle": "Geschichte des Fürstentums Vaylen",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 2,
+      "width": 120,
+      "label_mode": "event"
+    },
+    {
+      "id": "vaylen_rulers",
+      "label": "Vaylen Fürsten",
+      "color": "#5f83b0",
+      "lanes": 1,
+      "width": 170,
+      "label_mode": "person"
+    },
+    {
+      "id": "vaylen_ranges",
+      "label": "Vaylen Zeitspannen",
+      "color": "#6c8db6",
+      "lanes": 1,
+      "label_mode": "event"
+    },
+    {
+      "id": "vaylen_points",
+      "label": "Vaylen Zeitpunkte",
+      "color": "#7997bd",
+      "lanes": 1,
+      "label_mode": "event"
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "vaylen_rulers",
+      "label": "Gruendung Vaylen",
+      "start": 441,
+      "end": 441,
+      "kind": "foundation"
+    },
+    {
+      "column": "vaylen_rulers",
+      "lane": 0,
+      "label": "Seralyss Drachenruf",
+      "start": 441,
+      "end": 1219,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen_rulers",
+      "lane": 0,
+      "label": "Saelarion Drachenruf",
+      "start": 1219,
+      "end": 1542,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen_rulers",
+      "lane": 0,
+      "label": "Solarys Drachenruf",
+      "start": 1542,
+      "end": 1872,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen_rulers",
+      "lane": 0,
+      "label": "Syrell Drachenruf",
+      "start": 1872,
+      "end": 2153,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen_rulers",
+      "lane": 0,
+      "label": "Selene Drachenruf",
+      "start": 2153,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "vaylen_ranges",
+      "lane": 0,
+      "label": "Runenbann-Konflikt",
+      "start": 1603,
+      "end": 1611,
+      "kind": "range",
+      "fill": "#7f9cc0"
+    },
+    {
+      "column": "vaylen_ranges",
+      "lane": 0,
+      "label": "Reiterkriege der Nebelsteppe",
+      "start": 1740,
+      "end": 1755,
+      "kind": "range",
+      "fill": "#7f9cc0"
+    }
+  ],
+  "output_file": "World/Images/vaylen_vertical_timeline.svg"
+}

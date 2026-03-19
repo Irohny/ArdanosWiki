@@ -1,0 +1,160 @@
+{
+  "profile_id": "schwarzklamm",
+  "title": "Schwarzklamm: Chronik des Fürstentums",
+  "subtitle": "Geschichte des Fürstentums Schwarzklamm",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 2,
+      "width": 120,
+      "label_mode": "event"
+    },
+    {
+      "id": "schwarzklamm_rulers",
+      "label": "Schwarzklamm Fürsten",
+      "color": "#4f5563",
+      "lanes": 1,
+      "width": 170,
+      "label_mode": "person"
+    },
+    {
+      "id": "schwarzklamm_ranges",
+      "label": "Schwarzklamm Zeitspannen",
+      "color": "#5d636f",
+      "lanes": 1,
+      "label_mode": "event"
+    },
+    {
+      "id": "schwarzklamm_points",
+      "label": "Schwarzklamm Zeitpunkte",
+      "color": "#6b707c",
+      "lanes": 1,
+      "label_mode": "event"
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "label": "Gruendung Schwarzklamm",
+      "start": 328,
+      "end": 328,
+      "kind": "foundation"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Durngar Schwarzschild",
+      "start": 2410,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_ranges",
+      "lane": 0,
+      "label": "Erzkrieg von Eron’Gath",
+      "start": 1526,
+      "end": 1528,
+      "kind": "range",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm_ranges",
+      "lane": 0,
+      "label": "Krieg der Klüfte",
+      "start": 2319,
+      "end": 2410,
+      "kind": "range",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm_ranges",
+      "lane": 0,
+      "label": "Zeitalter des Schildes",
+      "start": 2410,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm_points",
+      "lane": 0,
+      "label": "Bardum Eisenklang",
+      "start": 328,
+      "end": 328,
+      "kind": "point",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm_points",
+      "lane": 0,
+      "label": "Die Erschütterung der Tiefe",
+      "start": 1698,
+      "end": 1698,
+      "kind": "point",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm_points",
+      "lane": 0,
+      "label": "Die Feuertaufe von Kar'drathar",
+      "start": 2163,
+      "end": 2163,
+      "kind": "point",
+      "fill": "#727782"
+    }
+  ],
+  "output_file": "World/Images/schwarzklamm_vertical_timeline.svg"
+}
