@@ -33,7 +33,7 @@ def make_internal_links_clickable(text: str) -> str:
     return re.sub(r"\[\[([^\]]+)\]\]", replace_link, text)
 
 
-def show_image(pos: st, image: str, full_width: bool = True):
+def show_image(pos, image: str, full_width: bool = True):
     pos.image(st.session_state["images"][image], use_container_width=full_width)
 
 

@@ -24,7 +24,7 @@ class User:
         self.loged_in: bool = loged_in
 
 
-def login_filed(place: st):
+def login_filed(place):
     if st.session_state["user"].loged_in:
         place.markdown(
             f"Hallo **{st.session_state['user'].name}**, viel Spaß in Andaros."
@@ -60,4 +60,4 @@ def logout():
     st.session_state["tree"] = utils.find_markdown_files(
         cfg.MARKDOWN_DIR, st.session_state["user"]
     )
-    st.session_state["current_path"] = st.session_state["root_path"]
+    utils.set_path(st.session_state["root_path"])

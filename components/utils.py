@@ -82,6 +82,23 @@ def get_all_file_paths(tree):
     return paths
 
 
+@st.cache_data
+def get_all_folder_paths(tree):
+    """Gibt eine Liste aller sichtbaren Ordnerpfade im Tree zurück."""
+    paths = []
+
+    def collect(subtree):
+        for key, value in subtree.items():
+            if key == "__files__":
+                continue
+            paths.append(key)
+            if isinstance(value, dict):
+                collect(value)
+
+    collect(tree)
+    return paths
+
+
 def get_subtree_by_path(target_path: str) -> dict:
     """
     Navigiert durch ein Tree-Dictionary bis zum target_path relativ zu root_path.
@@ -115,8 +132,20 @@ def format_path(path):
     return str(path).split("/")[-1].replace(".md", "")
 
 
+def format_relative_path(path: str) -> str:
+    relative_path = relative_path_from_root(path)
+    if not relative_path:
+        return format_path(path)
+    return relative_path.replace(".md", "")
+
+
+def sync_current_path(path: str) -> None:
+    st.session_state["current_path"] = path
+    st.query_params["page"] = path
+
+
 def go_to_folder(folder):
-    st.session_state["current_path"] = folder
+    sync_current_path(folder)
 
 
 def go_to_root():
@@ -127,15 +156,44 @@ def go_on_top_folder():
     root_path = os.path.abspath(st.session_state["root_path"])
     target_path = os.path.abspath(st.session_state["current_path"])
     if target_path == root_path:
-        st.session_state["current_path"] = root_path
+        sync_current_path(root_path)
         return
     parts = str(target_path).split("/")
     new_path = "/".join(part for part in parts[:-1])
-    st.session_state["current_path"] = new_path
+    sync_current_path(new_path)
 
 
 def set_path(path: str):
-    st.session_state["current_path"] = path
+    sync_current_path(path)
+
+
+def get_breadcrumb_paths(path: str) -> list[str]:
+    root_path = Path(st.session_state["root_path"]).resolve()
+    current_path = Path(path).resolve()
+
+    breadcrumb_paths = [str(root_path)]
+
+    if current_path.suffix == ".md":
+        folder_path = current_path.parent
+        include_file = True
+    else:
+        folder_path = current_path
+        include_file = False
+
+    try:
+        relative_parts = folder_path.relative_to(root_path).parts
+    except ValueError:
+        return breadcrumb_paths
+
+    running_path = root_path
+    for part in relative_parts:
+        running_path = running_path / part
+        breadcrumb_paths.append(str(running_path))
+
+    if include_file:
+        breadcrumb_paths.append(str(current_path))
+
+    return breadcrumb_paths
 
 
 def find_file_path_in_tree(
