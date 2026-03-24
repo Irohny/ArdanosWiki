@@ -1,9 +1,45 @@
-#Herrscher
-#Mariven
+<!--
+Ein-Datei-Profil fuer NPCs.
+Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
+Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
+-->
 
-Zeitspanne: 1623 - 1664 n.d.D
+- **Rufname / Beiname:** Der Bündnisschmied
+- **Titel / Amt:** Kommodore des Fürstentums [[Mariven]]
+- **Haus / Dynastie:** Daevorn
+- **Regentschaft:** 1623 - 1664 n.d.D.
+- **Spezies / Volk:** Mensch
+- **Herkunft:** [[Mariven]]
+- **Geburtsjahr:** 
+- **Sterbejahr:** 
+- **Alter:** 
 
-- **Regentschaft:** 1623–1664 n.d.D.
-- **Haus:** Daevorn
-- **Rasse:** Mensch
-- **Titel:** _Der Bündnisschmied_
+- **Verknuepfte Orte:** [[Mariven]]
+- **Verknuepfte NPCs:** 
+- **Bekannt fuer:** 
+- **Erste Erwaehnung:** 1623 n.d.D.
+- **Tags:** #herrscher #mariven #adel
+
+## Beschreibung und Auftreten
+
+-
+
+## Rolle und Beziehungen
+
+-
+
+## Ziele
+
+-
+
+## Plot-Hooks
+
+-
+
+## Geheime Informationen
+
+-
+
+## Kampfwerte
+
+-

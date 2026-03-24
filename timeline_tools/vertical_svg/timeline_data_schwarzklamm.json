@@ -96,6 +96,14 @@
     {
       "column": "schwarzklamm_rulers",
       "lane": 0,
+      "label": "Durim Felsenherz",
+      "start": 2058,
+      "end": 2319,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
       "label": "Durngar Schwarzschild",
       "start": 2410,
       "end": 2486,

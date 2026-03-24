@@ -7,6 +7,7 @@ from components.login import login_filed
 from components.database_view import set_to_databse_view
 from components.login import Roles
 from components.encounter_calculator import set_to_encounter_calculator_view
+from components.npc_creator import set_to_npc_creator_view, NPC_CREATOR_FEATURE_NAME
 
 
 def dnd_line(pos, label: str, value: str = ""):
@@ -116,12 +117,19 @@ def render_home_shortcuts() -> None:
         )
 
     for feat in cfg.SPECIAL_FEATURE:
+        if st.session_state["user"].role.value != Roles.GameMaster.value:
+            continue
+
         st.sidebar.button(
             f"🛠️ {feat}",
             key=f"{feat}_view",
             use_container_width=True,
             type="tertiary",
-            on_click=set_to_encounter_calculator_view,
+            on_click=(
+                set_to_npc_creator_view
+                if feat == NPC_CREATOR_FEATURE_NAME
+                else set_to_encounter_calculator_view
+            ),
         )
 
 

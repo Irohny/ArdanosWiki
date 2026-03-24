@@ -1,9 +1,45 @@
-#Herrscher
-#Elmrath
+<!--
+Ein-Datei-Profil fuer NPCs.
+Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
+Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
+-->
 
-Zeitspanne: 553 - 1041 n.d.D
+- **Rufname / Beiname:** Die Friedensbotin
+- **Titel / Amt:** Fürstin von [[Elmrath]]
+- **Haus / Dynastie:** Morgenblatt
+- **Regentschaft:** 553 - 1041 n.d.D.
+- **Spezies / Volk:** Hochelfe
+- **Herkunft:** [[Elmrath]]
+- **Geburtsjahr:** 
+- **Sterbejahr:** 
+- **Alter:** 
 
-- **Regentschaft:** 553–1041 n.d.D.
-- **Haus:** Morgenblatt
-- **Rasse:** Hochelfe
-- **Titel:** _Die Friedensbotin_
+- **Verknuepfte Orte:** [[Elmrath]]
+- **Verknuepfte NPCs:** 
+- **Bekannt fuer:** 
+- **Erste Erwaehnung:** 553 n.d.D.
+- **Tags:** #herrscher #elmrath #adel
+
+## Beschreibung und Auftreten
+
+-
+
+## Rolle und Beziehungen
+
+-
+
+## Ziele
+
+-
+
+## Plot-Hooks
+
+-
+
+## Geheime Informationen
+
+-
+
+## Kampfwerte
+
+-

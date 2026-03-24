@@ -33,7 +33,7 @@ class Config:
         "Tranksammlung",
         "Zutatenarchiv",
     ]
-    SPECIAL_FEATURE: list[str] = ["Encounter Rechner"]
+    SPECIAL_FEATURE: list[str] = ["Encounter Rechner", "NSC Ersteller"]
     IGNORE_LIST: list[str] = ["templates", "Images", ".obsidian"]
     DEFAULT_DASHBOARD_EMBLEMS: list[str] = [
         "Wappen Drakmora.png",

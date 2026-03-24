@@ -5,6 +5,7 @@
     {
       "path": "World/Kaiserreich/Ardanos.md",
       "title": "Ardanos",
+      "timeline_label": "Ardanos",
       "primary_types": [
         "Gruendung"
       ],
@@ -30,11 +31,14 @@
         "Zeitspanne: 2160 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/Altlicht.md",
       "title": "Altlicht",
+      "timeline_label": "Altlicht",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -47,11 +51,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Chroniken Drakmora.md",
       "title": "Chroniken Drakmora",
+      "timeline_label": "Chroniken Drakmora",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -64,11 +71,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Drachengründe.md",
       "title": "Drachengründe",
+      "timeline_label": "Drachengründe",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -81,11 +91,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Drakmora.md",
       "title": "Drakmora",
+      "timeline_label": "Drakmora",
       "primary_types": [
         "Gruendung"
       ],
@@ -113,15 +126,16 @@
         "Zeitspanne: 610 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Alerion Sternensaenger.md",
       "title": "Alerion Sternensaenger",
+      "timeline_label": "Alerion Sternensaenger",
       "primary_types": [],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -131,20 +145,34 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Elf #Drakmora #Delegation "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Sternensaenger",
+        "Titel / Amt": "Zauberer und magischer Botschafter von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elf",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "[[Selene Drachenruf]]",
+        "Bekannt fuer": "arkane Diplomatie, magische Forschung, charismatisches Auftreten",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#drakmora #delegation #magie #botschafter"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Barag Steinhorn.md",
       "title": "Barag Steinhorn",
+      "timeline_label": "Barag Steinhorn",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -152,31 +180,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2166 - 2233 n.d.D",
+      "timespan_raw": "2166 - 2233 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2166,
         "end": 2233,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 2166 - 2233 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "2166 - 2233 n.d.D.",
+        "Spezies / Volk": "Halb-Ork",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Erster Fürst im Reichsrat – Erbauer der Friedenshalle von Grom’Tal.",
+        "Erste Erwaehnung": "2166 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Brogorn Klingenzorn.md",
       "title": "Brogorn Klingenzorn",
+      "timeline_label": "Brogorn Klingenzorn",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -184,26 +222,40 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 610 - 688 n.d.D",
+      "timespan_raw": "610 - 688 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 610,
         "end": 688,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 610 - 688 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "610 - 688 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Begründer des Bundes, vereinte die verstreuten Klans nach jahrzehntelangen Fehden.",
+        "Erste Erwaehnung": "610 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Dunmorr der Stählerne.md",
       "title": "Dunmorr der Stählerne",
-      "primary_types": [],
+      "timeline_label": "Dunmorr der Stählerne",
+      "primary_types": [
+        "Herrscher"
+      ],
       "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
@@ -211,21 +263,42 @@
       "categories": [
         "Drakmora"
       ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
+      "timespan_line_count": 1,
+      "timespan_raw": "790 - 853 n.d.D.",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 790,
+        "end": 853,
+        "is_open": false
+      },
       "metadata_lines": [],
-      "is_relevant": false
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Staehlerne",
+        "Titel / Amt": "Fuerst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "790 - 853 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]], [[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Fuehrte [[Drakmora]] erfolgreich gegen Grenzansprueche aus [[Elmrath]]",
+        "Erste Erwaehnung": "790 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
+      "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Durvak Grimmhammer.md",
       "title": "Durvak Grimmhammer",
+      "timeline_label": "Durvak Grimmhammer",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -233,29 +306,39 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1002 - 1230 n.d.D",
+      "timespan_raw": "1002 - 1230 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1002,
         "end": 1230,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1002 - 1230 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1002 - 1230 n.d.D.",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Letzter Fürst vor dem Zeitenbruch – stand gegen die Barbarenhorden.",
+        "Erste Erwaehnung": "1002 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Faelan Drachenfluegel.md",
       "title": "Faelan Drachenfluegel",
+      "timeline_label": "Faelan Drachenfluegel",
       "primary_types": [],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -265,20 +348,34 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Dragonborn #Drakmora #Delegation "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Drachenritter und Sicherheitschef der Delegation von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Dragonborn",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Delegationsschutz, Drachenbindung, militaerische Abschreckung",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#drakmora #delegation #militaer #drachenritter"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Garrik Sturmherr.md",
       "title": "Garrik Sturmherr",
+      "timeline_label": "Garrik Sturmherr",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -286,31 +383,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1990 - 2166 n.d.D",
+      "timespan_raw": "1990 - 2166 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1990,
         "end": 2166,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1990 - 2166 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1990 - 2166 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Teilnehmer am Eid von Morgenfels – loyaler Verbündeter Elyanders. Starb unter ungeklärten Umständen. Vermutet wurde eine neue Organisation ([[Tashiro'en]])",
+        "Erste Erwaehnung": "1990 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Harnak Blutgeboren.md",
       "title": "Harnak Blutgeboren",
+      "timeline_label": "Harnak Blutgeboren",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -318,31 +425,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 853 - 910 n.d.D",
+      "timespan_raw": "853 - 910 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 853,
         "end": 910,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 853 - 910 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "853 - 910 n.d.D.",
+        "Spezies / Volk": "Halb-Ork",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Kontrovers gewählt, brachte Reformen im Wehrsystem.",
+        "Erste Erwaehnung": "853 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Karnok Splitterbart.md",
       "title": "Karnok Splitterbart",
+      "timeline_label": "Karnok Splitterbart",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -350,31 +467,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1694 - 1790 n.d.D",
+      "timespan_raw": "1694 - 1790 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1694,
         "end": 1790,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1694 - 1790 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1694 - 1790 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Anführer in den Schwarzen Klammkriegen – Sieg bei Steinfall.",
+        "Erste Erwaehnung": "1694 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Khara Eisenblick.md",
       "title": "Khara Eisenblick",
+      "timeline_label": "Khara Eisenblick",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -382,31 +509,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 688 - 721 n.d.D",
+      "timespan_raw": "688 - 721 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 688,
         "end": 721,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 688 - 721 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürstin von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "688 - 721 n.d.D.",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Führte eine systematische Expansion in das Eisenrückenmassiv, erste Handelsverträge mit Vaylen.",
+        "Erste Erwaehnung": "688 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Marthok Goldschild.md",
       "title": "Marthok Goldschild",
+      "timeline_label": "Marthok Goldschild",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -414,31 +551,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1231 - 1284 n.d.D",
+      "timespan_raw": "1231 - 1284 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1231,
         "end": 1284,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1231 - 1284 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1231 - 1284 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Ein brutaler, aber effektiver Herrscher – unterwarf rebellische Nordklans.",
+        "Erste Erwaehnung": "1231 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Oghrim der Alte.md",
       "title": "Oghrim der Alte",
+      "timeline_label": "Oghrim der Alte",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -446,31 +593,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1790 - 1990 n.d.D",
+      "timespan_raw": "1790 - 1990 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1790,
         "end": 1990,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1790 - 1990 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1790 - 1990 n.d.D.",
+        "Spezies / Volk": "Tiefling",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Läutete die große Blütezeit der Kriegsindustrie Drakmoras ein.",
+        "Erste Erwaehnung": "1790 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Rogda Speerflamme.md",
       "title": "Rogda Speerflamme",
+      "timeline_label": "Rogda Speerflamme",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -478,31 +635,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 910 - 1002 n.d.D",
+      "timespan_raw": "910 - 1002 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 910,
         "end": 1002,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 910 - 1002 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürstin von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "910 - 1002 n.d.D.",
+        "Spezies / Volk": "Halb-Ork",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Legende der Belagerung von Kalthaar. Ihre Statue steht in Grollstein.",
+        "Erste Erwaehnung": "910 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Sigrid Eisenfaust.md",
       "title": "Sigrid Eisenfaust",
+      "timeline_label": "Sigrid Eisenfaust",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -510,31 +677,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1332 - 1410 n.d.D",
+      "timespan_raw": "1332 - 1410 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1332,
         "end": 1410,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1332 - 1410 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürstin von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1332 - 1410 n.d.D.",
+        "Spezies / Volk": "Mesnch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Kultivierte die Magiertraditionen in Drakmora – ungewöhnlich für die Zeit.",
+        "Erste Erwaehnung": "1332 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Thorgim Donnerklinge.md",
       "title": "Thorgim Donnerklinge",
+      "timeline_label": "Thorgim Donnerklinge",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -542,31 +719,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1527 - 1694 n.d.D",
+      "timespan_raw": "1527 - 1694 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1527,
         "end": 1694,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1527 - 1694 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1527 - 1694 n.d.D.",
+        "Spezies / Volk": "",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Verlor viele Grenzlande an Mariven – sein Ruf ist zwiegespalten.",
+        "Erste Erwaehnung": "1527 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Torgak Eisenbrand.md",
       "title": "Torgak Eisenbrand",
+      "timeline_label": "Torgak Eisenbrand",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -574,31 +761,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2233 - 2344 n.d.D",
+      "timespan_raw": "2233 - 2344 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2233,
         "end": 2344,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 2233 - 2344 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Fürst der reinen Stärke",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "Eisenbrand",
+        "Regentschaft": "2233 - 2344 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Schutzerherr von [[Arn'Old]]. Gab im 2285 n.d.D Land um sein Training zu perfektionieren",
+        "Erste Erwaehnung": "2233 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Tyrak der Wilde.md",
       "title": "Tyrak der Wilde",
+      "timeline_label": "Tyrak der Wilde",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -606,31 +803,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1284 - 1332 n.d.D",
+      "timespan_raw": "1284 - 1332 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1284,
         "end": 1332,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1284 - 1332 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1284 - 1332 n.d.D.",
+        "Spezies / Volk": "Halb-Ork",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Schloss erste wackelige Friedensverträge mit Mariven.",
+        "Erste Erwaehnung": "1284 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Uldak Schmetterschlag.md",
       "title": "Uldak Schmetterschlag",
+      "timeline_label": "Uldak Schmetterschlag",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -638,31 +845,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 721 - 790 n.d.D",
+      "timespan_raw": "721 - 790 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 721,
         "end": 790,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 721 - 790 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "721 - 790 n.d.D.",
+        "Spezies / Volk": "Halb-Ork",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Begründer der Runenschmiede von Grumhall, mystisch verehrt bis heute.",
+        "Erste Erwaehnung": "721 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Valaine Nebelhain.md",
       "title": "Valaine Nebelhain",
+      "timeline_label": "Valaine Nebelhain",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -670,31 +887,41 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2344 - heute n.d.D",
+      "timespan_raw": "2344 - heute n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2344,
         "end": 2486,
         "is_open": true
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 2344 - heute n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürstin von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "2344 - heute n.d.D.",
+        "Spezies / Volk": "",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "[[Selene Drachenruf]], [[Vaylen]]",
+        "Bekannt fuer": "Valaine ist eine starke und unnachgiebige Herrscherin, die keine schwäche duldet und deren gesamtes Augenmerk der Verteidigung [[Drakmora]]s und des Kaisereiche",
+        "Erste Erwaehnung": "2344 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/NPCs/Varrun Brechmaul.md",
       "title": "Varrun Brechmaul",
+      "timeline_label": "Varrun Brechmaul",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Drakmora"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Drakmora"
       ],
@@ -702,25 +929,37 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1410 - 1527 n.d.D",
+      "timespan_raw": "1410 - 1527 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1410,
         "end": 1527,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Drakmora",
-        "",
-        "Zeitspanne: 1410 - 1527 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Drakmora]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "1410 - 1527 n.d.D.",
+        "Spezies / Volk": "Halb-Ork",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Drakmora]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Berüchtigt für seinen Zorn und seine Expansionen gegen Vaylen.",
+        "Erste Erwaehnung": "1410 n.d.D.",
+        "Tags": "#herrscher #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/Nebelsteppe/Feuerstele von Nebelstein.md",
       "title": "Feuerstele von Nebelstein",
+      "timeline_label": "Feuerstele von Nebelstein",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -733,11 +972,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Nebelsteppe/Morgenfels.md",
       "title": "Morgenfels",
+      "timeline_label": "Morgenfels",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -750,11 +992,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Nebelsteppe/Nebelsteppe.md",
       "title": "Nebelsteppe",
+      "timeline_label": "Nebelsteppe",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -767,11 +1012,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Reiterkriege der Nebelsteppe.md",
       "title": "Reiterkriege der Nebelsteppe",
+      "timeline_label": "Reiterkriege der Nebelsteppe",
       "primary_types": [
         "Krieg"
       ],
@@ -802,11 +1050,14 @@
         "Zeitspanne: 1740 - 1755 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Drakmora/Rußstein.md",
       "title": "Rußstein",
+      "timeline_label": "Rußstein",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -819,11 +1070,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Schimmernde Klippen.md",
       "title": "Schimmernde Klippen",
+      "timeline_label": "Schimmernde Klippen",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -836,11 +1090,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Stahlwölfe.md",
       "title": "Stahlwölfe",
+      "timeline_label": "Stahlwölfe",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -853,11 +1110,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Valatheris.md",
       "title": "Valatheris",
+      "timeline_label": "Valatheris",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -870,11 +1130,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Bernruh & Nordtor.md",
       "title": "Bernruh & Nordtor",
+      "timeline_label": "Bernruh & Nordtor",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -887,11 +1150,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Chroniken von Elmrath.md",
       "title": "Chroniken von Elmrath",
+      "timeline_label": "Chroniken von Elmrath",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -904,11 +1170,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Elmrath.md",
       "title": "Elmrath",
+      "timeline_label": "Elmrath",
       "primary_types": [
         "Gruendung"
       ],
@@ -936,11 +1205,14 @@
         "Zeitspanne: 553 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/Goldene Weite.md",
       "title": "Goldene Weite",
+      "timeline_label": "Goldene Weite",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -953,11 +1225,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Himmelshöfe.md",
       "title": "Himmelshöfe",
+      "timeline_label": "Himmelshöfe",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -970,11 +1245,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Immergrüner Hain.md",
       "title": "Immergrüner Hain",
+      "timeline_label": "Immergrüner Hain",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -987,11 +1265,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Goldene Rune.md",
       "title": "Goldene Rune",
+      "timeline_label": "Goldene Rune",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1006,11 +1287,14 @@
       "metadata_lines": [
         "#Taverne "
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Grüner Wyvern.md",
       "title": "Grüner Wyvern",
+      "timeline_label": "Grüner Wyvern",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1025,11 +1309,14 @@
       "metadata_lines": [
         "#Taverne"
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Hafen von Luminara.md",
       "title": "Hafen von Luminara",
+      "timeline_label": "Hafen von Luminara",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1042,11 +1329,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Luminara.md",
       "title": "Luminara",
+      "timeline_label": "Luminara",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1059,11 +1349,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Palast des Kaisers.md",
       "title": "Palast des Kaisers",
+      "timeline_label": "Palast des Kaisers",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1076,11 +1369,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Scriptorium Luminis.md",
       "title": "Scriptorium Luminis",
+      "timeline_label": "Scriptorium Luminis",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1093,11 +1389,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Stolzes Einhorn.md",
       "title": "Stolzes Einhorn",
+      "timeline_label": "Stolzes Einhorn",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1112,11 +1411,14 @@
       "metadata_lines": [
         "#Taverne "
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Luminara/Tempel St. Aurelia.md",
       "title": "Tempel St. Aurelia",
+      "timeline_label": "Tempel St. Aurelia",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1129,11 +1431,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Marktgraf Reodemus.md",
       "title": "Marktgraf Reodemus",
+      "timeline_label": "Marktgraf Reodemus",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1149,12 +1454,17 @@
         "#Mensch ",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Aenyris Silberhain.md",
       "title": "Aenyris Silberhain",
-      "primary_types": [],
+      "timeline_label": "Aenyris Silberhain",
+      "primary_types": [
+        "Herrscher"
+      ],
       "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
@@ -1162,21 +1472,42 @@
       "categories": [
         "Elmrath"
       ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
+      "timespan_line_count": 1,
+      "timespan_raw": "1456 - 1014 n.d.D.",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1456,
+        "end": 1014,
+        "is_open": false
+      },
       "metadata_lines": [],
-      "is_relevant": false
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Sturmseherin",
+        "Titel / Amt": "Fürstin von [[Elmrath]]",
+        "Haus / Dynastie": "Silberhain",
+        "Regentschaft": "1456 - 1014 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1456 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
+      "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Arannis Silven.md",
       "title": "Arannis Silven",
+      "timeline_label": "Arannis Silven",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1184,31 +1515,41 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1765 - 1914 n.d.D",
+      "timespan_raw": "1765 - 1914 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1765,
         "end": 1914,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 1765 - 1914 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Ätherfürst",
+        "Titel / Amt": "Fürst von [[Elmrath]]",
+        "Haus / Dynastie": "Silven",
+        "Regentschaft": "1765 - 1914 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1765 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Caelynn Morgenblatt.md",
       "title": "Caelynn Morgenblatt",
+      "timeline_label": "Caelynn Morgenblatt",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1216,31 +1557,41 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 553 - 1041 n.d.D",
+      "timespan_raw": "553 - 1041 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 553,
         "end": 1041,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 553 - 1041 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Friedensbotin",
+        "Titel / Amt": "Fürstin von [[Elmrath]]",
+        "Haus / Dynastie": "Morgenblatt",
+        "Regentschaft": "553 - 1041 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "553 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Elenion Silberhain.md",
       "title": "Elenion Silberhain",
+      "timeline_label": "Elenion Silberhain",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1248,26 +1599,40 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1041 - 1455 n.d.D",
+      "timespan_raw": "1041 - 1455 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1041,
         "end": 1455,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 1041 - 1455 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Nebelkönig",
+        "Titel / Amt": "Fürst von [[Elmrath]]",
+        "Haus / Dynastie": "Silberhain",
+        "Regentschaft": "1041 - 1455 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1041 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Elirae Nyssien.md",
       "title": "Elirae Nyssien",
-      "primary_types": [],
+      "timeline_label": "Elirae Nyssien",
+      "primary_types": [
+        "Herrscher"
+      ],
       "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
@@ -1275,21 +1640,42 @@
       "categories": [
         "Elmrath"
       ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
+      "timespan_line_count": 1,
+      "timespan_raw": "1159 - 1433 n.d.D.",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1159,
+        "end": 1433,
+        "is_open": false
+      },
       "metadata_lines": [],
-      "is_relevant": false
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Glut der Weisheit",
+        "Titel / Amt": "Fürstin von [[Elmrath]]",
+        "Haus / Dynastie": "Nyssien",
+        "Regentschaft": "1159 - 1433 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Unter ihrer Regentschaft wurde der erste Kontakt zu den Magiern Vaylens gestärkt.",
+        "Erste Erwaehnung": "1159 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
+      "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Elsinya von Elmrath.md",
       "title": "Elsinya von Elmrath",
+      "timeline_label": "Elsinya von Elmrath",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1297,29 +1683,39 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2383 - 2448 n.d.D",
+      "timespan_raw": "2383 - 2448 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2383,
         "end": 2448,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 2383 - 2448 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Sonnengeweihte",
+        "Titel / Amt": "Fürstin von [[Elmrath]]",
+        "Haus / Dynastie": "von Elmrath",
+        "Regentschaft": "2383 - 2448 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "2383 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Garron der Grüne.md",
       "title": "Garron der Grüne",
+      "timeline_label": "Garron der Grüne",
       "primary_types": [],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1329,20 +1725,34 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Elmrath #Elb #Delegation "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Gruene",
+        "Titel / Amt": "Botschafter fuer Landwirtschaft und Ressourcen aus [[Elmrath]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elb",
+        "Herkunft": "[[Himmelshoefe]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]], [[Himmelshöfe]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Landwirtschaft, Ressourcenpolitik, Handelsabkommen zu Getreide und Vieh",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#elmrath #delegation #handel #landwirtschaft"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Isilme Dämmerwald.md",
       "title": "Isilme Dämmerwald",
+      "timeline_label": "Isilme Dämmerwald",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1350,29 +1760,39 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1610 - 1765 n.d.D",
+      "timespan_raw": "1610 - 1765 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1610,
         "end": 1765,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 1610 - 1765 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Stimme der Wälder",
+        "Titel / Amt": "Fürstin von [[Elmrath]]",
+        "Haus / Dynastie": "Dämmerwald",
+        "Regentschaft": "1610 - 1765 n.d.D.",
+        "Spezies / Volk": "Halbelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1610 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Lady Maerina von Elmrath.md",
       "title": "Lady Maerina von Elmrath",
+      "timeline_label": "Lady Maerina von Elmrath",
       "primary_types": [],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1382,21 +1802,34 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Mensch #Elmrath  #Delegation ",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Lady Maerina",
+        "Titel / Amt": "Diplomatin und Beraterin von [[Elmrath]]",
+        "Haus / Dynastie": "von Elmrath",
+        "Regentschaft": "",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "[[Thalric von Elmrath]], [[Aldric von Elmrath]]",
+        "Bekannt fuer": "Diplomatie, politische Allianzen, Einfluss am Fuerstenhof",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#elmrath #delegation #diplomatie #adel"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Naeryss Silven.md",
       "title": "Naeryss Silven",
+      "timeline_label": "Naeryss Silven",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1404,31 +1837,41 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1914 - 2325 n.d.D",
+      "timespan_raw": "1914 - 2325 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1914,
         "end": 2325,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 1914 - 2325 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Mondgeborene",
+        "Titel / Amt": "Fürst von [[Elmrath]]",
+        "Haus / Dynastie": "von Elmrath",
+        "Regentschaft": "1914 - 2325 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Nannte das Haus Talanis in von Elmrath um, um den Anspruch auf die Krone des Landes zu unterstreichen. Er verhandelte den Friedenspankt **2160 n.d.D** beim [[Eid von Morgenfels]]",
+        "Erste Erwaehnung": "1914 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Orellan Dämmerwald.md",
       "title": "Orellan Dämmerwald",
+      "timeline_label": "Orellan Dämmerwald",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1436,26 +1879,40 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1487 - 1610 n.d.D",
+      "timespan_raw": "1487 - 1610 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1487,
         "end": 1610,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 1487 - 1610 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Grenzhüter",
+        "Titel / Amt": "Fürst von [[Elmrath]]",
+        "Haus / Dynastie": "Dämmerwald",
+        "Regentschaft": "1487 - 1610 n.d.D.",
+        "Spezies / Volk": "Halbelf",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1487 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Thaevan Silberhain.md",
       "title": "Thaevan Silberhain",
-      "primary_types": [],
+      "timeline_label": "Thaevan Silberhain",
+      "primary_types": [
+        "Herrscher"
+      ],
       "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
@@ -1463,21 +1920,42 @@
       "categories": [
         "Elmrath"
       ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
+      "timespan_line_count": 1,
+      "timespan_raw": "1014 - 1159 n.d.D.",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 1014,
+        "end": 1159,
+        "is_open": false
+      },
       "metadata_lines": [],
-      "is_relevant": false
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Lautlose Herr",
+        "Titel / Amt": "Fürst von [[Elmrath]]",
+        "Haus / Dynastie": "Silberhain",
+        "Regentschaft": "1014 - 1159 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1014 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
+      "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Thalric von Elmrath.md",
       "title": "Thalric von Elmrath",
+      "timeline_label": "Thalric von Elmrath",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1485,25 +1963,37 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2443 - heute n.d.D",
+      "timespan_raw": "2443 - heute n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2443,
         "end": 2486,
         "is_open": true
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 2443 - heute n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Bewahrer",
+        "Titel / Amt": "Fürst von [[Elmrath]]",
+        "Haus / Dynastie": "von Elmrath",
+        "Regentschaft": "2443 - heute n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Aldric von Elmrath]], [[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Thalric ist ein konservativer Herrscher, der sich vor allem auf Landwirtschaft, Viehzucht und den Schutz der alten Traditionen konzentriert. Er ist der Bruder v",
+        "Erste Erwaehnung": "2443 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Thamior Lucenval.md",
       "title": "Thamior Lucenval",
+      "timeline_label": "Thamior Lucenval",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1515,20 +2005,34 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Mensch #Prister #Solyra"
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Oberster Priester des [[Tempel St. Aurelia]] in [[Luminara]]",
+        "Haus / Dynastie": "Lucenval",
+        "Regentschaft": "",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Luminara]]",
+        "Geburtsjahr": "2399 n.d.D.",
+        "Sterbejahr": "",
+        "Alter": "87 Jahre",
+        "Verknuepfte Orte": "[[Luminara]], [[Tempel St. Aurelia]]",
+        "Verknuepfte NPCs": "[[Solyra]], [[Das Sonnenwunder von Valmere]]",
+        "Bekannt fuer": "goettliches Wirken, Priesterschaft, Sonnenwunder, seelsorgerische Autoritaet",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#elmrath #religion #solyra #priester"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/NPCs/Viktoria von Elmrath.md",
       "title": "Viktoria von Elmrath",
+      "timeline_label": "Viktoria von Elmrath",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Elmrath"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Elmrath"
       ],
@@ -1536,25 +2040,37 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2325 - 2383 n.d.D",
+      "timespan_raw": "2325 - 2383 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2325,
         "end": 2383,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Elmrath",
-        "",
-        "Zeitspanne: 2325 - 2383 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürstin von [[Elmrath]]",
+        "Haus / Dynastie": "von Elmrath",
+        "Regentschaft": "2325 - 2383 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Elmrath]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "- **Title:**  _Sonnenkönigin_",
+        "Erste Erwaehnung": "2325 n.d.D.",
+        "Tags": "#herrscher #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Elmrath/Paktfest von Len'yrel.md",
       "title": "Paktfest von Len'yrel",
+      "timeline_label": "Paktfest von Len'yrel",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1567,11 +2083,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Elmrath/Wurzelholm.md",
       "title": "Wurzelholm",
+      "timeline_label": "Wurzelholm",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -1584,11 +2103,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Flüsse/Graldrim.md",
       "title": "Graldrim",
+      "timeline_label": "Graldrim",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -1597,11 +2119,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Flüsse/Kristallsee.md",
       "title": "Kristallsee",
+      "timeline_label": "Kristallsee",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -1610,11 +2135,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Flüsse/Lumaros.md",
       "title": "Lumaros",
+      "timeline_label": "Lumaros",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -1623,11 +2151,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Flüsse/Maldras.md",
       "title": "Maldras",
+      "timeline_label": "Maldras",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -1636,11 +2167,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Flüsse/Syralith.md",
       "title": "Syralith",
+      "timeline_label": "Syralith",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -1649,11 +2183,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Flüsse/Velgrin.md",
       "title": "Velgrin",
+      "timeline_label": "Velgrin",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -1662,11 +2199,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Baraberenüberfälle von Mariven.md",
       "title": "Baraberenüberfälle von Mariven",
+      "timeline_label": "Baraberenüberfälle von Mariven",
       "primary_types": [
         "Krieg"
       ],
@@ -1692,11 +2232,14 @@
         "Zeitspanne: 1236 - 1387 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Blutfeldzug in der Aschenweite.md",
       "title": "Blutfeldzug in der Aschenweite",
+      "timeline_label": "Blutfeldzug in der Aschenweite",
       "primary_types": [
         "Krieg"
       ],
@@ -1722,11 +2265,14 @@
         "Zeitspanne: 2478 - 2482 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Das Sonnenwunder von Valmere.md",
       "title": "Das Sonnenwunder von Valmere",
+      "timeline_label": "Das Sonnenwunder von Valmere",
       "primary_types": [
         "Ereignis"
       ],
@@ -1752,11 +2298,14 @@
         "Zeitspanne: 2447 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Die Feuertaufe von Kar'drathar.md",
       "title": "Die Feuertaufe von Kar'drathar",
+      "timeline_label": "Die Feuertaufe von Kar'drathar",
       "primary_types": [
         "Ereignis"
       ],
@@ -1782,11 +2331,14 @@
         "Zeitspanne: 2163 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Eid von Morgenfels.md",
       "title": "Eid von Morgenfels",
+      "timeline_label": "Eid von Morgenfels",
       "primary_types": [
         "Ereignis"
       ],
@@ -1812,11 +2364,14 @@
         "Zeitspanne: 2160 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Erzkrieg von Eron’Gath.md",
       "title": "Erzkrieg von Eron’Gath",
+      "timeline_label": "Erzkrieg von Eron’Gath",
       "primary_types": [
         "Krieg"
       ],
@@ -1845,11 +2400,14 @@
         "Zeitspanne: 1526 - 1528 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Feuerfeld von Nebelstein.md",
       "title": "Feuerfeld von Nebelstein",
+      "timeline_label": "Feuerfeld von Nebelstein",
       "primary_types": [
         "Ereignis"
       ],
@@ -1875,11 +2433,14 @@
         "Zeitspanne: 2162 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Invasion der Nordbarbaren.md",
       "title": "Invasion der Nordbarbaren",
+      "timeline_label": "Invasion der Nordbarbaren",
       "primary_types": [
         "Krieg"
       ],
@@ -1905,11 +2466,14 @@
         "Zeitspanne: 2025 - 2165 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Muschelkrieg.md",
       "title": "Muschelkrieg",
+      "timeline_label": "Muschelkrieg",
       "primary_types": [
         "Krieg"
       ],
@@ -1938,11 +2502,14 @@
         "Zeitspanne: 1401 - 1402 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Nord-Süd-Konflikt.md",
       "title": "Nord-Süd-Konflikt",
+      "timeline_label": "Nord-Süd-Konflikt",
       "primary_types": [
         "Konflikt"
       ],
@@ -1971,11 +2538,14 @@
         "Zeitspanne: 1304 - 1307 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Runenbann-Konflikt.md",
       "title": "Runenbann-Konflikt",
+      "timeline_label": "Runenbann-Konflikt",
       "primary_types": [
         "Konflikt"
       ],
@@ -2004,11 +2574,14 @@
         "Zeitspanne: 1603 - 1611 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Geschichte/Zeitalter.md",
       "title": "Zeitalter",
+      "timeline_label": "Zeitalter",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -2017,371 +2590,518 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Aldric von Elmrath.md",
       "title": "Aldric von Elmrath",
+      "timeline_label": "Aldric von Elmrath",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2484 - heute n.d.D",
+      "timespan_raw": "2484 - heute n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2484,
         "end": 2486,
         "is_open": true
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2484 - heute n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Goldene Weiser",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Elmrath",
+        "Regentschaft": "2484 - heute n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "2424 n.d.D.",
+        "Sterbejahr": "",
+        "Alter": "62 Jahre",
+        "Verknuepfte Orte": "[[Ardanos]], [[Elmrath]]",
+        "Verknuepfte NPCs": "[[Thalric von Elmrath]]",
+        "Bekannt fuer": "Diplomatie, Ausgleich zwischen den Reichen, traditionsbewusste Herrschaft",
+        "Erste Erwaehnung": "2484 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Alinor Thorne II.md",
       "title": "Alinor Thorne II",
+      "timeline_label": "Alinor Thorne II",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2410 - 2442 n.d.D",
+      "timespan_raw": "2410 - 2442 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2410,
         "end": 2442,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2410 - 2442 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Versoehner",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Thorne",
+        "Regentschaft": "2410 - 2442 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Vaylen]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Wiederaufbau, politische Versoehnung, Konsolidierung des Reiches",
+        "Erste Erwaehnung": "2410 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #vaylen #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Almareth Silven.md",
       "title": "Almareth Silven",
+      "timeline_label": "Almareth Silven",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2199 - 2230 n.d.D",
+      "timespan_raw": "2199 - 2230 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2199,
         "end": 2230,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2199 - 2230 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Friedenswahrerin",
+        "Titel / Amt": "Kaiserin von [[Ardanos]]",
+        "Haus / Dynastie": "Silven",
+        "Regentschaft": "2199 - 2230 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Elmrath]], [[Mariven]]",
+        "Verknuepfte NPCs": "[[Orden der Klarheit]]",
+        "Bekannt fuer": "Friedenspolitik, Handelsvertraege, erste Kaiserin des Reiches",
+        "Erste Erwaehnung": "2199 n.d.D.",
+        "Tags": "#kaiserin #kaiserreich #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Balrik Hammergrund.md",
       "title": "Balrik Hammergrund",
+      "timeline_label": "Balrik Hammergrund",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2382 - 2409 n.d.D",
+      "timespan_raw": "2382 - 2409 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2382,
         "end": 2409,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2382 - 2409 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Standfeste",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Hammergrund",
+        "Regentschaft": "2382 - 2409 n.d.D.",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Schwarzklamm]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Kriegsfuehrung, Ordnung, Nachkriegsaufbau",
+        "Erste Erwaehnung": "2382 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #schwarzklamm #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Barduron Steinmark.md",
       "title": "Barduron Steinmark",
+      "timeline_label": "Barduron Steinmark",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2230 - 2256 n.d.D",
+      "timespan_raw": "2230 - 2256 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2230,
         "end": 2256,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2230 - 2256 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Gesetzgeber",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Steinmark",
+        "Regentschaft": "2230 - 2256 n.d.D.",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Schwarzklamm]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Rechtsreformen, Verwaltung, kaiserliche Ordnung",
+        "Erste Erwaehnung": "2230 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #schwarzklamm #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Calvius Thorne.md",
       "title": "Calvius Thorne",
+      "timeline_label": "Calvius Thorne",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2256 - 2283 n.d.D",
+      "timespan_raw": "2256 - 2283 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2256,
         "end": 2283,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2256 - 2283 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Weise",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Thorne",
+        "Regentschaft": "2256 - 2283 n.d.D.",
+        "Spezies / Volk": "Halbelf",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Vaylen]]",
+        "Verknuepfte NPCs": "[[Orden der Klarheit]]",
+        "Bekannt fuer": "arkane Forschung, Weisheit, politische Foerderung magischer Institutionen",
+        "Erste Erwaehnung": "2256 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #vaylen #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Dural Goldschild II.md",
       "title": "Dural Goldschild II",
+      "timeline_label": "Dural Goldschild II",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2283 - 2318 n.d.D",
+      "timespan_raw": "2283 - 2318 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2283,
         "end": 2318,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2283 - 2318 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Erzkaiser",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Goldschild",
+        "Regentschaft": "2283 - 2318 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Drakmora]], [[Krieg der Klüfte]]",
+        "Verknuepfte NPCs": "[[Arn'Old]], [[Bizeptiner Orden]]",
+        "Bekannt fuer": "Krisenfuehrung, fruehe Spannungen im Reich, starke Reichspolitik",
+        "Erste Erwaehnung": "2283 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Durnek Eisenmark.md",
       "title": "Durnek Eisenmark",
+      "timeline_label": "Durnek Eisenmark",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2470 - 2483 n.d.D",
+      "timespan_raw": "2470 - 2483 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2470,
         "end": 2483,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2470 - 2483 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Wiedererwecker",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Eisenmark",
+        "Regentschaft": "2470 - 2483 n.d.D.",
+        "Spezies / Volk": "Tiefling",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "2483 n.d.D.",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Schwarzklamm]], [[Tiefe Hallen]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Wiederbesiedlung, Aufbruch, politische Erneuerung",
+        "Erste Erwaehnung": "2470 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #schwarzklamm #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Elsinya Arven.md",
       "title": "Elsinya Arven",
+      "timeline_label": "Elsinya Arven",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2443 - 2469 n.d.D",
+      "timespan_raw": "2443 - 2469 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2443,
         "end": 2469,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2443 - 2469 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Sonnengeweihte",
+        "Titel / Amt": "Kaiserin von [[Ardanos]]",
+        "Haus / Dynastie": "Arven",
+        "Regentschaft": "2443 - 2469 n.d.D.",
+        "Spezies / Volk": "Halbelf",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Mariven]], [[Das Sonnenwunder von Valmere]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "religioese Symbolkraft, Diplomatie, Beziehungen zu den Inselreichen",
+        "Erste Erwaehnung": "2443 n.d.D.",
+        "Tags": "#kaiserin #kaiserreich #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Elyander Goldschild.md",
       "title": "Elyander Goldschild",
+      "timeline_label": "Elyander Goldschild",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2165 - 2199 n.d.D",
+      "timespan_raw": "2165 - 2199 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2165,
         "end": 2199,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2165 - 2199 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Einiger",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Goldschild",
+        "Regentschaft": "2165 - 2199 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Drakmora]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Drakmora]], [[Eid von Morgenfels]], [[Feuerfeld von Nebelstein]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Reichsgruendung, Einigung der Fuerstentuemern, militaerischer Sieg",
+        "Erste Erwaehnung": "2165 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #drakmora #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Marcellon Arven.md",
       "title": "Marcellon Arven",
+      "timeline_label": "Marcellon Arven",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2319 - 2354 n.d.D",
+      "timespan_raw": "2319 - 2354 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2319,
         "end": 2354,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2319 - 2354 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Handelsherr",
+        "Titel / Amt": "Kaiser von [[Ardanos]]",
+        "Haus / Dynastie": "Arven",
+        "Regentschaft": "2319 - 2354 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Mariven]], [[Krieg der Zwerge]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Handelspolitik, maritime Staerke, Herrschaft in Kriegszeiten",
+        "Erste Erwaehnung": "2319 n.d.D.",
+        "Tags": "#kaiser #kaiserreich #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Kaiser/NPCs/Virella Nyssien.md",
       "title": "Virella Nyssien",
+      "timeline_label": "Virella Nyssien",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
+      "declared_categories": [],
+      "fallback_categories": [
         "Kaiserreich"
       ],
-      "fallback_categories": [],
       "categories": [
         "Kaiserreich"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2355 - 2381 n.d.D",
+      "timespan_raw": "2355 - 2381 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2355,
         "end": 2381,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Kaiserreich",
-        "",
-        "Zeitspanne: 2355 - 2381 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Feuermagierin",
+        "Titel / Amt": "Kaiserin von [[Ardanos]]",
+        "Haus / Dynastie": "Nyssien",
+        "Regentschaft": "2355 - 2381 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Elmrath]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ardanos]], [[Elmrath]]",
+        "Verknuepfte NPCs": "[[Orellan Dämmerwald]]",
+        "Bekannt fuer": "Magie, Diplomatie, Ueberleben politischer Intrigen",
+        "Erste Erwaehnung": "2355 n.d.D.",
+        "Tags": "#kaiserin #kaiserreich #elmrath #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/AelVarin/Ael'Varin.md",
       "title": "Ael'Varin",
+      "timeline_label": "Ael'Varin",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2394,11 +3114,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Bernruh.md",
       "title": "Bernruh",
+      "timeline_label": "Bernruh",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2411,11 +3134,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Bernsteinküste.md",
       "title": "Bernsteinküste",
+      "timeline_label": "Bernsteinküste",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2428,11 +3154,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Nebelhafen.md",
       "title": "Nebelhafen",
+      "timeline_label": "Nebelhafen",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2445,11 +3174,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Sonnenkliff.md",
       "title": "Sonnenkliff",
+      "timeline_label": "Sonnenkliff",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2462,11 +3194,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Berndsteinkueste/Tiravor.md",
       "title": "Tiravor",
+      "timeline_label": "Tiravor",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2479,11 +3214,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Chroniken Mariven.md",
       "title": "Chroniken Mariven",
+      "timeline_label": "Chroniken Mariven",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2496,11 +3234,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Cirellin/Althovar.md",
       "title": "Althovar",
+      "timeline_label": "Althovar",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2513,11 +3254,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Cirellin/Cirellin.md",
       "title": "Cirellin",
+      "timeline_label": "Cirellin",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2530,11 +3274,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Cirellin/Cirion.md",
       "title": "Cirion",
+      "timeline_label": "Cirion",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2547,11 +3294,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Havgrim/Havgrim.md",
       "title": "Havgrim",
+      "timeline_label": "Havgrim",
       "primary_types": [],
       "declared_categories": [
         "Mariven"
@@ -2568,11 +3318,14 @@
       "metadata_lines": [
         "#Mariven "
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Havgrim/Smaragdlagune.md",
       "title": "Smaragdlagune",
+      "timeline_label": "Smaragdlagune",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2585,11 +3338,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Korvalis/Gezeitenhalle.md",
       "title": "Gezeitenhalle",
+      "timeline_label": "Gezeitenhalle",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2602,11 +3358,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Korvalis/Goldene Armada.md",
       "title": "Goldene Armada",
+      "timeline_label": "Goldene Armada",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2619,11 +3378,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Korvalis/Korvalis.md",
       "title": "Korvalis",
+      "timeline_label": "Korvalis",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2636,11 +3398,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Korvalis/Verethia.md",
       "title": "Verethia",
+      "timeline_label": "Verethia",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2653,11 +3418,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Mariven.md",
       "title": "Mariven",
+      "timeline_label": "Mariven",
       "primary_types": [
         "Gruendung"
       ],
@@ -2685,72 +3453,14 @@
         "Zeitspanne: 503 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Brenna Wellenklinge.md",
       "title": "Brenna Wellenklinge",
-      "primary_types": [],
-      "declared_categories": [
-        "Mariven"
-      ],
-      "fallback_categories": [
-        "Mariven"
-      ],
-      "categories": [
-        "Mariven"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [
-        "#Elb #Mariven #Delegation "
-      ],
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Mariven/NPCs/Elaena Silberhand.md",
-      "title": "Elaena Silberhand",
-      "primary_types": [],
-      "declared_categories": [
-        "Mariven"
-      ],
-      "fallback_categories": [
-        "Mariven"
-      ],
-      "categories": [
-        "Mariven"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [
-        "#Elb #Mariven #Delegation "
-      ],
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Mariven/NPCs/Hoan Vel'Maril.md",
-      "title": "Hoan Vel'Maril",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Mariven"
-      ],
-      "categories": [
-        "Mariven"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [
-        "#Hoheprister #Ocyra #Mensch "
-      ],
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Mariven/NPCs/Kaiser Chroniken.md",
-      "title": "Kaiser Chroniken",
+      "timeline_label": "Brenna Wellenklinge",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2763,17 +3473,123 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Wellenklinge",
+        "Titel / Amt": "Marineoffizierin der Delegation von [[Mariven]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elb",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Delegationsschutz, Schiffsrouten, Kriegsmarine, Seegesetze",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#mariven #delegation #militaer #seefahrt"
+      },
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Elaena Silberhand.md",
+      "title": "Elaena Silberhand",
+      "timeline_label": "Elaena Silberhand",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Vize-Kommodore von [[Mariven]]",
+        "Haus / Dynastie": "Silberhand",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elb",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Handelsverhandlungen, Seehandel, maritime Routenplanung",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#mariven #delegation #handel #seefahrt"
+      },
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Hoan Vel'Maril.md",
+      "title": "Hoan Vel'Maril",
+      "timeline_label": "Hoan Vel'Maril",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Hohepriester von [[Ocyra]] auf [[Ael'Varin]]",
+        "Haus / Dynastie": "Vel'Maril",
+        "Regentschaft": "",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Ael'Varin]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Ael'Varin]], [[Mariven]]",
+        "Verknuepfte NPCs": "[[Ocyra]]",
+        "Bekannt fuer": "Traumdeutung, Mystik, spirituelle Isolation, Einfluss auf den Rat",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#mariven #religion #ocyra #mystiker"
+      },
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/NPCs/Kaiser Chroniken.md",
+      "title": "Kaiser Chroniken",
+      "timeline_label": "Kaiser Chroniken",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Aelaria Talzo.md",
       "title": "Aelaria Talzo",
+      "timeline_label": "Aelaria Talzo",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -2781,31 +3597,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2030 - 2158 n.d.D",
+      "timespan_raw": "2030 - 2158 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2030,
         "end": 2158,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 2030 - 2158 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Händlerin der Wahrheit",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Talzo",
+        "Regentschaft": "2030 - 2158 n.d.D.",
+        "Spezies / Volk": "Halbelfe",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "2030 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Aerinelle Vellora.md",
       "title": "Aerinelle Vellora",
+      "timeline_label": "Aerinelle Vellora",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -2813,31 +3639,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1121 - 1399 n.d.D",
+      "timespan_raw": "1121 - 1399 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1121,
         "end": 1399,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1121 - 1399 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Glashändlerin von Tyven",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Vellora",
+        "Regentschaft": "1121 - 1399 n.d.D.",
+        "Spezies / Volk": "Halbelfe",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1121 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Candamir Silberhand.md",
       "title": "Candamir Silberhand",
+      "timeline_label": "Candamir Silberhand",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -2845,31 +3681,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1399 - 1623 n.d.D",
+      "timespan_raw": "1399 - 1623 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1399,
         "end": 1623,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1399 - 1623 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Erbauer",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Silberhand",
+        "Regentschaft": "1399 - 1623 n.d.D.",
+        "Spezies / Volk": "Elf",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Cirellin]], [[Mariven]], [[Althovar]]",
+        "Verknuepfte NPCs": "[[Azure Rune]], [[Goldene Morgendämmerung]], [[Goldene Armada]], [[Zeitalter]], [[Drache von Cirrelin]], [[Elaena Silberhand]]",
+        "Bekannt fuer": "Gelernter Schiffsbauer und Krieger. Aus seiner Werkstatt stammen die [[Azure Rune]] und die [[Goldene Morgendämmerung]] die zwei schönsten Schiffe, die jemals i",
+        "Erste Erwaehnung": "1399 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Celetha Vintar II.md",
       "title": "Celetha Vintar II",
+      "timeline_label": "Celetha Vintar II",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -2877,31 +3723,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 983 - 1036 n.d.D",
+      "timespan_raw": "983 - 1036 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 983,
         "end": 1036,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 983 - 1036 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Erbin der Seefeste",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Vintar",
+        "Regentschaft": "983 - 1036 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "983 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Domerr Talzo.md",
       "title": "Domerr Talzo",
+      "timeline_label": "Domerr Talzo",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -2909,31 +3765,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 603 - 685 n.d.D",
+      "timespan_raw": "603 - 685 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 603,
         "end": 685,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 603 - 685 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Münzrichter",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Talzo",
+        "Regentschaft": "603 - 685 n.d.D.",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "603 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Elim Marthus.md",
       "title": "Elim Marthus",
+      "timeline_label": "Elim Marthus",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -2941,31 +3807,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2158 - 2245 n.d.D",
+      "timespan_raw": "2158 - 2245 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2158,
         "end": 2245,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 2158 - 2245 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Friedensfürst",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Marthus",
+        "Regentschaft": "2158 - 2245 n.d.D.",
+        "Spezies / Volk": "Halbelf",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "2158 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Faelyn Niros.md",
       "title": "Faelyn Niros",
+      "timeline_label": "Faelyn Niros",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -2973,31 +3849,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 750 - 912 n.d.D",
+      "timespan_raw": "750 - 912 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 750,
         "end": 912,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 750 - 912 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Seidenkaufmann",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Niros",
+        "Regentschaft": "750 - 912 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "750 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Halren Marris II.md",
       "title": "Halren Marris II",
+      "timeline_label": "Halren Marris II",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3005,31 +3891,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1886 - 1912 n.d.D",
+      "timespan_raw": "1886 - 1912 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1886,
         "end": 1912,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1886 - 1912 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Schattenhändler",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Marris",
+        "Regentschaft": "1886 - 1912 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Sein Tod bleibt bis heute ungeklärt.",
+        "Erste Erwaehnung": "1886 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Irion Cassalay II.md",
       "title": "Irion Cassalay II",
+      "timeline_label": "Irion Cassalay II",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3037,31 +3933,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2245 - 2456 n.d.D",
+      "timespan_raw": "2245 - 2456 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2245,
         "end": 2456,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 2245 - 2456 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Letzte Silberlord",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Cassalay",
+        "Regentschaft": "2245 - 2456 n.d.D.",
+        "Spezies / Volk": "Halbling",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "2245 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Lureano Vintar.md",
       "title": "Lureano Vintar",
+      "timeline_label": "Lureano Vintar",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3069,31 +3975,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 503 - 547 n.d.D",
+      "timespan_raw": "503 - 547 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 503,
         "end": 547,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 503 - 547 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Begründer des Kompassgesetzes",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Vintar",
+        "Regentschaft": "503 - 547 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Führte das System der städtischen Gildenlizenzen ein.",
+        "Erste Erwaehnung": "503 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Marcellus Daevorn.md",
       "title": "Marcellus Daevorn",
+      "timeline_label": "Marcellus Daevorn",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3101,31 +4017,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1623 - 1664 n.d.D",
+      "timespan_raw": "1623 - 1664 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1623,
         "end": 1664,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1623 - 1664 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Bündnisschmied",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Daevorn",
+        "Regentschaft": "1623 - 1664 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1623 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Orryn Talzo II.md",
       "title": "Orryn Talzo II",
+      "timeline_label": "Orryn Talzo II",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3133,31 +4059,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1912 - 1971 n.d.D",
+      "timespan_raw": "1912 - 1971 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1912,
         "end": 1971,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1912 - 1971 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Gildenmutter",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Talzo",
+        "Regentschaft": "1912 - 1971 n.d.D.",
+        "Spezies / Volk": "Halbling",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1912 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Perrik Grahm.md",
       "title": "Perrik Grahm",
+      "timeline_label": "Perrik Grahm",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3165,31 +4101,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 912 - 983 n.d.D",
+      "timespan_raw": "912 - 983 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 912,
         "end": 983,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 912 - 983 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Frachtmeister",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Grahm",
+        "Regentschaft": "912 - 983 n.d.D.",
+        "Spezies / Volk": "Gnom",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Baute das Logistiknetzwerk Marivens aus.",
+        "Erste Erwaehnung": "912 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Vanya Cerelin.md",
       "title": "Vanya Cerelin",
+      "timeline_label": "Vanya Cerelin",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3197,31 +4143,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1664 - 1886 n.d.D",
+      "timespan_raw": "1664 - 1886 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1664,
         "end": 1886,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1664 - 1886 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Saphirfürstin",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Cerelin",
+        "Regentschaft": "1664 - 1886 n.d.D.",
+        "Spezies / Volk": "Hochelfe",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1664 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Vennira Cassalay.md",
       "title": "Vennira Cassalay",
+      "timeline_label": "Vennira Cassalay",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3229,31 +4185,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 547 - 603 n.d.D",
+      "timespan_raw": "547 - 603 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 547,
         "end": 603,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 547 - 603 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Goldzunge von Iscari",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Cassalay",
+        "Regentschaft": "547 - 603 n.d.D.",
+        "Spezies / Volk": "Halbling",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Etablierte diplomatische Handelswege mit Elmrath.",
+        "Erste Erwaehnung": "547 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Yllian Marris.md",
       "title": "Yllian Marris",
+      "timeline_label": "Yllian Marris",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3261,31 +4227,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 685 - 750 n.d.D",
+      "timespan_raw": "685 - 750 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 685,
         "end": 750,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 685 - 750 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Flottenherr",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Marris",
+        "Regentschaft": "685 - 750 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "685 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Zallion Vintar III.md",
       "title": "Zallion Vintar III",
+      "timeline_label": "Zallion Vintar III",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3293,31 +4269,41 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1971 - 2030 n.d.D",
+      "timespan_raw": "1971 - 2030 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1971,
         "end": 2030,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1971 - 2030 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Arkanschmied",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Vintar",
+        "Regentschaft": "1971 - 2030 n.d.D.",
+        "Spezies / Volk": "Mensch",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1971 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Zordak Eisenbeiß.md",
       "title": "Zordak Eisenbeiß",
+      "timeline_label": "Zordak Eisenbeiß",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3325,25 +4311,37 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1036 - 1121 n.d.D",
+      "timespan_raw": "1036 - 1121 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1036,
         "end": 1121,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 1036 - 1121 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Sturmzollherr",
+        "Titel / Amt": "Kommodore des Fürstentums [[Mariven]]",
+        "Haus / Dynastie": "Eisenbeiß",
+        "Regentschaft": "1036 - 1121 n.d.D.",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1036 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Korren Seeasche.md",
       "title": "Korren Seeasche",
+      "timeline_label": "Korren Seeasche",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3355,20 +4353,34 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Hoheprister #Drachengeborener #Ocyra "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Seeasche",
+        "Titel / Amt": "Hohepriester des [[Ocyra]]-Tempels der [[Smaragdlagune]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Drachengeborener",
+        "Herkunft": "[[Havgrim]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Havgrim]], [[Smaragdlagune]], [[Mariven]]",
+        "Verknuepfte NPCs": "[[Ocyra]]",
+        "Bekannt fuer": "Sehergabe, Sturmrituale, religioese Deutung der Tiefe",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#mariven #religion #ocyra #priester"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Lyssander Valera.md",
       "title": "Lyssander Valera",
+      "timeline_label": "Lyssander Valera",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Mariven"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Mariven"
       ],
@@ -3376,25 +4388,37 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2456 - heute n.d.D",
+      "timespan_raw": "2456 - heute n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2456,
         "end": 2486,
         "is_open": true
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Mariven",
-        "",
-        "Zeitspanne: 2456 - heute n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Starke",
+        "Titel / Amt": "Fürst von [[Mariven]]",
+        "Haus / Dynastie": "Valera",
+        "Regentschaft": "2456 - heute n.d.D.",
+        "Spezies / Volk": "Elf",
+        "Herkunft": "[[Mariven]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Mariven]]",
+        "Verknuepfte NPCs": "[[Aldric von Elmrath]]",
+        "Bekannt fuer": "Lyssander Valera ist ein listiger Händlerfürst, der Reichtum über alles stellt. Er war einer der wichtigsten Unterstützer Kaiser [[Aldric von Elmrath]], doch se",
+        "Erste Erwaehnung": "2456 n.d.D.",
+        "Tags": "#herrscher #mariven #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Nyari Sturmlicht.md",
       "title": "Nyari Sturmlicht",
+      "timeline_label": "Nyari Sturmlicht",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3406,14 +4430,30 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Elf #Hoheprister #Ocyra "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Sturmlicht",
+        "Titel / Amt": "Hohepriesterin von [[Ocyra]] auf [[Cirellin]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elf",
+        "Herkunft": "[[Cirellin]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Cirellin]], [[Mariven]]",
+        "Verknuepfte NPCs": "[[Ocyra]]",
+        "Bekannt fuer": "Sturmrituale, religioese Autoritaet, Respekt unter Fischern und Furcht bei Piraten",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#mariven #religion #ocyra #priesterin"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Talvarin.md",
       "title": "Talvarin",
+      "timeline_label": "Talvarin",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3426,11 +4466,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/NPCs/Tirenne.md",
       "title": "Tirenne",
+      "timeline_label": "Tirenne",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3442,14 +4485,30 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Hoheprister #Elf #Ocyra "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Stille Flut",
+        "Titel / Amt": "Hohepriesterin von [[Ocyra]] in [[Verethia]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elf",
+        "Herkunft": "[[Korvalis]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Korvalis]], [[Verethia]], [[Mariven]]",
+        "Verknuepfte NPCs": "[[Ocyra]]",
+        "Bekannt fuer": "Weisheit, politische Klugheit, religioese Fuehrung",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#mariven #religion #ocyra #priesterin"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Mariven/Nebelsee.md",
       "title": "Nebelsee",
+      "timeline_label": "Nebelsee",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3462,11 +4521,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Codex Feramor.md",
       "title": "Codex Feramor",
+      "timeline_label": "Codex Feramor",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3479,11 +4541,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Durak-Zhul.md",
       "title": "Durak-Zhul",
+      "timeline_label": "Durak-Zhul",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3496,11 +4561,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Dûm-Khadrak.md",
       "title": "Dûm-Khadrak",
+      "timeline_label": "Dûm-Khadrak",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3513,11 +4581,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Eisenzinnen.md",
       "title": "Eisenzinnen",
+      "timeline_label": "Eisenzinnen",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3530,11 +4601,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Erytra Tempel.md",
       "title": "Erytra Tempel",
+      "timeline_label": "Erytra Tempel",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3547,11 +4621,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Geschichte/Die Erschütterung der Tiefe.md",
       "title": "Die Erschütterung der Tiefe",
+      "timeline_label": "Die Erschütterung der Tiefe",
       "primary_types": [
         "Ereignis"
       ],
@@ -3579,11 +4656,14 @@
         "Zeitspanne: 1698 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Geschichte/Krieg der Klüfte.md",
       "title": "Krieg der Klüfte",
+      "timeline_label": "Krieg der Klüfte",
       "primary_types": [
         "Krieg"
       ],
@@ -3611,11 +4691,14 @@
         "Zeitspanne: 2319 - 2410 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Helmbrach-Massiv.md",
       "title": "Helmbrach-Massiv",
+      "timeline_label": "Helmbrach-Massiv",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3628,11 +4711,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Kar'drathar.md",
       "title": "Kar'drathar",
+      "timeline_label": "Kar'drathar",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3645,15 +4731,16 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/NPCs/Balin Graubart.md",
       "title": "Balin Graubart",
+      "timeline_label": "Balin Graubart",
       "primary_types": [],
-      "declared_categories": [
-        "Schwarzklamm"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Schwarzklamm"
       ],
@@ -3663,14 +4750,30 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Zwerg #Schwarzklamm "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Leiter der Forschergilde von [[Schwarzklamm]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "alt",
+        "Verknuepfte Orte": "[[Schwarzklamm]]",
+        "Verknuepfte NPCs": "[[Runenschild]]",
+        "Bekannt fuer": "Erfindergeist, Forschergilde, Entwicklung der Runenschilde",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#schwarzklamm #gelehrter #erfinder #zwerg"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/NPCs/Bardum Eisenklang.md",
       "title": "Bardum Eisenklang",
+      "timeline_label": "Bardum Eisenklang",
       "primary_types": [
         "Ereignis"
       ],
@@ -3698,36 +4801,18 @@
         "Zeitspanne: 328 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/NPCs/Durim Felsenherz.md",
       "title": "Durim Felsenherz",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Schwarzklamm"
-      ],
-      "categories": [
-        "Schwarzklamm"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [
-        "#Zwerg #König"
-      ],
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Durngar Schwarzschild.md",
-      "title": "Durngar Schwarzschild",
+      "timeline_label": "Durim Felsenherz",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Schwarzklamm"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Schwarzklamm"
       ],
@@ -3735,29 +4820,81 @@
         "Schwarzklamm"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2410 - heute n.d.D",
+      "timespan_raw": "2058 - 2319 n.d.D.",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 2058,
+        "end": 2319,
+        "is_open": false
+      },
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Koenig und spaeter Fuerst von [[Schwarzklamm]]",
+        "Haus / Dynastie": "Felsenherz",
+        "Regentschaft": "2058 - 2319 n.d.D.",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "1980 n.d.D.",
+        "Sterbejahr": "2319 n.d.D.",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Schwarzklamm]], [[Ardanos]]",
+        "Verknuepfte NPCs": "[[Eid von Morgenfels]]",
+        "Bekannt fuer": "Fuehrung in der Zeitenwende, Schutzschwur fuer die Reiche, historische Einigungsfigur",
+        "Erste Erwaehnung": "2058 n.d.D.",
+        "Tags": "#schwarzklamm #adel #geschichte #zwerg"
+      },
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/NPCs/Durngar Schwarzschild.md",
+      "title": "Durngar Schwarzschild",
+      "timeline_label": "Durngar Schwarzschild",
+      "primary_types": [
+        "Herrscher"
+      ],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "2410 - heute n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2410,
         "end": 2486,
         "is_open": true
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Schwarzklamm",
-        "",
-        "Zeitspanne: 2410 - heute n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Fürst von [[Schwarzklamm]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "2410 - heute n.d.D.",
+        "Spezies / Volk": "",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "2224 n.d.D.",
+        "Sterbejahr": "",
+        "Alter": "265 Jahre",
+        "Verknuepfte Orte": "[[Schwarzklamm]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Clan Schwarzschild war schon immer einer der mächtigsten Clans Schwarzklamms, bekannt für seine unbezwingbaren Krieger und genialen Taktiker. Doch lange Zeit mu",
+        "Erste Erwaehnung": "2410 n.d.D.",
+        "Tags": "#herrscher #schwarzklamm #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/NPCs/Grimli Aschenbart.md",
       "title": "Grimli Aschenbart",
+      "timeline_label": "Grimli Aschenbart",
       "primary_types": [],
-      "declared_categories": [
-        "Schwarzklamm"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Schwarzklamm"
       ],
@@ -3767,18 +4904,32 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Zwerg #Schwarzklamm #Delegation "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Diplomatischer Berater und Botschafter von [[Schwarzklamm]]",
+        "Haus / Dynastie": "Aschenbart",
+        "Regentschaft": "",
+        "Spezies / Volk": "Zwerg",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Schwarzklamm]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Diplomatie, Vermittlung, politische Verhandlungen",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#schwarzklamm #delegation #diplomatie #zwerg"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/NPCs/Zyrax Draxar.md",
       "title": "Zyrax Draxar",
+      "timeline_label": "Zyrax Draxar",
       "primary_types": [],
-      "declared_categories": [
-        "Schwarzklamm"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Schwarzklamm"
       ],
@@ -3788,14 +4939,30 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Schwarzklamm #Tiefling #Delegation "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Russklinge",
+        "Titel / Amt": "Wirtschaftsberater fuer Bergbau und Handel in [[Schwarzklamm]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Tiefling",
+        "Herkunft": "[[Schwarzklamm]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Schwarzklamm]], [[Luminara]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Bergbau, Handel, harte Verhandlungen, Ressourcenpolitik",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#schwarzklamm #delegation #handel #beratung"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Nordfels-Krone.md",
       "title": "Nordfels-Krone",
+      "timeline_label": "Nordfels-Krone",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3808,11 +4975,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Schwarze Klamm.md",
       "title": "Schwarze Klamm",
+      "timeline_label": "Schwarze Klamm",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3825,11 +4995,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Schwarzklamm.md",
       "title": "Schwarzklamm",
+      "timeline_label": "Schwarzklamm",
       "primary_types": [
         "Gruendung"
       ],
@@ -3857,11 +5030,14 @@
         "Zeitspanne: 328 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Tiefe Hallen.md",
       "title": "Tiefe Hallen",
+      "timeline_label": "Tiefe Hallen",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3874,11 +5050,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Schwarzklamm/Ur-Gralnir.md",
       "title": "Ur-Gralnir",
+      "timeline_label": "Ur-Gralnir",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3891,11 +5070,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/Bibliothek des Verborgenen Lichts.md",
       "title": "Bibliothek des Verborgenen Lichts",
+      "timeline_label": "Bibliothek des Verborgenen Lichts",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3908,11 +5090,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/Chroniken von Vaylen.md",
       "title": "Chroniken von Vaylen",
+      "timeline_label": "Chroniken von Vaylen",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3925,15 +5110,16 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Nymira Lichthauch.md",
       "title": "Nymira Lichthauch",
+      "timeline_label": "Nymira Lichthauch",
       "primary_types": [],
-      "declared_categories": [
-        "Vaylen"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Vaylen"
       ],
@@ -3943,20 +5129,34 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Elb #Vaylen #Delegation "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Lichthauch",
+        "Titel / Amt": "Hohepriesterin der arkanen Kuenste in [[Erythra]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elb",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]], [[Erythra]]",
+        "Verknuepfte NPCs": "[[Selene Drachenruf]]",
+        "Bekannt fuer": "Zauberkunst, religioese Autoritaet, magische Beratung",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#vaylen #delegation #religion #magie"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Saelarion Drachenruf.md",
       "title": "Saelarion Drachenruf",
+      "timeline_label": "Saelarion Drachenruf",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Vaylen"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Vaylen"
       ],
@@ -3964,31 +5164,41 @@
         "Vaylen"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1219 - 1542 n.d.D",
+      "timespan_raw": "1219 - 1542 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1219,
         "end": 1542,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Vaylen",
-        "",
-        "Zeitspanne: 1219 - 1542 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Der Runensänger",
+        "Titel / Amt": "Fürst von [[Vaylen]]",
+        "Haus / Dynastie": "Drachenruf",
+        "Regentschaft": "1219 - 1542 n.d.D.",
+        "Spezies / Volk": "Drachengeboren",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1219 n.d.D.",
+        "Tags": "#herrscher #vaylen #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Selene Drachenruf.md",
       "title": "Selene Drachenruf",
+      "timeline_label": "Selene Drachenruf",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Vaylen"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Vaylen"
       ],
@@ -3996,31 +5206,41 @@
         "Vaylen"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 2153 - heute n.d.D",
+      "timespan_raw": "2153 - heute n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 2153,
         "end": 2486,
         "is_open": true
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Vaylen",
-        "",
-        "Zeitspanne: 2153 - heute n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Flamme der Vorhersehung",
+        "Titel / Amt": "Fürstin von [[Vaylen]]",
+        "Haus / Dynastie": "Drachenruf",
+        "Regentschaft": "2153 - heute n.d.D.",
+        "Spezies / Volk": "Drachengeboren",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]]",
+        "Verknuepfte NPCs": "[[sl Selene Drachenruf]]",
+        "Bekannt fuer": "Fürstin Selene ist eine der mächtigsten Erzmagierinnen der bekannten Welt. Sie regiert [[Vaylen]] mit fester Hand und duldet keine Schwäche. Sie hält das Fürste",
+        "Erste Erwaehnung": "2153 n.d.D.",
+        "Tags": "#herrscher #vaylen #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Seralyss Drachenruf.md",
       "title": "Seralyss Drachenruf",
+      "timeline_label": "Seralyss Drachenruf",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Vaylen"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Vaylen"
       ],
@@ -4028,31 +5248,41 @@
         "Vaylen"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 441 - 1219 n.d.D",
+      "timespan_raw": "441 - 1219 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 441,
         "end": 1219,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Vaylen",
-        "",
-        "Zeitspanne: 441 - 1219 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Die Erweckerin der Pfade",
+        "Titel / Amt": "Fürstin von [[Vaylen]]",
+        "Haus / Dynastie": "Drachenruf",
+        "Regentschaft": "441 - 1219 n.d.D.",
+        "Spezies / Volk": "Drachengeborene",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "Begründerin des Fürstentums [[Vaylen]] und der Konvergenz arkaner Künste. Erzmagierin der Vorhersehung.",
+        "Erste Erwaehnung": "441 n.d.D.",
+        "Tags": "#herrscher #vaylen #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Solarys Drachenruf.md",
       "title": "Solarys Drachenruf",
+      "timeline_label": "Solarys Drachenruf",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Vaylen"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Vaylen"
       ],
@@ -4060,31 +5290,41 @@
         "Vaylen"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1542 - 1872 n.d.D",
+      "timespan_raw": "1542 - 1872 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1542,
         "end": 1872,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Vaylen",
-        "",
-        "Zeitspanne: 1542 - 1872 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Sonne des Reiches",
+        "Titel / Amt": "Fürst von [[Vaylen]]",
+        "Haus / Dynastie": "Drachenruf",
+        "Regentschaft": "1542 - 1872 n.d.D.",
+        "Spezies / Volk": "Drachengeboren",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1542 n.d.D.",
+        "Tags": "#herrscher #vaylen #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Syrell Drachenruf.md",
       "title": "Syrell Drachenruf",
+      "timeline_label": "Syrell Drachenruf",
       "primary_types": [
         "Herrscher"
       ],
-      "declared_categories": [
-        "Vaylen"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Vaylen"
       ],
@@ -4092,25 +5332,37 @@
         "Vaylen"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1872 - 2153 n.d.D",
+      "timespan_raw": "1872 - 2153 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1872,
         "end": 2153,
         "is_open": false
       },
-      "metadata_lines": [
-        "#Herrscher",
-        "#Vaylen",
-        "",
-        "Zeitspanne: 1872 - 2153 n.d.D",
-        ""
-      ],
+      "metadata_lines": [],
+      "metadata_source": "fields",
+      "structured_fields": {
+        "Rufname / Beiname": "Bann der Dunkelheit",
+        "Titel / Amt": "Fürst von [[Vaylen]]",
+        "Haus / Dynastie": "Drachenruf",
+        "Regentschaft": "1872 - 2153 n.d.D.",
+        "Spezies / Volk": "Drachengeboren",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]]",
+        "Verknuepfte NPCs": "",
+        "Bekannt fuer": "",
+        "Erste Erwaehnung": "1872 n.d.D.",
+        "Tags": "#herrscher #vaylen #adel"
+      },
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Tharion Veyl.md",
       "title": "Tharion Veyl",
+      "timeline_label": "Tharion Veyl",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -4122,18 +5374,32 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Erzmagier #Gnome "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "",
+        "Titel / Amt": "Erzmagier und Gruender des [[Orden der Klarheit]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Gnom",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "ca. 1140 n.d.D.",
+        "Sterbejahr": "ca. 1280 n.d.D.",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]]",
+        "Verknuepfte NPCs": "[[Orden der Klarheit]]",
+        "Bekannt fuer": "Wahrheitsmagie, Ordensgruendung, Kampf gegen illusionaere Manipulation",
+        "Erste Erwaehnung": "spaetes erstes Zeitalter",
+        "Tags": "#vaylen #magie #gelehrter #orden-der-klarheit"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/NPCs/Varian Schattentaenzer.md",
       "title": "Varian Schattentaenzer",
+      "timeline_label": "Varian Schattentaenzer",
       "primary_types": [],
-      "declared_categories": [
-        "Vaylen"
-      ],
+      "declared_categories": [],
       "fallback_categories": [
         "Vaylen"
       ],
@@ -4143,14 +5409,30 @@
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,
-      "metadata_lines": [
-        "#Elb #Vaylen #Delegation "
-      ],
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {
+        "Rufname / Beiname": "Schattentaenzer",
+        "Titel / Amt": "Spion und Informationshaendler fuer [[Vaylen]]",
+        "Haus / Dynastie": "",
+        "Regentschaft": "",
+        "Spezies / Volk": "Elb",
+        "Herkunft": "[[Vaylen]]",
+        "Geburtsjahr": "",
+        "Sterbejahr": "",
+        "Alter": "",
+        "Verknuepfte Orte": "[[Vaylen]], [[Tiefe Hallen]], [[Goldene Rune]]",
+        "Verknuepfte NPCs": "[[Selene Drachenruf]], [[Glutherz Doppelzunge]], [[Marktgraf Reodemus]], [[Drakmora]], [[Schwarzklamm]]",
+        "Bekannt fuer": "Spionage, Informationshandel, verdeckte Missionen, politische Intrigen",
+        "Erste Erwaehnung": "unbekannt",
+        "Tags": "#vaylen #delegation #spionage #intrige"
+      },
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/Schwebenden Inseln von Arcanis.md",
       "title": "Schwebenden Inseln von Arcanis",
+      "timeline_label": "Schwebenden Inseln von Arcanis",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -4163,11 +5445,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/Stille Akademie.md",
       "title": "Stille Akademie",
+      "timeline_label": "Stille Akademie",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -4180,11 +5465,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Vaylen/Vaylen.md",
       "title": "Vaylen",
+      "timeline_label": "Vaylen",
       "primary_types": [
         "Gruendung"
       ],
@@ -4212,11 +5500,14 @@
         "Zeitspanne: 441 n.d.D",
         ""
       ],
+      "metadata_source": "header",
+      "structured_fields": {},
       "is_relevant": true
     },
     {
       "path": "World/Kaiserreich/Vaylen/Velithor.md",
       "title": "Velithor",
+      "timeline_label": "Velithor",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -4229,11 +5520,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Glut.md",
       "title": "Zeit der Glut",
+      "timeline_label": "Zeit der Glut",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -4242,11 +5536,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Schatten.md",
       "title": "Zeit der Schatten",
+      "timeline_label": "Zeit der Schatten",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -4255,11 +5552,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Winde.md",
       "title": "Zeit der Winde",
+      "timeline_label": "Zeit der Winde",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -4268,11 +5568,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit des Lichts.md",
       "title": "Zeit des Lichts",
+      "timeline_label": "Zeit des Lichts",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -4281,11 +5584,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Zeit des Steins.md",
       "title": "Zeit des Steins",
+      "timeline_label": "Zeit des Steins",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -4294,11 +5600,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Zeitmessung/Jahreszeiten/Überblick.md",
       "title": "Überblick",
+      "timeline_label": "Überblick",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -4307,11 +5616,14 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Zeitmessung/Wochentage.md",
       "title": "Wochentage",
+      "timeline_label": "Wochentage",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -4320,6 +5632,8 @@
       "timespan_raw": null,
       "parsed_timespan": null,
       "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
       "is_relevant": false
     }
   ]

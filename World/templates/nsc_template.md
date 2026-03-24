@@ -1,125 +1,49 @@
-# Monstername
-
-<!-- Pflichtfelder im Kopf immer ausfüllen. -->
-<!-- Leere optionale Kampfsektionen bitte löschen statt leer stehen lassen. -->
-
-- **Grundlage:** #Homebrew
-- **Stufe/Herausfordungsgrad:**
-- **Volk:**
-- **Herkunft:**
-- **Klasse:**
-- **Alias:**
-- **Alter:**
-- **Gesinnung:**
-- **Sprachen:**
-- **Merkmale:**
-
-<!-- Optional: nur ergänzen, wenn die automatische Ableitung nicht reicht. -->
 <!--
-## Katalog-Metadaten
-
-- **Katalog-Key:**
-- **Strategie-Override:**
-- **Tags-Override:**
-- **Threat-Override:**
-- **Action-Override:**
-- **Volatilität-Override:**
-- **Legendäre Aktionen-Override:**
-- **Legendäre Resistenzen-Override:**
-- **Phasenwechsel-Override:**
-- **Beschwörung-Override:**
-- **Katalog-Hinweis:**
+Ein-Datei-Profil fuer NPCs.
+Oeffentliche und nicht oeffentliche Informationen duerfen in derselben Datei stehen.
+Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
 -->
 
----
+- **Rufname / Beiname:**
+- **Titel / Amt:**
+- **Haus / Dynastie:**
+- **Regentschaft**
+- **Spezies / Volk:** Mensch
+- **Herkunft:** Herkunftsort oder Reich
+- **Geburtsjahr:** 0000 n.d.D.
+- **Sterbejahr:**
+- **Alter:**
 
-## Eigenschaften
+- **Verknuepfte Orte:** [[Ort A]], [[Ort B]]
+- **Verknuepfte NPCs:** [[Anderer NPC]], [[Weitere Figur]]
+- **Bekannt fuer:** Diplomatie, Kriegskunst, Fruemmigkeit oder Verwaltung
+- **Erste Erwaehnung:** unbekannt
+- **Tags:** #schlagwort #region #rolle
 
-- **Rüstungsklasse (RK)/Rüstung:**
-- **Waffen:**
-- **Initiative:**
-- **Bewegung:**
-- **Trefferpunkte:**
-- **Trefferwürfel:**
-- **Passive Wahrnehmung:**
-- **Fertigkeiten:**
+## Beschreibung und Auftreten
 
-| Wert | Str | Ges | Kon | Int | Wei | Cha |
-| ---- | --- | --- | --- | --- | --- | --- |
-| Attribut | - | - | - | - | - | - |
-| Rettung | - | - | - | - | - | - |
+Ein bis drei Saetze, die den NPC knapp zusammenfassen.
+Wer ist die Figur, wofuer ist sie bekannt und warum ist sie relevant?
+Oeffentlich wahrnehmbare Charakterzuege, Temperament, Werte und typische Wirkung auf andere.
 
-- **Immunitäten:**
-- **Resistenzen:**
-- **Schwächen:**
+## Rolle und Beziehungen
 
----
+Welche Funktion erfuellt die Figur in Region, Politik, Gesellschaft, Religion oder Alltag?
+- Gruppierung oder Person: Art der Beziehung
+- Gruppierung oder Person: Art der Beziehung
 
-## Aktionen
+<!--
+Nicht oeffentliche Angaben zum NPC.
+Diese Abschnitte koennen vom Crawler ignoriert werden, solange er nur die expliziten Felder und oeffentlichen Bereiche ausliest.
+-->
 
-### Standard
+## Ziele
 
-- **Mehrfachangriff:**
+## Plot-Hooks
 
-### Spezialfähigkeiten
+## Geheime Informationen
 
-- **Beispielname:**
-  - Effektbeschreibung
+## Kampfwerte
 
-<!-- Optional: nur behalten, wenn vorhanden. -->
-### Bonusaktionen
-
-- **Beispielname:**
-  - Effektbeschreibung
-
-<!-- Optional: nur behalten, wenn vorhanden. -->
-### Reaktionen
-
-- **Beispielname:**
-  - Effektbeschreibung
-
-<!-- Optional: nur behalten, wenn vorhanden. -->
-<!-- Zauber bitte möglichst als Liste aufführen. -->
-### Zauber
-
-**Zauberplätze:**
-
-**Zaubertricks:**
-
-- [[Zaubername]]
-
-**Vorbereitete Zauber:**
-
-- [[Zaubername]]
-
-<!-- Optional: nur behalten, wenn vorhanden. -->
-### Legendenaktionen
-
-- **Beispielname:**
-  - Effektbeschreibung
-
----
-
-## Taktik
-
-- Eröffnet den Kampf mit ...
-- Hält Distanz oder sucht Nahkampf, wenn ...
-- Nutzt Kontrolle, Burst, Mobilität oder Beschwörung, um ...
-
----
-
-## Ausrüstung
-
--
-
----
-
-## Hintergrund
-
--
-
----
-
-## Zitate
-
--
+- **Bestiarium-Profil:** [[Monstername]]
+- **Hinweis:** Das verlinkte Profil sollte auf dem Monster-Template im Bestiarium basieren.

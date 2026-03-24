@@ -1,9 +1,45 @@
-#Herrscher
-#Mariven
+<!--
+Ein-Datei-Profil fuer NPCs.
+Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
+Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
+-->
 
-Zeitspanne: 750 - 912 n.d.D
+- **Rufname / Beiname:** Der Seidenkaufmann
+- **Titel / Amt:** Kommodore des Fürstentums [[Mariven]]
+- **Haus / Dynastie:** Niros
+- **Regentschaft:** 750 - 912 n.d.D.
+- **Spezies / Volk:** Hochelfe
+- **Herkunft:** [[Mariven]]
+- **Geburtsjahr:** 
+- **Sterbejahr:** 
+- **Alter:** 
 
-- **Regentschaft:** 750–912 n.d.D.    
-- **Haus:** Niros
-- **Rasse:** Hochelfe
-- **Titel:** _Der Seidenkaufmann_
+- **Verknuepfte Orte:** [[Mariven]]
+- **Verknuepfte NPCs:** 
+- **Bekannt fuer:** 
+- **Erste Erwaehnung:** 750 n.d.D.
+- **Tags:** #herrscher #mariven #adel
+
+## Beschreibung und Auftreten
+
+-
+
+## Rolle und Beziehungen
+
+-
+
+## Ziele
+
+-
+
+## Plot-Hooks
+
+-
+
+## Geheime Informationen
+
+-
+
+## Kampfwerte
+
+-

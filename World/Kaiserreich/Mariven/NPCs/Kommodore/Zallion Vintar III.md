@@ -1,9 +1,45 @@
-#Herrscher
-#Mariven
+<!--
+Ein-Datei-Profil fuer NPCs.
+Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
+Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
+-->
 
-Zeitspanne: 1971 - 2030 n.d.D
+- **Rufname / Beiname:** Der Arkanschmied
+- **Titel / Amt:** Kommodore des Fürstentums [[Mariven]]
+- **Haus / Dynastie:** Vintar
+- **Regentschaft:** 1971 - 2030 n.d.D.
+- **Spezies / Volk:** Mensch
+- **Herkunft:** [[Mariven]]
+- **Geburtsjahr:** 
+- **Sterbejahr:** 
+- **Alter:** 
 
-- **Regentschaft:** 1971–2030 n.d.D.
-- **Haus:** Vintar
-- **Rasse:** Mensch
-- **Titel:** _Der Arkanschmied_
+- **Verknuepfte Orte:** [[Mariven]]
+- **Verknuepfte NPCs:** 
+- **Bekannt fuer:** 
+- **Erste Erwaehnung:** 1971 n.d.D.
+- **Tags:** #herrscher #mariven #adel
+
+## Beschreibung und Auftreten
+
+-
+
+## Rolle und Beziehungen
+
+-
+
+## Ziele
+
+-
+
+## Plot-Hooks
+
+-
+
+## Geheime Informationen
+
+-
+
+## Kampfwerte
+
+-

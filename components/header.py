@@ -6,6 +6,7 @@ from components.show_file import show_image
 from components.dashboard import render_dashboard
 from components.database_view import show_database
 from components.encounter_calculator import encounter_calculator_view
+from components.npc_creator import npc_creator_view, NPC_CREATOR_FEATURE_NAME
 from config import cfg
 
 
@@ -37,7 +38,10 @@ def header():
         if any([db in st.session_state["db"] for db in cfg.DATABASE_LIST]):
             show_database(f"{st.session_state['root_path']}/{st.session_state['db']}")
         elif any([db in st.session_state["db"] for db in cfg.SPECIAL_FEATURE]):
-            encounter_calculator_view()
+            if st.session_state["db"] == NPC_CREATOR_FEATURE_NAME:
+                npc_creator_view()
+            else:
+                encounter_calculator_view()
 
     else:
         name = st.session_state["current_path"].split("/")[-1].replace(".md", "")

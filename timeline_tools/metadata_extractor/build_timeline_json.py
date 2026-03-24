@@ -249,6 +249,10 @@ def load_payload() -> dict[str, Any]:
     return payload
 
 
+def item_label(item: dict[str, Any]) -> str:
+    return item.get("timeline_label") or item["title"]
+
+
 def buildable_items(payload: dict[str, Any]) -> list[dict[str, Any]]:
     items: list[dict[str, Any]] = []
     for item in payload["items"]:
@@ -324,7 +328,7 @@ def realm_ruler_item(item: dict[str, Any]) -> dict[str, Any] | None:
     return {
         "column": column,
         "lane": 0,
-        "label": item["title"],
+        "label": item_label(item),
         "start": item["parsed_timespan"]["start"],
         "end": item["parsed_timespan"]["end"],
         "kind": "range",
@@ -342,7 +346,7 @@ def realm_local_event_items(item: dict[str, Any]) -> list[dict[str, Any]]:
             {
                 "column": column,
                 "lane": 1,
-                "label": item["title"],
+                "label": item_label(item),
                 "start": parsed_timespan["start"],
                 "end": parsed_timespan["end"],
                 "kind": parsed_timespan["kind"],
@@ -385,7 +389,7 @@ def build_local_event_item(
     return {
         "column": column,
         "lane": 0,
-        "label": item["title"],
+        "label": item_label(item),
         "start": parsed_timespan["start"],
         "end": parsed_timespan["end"],
         "kind": parsed_timespan["kind"],
@@ -423,7 +427,7 @@ def build_principality_items(
                 {
                     "column": profile["ruler_column"],
                     "lane": 0,
-                    "label": item["title"],
+                    "label": item_label(item),
                     "start": item["parsed_timespan"]["start"],
                     "end": item["parsed_timespan"]["end"],
                     "kind": "range",

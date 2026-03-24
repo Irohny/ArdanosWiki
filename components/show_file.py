@@ -2,6 +2,43 @@ import streamlit as st
 import re
 from config import cfg
 from components import utils
+from components.login import Roles
+
+
+PRIVATE_SECTION_HEADINGS = {
+    "## Ziele",
+    "## Plot-Hooks",
+    "## Geheime Informationen",
+    "## Kampfwerte",
+}
+
+
+def _strip_template_comments(content: str) -> str:
+    return re.sub(r"<!--.*?-->", "", content, flags=re.DOTALL)
+
+
+def _is_game_master() -> bool:
+    user = st.session_state.get("user")
+    return bool(user and user.role.value == Roles.GameMaster.value)
+
+
+def _filter_content_by_role(content: str) -> str:
+    content = _strip_template_comments(content)
+    if _is_game_master():
+        return content
+
+    filtered_lines = []
+    in_private_section = False
+
+    for line in content.splitlines():
+        stripped_line = line.strip()
+        if stripped_line.startswith("## "):
+            in_private_section = stripped_line in PRIVATE_SECTION_HEADINGS
+        if in_private_section:
+            continue
+        filtered_lines.append(line)
+
+    return "\n".join(filtered_lines)
 
 
 def __process_tags(text: str) -> str:
@@ -41,7 +78,7 @@ def show_file(file_path: str, columns=None):
     """Zeigt eine Markdown-Datei in Streamlit an, mit Bildern, Links und Tags."""
     try:
         with open(file_path, "r", encoding="utf-8") as f:
-            content = f.read()
+            content = _filter_content_by_role(f.read())
 
         # ------------------------------
         # 1. Dokument an Bildern splitten: ![[image.png]]

@@ -28,8 +28,8 @@ def validate_item(item: dict[str, Any]) -> list[str]:
     if len(primary_types) != 1:
         errors.append("Genau ein Primaertyp-Tag erforderlich.")
 
-    if item["timespan_line_count"] != 1:
-        errors.append("Genau eine Zeitspanne:-Zeile erforderlich.")
+    if item["timespan_line_count"] < 1:
+        errors.append("Mindestens eine gueltige Zeitspanne-Quelle ist erforderlich.")
     elif parsed_timespan is None:
         errors.append("Zeitspanne hat kein gueltiges Standardformat.")
 

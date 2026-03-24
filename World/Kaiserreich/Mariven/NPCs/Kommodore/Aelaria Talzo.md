@@ -1,9 +1,45 @@
-#Herrscher
-#Mariven
+<!--
+Ein-Datei-Profil fuer NPCs.
+Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
+Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
+-->
 
-Zeitspanne: 2030 - 2158 n.d.D
+- **Rufname / Beiname:** Die Händlerin der Wahrheit
+- **Titel / Amt:** Kommodore des Fürstentums [[Mariven]]
+- **Haus / Dynastie:** Talzo
+- **Regentschaft:** 2030 - 2158 n.d.D.
+- **Spezies / Volk:** Halbelfe
+- **Herkunft:** [[Mariven]]
+- **Geburtsjahr:** 
+- **Sterbejahr:** 
+- **Alter:** 
 
-- **Regentschaft:** 2030– 2158 n.d.D.
-- **Haus:** Talzo
-- **Rasse:** Halbelfe
-- **Titel:** _Die Händlerin der Wahrheit_
+- **Verknuepfte Orte:** [[Mariven]]
+- **Verknuepfte NPCs:** 
+- **Bekannt fuer:** 
+- **Erste Erwaehnung:** 2030 n.d.D.
+- **Tags:** #herrscher #mariven #adel
+
+## Beschreibung und Auftreten
+
+-
+
+## Rolle und Beziehungen
+
+-
+
+## Ziele
+
+-
+
+## Plot-Hooks
+
+-
+
+## Geheime Informationen
+
+-
+
+## Kampfwerte
+
+-

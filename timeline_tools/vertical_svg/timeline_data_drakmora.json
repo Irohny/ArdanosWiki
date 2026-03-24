@@ -120,6 +120,14 @@
     {
       "column": "drakmora_rulers",
       "lane": 0,
+      "label": "Dunmorr der Stählerne",
+      "start": 790,
+      "end": 853,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora_rulers",
+      "lane": 0,
       "label": "Harnak Blutgeboren",
       "start": 853,
       "end": 910,

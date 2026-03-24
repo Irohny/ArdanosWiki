@@ -104,9 +104,33 @@
     {
       "column": "elmrath_rulers",
       "lane": 0,
+      "label": "Thaevan Silberhain",
+      "start": 1014,
+      "end": 1159,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
       "label": "Elenion Silberhain",
       "start": 1041,
       "end": 1455,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Elirae Nyssien",
+      "start": 1159,
+      "end": 1433,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath_rulers",
+      "lane": 0,
+      "label": "Aenyris Silberhain",
+      "start": 1456,
+      "end": 1014,
       "kind": "range"
     },
     {

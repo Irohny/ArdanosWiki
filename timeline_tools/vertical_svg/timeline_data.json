@@ -263,9 +263,33 @@
     {
       "column": "elmrath",
       "lane": 0,
+      "label": "Thaevan Silberhain",
+      "start": 1014,
+      "end": 1159,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
       "label": "Elenion Silberhain",
       "start": 1041,
       "end": 1455,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Elirae Nyssien",
+      "start": 1159,
+      "end": 1433,
+      "kind": "range"
+    },
+    {
+      "column": "elmrath",
+      "lane": 0,
+      "label": "Aenyris Silberhain",
+      "start": 1456,
+      "end": 1014,
       "kind": "range"
     },
     {
@@ -380,6 +404,14 @@
       "label": "Uldak Schmetterschlag",
       "start": 721,
       "end": 790,
+      "kind": "range"
+    },
+    {
+      "column": "drakmora",
+      "lane": 0,
+      "label": "Dunmorr der Stählerne",
+      "start": 790,
+      "end": 853,
       "kind": "range"
     },
     {
@@ -713,6 +745,14 @@
       "start": 328,
       "end": 328,
       "kind": "foundation"
+    },
+    {
+      "column": "schwarzklamm",
+      "lane": 0,
+      "label": "Durim Felsenherz",
+      "start": 2058,
+      "end": 2319,
+      "kind": "range"
     },
     {
       "column": "schwarzklamm",
