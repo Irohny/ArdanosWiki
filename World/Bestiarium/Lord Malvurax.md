@@ -1,3 +1,5 @@
+# Lord Malvurax
+
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:** 7
 - **Volk:** #Unhold 
@@ -11,7 +13,7 @@
 - **Ideale:**  Höfflich, Spricht leise fast flüternd
 - **Bindungen:**  Vermittler zwischen [[Ephazul]] und dem [[Zeitdieb]]
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 19 
 - **Waffen:**
 - **Initiative:**  +3
@@ -35,17 +37,18 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 **Mehrfachangriff:** Nahkampfangriffe oder 1 Fernkampf/Zauber 
 -  **Höllenspeer (Magische Waffe):** 
 	- Nahkampfangriff: +7 zum Treffen, Reichweite 5 ft., ein Ziel.  
 	**Treffer:** 2W6 + 4 Stichschaden + 1W6 Feuerschaden.
 
-- **Flammenstoß (Fernkampfzauber +7)** 
+- **Flammenstoß (Fernkampfzauber +7):** 
 	- Eine Flammenwelle breitet sich in einem 36m-Kegel aus. **Schaden:** 3W6 Feuerschaden 
 
-### **Spezialfähigkeiten:**
+### Spezialfähigkeiten
 - **Zeitverzögernde Aura (1/Tag):** 
 	- 3m-Radius. Gegner im Wirkungsbereich müssen zu Beginn ihres Zuges einen **Konstitutionsrettungswurf (SG 15)** machen. Bei Misslingen: nur **eine Aktion oder Bewegung** möglich, nicht beides, bis zum Beginn von Malvurax' nächstem Zug.
 
@@ -55,17 +58,18 @@
 - **Teuflischer Charm:** 
 	- 9m Reichweite, Wes Rettungswurf SG 14, bei Fehlschlag muss das Ziel dem Befehl gehorchen, Wenn Ziel Schaden erleidet, neuer Rettungswurf. Wenn der Rettungswurf erfolgreich ist, endet der Zauber und der Spieler ist Immun für 24h.
 
-### **Zauber:**
+### Zauber
 Charisma-basierend (SG 15, +7 Angriff).  
 
 **Zauber 3/Tag je:**
 - [[Höllischer Tadel]], [[Feuerball]], 
 
 **1/Tage**
--  [[Dimensionstür]]
+	- [[Dimensionstür]]
 
 ## Taktik
-Beginnt Kämpfe mit **Feuerball** und **Zeitverzögernder Aura**.
+
+- Beginnt Kämpfe mit **Feuerball** und **Zeitverzögernder Aura**.
 - Setzt [[Einflüsterung]] oder _Höllenblick_ ein, um Einzelziele zu kontrollieren.
 - Nutzt **Flug**, um schwer erreichbare Ziele zu bedrohen.
 - Rückzug mit **[[Dimensionstür]]**, falls unter 25 % TP.

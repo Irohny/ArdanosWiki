@@ -1,4 +1,6 @@
 ![[SerValkor.jpeg|200]]
+# Ser Vakor
+
 - **Grundlage:** #Homebrew 
 - **Stufe/Herausfordungsgrad:** 10
 - **Volk:** #Tiefling 
@@ -12,7 +14,7 @@
 - **Ideale:**  
 - **Bindungen:**  
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 18 Verdammnisrüstung 
 - **Waffen:** __Schwert -Wehklage der Gefallenden-__ 
 - **Initiative:** +2
@@ -35,8 +37,9 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - **Verdammnisklinge (Magisches Großschwert): Multiattacke 2x** 
 	- +9 Angriff, 2W6+5 Hiebschaden + 2W8 nekrotischer Schaden
     - _Effekt:_ Bei einem Kritischen Treffer flüstert die Waffe in Infernal → Ziel muss einen **Weisheitsrettungswurf (SG 15)** bestehen oder 1 Minute unter **Furcht** leiden
@@ -47,17 +50,15 @@
 - **Aura der Verdammnis:** 
 	- Gegner in 3 m Umkreis haben **-1 auf Rettungswürfe** gegen Furcht und Nekromantiezauber
 
-### **Spezialfähigkeiten:**
+### Spezialfähigkeiten
 - **Unheilige Aura (Passiv):** 
 	- Seine Rüstung flüstert leise auf Infernal, wenn Blut vergossen wird → verleiht ihm Vorteil auf Einschüchternproben
 - **Zorn der Hölle (1/Tag):** 
 	- Wenn Varkor auf 0 HP fällt, explodiert seine Aura in einem 6 m Radius → 4W10 nekrotischer Schaden (SG 15 Konstitution, halber Schaden)
 
-### **Zauber:**
+---
+## Taktik
 
-### **Legendenaktionen:**
-
-## Taktik:
 - Greift zuerst jene an, die Chaos oder Hoffnung symbolisieren
 - Rücksichtslos effizient, nutzt Furcht als Waffe
 - Spricht selten – lässt seine Rüstung flüstern

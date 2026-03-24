@@ -1,4 +1,6 @@
 ![[ZeraFluesterin.jpeg|200]]
+# Zerra die Flüsterin
+
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:** 6
 - **Volk:** #Elf 
@@ -12,7 +14,7 @@
 - **Ideale:**  
 - **Bindungen:**  
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 16 Lederrüstung/Schattenaura 
 - **Waffen:**
 - **Initiative:** +3
@@ -31,10 +33,11 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
 
-### **Spezialfähigkeiten:**
+### Standard
+
+### Spezialfähigkeiten
 - **Flüstern im Geist:** 
 	- Statt zu sprechen, überträgt Zerra Worte direkt ins Bewusstsein (30 ft, kein Sichtkontakt nötig). Ziel muss einen **WE-Rettungswurf (SG 15)** bestehen oder erleidet **2W6 psychischen Schaden** und hat **Nachteil auf Einsicht** gegen Zerra für 1 Minute.
 
@@ -47,7 +50,7 @@
 - **Vergiftete Worte:** 
 	- Einmal pro Begegnung kann Zerra eine Lüge mit Magie belegen. Das Ziel muss einen **INT-Rettungswurf (SG 14)** ablegen oder glaubt die Lüge für 1 Minute.
 
-### **Zauber:**
+### Zauber
 **Zauberplätze:** 2 Plätze (Stufe 4), Auffrischung bei kurzer Rast  
 **Zaubertricks:** [[Schauriger Strahl]], [[Einfache Illusion]], [[Kalte Hand]]  
 **Vorbereitete Zauber:**
@@ -56,9 +59,7 @@
 - **3.** [[Gegenzauber]], [[Furcht]]
 - **4.** [[Größere Unsichtbarkeit]], [[Dimensionstür]]
 
-### **Legendenaktionen:**
-
-## Taktik:
+## Taktik
 - Nutzt [[Furcht]] in engen Räumen, [[Größere Unsichtbarkeit]] zur Flucht oder Überraschung
 - Schaltet Führungsfiguren mental aus, nutzt _Vergiftete Worte_ vor sozialen Konflikten
 - Kämpft selten direkt – stattdessen Kontrolle, Chaos & Rückzug

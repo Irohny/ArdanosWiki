@@ -1,4 +1,4 @@
- - **Seltenheit:**# Gewöhnlich
+ - **Seltenheit:** #Gewöhnlich
  - **Wert:** 3S
  - **Fundort:** Bauernhöfe, Imker, Waldlichtungen, 
  - **Beschreibung:** Süßer, heilender Stoff, konservierend und nährend

@@ -1,3 +1,5 @@
+# Der Namensnehmer
+
 - **Grundlage:** #Online 
 - **Stufe/Herausfordungsgrad:** 13
 - **Volk:** #Untod 
@@ -11,7 +13,7 @@
 - **Ideale:**  
 - **Bindungen:**  
 ---
-##  Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 18 magischer Umhang
 - **Waffen:**
 - **Initiative:** 
@@ -34,20 +36,22 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - Mehrfachangriff Nahkampf
 - **Seelenstich** +8, 1,5m
 	- 2W6 +4 Hieb + 4W6 Psychisch
 - **Seelenschlingenhieb:** +8, 90feet
 	- 4W6+3 nekrotisch, SG 16 Charisma Rettung sonst Verstummt. (Keine Verbalen Zauber und Reden)
-### **Spezialfähigkeiten:**
+
+### Spezialfähigkeiten
 - **Diebstahl des wahren Namens**: 1 Aktion, 60feet 1 Kreatur bekommt Namensfragment
 	- 1Fragment = Nachteil auf Charisma Würfe (Skill/Rettung)
 	- 2Fragment = Ziel kann nicht mehr sprechen (keine Verbalen Zauber wirken)
 	- 3Fragment = Ziel ist unter der Kontrolle von ihm (Person domination, no save) bis er handlungsunfähig ist
 
-### **Zauber:**
+### Zauber
 Charisma Zauberlevel 18, +10 zum Treffen für Zauber
 	- Magierhand
 	- [[Einfache Illusion]]
@@ -61,7 +65,10 @@ Charisma Zauberlevel 18, +10 zum Treffen für Zauber
 	- [[Person festhalten]] dominate person
 	- mass suggestion
 	- wall of force
-### **Legendenaktionen:** 3
+
+### Legendenaktionen
+
+- 3 pro Runde
 -  **Namenskette:** Kreatur in 60feet SG20 Stärke Rettung sonst 20feet weggestoßen
 - **Cast Cantrip**
 - **Gedankenpeitsche** Kreatur in 60feet SG 16 Intelligenz Rettung sonst 3W6 psychisch und Nachteil auf angriffswürfe bis ende nächsten Zuges

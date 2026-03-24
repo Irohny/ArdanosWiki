@@ -1,3 +1,5 @@
+# Schwarze Viper
+
 - **Grundlage:** #Online
  - **Stufe/Herausfordungsgrad:** 5
 - **Volk:** #Mensch 
@@ -7,8 +9,9 @@
 - **Alter:**
 - **Gesinnung:** #ChaotischNeutral 
 - **Sprachen:** #Gemeinsprache #Diebessprache
+- **Merkmale:** Kaltblütig, lautlos, präzise
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 16
 - **Waffen:**
 - **Initiative:** +4
@@ -32,21 +35,25 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - **Mehrfachangriff:** 3 Rapierangriffe pro Runde
 - **Rapier:** +7 zum Treffen, 1.5m RW, 1W6 +4 Stich
 - **Handarmbrust:** +7 zum Treffen, 9m - 36m, 1W6 +4 Stich
 
-### **Spezialfähigkeiten:**
+### Spezialfähigkeiten
 - **Raffinierte Aktion:** Sprinten, Zurückziehn und Vestecken als Bonusaktion
 - **Geschickt:** Bei allen Ges. Rettungswürfen erhält sie halben schaden bei Misserfolg und keinen Schaden bei Erfolg, solange sie frei in Bewegung ist
 - **Hinterhältiger Angriff (1 mal pro Zug):** 4W6 Bonus Schaden, wenn die Kreatur Vorteil auf den Angriffswurf hat oder der Gener ist innerhalb von 1.5m eines Verbündeten
 - **Unglaubliches Ausweichen (Reaktion):** Halber Angriffsschaden, wenn sie den Angreifer sehen kann.
 
-### **Zauber:**
+---
+## Taktik
 
-### **Legendenaktionen:**
+- Eröffnet aus Deckung oder nach einem Versteckspiel, um Hinterhältiger Angriff sicher auszulösen.
+- Nutzt Raffinierte Aktion, um nach jedem Schlag die Position zu wechseln oder sich zurückzuziehen.
+- Weicht harten Gegenschlägen mit Unglaublichem Ausweichen aus und sucht schwache Ziele in der Backline.
 
 ---
 

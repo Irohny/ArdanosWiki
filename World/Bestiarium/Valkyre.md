@@ -1,3 +1,5 @@
+# Valkyre
+
 - **Grundlage:** #Online
  - **Stufe/Herausfordungsgrad:** 7
 - **Volk:** #Göttlich
@@ -7,8 +9,9 @@
 - **Alter:**
 - **Gesinnung:** #RechtschaffendGut 
 - **Sprachen:** #Celestisch #Telepathie 
+- **Merkmale:** Himmlische Jägerin, unerschrocken, wachsam
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:**16
 - **Waffen:**
 - **Initiative:** +3
@@ -34,14 +37,15 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - **Mehrfachangriff:** 2 Speerangriffe
 - **Speer:**
 	- Nahkampf: +7 zum Treffen 1W8+3 Stich und 2W12 Gleißend
 	- Fernkampf: +7 zum Treffen 9m - 36m 1W6+3 Stich und 2W12 Gleißend
 
-### **Spezialfähigkeiten:**
+### Spezialfähigkeiten
 - **Himmlische Waffe:** 
 	- alle Waffenangriffe sind magisch
 	- Waffenangriffe geben 2W12 zusätzlichen Gleißend
@@ -54,9 +58,13 @@
 	- commune 1x pro Tag
 	- clairvoyance 1x pro Tag
 	- divination 1x pro Tag
-### **Zauber:**
 
-### **Legendenaktionen:**
+---
+## Taktik
+
+- Bleibt in Bewegung und nutzt Flug, um Nahkampfreichweiten sicher zu verlassen.
+- Eröffnet auf Distanz mit Speerwürfen und stürzt sich dann auf bereits gebundene Ziele.
+- Setzt göttliche Zauber eher unterstützend ein, um Bedrohungen früh zu erkennen oder Duelle zu erzwingen.
 
 ---
 

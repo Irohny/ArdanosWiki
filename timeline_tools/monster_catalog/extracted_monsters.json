@@ -1,0 +1,920 @@
+{
+  "version": 1,
+  "generated_at": "2026-03-24T07:16:36.424902Z",
+  "source_root": "World/Bestiarium",
+  "scanner": {
+    "name": "scan_bestiary.py",
+    "rules_version": 1
+  },
+  "entries": [
+    {
+      "source_path": "World/Bestiarium/Blutjäger.md",
+      "file_name": "Blutjäger.md",
+      "name": "Blutjäger",
+      "key": "blutjager",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "5",
+        "alias_raw": null,
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 5,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": false,
+        "has_flight": false,
+        "has_aoe": false,
+        "has_control_effects": false,
+        "has_summon_markers": true,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Beschwörung",
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 5",
+        "matched_lines": [
+          "- **Beschwörung (1mal pro Tag):** Führt den Zauber Hex aus. Zauber mit Weisheit",
+          "- **Mehrfachangriff:** 2 Kampfaktionen"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Der Namensnehmer.md",
+      "file_name": "Der Namensnehmer.md",
+      "name": "Der Namensnehmer",
+      "key": "der_namensnehmer",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "13",
+        "alias_raw": "Variel Dhoran",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 13,
+        "has_spells": true,
+        "spell_count": 12,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": true,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": true,
+        "has_flight": false,
+        "has_aoe": false,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Unsichtbarkeit",
+          "Mehrfachangriff",
+          "Gegenzauber"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": true,
+        "has_legendary_actions_section": true,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 13",
+        "matched_lines": [
+          "- [[Größere Unsichtbarkeit]]",
+          "- Mehrfachangriff Nahkampf",
+          "- [[Gegenzauber]]"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Eldrin Velmara.md",
+      "file_name": "Eldrin Velmara.md",
+      "name": "Eldrin Velmara",
+      "key": "eldrin_velmara",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "6",
+        "alias_raw": "__Heiler der Reichen und Schönen__",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 6,
+        "has_spells": true,
+        "spell_count": 6,
+        "has_multiattack": false,
+        "multiattack_count_estimate": 0,
+        "has_bonus_action": true,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": true,
+        "has_invisibility": true,
+        "has_flight": false,
+        "has_aoe": true,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Teleport",
+          "Gegenzauber"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": true,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 6",
+        "matched_lines": [
+          "Einmal pro langer Rast kann Eldrin sich in einen Schwarm von Schatten auflösen (**wie _Nebelschritt_**), 30 ft. teleportieren und ist für 1 Runde **resistent gegen körperlichen Schaden**.",
+          "- **3. Grad:** [[Gegenzauber]], [[Vampirgriff]]"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Ephazul.md",
+      "file_name": "Ephazul.md",
+      "name": "Ephazul",
+      "key": "ephazul",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "20",
+        "alias_raw": "__Erzdämon der Unzeit__, __Niemalsgeborene__",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 20,
+        "has_spells": true,
+        "spell_count": 8,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": true,
+        "has_legendary_resistances_text": false,
+        "has_teleport": true,
+        "has_invisibility": false,
+        "has_flight": true,
+        "has_aoe": true,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": true,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Teleport",
+          "Verlangsamung",
+          "Flug",
+          "Mehrfachangriff",
+          "Gegenzauber"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": true,
+        "has_legendary_actions_section": true,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 20",
+        "matched_lines": [
+          "- **Schatten der Ewigkeit:** Teleport 18 m durch Zeitschatten.",
+          "- _Verlangsamen_,",
+          "- **Bewegung:** 12m 18m fliegend",
+          "- **Mehrfachangriff:**",
+          "- _Gegenzauber_,"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Lady Seress.md",
+      "file_name": "Lady Seress.md",
+      "name": "Lady Seress",
+      "key": "lady_seress",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "6",
+        "alias_raw": null,
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 6,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": true,
+        "has_flight": false,
+        "has_aoe": false,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 6",
+        "matched_lines": [
+          "- **Mehrfachangriff:** Lady Seress führt zwei Angriffe mit dem"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Lord Malvurax.md",
+      "file_name": "Lord Malvurax.md",
+      "name": "Lord Malvurax",
+      "key": "lord_malvurax",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "7",
+        "alias_raw": "__Botschafter der Tiefe__ , __Lord der Manipulation__",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 7,
+        "has_spells": true,
+        "spell_count": 3,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 1,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": true,
+        "has_invisibility": true,
+        "has_flight": true,
+        "has_aoe": true,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Teleport",
+          "Flug",
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": true,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 7",
+        "matched_lines": [
+          "- [[Dimensionstür]]",
+          "- **Bewegung:** 9m,  18m Flug",
+          "**Mehrfachangriff:** Nahkampfangriffe oder 1 Fernkampf/Zauber"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Lord Vareth Nocthollow.md",
+      "file_name": "Lord Vareth Nocthollow.md",
+      "name": "Lord Vareth Nocthollow",
+      "key": "lord_vareth_nocthollow",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "16",
+        "alias_raw": "__Schattenfürst__, __Schlächter Schutzlosen__",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 16,
+        "has_spells": true,
+        "spell_count": 5,
+        "has_multiattack": false,
+        "multiattack_count_estimate": 0,
+        "has_bonus_action": true,
+        "has_reaction": true,
+        "has_legend_actions_section": true,
+        "has_legendary_resistances_text": false,
+        "has_teleport": true,
+        "has_invisibility": true,
+        "has_flight": true,
+        "has_aoe": true,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Teleport",
+          "Furcht",
+          "Verlangsamung",
+          "Flug"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": true,
+        "has_legendary_actions_section": true,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 16",
+        "matched_lines": [
+          "- _Dimensionstür_,",
+          "- _Furcht_, _Bezaubern_,",
+          "- Verlangsamt alle Kreaturen im Umkreis von 9 m (wie _Verlangsamen_, SG 18). Kreaturen in Reichweite werfen mit Nachteil auf INI und verlieren Reaktionen für 1 Minute.",
+          "- **Bewegung:** 12m, 18m Schwebend/fliegend"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Raffon.md",
+      "file_name": "Raffon.md",
+      "name": "Raffon",
+      "key": "raffon",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "6",
+        "alias_raw": null,
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 6,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 1,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": true,
+        "has_flight": true,
+        "has_aoe": false,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Flug",
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 6",
+        "matched_lines": [
+          "- 36m fliegend",
+          "- **Mehrfachangriff:** 1mal Schnabel und 2 Klauen"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Schwarze Viper (Attentäter).md",
+      "file_name": "Schwarze Viper (Attentäter).md",
+      "name": "Schwarze Viper",
+      "key": "schwarze_viper",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "5",
+        "alias_raw": null,
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 5,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 3,
+        "has_bonus_action": true,
+        "has_reaction": true,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": true,
+        "has_flight": false,
+        "has_aoe": false,
+        "has_control_effects": false,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 5",
+        "matched_lines": [
+          "- **Mehrfachangriff:** 3 Rapierangriffe pro Runde"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Ser Vakor.md",
+      "file_name": "Ser Vakor.md",
+      "name": "Ser Vakor",
+      "key": "ser_vakor",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "10",
+        "alias_raw": "__Klinge der Verdammnis__",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 10,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": false,
+        "multiattack_count_estimate": 0,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": false,
+        "has_flight": false,
+        "has_aoe": true,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": true,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Furcht"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 10",
+        "matched_lines": [
+          "- _Effekt:_ Bei einem Kritischen Treffer flüstert die Waffe in Infernal → Ziel muss einen **Weisheitsrettungswurf (SG 15)** bestehen oder 1 Minute unter **Furcht** leiden"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Söldner.md",
+      "file_name": "Söldner.md",
+      "name": "Söldner",
+      "key": "soldner",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "5",
+        "alias_raw": null,
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 5,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": true,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": false,
+        "has_flight": false,
+        "has_aoe": false,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Blind",
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 5",
+        "matched_lines": [
+          "- 1.5m Reichweite Konsit Rettungswurf SG 13, Misserfolg Blind bis zum Ende des **nächsten** Zuge des Söldners",
+          "- **Mehrfachangriff:** 2 Angriffsaktionen"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Valkyre.md",
+      "file_name": "Valkyre.md",
+      "name": "Valkyre",
+      "key": "valkyre",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "7",
+        "alias_raw": null,
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 7,
+        "has_spells": true,
+        "spell_count": 6,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": false,
+        "has_flight": true,
+        "has_aoe": false,
+        "has_control_effects": false,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Flug",
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 7",
+        "matched_lines": [
+          "- 36m fliegend",
+          "- **Mehrfachangriff:** 2 Speerangriffe"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Xal'Zhurn.md",
+      "file_name": "Xal'Zhurn.md",
+      "name": "Xal'Zhurn",
+      "key": "xal_zhurn",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "7",
+        "alias_raw": null,
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 7,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": false,
+        "has_invisibility": true,
+        "has_flight": false,
+        "has_aoe": true,
+        "has_control_effects": true,
+        "has_summon_markers": false,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Betäubung",
+          "Verlangsamung",
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 7",
+        "matched_lines": [
+          "nächsten Zuges betäubt.",
+          "sind verlangsamt bis zum Ende ihres nächsten Zuges.",
+          "- **Mehrfachangriff:** Xal'Zhurn führt einen Tentakelangriff aus"
+        ]
+      }
+    },
+    {
+      "source_path": "World/Bestiarium/Zerra die Flüsterin.md",
+      "file_name": "Zerra die Flüsterin.md",
+      "name": "Zerra die Flüsterin",
+      "key": "zerra_die_flusterin",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "6",
+        "alias_raw": "[[Lady Maerina von Elmrath]]",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": null,
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 6,
+        "has_spells": true,
+        "spell_count": 5,
+        "has_multiattack": false,
+        "multiattack_count_estimate": 0,
+        "has_bonus_action": true,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": false,
+        "has_teleport": true,
+        "has_invisibility": true,
+        "has_flight": false,
+        "has_aoe": true,
+        "has_control_effects": true,
+        "has_summon_markers": true,
+        "has_phase_markers": false,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Teleport",
+          "Unsichtbarkeit",
+          "Furcht",
+          "Gegenzauber"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": true,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 6",
+        "matched_lines": [
+          "- Als Bonusaktion kann Zerra in einen Schatten gleiten und **Teleportation (60 ft)** durchführen – hinterlässt ein flüchtiges Flüstern.",
+          "- **Unsichtbarkeit (Zauber, 2/Tag):**",
+          "- **3.** [[Gegenzauber]], [[Furcht]]"
+        ]
+      }
+    }
+  ]
+}

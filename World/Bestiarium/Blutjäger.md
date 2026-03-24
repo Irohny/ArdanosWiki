@@ -1,3 +1,5 @@
+# Blutjäger
+
 - **Grundlage:** #Online
  - **Stufe/Herausfordungsgrad:** 5
 - **Volk:** beliebig 
@@ -7,8 +9,9 @@
 - **Alter:**
 - **Gesinnung:** beliebig 
 - **Sprachen:** #Gemeinsprache 
+- **Merkmale:** Blutmagie, Fährtensucher, gnadenloser Vollstrecker
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:**  16
 - **Waffen:**
 - **Initiative:** +1
@@ -28,21 +31,25 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - **Mehrfachangriff:** 2 Kampfaktionen
 - **Breitschwert:** +7 zum Treffen, 3m Reichweite, 2W6 + 4 Hieb + 1W6 Feuer
 - **Schwerer Langbogen:** +4 zum Treffen, Reichweite 30m bis 120m 1W10 + 1 Stich
 
-### **Spezialfähigkeiten:**
+### Spezialfähigkeiten
 - **Blutfluch der Bindung (1mal pro Tag):** 18m Sichweite. Blutjäger markiert Ziel, welches einen Stärke Rettungswurf SG 14 machen muss. Misserfolg: Bewegungsrate wird auf 0 gesetzt. Ziel kann am Ende seines Zuges den Stärke Rettungswurf erneut Versuchen, Flucht löst sich erst bei Erfolg auf.
 - **Blut gefireren:** Vorteil auf Nahkampfangriffe bei Kreaturen, die nicht mehr volle TP haben
 - **Beschwörung (1mal pro Tag):** Führt den Zauber Hex aus. Zauber mit Weisheit
 - **Magische Resisenz:** Vorteil auf Rettungswürfe gegen Zauber oder magische Effekte
 
-### **Zauber:**
+---
+## Taktik
 
-### **Legendenaktionen:**
+- Markiert gefährliche Ziele früh mit Blutfluch der Bindung, um Flucht und Umpositionierung zu unterbinden.
+- Nutzt Mehrfachangriff im Nahkampf und wechselt nur bei Distanzzwang auf den Langbogen.
+- Aktiviert Beschwörung oder Blutmagie, sobald ein zähes Einzelziel schnell fallen soll.
 
 ---
 

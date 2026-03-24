@@ -10,6 +10,12 @@ svg:
     uv run python timeline_tools/metadata_extractor/build_timeline_json.py
     uv run python timeline_tools/vertical_svg/generate_svg.py
 
+# rebuild extracted monster catalog data
+monster-catalog:
+    uv run python timeline_tools/monster_catalog/scan_bestiary.py
+    uv run python timeline_tools/monster_catalog/validate_monsters.py
+    uv run python timeline_tools/monster_catalog/build_monster_catalog.py
+
 # run streamlit app
 run:
     uv run streamlit run app.py
@@ -33,6 +39,7 @@ commit msg:
     just req
     #just changelog
     just svg
+    just monster-catalog
     git add -A
     git commit -m "{{msg}}"
     git push

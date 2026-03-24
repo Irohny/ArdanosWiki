@@ -140,6 +140,8 @@ def format_relative_path(path: str) -> str:
 
 
 def sync_current_path(path: str) -> None:
+    st.session_state["db_flag"] = False
+    st.session_state["db"] = ""
     st.session_state["current_path"] = path
     st.query_params["page"] = path
 

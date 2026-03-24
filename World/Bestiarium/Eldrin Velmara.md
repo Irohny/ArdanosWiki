@@ -1,4 +1,6 @@
 ![[Eldrin Velmara.jpeg|200]]
+# Eldrin Velmara
+
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:** 6
 - **Volk:** #Mensch 
@@ -12,7 +14,7 @@
 - **Ideale:**  __Forschung für mehr Heilung__
 - **Bindungen:**  
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 15 magische Kleidung 
 - **Waffen:** keine
 - **Initiative:** +2
@@ -34,19 +36,22 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
 
-### **Spezialfähigkeiten:**
+### Standard
+
+### Spezialfähigkeiten
 - #### **Mentale Stimme**
 	Eldrin spricht ausschließlich telepathisch mit Kreaturen im Umkreis von 60 ft. Kreaturen müssen bei jedem Gespräch einen **Weisheitsrettungswurf (SG 14)** ablegen oder erleiden **1W4 Psychoschaden + Nachteil auf Einsicht** für 1 Minute.
 
 - #### **Verborgener Kultist**
 	Eldrin kann sich mit einer Bonusaktion für 1 Minute in einen gesunden und fürsorglichen Heiler „verwandeln“ (_magische Illusion, kein Formwechsel_). Vorteil auf Täuschung, Nachteil für andere auf Einsicht.
 
- - #### **Dunkle Rückzugsform**
+
+- #### **Dunkle Rückzugsform**
 	Einmal pro langer Rast kann Eldrin sich in einen Schwarm von Schatten auflösen (**wie _Nebelschritt_**), 30 ft. teleportieren und ist für 1 Runde **resistent gegen körperlichen Schaden**.
-### **Zauber:**
+
+### Zauber
 Eldrin ist ein **Zauberwirker des 7. Grades** (Warlock, Pakt der Schatten, Charisma-basiert, SG 15, +7 Angriff).  
 **Zauberplätze:** 2 (Stufe 3, Warlock-typisch)
 
@@ -57,8 +62,6 @@ Eldrin ist ein **Zauberwirker des 7. Grades** (Warlock, Pakt der Schatten, Chari
 - **3. Grad:** [[Gegenzauber]], [[Vampirgriff]]
 - **Legendärer Schattenzauber (1/Tag):** _Shadow Leech Ritual_ – Entzieht einem humanoiden Ziel 4W10 TP, Eldrin heilt denselben Betrag. SG 15 Konsti-Rettungswurf für halben Schaden.
 - **Gedankenschrei (1/Tag):** Alle Kreaturen in 30 ft. Umkreis müssen einen **Weisheitswurf (SG 15)** bestehen oder erleiden **3W6 Psychoschaden** und können **für 1 Runde nicht sprechen**.
-
-### **Legendenaktionen:**
 
 ## Taktik
 - Beginnt mit [[Spielgelbilder]], _[[Verwünschen]]_ auf den stärksten Gegner.

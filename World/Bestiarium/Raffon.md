@@ -1,3 +1,5 @@
+# Raffon
+
 - **Grundlage:** #Online
  - **Stufe/Herausfordungsgrad:** 6
 - **Volk:** #großeMonstrosität
@@ -7,8 +9,9 @@
 - **Alter:**
 - **Gesinnung:** #Neutral 
 - **Sprachen:**
+- **Merkmale:** Nachtjäger, Nachahmer, giftiger Schrecken
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 13
 - **Waffen:**
 - **Initiative:** 
@@ -36,22 +39,27 @@
 	- Gleißend
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - **Mehrfachangriff:** 1mal Schnabel und 2 Klauen
 - **Schnabel:** +6 zum Treffen in 3m 1W8+4 Stich
 - **Klauen:** +6 zum treffen in 3m 2W6 +4 Hieb
 - **Giftatem (6 Runden Reload):**  Giftwolke in 5m Linie 1.5m Breite, Gesh. Rettungswurf SG 14 Misserfolg 8W6 Gift, bei Erfolg halber Schade 
-### **Spezialfähigkeiten:**
+
+### Spezialfähigkeiten
 - **Scharfer Blick:** Vorteil auf Weishiet und Wahrnehmungswürfen mit Bezug aus sehen
 - **Magisches Gespür:** Siehe [[Magieentedcken]], als Fähigkeit ohne Zauber
 - **Geschöpf der Nacht:** Nachteil auf Attacken und Wahrnehmungswürfen bei Sonnenschein
 - **Magische Resitenz:** Vorteil auf Rettungswürfen gegen Zauber
 - **Nachahmen:** Kann alle geräusche Nachmachen, die gehört wurden (auch Sprache). Täuschungsgrad: SG 14 Täuschung, um herauszufinden was es war 
 
-### **Zauber:**
+---
+## Taktik
 
-### **Legendenaktionen:**
+- Kreist zuerst über dem Kampfgeschehen und sucht günstige Linien für Giftatem.
+- Greift isolierte Ziele mit Schnabel und Klauen an, sobald Verwirrung oder Panik entstanden ist.
+- Nutzt Nachahmen und Dunkelheit eher zur Jagdvorbereitung als für offene Konfrontation.
 
 ---
 

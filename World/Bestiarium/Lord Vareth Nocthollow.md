@@ -1,3 +1,5 @@
+# Lord Vareth Nocthollow
+
 - **Grundlage:** #Book
 - **Stufe/Herausfordungsgrad:** 16
 - **Volk:** #Untod 
@@ -11,7 +13,7 @@
 - **Ideale:**  
 - **Bindungen:**  
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 19 Schattenhülle
 - **Waffen:**
 - **Initiative:** +5
@@ -34,31 +36,32 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
 
-### **Spezialfähigkeiten:**
+### Standard
+
+### Spezialfähigkeiten
 - **Zeitzehrer (Passiv)** 
 	- Wenn Lord Vareth Lebenspunkte durch seinen Biss gewinnt, kann er stattdessen die verbleibende Lebenszeit des Ziels „absorbieren“. Das Ziel altert 1W4 × 10 Jahre (Kon-Rettungswurf SG 18 zur Hälfte). Untote & Konstrukte sind immun.
 
 - **Gestaltwandlung:** 
 	- Kann sich als Bonusaktion in Nebel, Fledermausschwarm oder humanoide Gestalt verwandeln.
 
- - **Blutiger Griff** _(Angriff)_ 
+- **Blutiger Griff** _(Angriff)_ 
 	 - Nahkampf, +10 zum Treffen, 3 m Reichweite, 1 Ziel  **Treffer:** 14 (2W8 + 5) nekrotischer Schaden und das Ziel muss einen Kon-Rettungswurf (SG 18) bestehen oder 1W4 Runden altern.
 
- - **Zeitverzerrung** _(3/Tag)_ 
+- **Zeitverzerrung** _(3/Tag)_ 
 	 - Verlangsamt alle Kreaturen im Umkreis von 9 m (wie _Verlangsamen_, SG 18). Kreaturen in Reichweite werfen mit Nachteil auf INI und verlieren Reaktionen für 1 Minute.
 
 
-### **Zauber:**
+### Zauber
 - _Nebelgestalt_,
 - _Furcht_, _Bezaubern_,
 - _Dimensionstür_,
 - _Zeitstop_ (1/Tag), 
 - _Finger des Todes_ (1/Tag)
 
-### **Legendenaktionen:**
+### Legendenaktionen
 - **Blutiger Rückfluss** _(Legendär, 1/Tag)_ 
 	- Kann nach erlittenem Schaden umgehend 1 Runde in der Zeit zurückspringen und seinen letzten Zustand (HP, Position, Status) wiederherstellen. Zauber & Effekte außerhalb seiner selbst bleiben bestehen.
 
@@ -70,6 +73,7 @@
     
 -  **Vampirische Präsenz:** 
 	- Alle Feinde im Umkreis von 6 m müssen einen CH-Rettungswurf (SG 18) ablegen oder sind bis zur nächsten Runde verängstigt.
+
 ## Taktik
 - Öffnet mit **Zeitverzerrung**, zieht sich bei Gefahr mit **Schattenschritt** zurück.
     

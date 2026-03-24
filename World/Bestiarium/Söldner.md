@@ -1,3 +1,5 @@
+# Söldner
+
 - **Grundlage:** #Homebrew #Book #Online
  - **Stufe/Herausfordungsgrad:** 5
 - **Volk:** beliebig
@@ -7,8 +9,9 @@
 - **Alter:**
 - **Gesinnung:** #ChaotischNeutral
 - **Sprachen:** #Gemeinsprache +1weitere
+- **Merkmale:** Pragmatiker, Straßenkämpfer, schmutzige Tricks
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 15
 - **Waffen:** Langschwert
 - **Initiative:**  +1
@@ -30,8 +33,9 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - **Mehrfachangriff:** 2 Angriffsaktionen
 - **Langschwert:** 
 	- +6 zum Treffen (einhändig) 1W8 +3 Hieb
@@ -42,14 +46,18 @@
 	
 - **Uneherlicher Kampf (Reaktion):**
 	- Nachdem der Söldner getroffen wurde kann er als Reaktion einen Sandhieb machen
-### **Spezialfähigkeiten:**
+
+### Spezialfähigkeiten
 - **Loyalität für Geld:** Nachteil auf Weisheit Rettungs-/Würfe bei  Bestechung
 
 - **Rücksichtloser Vorteil:** Kann automatisch Treffen, wenn Vorteil auf Angriffswurf
 
-### **Zauber:**
+---
+## Taktik
 
-### **Legendenaktionen:**
+- Bindet Gegner im Nahkampf mit dem Langschwert und sucht direkte Schlagabtäusche.
+- Nutzt Sandhieb, um Ziele zu blenden und dann mit Vorteil oder Reaktionsangriffen nachzusetzen.
+- Kämpft opportunistisch und zieht schmutzige Tricks einem fairen Duell vor.
 
 ---
 

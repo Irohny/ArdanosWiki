@@ -1,3 +1,5 @@
+# Ephazul
+
 - **Grundlage:** #Homebrew 
 - **Stufe/Herausfordungsgrad:** 20
 - **Volk:** #Unhold
@@ -11,7 +13,7 @@
 - **Ideale:**   _„Alle Dinge sollen vergehen – nicht sterben, sondern niemals gewesen sein.“_
 - **Bindungen:**  
 ---
-## ⚔️ Eigenschaften
+## Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** 21
 - **Waffen:** Klaue der Vergängnis, Schwert „Unzeit“ (verleiht _Zeitstopp_, 1/Tag)
 - **Initiative:** +6
@@ -34,14 +36,16 @@
 - **Schwächen:** 
 
 ---
-## **Aktionen**
-### **Standard:**
+## Aktionen
+
+### Standard
 - **Mehrfachangriff:** 
 	- 2x Klaue (2W10+7 Schaden, + zusätzliche Zeitkorrosion: Ziel verliert eine **Aktion** in der nächsten Runde bei Konsti-SG 18).
     
-- **Schwert „Unzeit“:
+- **Schwert „Unzeit“:**
 	-  **3W12 nekrotisch + 3W12 psychisch. Auf kritischem Treffer: Ziel „verschwindet“ für 1 Runde aus der Realität.
-###  **Spezialfähigkeiten:**
+
+### Spezialfähigkeiten
 - **Zeitraub (Recharge 5–6):** 
 	- Alle Kreaturen im Umkreis von 18 m müssen einen Weisheitsrettungswurf (SG 20) bestehen oder verlieren **ihre nächste Aktion** (als ob ihre Zeit gestohlen wurde).
     
@@ -50,7 +54,8 @@
     
 - **Chrono-Brand:** 
 	- Markiert ein Ziel mit einem Zeitsiegel; das nächste Mal, wenn es Schaden nimmt, wird dieser **verdoppelt**.
-### **Zauber:**
+
+### Zauber
 (Zauberwirker Grad 18, SG 20, Angriffsbonus +12)
 - _Zeitstopp_ (1/Tag), 
 - _Verlangsamen_, 
@@ -60,7 +65,8 @@
 - _Labyrinth_, 
 - _Bannmagie_, 
 - _Wahrer Blick_.
-### **Legendenaktionen:**
+
+### Legendenaktionen
 - **Schatten der Ewigkeit:** Teleport 18 m durch Zeitschatten.
 - **Chrono-Schlag:** Greift mit Klaue an (1 Legendenaktion).
 - **Zeit einfrieren (2 Aktionen):** Ein Ziel friert für 1 Runde ein, als ob es „stillsteht“.
