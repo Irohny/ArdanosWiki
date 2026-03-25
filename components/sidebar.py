@@ -7,6 +7,10 @@ from components.login import login_filed
 from components.database_view import set_to_databse_view
 from components.login import Roles
 from components.encounter_calculator import set_to_encounter_calculator_view
+from components.monster_creator import (
+    MONSTER_CREATOR_FEATURE_NAME,
+    set_to_monster_creator_view,
+)
 from components.npc_creator import set_to_npc_creator_view, NPC_CREATOR_FEATURE_NAME
 
 
@@ -128,7 +132,11 @@ def render_home_shortcuts() -> None:
             on_click=(
                 set_to_npc_creator_view
                 if feat == NPC_CREATOR_FEATURE_NAME
-                else set_to_encounter_calculator_view
+                else (
+                    set_to_monster_creator_view
+                    if feat == MONSTER_CREATOR_FEATURE_NAME
+                    else set_to_encounter_calculator_view
+                )
             ),
         )
 
