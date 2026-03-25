@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e75a4cb5eb53566e",
+        "id": "61b0d50d383acd2f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d7d1039c41ef538",
+            "id": "342716331ea34aef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mythologie/Götter/Nebengötter/Thael’Myra.md",
+                "file": "Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thael’Myra"
+              "title": "Intriege auf dem Land"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "right": {
     "id": "b693fe0798ea280e",
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mythologie/Götter/Nebengötter/Thael’Myra.md",
+                "file": "Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links von Thael’Myra öffnen"
+              "title": "Ausgehende Links von Intriege auf dem Land öffnen"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mythologie/Götter/Nebengötter/Thael’Myra.md",
+                "file": "Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Thael’Myra"
+              "title": "Gliederung von Intriege auf dem Land"
             }
           }
         ],
@@ -170,52 +170,53 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "8d7d1039c41ef538",
+  "active": "342716331ea34aef",
   "lastOpenFiles": [
-    "Mythologie/Götter/Nebengötter/Thael’Myra.md",
-    "Spielleiter/Orte/Nythariel, die Wurzel zwischen den Welten.md",
-    "Images/Wappen/weltenbaum_gemaelde.png",
-    "Mythologie/Götter/Pantheon.md",
-    "Mythologie/Götter/Hauptgötter/Sylvaldis.md",
-    "Images/Wappen/Symbol sylvaldis.png",
-    "Mythologie/Götter/Nebengötter/Aszula.md",
-    "Mythologie/Götter/Hauptgötter/Solyra.md",
-    "Mythologie/Götter/Nebengötter/Aureniel.md",
-    "Mythologie/Götter/Nebengötter/Aneira.md",
-    "Mythologie/Götter/Nebengötter/Morrivian.md",
-    "Mythologie/Götter/Nebengötter/Kraeth.md",
-    "Mythologie/Götter/Nebengötter/Feylith.md",
+    "Zutatenarchiv/Silbergift.md",
+    "Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md",
+    "Zutatenarchiv/Vipernblut.md",
+    "Spielleiter/OneShots/Mord und Verlobung/NPCs Tiravor.md",
+    "Kaiserreich/Mariven/Berndsteinkueste/Tiravor.md",
+    "Spielleiter/OneShots/Mord und Verlobung/Eldric Feldhain.md",
+    "Kaiserreich/Zeitmessung/Jahreszeiten/Zeit des Lichts.md",
+    "Kaiserreich/Geschichte/Überblick.md",
+    "Kaiserreich/Geschichte/Zeitalter.md",
     "Mythologie/Götter/Nebengötter/Ferinor.md",
-    "Mythologie/Götter/Nebengötter/Veyrun.md",
-    "Mythologie/Götter/Nebengötter/Corthan.md",
-    "Mythologie/Existenzebene/Wurzelwerk.md",
-    "Mythologie/Existenzebene/Tiefsee.md",
-    "Mythologie/Existenzebene/Schleirwelt.md",
-    "Mythologie/Existenzebene/Immerlicht.md",
+    "Spielleiter/OneShots/Mord und Verlobung/NPCs/Roderic Marith.md",
+    "Spielleiter/OneShots/Mord und Verlobung/NPCs/Graf Albrecht von Dornfels.md",
+    "Spielleiter/OneShots/Mord und Verlobung/Joram Lumarsson.md",
+    "Kaiserreich/Mariven/Berndsteinkueste/Sonnenkliff.md",
+    "CHANGELOG.md",
+    "templates/monster.md",
+    "Spielleiter/Gimbel.md",
+    "Images/vaylen_vertical_timeline.svg",
+    "Images/schwarzklamm_vertical_timeline.svg",
+    "Images/mariven_vertical_timeline.svg",
+    "Images/elmrath_vertical_timeline.svg",
+    "Images/drakmora_vertical_timeline.svg",
+    "Images/ardanos_vertical_timeline.svg",
+    "Charakter/Spieler/ny_Nyssara/ny_Nyssara Schattenfluch.md",
+    "Mythologie/Götter/Nebengötter/Thael’Myra.md",
+    "Charakter/Spieler/ny_Nyssara/Maeridra Dornenglanz.md",
+    "Images/Charackter/meridana.jpeg",
+    "Images/Wappen/Symbol sylvaldis.png",
+    "Images/Wappen/Symbol sylvaldis.png.png",
+    "Images/ardanos_timeline.svg",
+    "Kaiserreich/Kaiser/NPCs/Virella Nyssien.md",
+    "Kaiserreich/Kaiser/NPCs/Marcellon Arven.md",
+    "Kaiserreich/Kaiser/NPCs/Elyander Goldschild.md",
+    "Kaiserreich/Kaiser/NPCs/Elsinya Arven.md",
+    "Kaiserreich/Kaiser/NPCs/Durnek Eisenmark.md",
+    "Kaiserreich/Kaiser/NPCs/Dural Goldschild II.md",
+    "Kaiserreich/Kaiser/NPCs",
+    "Kaiserreich/Kaiser",
     "Mythologie/Götter/Nebengötter",
     "Mythologie/Götter/Hauptgötter",
-    "Mythologie/Existenzebene/Schmiedefeuer.md",
-    "Mythologie/Existenzebene/Schattenlicht.md",
-    "Kaiserreich/Mythologie/Existenzebene/Welt der Lebenden.md",
     "Mythologie/Existenzebene",
-    "Mythologie/Schöpfung.md",
     "Mythologie/Götter",
-    "Mythologie/Götter/Hauptgötter/Erythra.md",
-    "Mythologie/Götter/Hauptgötter/Volgrin.md",
-    "Mythologie/Götter/Hauptgötter/Lyrithiel.md",
-    "Images/Wappen/Symbol Ocyra.png",
     "Unbenannt 1.base",
-    "Images/Wappen/Symbol Lyrithiel.png",
-    "Images/Wappen/Symbol Erythra.png",
-    "Images/Wappen/Symbol Volgrin.png",
-    "Images/Wappen/Symbol Sylara.png",
     "Unbenannt.base",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 1 Das Attentat/Zeitungsartikel.png",
-    "Images/Maps/Zauberturm.jpg",
-    "Images/Maps/Lagerfeuer.jpg",
     "Kaiserreich/Zeitmessung/Jahreszeiten",
-    "Kaiserreich/Zeitmessung",
-    "Spielleiter/OneShots/Mord und Verlobung/NPCs",
-    "Spielleiter/Organisationen/Orden der Klarheit"
+    "Kaiserreich/Zeitmessung"
   ]
 }

@@ -2595,6 +2595,22 @@
       "is_relevant": false
     },
     {
+      "path": "World/Kaiserreich/Geschichte/Überblick.md",
+      "title": "Überblick",
+      "timeline_label": "Überblick",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [],
+      "categories": [],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
       "path": "World/Kaiserreich/Kaiser/NPCs/Aldric von Elmrath.md",
       "title": "Aldric von Elmrath",
       "timeline_label": "Aldric von Elmrath",
