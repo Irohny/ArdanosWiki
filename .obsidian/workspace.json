@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "175876ca4fa33823",
+        "id": "3cd86bcf0afc78ed",
         "type": "tabs",
         "children": [
           {
-            "id": "d5842904c97c2329",
+            "id": "89732927cd70c283",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -153,62 +153,62 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "d5842904c97c2329",
+  "active": "89732927cd70c283",
   "lastOpenFiles": [
-    "CHANGELOG.md",
-    "World/Spielleiter/Organisationen/Nachtgeweihte.md",
-    "World/Spielleiter/Organisationen/Alchemistischen Konvent.md",
-    "World/Spielleiter/Organisationen/Rote Jäger.md",
-    "World/Spielleiter/Organisationen/Klan Seelenhauch.md",
-    "World/Spielleiter/Organisationen/Morgenwacht.md",
-    "World/Gruppen/Crew der Windhexe/Windhexe.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Velgrin Dämmermark.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Tharun Flammenbund.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Sashara Morgenfall.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Quillis Kupferfuß.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Orden der Klarheit.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Nytheas Schattenquell.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Malbion Graubart.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Lysira Weidenflair.md",
-    "World/Spielleiter/Organisationen/Orden der Klarheit/Kreis der Teleportation.md",
-    "World/Spielleiter/Kampangen/Die Legende von Ephazul, dem Niemalsgeborenen.md",
-    "World/Spielleiter/Kampangen/Gegner NPCs.md",
-    "World/Spielleiter/Organisationen/Liga des wahren Mets.md",
-    "World/Spielleiter/Orte/Lichtung des Friedens.md",
-    "World/Spielleiter/OneShots/Ideen Sammlung/Zeitloses Gefänginss.md",
-    "World/Spielleiter/Orte/Hopfenberge.md",
-    "World/Spielleiter/Organisationen/Das Bunte Band.md",
-    "World/Spielleiter/Organisationen",
-    "World/Spielleiter/Artefakte und Tränke/Codex des Nichtseins.md",
-    "World/Spielleiter/Kampangen/Aufgaben.md",
-    "World/Spielleiter/Played OneShots/Funkeln in der Finsternis/Funkeln in der Finsternis.md",
-    "World/Spielleiter/OneShots/Ideen Sammlung",
+    "World/Bestiarium/Blutjger.md",
+    "sl_dashboard/__pycache__/editor.cpython-312.pyc",
+    "sl_dashboard/__pycache__/creator_view.cpython-312.pyc",
+    "sl_dashboard/creator_view.py",
+    "sl_dashboard/editor.py",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Roderic Marith.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Noah Silberklinge.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Hendrik Vaelor.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Elowen Marith.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Bruder Calen Wellenruh.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Borin Eisensteg.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Albrecht von Dornenfels.md",
+    "sl_dashboard/components/__pycache__/theme.cpython-312.pyc",
+    "sl_dashboard/components/theme.py",
+    "World/Spielleiter/OneShots/Mord und Verlobung/session.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-5-finale-konsequenzen.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-4-konfrontation-im-anwesen.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-3-nachtangriff-am-lager.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-2-hinterhalt-im-hohlweg.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-1-markt-von-tiravor.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/scenes",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Thalion Grünquell.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Maran Danlauf.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Joram Lumarsson.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Eldric Feldhain.md",
+    "sl_dashboard/data/mord_und_verlobung/npcs/Roderic Marith.md",
+    "sl_dashboard/data/mord_und_verlobung/npcs/Noah Silberklinge.md",
+    "sl_dashboard/data/mord_und_verlobung/npcs/Hendrik Vaelor.md",
+    "sl_dashboard/data/mord_und_verlobung/npcs/Albrecht von Dornenfels.md",
+    "sl_dashboard/data/mord_und_verlobung/npcs/Elowen Marith.md",
+    "sl_dashboard/data/mord_und_verlobung/npcs/Bruder Calen Wellenruh.md",
+    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Grauklingen.md",
+    "sl_dashboard/data/mord_und_verlobung/monsters",
+    "__pycache__/sl_dashboard_app.cpython-312.pyc",
+    "sl_dashboard/components/__pycache__/markdown.cpython-312.pyc",
     "World/Images/Schatzkammer_innen.png",
     "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Zeitungsartikel.png",
-    "World/Spielleiter/Played OneShots",
     "World/Images/Schatzkammer_Eingang.jpg",
-    "World/Abenteuer/Funkeln in der Finsternis/Items",
-    "World/Abenteuer/Funkeln in der Finsternis/Orte",
-    "World/Abenteuer/Funkeln in der Finsternis/Charakter",
-    "World/Abenteuer/Funkeln in der Finsternis",
-    "World/Abenteuer",
     "World/Spielleiter/Fundus/Gegner/Gefallender Stern 1.png",
     "World/Spielleiter/Fundus/Gegner/Gefallender Stern 2.png",
     "World/Spielleiter/Fundus/Tränke/Elexir der Wandelnen Träume.png",
     "World/Spielleiter/Fundus/Tränke/Flasche des ewigen Rums.png",
     "World/Spielleiter/Fundus/Tränke/Trank 1.png",
     "World/Spielleiter/Fundus/Tränke/Trank 2.png",
-    "World/Spielleiter/Fundus/Tränke/Trank 3.png",
-    "World/Spielleiter/NPCs",
-    "World/Spielleiter/Orte"
+    "World/Spielleiter/Fundus/Tränke/Trank 3.png"
   ]
 }

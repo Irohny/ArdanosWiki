@@ -27,6 +27,7 @@ pyarrow==21.0.0
 pydeck==0.9.1
 python-dateutil==2.9.0.post0
 pytz==2025.2
+pyyaml==6.0.3
 referencing==0.36.2
 requests==2.32.4
 rpds-py==0.26.0
@@ -40,4 +41,3 @@ tornado==6.5.1
 typing-extensions==4.14.1
 tzdata==2025.2
 urllib3==2.5.0
-watchdog==6.0.0

@@ -16,7 +16,6 @@ MONSTER_FOUNDATION_OPTIONS = [
     "#Homebrew #Book #Online",
 ]
 MONSTER_ALIGNMENT_OPTIONS = [
-    "Frei eingeben",
     "Rechtschaffen Gut",
     "Neutral Gut",
     "Chaotisch Gut",
@@ -87,6 +86,15 @@ MONSTER_ACTION_CATEGORY_OPTIONS = [
     "summon",
     "utility",
 ]
+MONSTER_ACTION_CATEGORY_LABELS = {
+    "melee": "Nahkampf",
+    "ranged": "Fernkampf",
+    "spell": "Zauber",
+    "aura": "Aura",
+    "control": "Kontrolle",
+    "summon": "Beschwoerung",
+    "utility": "Unterstuetzung",
+}
 MONSTER_CATALOG_STRATEGIES = [
     "",
     "bruiser",
@@ -144,8 +152,23 @@ def _resolved_select_value(select_key: str, custom_key: str) -> str:
     return selected_value
 
 
+def _monster_alignment_select_options() -> list[str]:
+    current_value = st.session_state.get("monster_creator_alignment", "").strip()
+    if current_value and current_value not in MONSTER_ALIGNMENT_OPTIONS:
+        return [current_value, *MONSTER_ALIGNMENT_OPTIONS]
+    return list(MONSTER_ALIGNMENT_OPTIONS)
+
+
+def _action_category_label(category: str) -> str:
+    return MONSTER_ACTION_CATEGORY_LABELS.get(category, category)
+
+
 def _monster_export_directory() -> Path:
     return Path(__file__).resolve().parents[1] / "World" / "Bestiarium"
+
+
+def _monster_template_path() -> Path:
+    return Path(__file__).resolve().parents[1] / "World" / "templates" / "monster.md"
 
 
 def _sanitize_filename(name: str) -> str:
@@ -153,6 +176,576 @@ def _sanitize_filename(name: str) -> str:
     normalized = re.sub(r"[^A-Za-z0-9 _().-]", "", normalized)
     normalized = re.sub(r"\s+", " ", normalized).strip()
     return normalized or "Unbenanntes Monster"
+
+
+def _replace_template_line(content: str, label: str, value: str) -> str:
+    pattern = re.compile(rf"^(\s*-\s+\*\*{re.escape(label)}:\*\*).*?$", re.MULTILINE)
+    replacement = rf"\1 {value}" if value else r"\1"
+    return pattern.sub(replacement, content, count=1)
+
+
+def _replace_template_section(content: str, heading: str, section_body: str) -> str:
+    pattern = re.compile(
+        rf"(^##\s+{re.escape(heading)}\s*$)(.*?)(?=^---\s*$|^##\s+|\Z)",
+        re.MULTILINE | re.DOTALL,
+    )
+
+    def replace(match):
+        return f"{match.group(1)}\n\n{section_body.strip()}\n\n"
+
+    return pattern.sub(replace, content, count=1)
+
+
+def _insert_catalog_section(content: str, catalog_section: str) -> str:
+    if not catalog_section.strip():
+        return content
+    return content.replace("---", f"{catalog_section.strip()}\n\n---", 1)
+
+
+def _set_first_heading(content: str, title: str) -> str:
+    return re.sub(r"^#\s+.+$", f"# {title}", content, count=1, flags=re.MULTILINE)
+
+
+def _all_bestiary_monster_names() -> list[str]:
+    export_dir = _monster_export_directory()
+    if not export_dir.exists():
+        return []
+    return sorted((path.stem for path in export_dir.glob("*.md")), key=str.casefold)
+
+
+def _bestiary_monster_file(monster_name: str) -> Path:
+    exact_match = _monster_export_directory() / f"{monster_name}.md"
+    if exact_match.exists():
+        return exact_match
+
+    normalized_name = monster_name.casefold()
+    for path in _monster_export_directory().glob("*.md"):
+        if path.stem.casefold() == normalized_name:
+            return path
+    raise FileNotFoundError(f"Monster nicht gefunden: {monster_name}")
+
+
+def _extract_template_line_value(content: str, label: str) -> str:
+    normalized_label = re.sub(r"\s+", " ", label).strip().casefold()
+    for raw_line in content.splitlines():
+        stripped_line = raw_line.strip()
+        if not stripped_line.startswith("- **"):
+            continue
+        match = re.match(r"^-\s+\*\*(.+?):\*\*([ \t]*.*)$", stripped_line)
+        if match is None:
+            continue
+        current_label = re.sub(r"\s+", " ", match.group(1)).strip().casefold()
+        if current_label != normalized_label:
+            continue
+        return match.group(2).strip()
+    return ""
+
+
+def _extract_section_content(content: str, heading: str) -> str:
+    pattern = re.compile(
+        rf"^##\s+{re.escape(heading)}\s*$\n?(.*?)(?=^---\s*$|^##\s+|\Z)",
+        re.MULTILINE | re.DOTALL,
+    )
+    match = pattern.search(content)
+    return match.group(1).strip() if match else ""
+
+
+def _parse_stat_cell(value: str) -> int:
+    match = re.search(r"-?\d+", value)
+    return int(match.group()) if match else 10
+
+
+def _parse_bonus_cell(value: str) -> str:
+    cleaned = value.strip()
+    return "" if cleaned == "-" else cleaned
+
+
+def _parse_csv_value(value: str) -> list[str]:
+    cleaned = value.strip()
+    if not cleaned or cleaned == "-":
+        return []
+    return [item.strip() for item in cleaned.split(",") if item.strip()]
+
+
+def _parse_movement(value: str) -> dict[str, int]:
+    movement = {"walk": 0, "fly": 0, "swim": 0, "climb": 0, "burrow": 0}
+    for part in [item.strip() for item in value.split(",") if item.strip()]:
+        number_match = re.search(r"(\d+)", part)
+        if not number_match:
+            continue
+        distance = int(number_match.group(1))
+        lowered = part.casefold()
+        if "flug" in lowered:
+            movement["fly"] = distance
+        elif "schwimmen" in lowered:
+            movement["swim"] = distance
+        elif "klettern" in lowered:
+            movement["climb"] = distance
+        elif "graben" in lowered:
+            movement["burrow"] = distance
+        else:
+            movement["walk"] = distance
+    return movement
+
+
+def _parse_table_rows(content: str) -> tuple[dict[str, int], dict[str, str]]:
+    stats = {key: 10 for key, _ in MONSTER_STAT_FIELDS}
+    saves = {key: "" for key, _ in MONSTER_STAT_FIELDS}
+    attribute_match = re.search(
+        r"^\|\s*Attribut(?:e)?\s*\|(.*?)\|$", content, re.MULTILINE
+    )
+    save_match = re.search(r"^\|\s*Rettung(?:s\.)?\s*\|(.*?)\|$", content, re.MULTILINE)
+    if attribute_match:
+        cells = [cell.strip() for cell in attribute_match.group(1).split("|")]
+        for (key, _label), cell in zip(MONSTER_STAT_FIELDS, cells):
+            stats[key] = _parse_stat_cell(cell)
+    if save_match:
+        cells = [cell.strip() for cell in save_match.group(1).split("|")]
+        for (key, _label), cell in zip(MONSTER_STAT_FIELDS, cells):
+            saves[key] = _parse_bonus_cell(cell)
+    return (stats, saves)
+
+
+def _parse_spell_list_block(block: str) -> list[str]:
+    return [match.group(1).strip() for match in re.finditer(r"\[\[([^\]]+)\]\]", block)]
+
+
+def _parse_inline_action_details(detail_text: str) -> dict[str, str]:
+    parsed = {
+        "attack_bonus": "",
+        "range_text": "",
+        "damage_text": "",
+        "effect_text": "",
+    }
+    remaining_parts: list[str] = []
+
+    for raw_part in [part.strip() for part in detail_text.split(",") if part.strip()]:
+        part = raw_part
+
+        attack_match = re.match(
+            r"^([+-]?\d+)\s+zum Treffen\b(.*)$", part, re.IGNORECASE
+        )
+        if attack_match:
+            parsed["attack_bonus"] = attack_match.group(1).strip()
+            trailing = attack_match.group(2).strip()
+            if trailing:
+                remaining_parts.append(trailing)
+            continue
+
+        range_match = re.match(
+            r"^(?:Reichweite\s+)?(\d+(?:[.,]\d+)?m(?:\s+bis\s+\d+(?:[.,]\d+)?m)?)(?:\s+Reichweite)?\b(.*)$",
+            part,
+            re.IGNORECASE,
+        )
+        if range_match:
+            parsed["range_text"] = range_match.group(1).strip()
+            trailing = range_match.group(2).strip(" ,")
+            if trailing:
+                remaining_parts.append(trailing)
+            continue
+
+        remaining_parts.append(part)
+
+    unresolved_parts: list[str] = []
+    for part in remaining_parts:
+        if not parsed["damage_text"] and re.search(r"\d+W\d+", part, re.IGNORECASE):
+            parsed["damage_text"] = part.strip()
+            continue
+        unresolved_parts.append(part)
+
+    parsed["effect_text"] = ", ".join(unresolved_parts).strip()
+    return parsed
+
+
+def _extract_save_details(detail_text: str) -> tuple[str, str, str]:
+    match = re.search(
+        r"\b(?:(ein(?:e|en|em|er)?)\s+)?(St(?:ä|ae)?rke|Str|Ges(?:chick)?|Dex(?:terity)?|Kon(?:sti(?:tution)?|s?it)?|Con(?:stitution)?|Int(?:elligenz)?|Wei(?:sheit)?|Wis(?:dom)?|Cha(?:risma)?)\s+Rettungswurf\s+SG\s*(\d+)\b",
+        detail_text,
+        re.IGNORECASE,
+    )
+    if match is None:
+        return ("", "", detail_text.strip())
+
+    ability_map = {
+        "stärke": "Stärke",
+        "staerke": "Stärke",
+        "str": "Stärke",
+        "geschick": "Geschick",
+        "ges": "Geschick",
+        "dexterity": "Geschick",
+        "dex": "Geschick",
+        "konsti": "Konstitution",
+        "konsit": "Konstitution",
+        "kon": "Konstitution",
+        "con": "Konstitution",
+        "konstitution": "Konstitution",
+        "constitution": "Konstitution",
+        "int": "Intelligenz",
+        "intelligenz": "Intelligenz",
+        "weisheit": "Weisheit",
+        "wei": "Weisheit",
+        "wisdom": "Weisheit",
+        "wis": "Weisheit",
+        "charisma": "Charisma",
+        "cha": "Charisma",
+    }
+    article = (match.group(1) or "").strip()
+    normalized = match.group(2).casefold()
+    save_ability = ability_map.get(normalized, match.group(2).strip())
+    save_dc = match.group(3).strip()
+    replacement = f"{article} Rettungswurf".strip()
+    cleaned_text = re.sub(
+        r"\s{2,}",
+        " ",
+        f"{detail_text[:match.start()]} {replacement} {detail_text[match.end():]}",
+    ).strip(" .,;")
+    return (save_ability, save_dc, cleaned_text)
+
+
+def _resolve_action_type_hint(value: str) -> str:
+    normalized = value.strip().casefold()
+    action_type_map = {
+        "reaktion": "reaction",
+        "reaktions": "reaction",
+        "bonusaktion": "bonus",
+        "bonus action": "bonus",
+        "legendenaktion": "legendary",
+        "legendary": "legendary",
+        "passiv": "passive",
+        "passive": "passive",
+        "spezialfähigkeit": "special",
+        "spezialfaehigkeit": "special",
+    }
+    return action_type_map.get(normalized, "")
+
+
+def _parse_spellcasting_state(action_block: str) -> dict[str, object]:
+    result: dict[str, object] = {
+        "has_spellcasting": False,
+        "spellcaster_level": "",
+        "spell_slots": "",
+        "cantrips": [],
+        "spells_by_level": {level: [] for level in range(1, 10)},
+        "spells_per_day": [],
+        "special_spells": "",
+    }
+    spell_section_match = re.search(
+        r"### Zauber\n(.*?)(?=^###\s+|\Z)", action_block, re.MULTILINE | re.DOTALL
+    )
+    if not spell_section_match:
+        return result
+    result["has_spellcasting"] = True
+    spell_section = spell_section_match.group(1).strip()
+    first_line = next(
+        (line.strip() for line in spell_section.splitlines() if line.strip()), ""
+    )
+    result["spellcaster_level"] = first_line
+    slot_match = re.search(
+        r"\*\*Zauberpl[aä]tze:\*\*\s*(.*)$", spell_section, re.MULTILINE
+    )
+    if slot_match:
+        result["spell_slots"] = slot_match.group(1).strip().replace("-", "").strip()
+    cantrip_match = re.search(
+        r"\*\*Zaubertricks:\*\*(.*?)(?=\*\*\d+\. Grad:\*\*|\*\*Pro Tag:\*\*|\*\*Sonderzauber:\*\*|\Z)",
+        spell_section,
+        re.MULTILINE | re.DOTALL,
+    )
+    if cantrip_match:
+        result["cantrips"] = _parse_spell_list_block(cantrip_match.group(1))
+    for level in range(1, 10):
+        level_match = re.search(
+            rf"\*\*{level}\. Grad:\*\*(.*?)(?=\*\*\d+\. Grad:\*\*|\*\*Pro Tag:\*\*|\*\*Sonderzauber:\*\*|\Z)",
+            spell_section,
+            re.MULTILINE | re.DOTALL,
+        )
+        if level_match:
+            result["spells_by_level"][level] = _parse_spell_list_block(
+                level_match.group(1)
+            )
+    per_day_match = re.search(
+        r"\*\*Pro Tag:\*\*(.*?)(?=\*\*Sonderzauber:\*\*|\Z)",
+        spell_section,
+        re.MULTILINE | re.DOTALL,
+    )
+    if per_day_match:
+        result["spells_per_day"] = _parse_spell_list_block(per_day_match.group(1))
+    special_match = re.search(
+        r"\*\*Sonderzauber:\*\*(.*)$", spell_section, re.MULTILINE | re.DOTALL
+    )
+    if special_match:
+        result["special_spells"] = special_match.group(1).strip()
+    return result
+
+
+def _parse_actions_state(action_block: str) -> list[dict[str, str | int]]:
+    section_map = {
+        "Standard": "standard",
+        "Spezialfähigkeiten": "special",
+        "Spezialfaehigkeiten": "special",
+        "Bonusaktionen": "bonus",
+        "Reaktionen": "reaction",
+        "Legendenaktionen": "legendary",
+        "Passive Faehigkeiten": "passive",
+    }
+    actions: list[dict[str, str | int]] = []
+    current_type = "standard"
+    current_action: dict[str, str | int] | None = None
+    for raw_line in action_block.splitlines():
+        line = raw_line.rstrip()
+        stripped = line.strip()
+        if not stripped:
+            continue
+        if stripped.startswith("### "):
+            heading = stripped[4:].strip()
+            current_type = section_map.get(heading, current_type)
+            current_action = None
+            continue
+        action_match = re.match(r"^-\s+\*\*(.+?)\*\*\s*(.*)$", stripped)
+        if action_match:
+            action_name = action_match.group(1).rstrip(":").strip()
+            inline_detail = action_match.group(2).strip()
+            usage_limit = ""
+            usage_match = re.match(r"^(.*?)\s+\(([^)]+)\)$", action_name)
+            if usage_match:
+                action_name = usage_match.group(1).strip()
+                bracket_value = usage_match.group(2).strip()
+                hinted_action_type = _resolve_action_type_hint(bracket_value)
+                if hinted_action_type:
+                    current_type = hinted_action_type
+                else:
+                    usage_limit = bracket_value
+            current_action = _empty_monster_action()
+            current_action["action_type"] = current_type
+            current_action["name"] = action_name
+            current_action["usage_limit"] = usage_limit
+            if inline_detail.startswith(":"):
+                inline_detail = inline_detail[1:].strip()
+            if inline_detail:
+                inline_parts = _parse_inline_action_details(inline_detail)
+                current_action["attack_bonus"] = inline_parts["attack_bonus"]
+                current_action["range_text"] = inline_parts["range_text"]
+                current_action["damage_text"] = inline_parts["damage_text"]
+                save_ability, save_dc, cleaned_effect = _extract_save_details(
+                    inline_parts["effect_text"]
+                )
+                current_action["save_ability"] = save_ability
+                current_action["save_dc"] = save_dc
+                current_action["effect_text"] = (
+                    cleaned_effect.removeprefix("Reichweite. ")
+                    .removeprefix("Sichweite. ")
+                    .strip()
+                )
+            actions.append(current_action)
+            continue
+        if (
+            stripped.startswith("- ") or stripped.startswith("* ")
+        ) and current_action is not None:
+            detail = stripped[2:].strip()
+            if detail.startswith("Zauber: "):
+                current_action["linked_spell"] = re.sub(
+                    r"^[\[]\[|\][\]]$", "", detail.replace("Zauber:", "", 1).strip()
+                )
+            elif detail.startswith("Angriff: "):
+                current_action["attack_bonus"] = (
+                    detail.replace("Angriff:", "", 1).split(" ")[0].strip()
+                )
+            elif detail.startswith("Rettungswurf: "):
+                save_text = detail.replace("Rettungswurf:", "", 1).strip()
+                parts = save_text.split(" SG ")
+                if len(parts) == 2:
+                    current_action["save_ability"] = parts[0].strip()
+                    current_action["save_dc"] = parts[1].strip()
+            elif detail.startswith("Reichweite: "):
+                current_action["range_text"] = detail.replace(
+                    "Reichweite:", "", 1
+                ).strip()
+            elif detail.startswith("Ziel: "):
+                current_action["target_text"] = detail.replace("Ziel:", "", 1).strip()
+            elif detail.startswith("Schaden: "):
+                current_action["damage_text"] = detail.replace(
+                    "Schaden:", "", 1
+                ).strip()
+            else:
+                inline_parts = _parse_inline_action_details(detail)
+                field_was_already_present = any(
+                    (
+                        inline_parts["attack_bonus"]
+                        and current_action.get("attack_bonus"),
+                        inline_parts["range_text"] and current_action.get("range_text"),
+                        inline_parts["damage_text"]
+                        and current_action.get("damage_text"),
+                    )
+                )
+                if inline_parts["attack_bonus"] and not current_action.get(
+                    "attack_bonus"
+                ):
+                    current_action["attack_bonus"] = inline_parts["attack_bonus"]
+                if inline_parts["range_text"] and not current_action.get("range_text"):
+                    current_action["range_text"] = inline_parts["range_text"]
+                if inline_parts["damage_text"] and not current_action.get(
+                    "damage_text"
+                ):
+                    current_action["damage_text"] = inline_parts["damage_text"]
+
+                save_ability, save_dc, remaining_text = _extract_save_details(
+                    inline_parts["effect_text"]
+                )
+                if save_ability and not current_action.get("save_ability"):
+                    current_action["save_ability"] = save_ability
+                if save_dc and not current_action.get("save_dc"):
+                    current_action["save_dc"] = save_dc
+                remaining_text = (
+                    remaining_text.removeprefix("Reichweite. ")
+                    .removeprefix("Sichweite. ")
+                    .strip()
+                )
+                if remaining_text and not current_action.get("effect_text"):
+                    current_action["effect_text"] = remaining_text
+                elif remaining_text:
+                    notes = str(current_action.get("notes", "")).strip()
+                    current_action["notes"] = f"{notes}\n{remaining_text}".strip()
+                elif field_was_already_present:
+                    notes = str(current_action.get("notes", "")).strip()
+                    current_action["notes"] = f"{notes}\n{detail}".strip()
+    return actions or [_empty_monster_action()]
+
+
+def _load_monster_into_state(monster_name: str) -> None:
+    content = _bestiary_monster_file(monster_name).read_text(encoding="utf-8")
+    stats, saves = _parse_table_rows(content)
+    action_block = _extract_section_content(content, "Aktionen")
+    spell_state = _parse_spellcasting_state(action_block)
+    movement = _parse_movement(_extract_template_line_value(content, "Bewegung"))
+
+    st.session_state["monster_creator_name"] = re.sub(
+        r"^#\s+", "", content.splitlines()[0]
+    ).strip()
+    st.session_state["monster_creator_foundation"] = (
+        _extract_template_line_value(content, "Grundlage")
+        or MONSTER_FOUNDATION_OPTIONS[0]
+    )
+    st.session_state["monster_creator_cr"] = _extract_template_line_value(
+        content, "Stufe/Herausfordungsgrad"
+    )
+    st.session_state["monster_creator_alias"] = (
+        _extract_template_line_value(content, "Alias").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_age"] = (
+        _extract_template_line_value(content, "Alter").replace("-", "").strip()
+        or MONSTER_UNKNOWN_VALUE
+    )
+    st.session_state["monster_creator_languages"] = (
+        _extract_template_line_value(content, "Sprachen").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_traits"] = (
+        _extract_template_line_value(content, "Merkmale").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_type"] = "Frei eingeben"
+    st.session_state["monster_creator_type_custom"] = (
+        _extract_template_line_value(content, "Volk").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_origin"] = "Frei eingeben"
+    st.session_state["monster_creator_origin_custom"] = (
+        _extract_template_line_value(content, "Herkunft").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_role"] = "Frei eingeben"
+    st.session_state["monster_creator_role_custom"] = (
+        _extract_template_line_value(content, "Klasse").replace("-", "").strip()
+    )
+    alignment_value = (
+        _extract_template_line_value(content, "Gesinnung").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_alignment"] = alignment_value or "Neutral"
+    st.session_state["monster_creator_alignment_custom"] = ""
+
+    armor_line = _extract_template_line_value(content, "Rüstungsklasse (RK)/Rüstung")
+    armor_match = re.match(r"(\d+)(.*)$", armor_line)
+    if armor_match:
+        st.session_state["monster_creator_ac"] = int(armor_match.group(1))
+        st.session_state["monster_creator_armor_text"] = armor_match.group(2).strip()
+    st.session_state["monster_creator_weapons"] = (
+        _extract_template_line_value(content, "Waffen").replace("-", "").strip()
+    )
+    initiative_text = _extract_template_line_value(content, "Initiative")
+    st.session_state["monster_creator_initiative"] = (
+        int(re.search(r"-?\d+", initiative_text).group())
+        if re.search(r"-?\d+", initiative_text)
+        else 0
+    )
+    hp_text = _extract_template_line_value(content, "Trefferpunkte")
+    st.session_state["monster_creator_hp"] = (
+        int(re.search(r"\d+", hp_text).group()) if re.search(r"\d+", hp_text) else 1
+    )
+    st.session_state["monster_creator_hit_dice"] = (
+        _extract_template_line_value(content, "Trefferwürfel").replace("-", "").strip()
+    )
+    perception_text = _extract_template_line_value(content, "Passive Wahrnehmung")
+    st.session_state["monster_creator_passive_perception"] = (
+        int(re.search(r"\d+", perception_text).group())
+        if re.search(r"\d+", perception_text)
+        else 10
+    )
+    st.session_state["monster_creator_skill_lines"] = (
+        _extract_template_line_value(content, "Fertigkeiten").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_immunities"] = _parse_csv_value(
+        _extract_template_line_value(content, "Immunitäten")
+    )
+    st.session_state["monster_creator_resistances"] = _parse_csv_value(
+        _extract_template_line_value(content, "Resistenzen")
+    )
+    st.session_state["monster_creator_weaknesses"] = _parse_csv_value(
+        _extract_template_line_value(content, "Schwächen")
+    )
+
+    for key, _label in MONSTER_STAT_FIELDS:
+        st.session_state[f"monster_creator_{key}"] = stats[key]
+        st.session_state[f"monster_creator_save_{key}"] = saves[key]
+
+    for movement_key, state_key in (
+        ("walk", "monster_creator_move_walk"),
+        ("fly", "monster_creator_move_fly"),
+        ("swim", "monster_creator_move_swim"),
+        ("climb", "monster_creator_move_climb"),
+        ("burrow", "monster_creator_move_burrow"),
+    ):
+        st.session_state[state_key] = movement[movement_key]
+
+    st.session_state["monster_creator_tactics"] = (
+        _extract_section_content(content, "Taktik").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_equipment"] = (
+        _extract_section_content(content, "Ausrüstung").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_background"] = (
+        _extract_section_content(content, "Hintergrund").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_quotes"] = (
+        _extract_section_content(content, "Zitate").replace("-", "").strip()
+    )
+    st.session_state["monster_creator_notes"] = _extract_section_content(
+        content, "Notizen"
+    )
+
+    st.session_state["monster_creator_has_spellcasting"] = bool(
+        spell_state["has_spellcasting"]
+    )
+    st.session_state["monster_creator_spellcaster_level"] = str(
+        spell_state["spellcaster_level"]
+    )
+    st.session_state["monster_creator_spell_slots"] = str(spell_state["spell_slots"])
+    st.session_state["monster_creator_cantrips"] = list(spell_state["cantrips"])
+    for level in range(1, 10):
+        st.session_state[f"monster_creator_spells_level_{level}"] = list(
+            spell_state["spells_by_level"][level]
+        )
+    st.session_state["monster_creator_spells_per_day"] = list(
+        spell_state["spells_per_day"]
+    )
+    st.session_state["monster_creator_special_spells"] = str(
+        spell_state["special_spells"]
+    )
+    st.session_state["monster_creator_actions"] = _parse_actions_state(action_block)
 
 
 def _modifier(score: int) -> str:
@@ -448,7 +1041,7 @@ def _ensure_monster_creator_state() -> None:
         "monster_creator_role_custom": "",
         "monster_creator_alias": "",
         "monster_creator_age": MONSTER_UNKNOWN_VALUE,
-        "monster_creator_alignment": MONSTER_ALIGNMENT_OPTIONS[0],
+        "monster_creator_alignment": "Neutral",
         "monster_creator_alignment_custom": "",
         "monster_creator_languages": "",
         "monster_creator_traits": "",
@@ -562,9 +1155,7 @@ def _monster_profile_values() -> dict[str, object]:
         ),
         "alias": st.session_state.get("monster_creator_alias", "").strip(),
         "age": st.session_state.get("monster_creator_age", "").strip(),
-        "alignment": _resolved_select_value(
-            "monster_creator_alignment", "monster_creator_alignment_custom"
-        ),
+        "alignment": st.session_state.get("monster_creator_alignment", "").strip(),
         "languages": st.session_state.get("monster_creator_languages", "").strip(),
         "traits": st.session_state.get("monster_creator_traits", "").strip(),
         "ideals": st.session_state.get("monster_creator_ideals", "").strip(),
@@ -867,41 +1458,45 @@ def _render_export_markdown() -> str:
         + " |"
     )
 
-    lines = [
-        f"# {name}",
-        "",
-        f"- **Grundlage:** {profile['foundation']}",
-        f"- **Stufe/Herausfordungsgrad:** {_text_or_dash(str(profile['cr']))}",
-        f"- **Volk:** {_text_or_dash(str(profile['type']))}",
-        f"- **Herkunft:** {_text_or_dash(str(profile['origin']))}",
-        f"- **Klasse:** {_text_or_dash(str(profile['role']))}",
-        f"- **Alias:** {_text_or_dash(str(profile['alias']))}",
-        f"- **Alter:** {_text_or_dash(str(profile['age']))}",
-        f"- **Gesinnung:** {_text_or_dash(str(profile['alignment']))}",
-        f"- **Sprachen:** {_text_or_dash(str(profile['languages']))}",
-        f"- **Merkmale:** {_text_or_dash(str(profile['traits']))}",
-    ]
+    template = _monster_template_path().read_text(encoding="utf-8")
+    template = _set_first_heading(template, name)
+    template = _replace_template_line(template, "Grundlage", str(profile["foundation"]))
+    template = _replace_template_line(
+        template, "Stufe/Herausfordungsgrad", _text_or_dash(str(profile["cr"]))
+    )
+    template = _replace_template_line(
+        template, "Volk", _text_or_dash(str(profile["type"]))
+    )
+    template = _replace_template_line(
+        template, "Herkunft", _text_or_dash(str(profile["origin"]))
+    )
+    template = _replace_template_line(
+        template, "Klasse", _text_or_dash(str(profile["role"]))
+    )
+    template = _replace_template_line(
+        template, "Alias", _text_or_dash(str(profile["alias"]))
+    )
+    template = _replace_template_line(
+        template, "Alter", _text_or_dash(str(profile["age"]))
+    )
+    template = _replace_template_line(
+        template, "Gesinnung", _text_or_dash(str(profile["alignment"]))
+    )
+    template = _replace_template_line(
+        template, "Sprachen", _text_or_dash(str(profile["languages"]))
+    )
+    template = _replace_template_line(
+        template, "Merkmale", _text_or_dash(str(profile["traits"]))
+    )
 
-    if profile["ideals"]:
-        lines.append(f"- **Ideale:** {profile['ideals']}")
-    if profile["bonds"]:
-        lines.append(f"- **Bindungen:** {profile['bonds']}")
-
-    lines.extend(["", "---", ""])
-    if catalog_section:
-        lines.append(catalog_section)
-        lines.extend(["", "---", ""])
-
-    lines.extend(
+    properties_block = "\n".join(
         [
-            "## Eigenschaften",
-            "",
-            f"- **Ruestungsklasse (RK)/Ruestung:** {profile['ac']} {str(profile['armor_text']).strip()}".rstrip(),
+            f"- **Rüstungsklasse (RK)/Rüstung:** {profile['ac']} {str(profile['armor_text']).strip()}".rstrip(),
             f"- **Waffen:** {_text_or_dash(str(profile['weapons']))}",
             f"- **Initiative:** {profile['initiative']:+d}",
             f"- **Bewegung:** {movement_text}",
             f"- **Trefferpunkte:** {profile['hp']}",
-            f"- **Trefferwuerfel:** {_text_or_dash(str(profile['hit_dice']))}",
+            f"- **Trefferwürfel:** {_text_or_dash(str(profile['hit_dice']))}",
             f"- **Passive Wahrnehmung:** {profile['passive_perception']}",
             f"- **Fertigkeiten:** {_multiline_or_dash(str(profile['skills']))}",
             "",
@@ -910,58 +1505,40 @@ def _render_export_markdown() -> str:
             attribute_row,
             save_row,
             "",
-            f"- **Immunitaeten:** {_format_selected_values(profile['immunities'])}",
+            f"- **Immunitäten:** {_format_selected_values(profile['immunities'])}",
             f"- **Resistenzen:** {_format_selected_values(profile['resistances'])}",
-            f"- **Verwundbarkeiten:** {_format_selected_values(profile['vulnerabilities'])}",
-            f"- **Zustandsimmunitaeten:** {_multiline_or_dash(str(profile['condition_immunities']))}",
-            f"- **Sinne:** {_multiline_or_dash(str(profile['senses']))}",
-            f"- **Schwaechen:** {_format_selected_values(profile['weaknesses'])}",
-            "",
-            "---",
-            "",
-            "## Aktionen",
-            "",
+            f"- **Schwächen:** {_format_selected_values(profile['weaknesses'])}",
         ]
     )
+    action_block = (
+        "\n\n".join(action_sections)
+        if action_sections
+        else "### Standard\n\n- **Mehrfachangriff:**"
+    )
 
-    if action_sections:
-        lines.append("\n\n".join(action_sections))
-    else:
-        lines.extend(["### Standard", "", "- **Mehrfachangriff:**", ""])
-
-    lines.extend(
-        [
-            "",
-            "---",
-            "",
-            "## Taktik",
-            "",
-            _multiline_or_dash(str(profile["tactics"])),
-            "",
-            "---",
-            "",
-            "## Ausruestung",
-            "",
-            _multiline_or_dash(str(profile["equipment"])),
-            "",
-            "---",
-            "",
-            "## Hintergrund",
-            "",
-            _multiline_or_dash(str(profile["background"])),
-            "",
-            "---",
-            "",
-            "## Zitate",
-            "",
-            _multiline_or_dash(str(profile["quotes"])),
-        ]
+    template = _insert_catalog_section(template, catalog_section)
+    template = _replace_template_section(template, "Eigenschaften", properties_block)
+    template = _replace_template_section(template, "Aktionen", action_block)
+    template = _replace_template_section(
+        template, "Taktik", _multiline_or_dash(str(profile["tactics"]))
+    )
+    template = _replace_template_section(
+        template, "Ausrüstung", _multiline_or_dash(str(profile["equipment"]))
+    )
+    template = _replace_template_section(
+        template, "Hintergrund", _multiline_or_dash(str(profile["background"]))
+    )
+    template = _replace_template_section(
+        template, "Zitate", _multiline_or_dash(str(profile["quotes"]))
     )
 
     if profile["notes"]:
-        lines.extend(["", "---", "", "## Notizen", "", str(profile["notes"])])
+        template = (
+            template.rstrip()
+            + f"\n\n---\n\n## Notizen\n\n{str(profile['notes']).strip()}\n"
+        )
 
-    return "\n".join(lines).strip() + "\n"
+    return template.strip() + "\n"
 
 
 def _validate_monster_profile(profile: dict[str, object]) -> list[str]:
@@ -995,14 +1572,17 @@ def _validate_monster_profile(profile: dict[str, object]) -> list[str]:
     return warnings
 
 
-def _export_monster_markdown() -> tuple[bool, str]:
+def _export_monster_markdown(
+    *,
+    overwrite: bool = False,
+    target_name: str | None = None,
+) -> tuple[bool, str]:
     export_dir = _monster_export_directory()
     export_dir.mkdir(parents=True, exist_ok=True)
-    file_name = (
-        f"{_sanitize_filename(st.session_state.get('monster_creator_name', ''))}.md"
-    )
+    resolved_name = target_name or st.session_state.get("monster_creator_name", "")
+    file_name = f"{_sanitize_filename(str(resolved_name))}.md"
     export_path = export_dir / file_name
-    if export_path.exists():
+    if export_path.exists() and not overwrite:
         return False, f"Datei existiert bereits: {export_path.name}"
     export_path.write_text(_render_export_markdown(), encoding="utf-8")
     return True, str(export_path)
@@ -1042,16 +1622,48 @@ def _remove_action(index: int) -> None:
     st.session_state["monster_creator_actions"] = actions
 
 
-def monster_creator_view() -> None:
-    set_to_monster_creator_view()
+def render_monster_creator_view() -> None:
     if not monster_creator_is_admin():
         st.warning("Der Monster-Ersteller ist nur fuer Spielleiter verfuegbar.")
         return
 
     _ensure_monster_creator_state()
+    bestiary_monsters = _all_bestiary_monster_names()
 
     st.subheader("Monster Ersteller")
-    st.caption("Erfasst Kernwerte, Aktionen und Export fuer Bestiarium-Eintraege.")
+    st.caption(
+        "Erfasst Kernwerte, Aktionen und Export fuer Bestiarium-Eintraege auf Basis des Monster-Templates."
+    )
+
+    with st.container(border=True):
+        control_col, load_col, reset_col, overwrite_col = st.columns(
+            (4, 1, 1, 1), vertical_alignment="bottom"
+        )
+        with control_col:
+            selected_existing_monster = st.selectbox(
+                "Bestiarium-Monster laden",
+                [""] + bestiary_monsters,
+                key="monster_creator_existing_monster",
+                format_func=lambda value: value or "Neues Monster erstellen",
+            )
+        if load_col.button(
+            "Laden", use_container_width=True, disabled=not selected_existing_monster
+        ):
+            _load_monster_into_state(selected_existing_monster)
+            st.success(f"{selected_existing_monster} wurde in den Creator geladen.")
+            st.rerun()
+        if reset_col.button("Leeren", use_container_width=True):
+            for key in list(st.session_state.keys()):
+                if key.startswith("monster_creator_"):
+                    del st.session_state[key]
+            _ensure_monster_creator_state()
+            st.rerun()
+        overwrite_requested = overwrite_col.button(
+            "Ueberschreiben",
+            use_container_width=True,
+            disabled=not selected_existing_monster,
+            help="Speichert die aktuelle Formularansicht in die ausgewaehlte Bestiarium-Datei.",
+        )
 
     form_col, preview_col = st.columns([3, 4], vertical_alignment="top")
 
@@ -1097,13 +1709,9 @@ def monster_creator_view() -> None:
             row[0].text_input("Alter", key="monster_creator_age")
             row[1].selectbox(
                 "Gesinnung",
-                MONSTER_ALIGNMENT_OPTIONS,
+                _monster_alignment_select_options(),
                 key="monster_creator_alignment",
             )
-            if st.session_state.get("monster_creator_alignment") == "Frei eingeben":
-                row[1].text_input(
-                    "Gesinnung frei", key="monster_creator_alignment_custom"
-                )
             row[2].text_input("Sprachen", key="monster_creator_languages")
 
             st.text_area(
@@ -1246,6 +1854,7 @@ def monster_creator_view() -> None:
                     row[2].selectbox(
                         "Kategorie",
                         MONSTER_ACTION_CATEGORY_OPTIONS,
+                        format_func=_action_category_label,
                         key=_action_widget_key(action_id, "category"),
                     )
                     action_category = st.session_state.get(
@@ -1546,12 +2155,20 @@ def monster_creator_view() -> None:
             st.text_area("Zitate", key="monster_creator_quotes", height=80)
             st.text_area("Notizen", key="monster_creator_notes", height=80)
             if st.button(
-                "Monster nach World/Bestiarium exportieren",
-                use_container_width=True,
+                "Monster nach World/Bestiarium exportieren", use_container_width=True
             ):
                 export_success, export_message = _export_monster_markdown()
                 if export_success:
                     st.success(f"Monster exportiert nach {export_message}")
+                else:
+                    st.warning(export_message)
+            if overwrite_requested:
+                export_success, export_message = _export_monster_markdown(
+                    overwrite=True,
+                    target_name=selected_existing_monster,
+                )
+                if export_success:
+                    st.success(f"Monster aktualisiert: {export_message}")
                 else:
                     st.warning(export_message)
 
@@ -1570,3 +2187,8 @@ def monster_creator_view() -> None:
             st.markdown(_render_export_markdown())
             with st.expander("Rohes Markdown", expanded=False):
                 st.code(_render_export_markdown(), language="markdown")
+
+
+def monster_creator_view() -> None:
+    set_to_monster_creator_view()
+    render_monster_creator_view()

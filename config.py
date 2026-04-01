@@ -1,4 +1,5 @@
 from dataclasses import dataclass
+import os
 from pathlib import Path
 
 
@@ -16,6 +17,9 @@ class DashboardViewConfig:
 
 class Config:
     REPO_ROOT: Path = Path(__file__).resolve().parent
+    WIKI_APP_BASE_URL: str = os.getenv(
+        "ARDANOS_WIKI_APP_BASE_URL", "http://localhost:8501"
+    )
     MARKDOWN_DIR: Path = Path("World")
     IMAGE_DIR: Path = Path("World/Images")
     IMAGE_TYPES: set[str] = {".png", ".jpeg", ".jpg", ".svg"}

@@ -32,11 +32,12 @@ Das Wetter ist sonnig, allerdings ist der [[Lumaros]] wilder als sonst, da es in
 
 [[Maran Danlauf]] -> Sucht den Stand von [[Borin Eisensteg]] um neue Pfeilspitzen zu kaufen
 
-[[Borin Eisensteg]] -> Steht am Stand und Verkauft seine Werkzeuge und Waffen
+~~[[Borin Eisensteg]] -> Steht am Stand und Verkauft seine Werkzeuge und Waffen~~
 
 - Der Händler [[Hendrik Vaelor]] bittet um eine Eskorte nach [[Sonnenkliff]]
 	- es sollen unbekannte Söldner in der Nähe gesehen worden sein
 	- Empfehlung von [[Roderic Marith]]
+	- Transport von Wertvollen Stoffen, die er letzte Woche von einem Händler gekauft hatte und nun nach [[Verethia]] bringen möchte
 	
 - Auf dem Markt
 	- Blumenhändler
@@ -67,7 +68,7 @@ Lass **Wahrnehmung** zu – egal ob erfolgreich oder nicht, **etwas fühlt sich 
 
 **Gegner**
 - [[Grauklingen]]
-- [[Blutjäger]], [[Söldner]],  [[Schwarze Viper (Attentäter)]]
+- 2x [[Söldner]],  [[Schwarze Viper (Attentäter)]]
 - Söldner steht erhöht mit dem Bogen
 - Hinterhalt
 - Fokusangriffe auf das Ziel (Rufen seinen Namen)
@@ -97,11 +98,11 @@ Lass **Wahrnehmung** zu – egal ob erfolgreich oder nicht, **etwas fühlt sich 
 - Die Söldner haben den Auftrag in der Abenddämmerung vor 2 Tagen am östlichen Ende der Stadt am Lumaros erhalten
 
 Szene endet in der Abenddämerung, sodass die Gruppe in der Wildniss übernachten muss zu weit zum nächsten Dorf, entlang beider Richtungen
-![[Lagerfeuer.jpg|400]]
+
 
 ---
 ## Akt 3 – Der zweite Versuch
-
+![[Lagerfeuer.jpg|400]]
 > „Die Nacht ist still.  
 > Zu still.“
 
@@ -110,9 +111,9 @@ Szene endet in der Abenddämerung, sodass die Gruppe in der Wildniss übernachte
 > Nur das leise Glucksen des Wassers.“
 
 In der Nacht greifen die Attentäter erneut an
-- Je nachdem 2x [[Söldner]] + [[Schwarze Viper (Attentäter)]] oder 2x [[Blutjäger]] + [[Schwarze Viper (Attentäter)]]
+-  2x [[Blutjäger]] + [[Schwarze Viper (Attentäter)]]
 - Angriff während einer Nachtwache Schleichversche um das Ziel zu entführen
-
+Die 
 Lagerfeuer knackt ungewöhnlich laut / Ein Schatten bewegt sich gegen das Licht
 Dann:
 

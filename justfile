@@ -20,6 +20,10 @@ monster-catalog:
 run:
     uv run streamlit run app.py
 
+# run standalone sl dashboard prototype
+run-sl-dashboard:
+    uv run streamlit run sl_dashboard_app.py
+
 # linting
 lint:
     uv run black .

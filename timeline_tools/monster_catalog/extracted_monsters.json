@@ -1,12 +1,78 @@
 {
   "version": 1,
-  "generated_at": "2026-03-25T23:12:06.702254Z",
+  "generated_at": "2026-04-01T07:16:42.129280Z",
   "source_root": "World/Bestiarium",
   "scanner": {
     "name": "scan_bestiary.py",
     "rules_version": 1
   },
   "entries": [
+    {
+      "source_path": "World/Bestiarium/Blutjger.md",
+      "file_name": "Blutjger.md",
+      "name": "Blutjäger",
+      "key": "blutjager",
+      "parse_status": "ok",
+      "warnings": [],
+      "errors": [],
+      "raw_fields": {
+        "challenge_rating_raw": "5",
+        "alias_raw": "-",
+        "catalog_metadata": {
+          "key_override": null,
+          "strategy_override": null,
+          "tags_override": [],
+          "threat_override": null,
+          "action_override": null,
+          "volatility_override": null,
+          "legendary_actions_override": null,
+          "legendary_resistances_override": null,
+          "phase_change_override": null,
+          "summons_override": null,
+          "hint": null
+        }
+      },
+      "signals": {
+        "parsed_cr": 5,
+        "has_spells": false,
+        "spell_count": 0,
+        "has_multiattack": true,
+        "multiattack_count_estimate": 2,
+        "has_bonus_action": false,
+        "has_reaction": false,
+        "has_legend_actions_section": false,
+        "has_legendary_resistances_text": true,
+        "has_teleport": false,
+        "has_invisibility": false,
+        "has_flight": false,
+        "has_aoe": false,
+        "has_control_effects": false,
+        "has_summon_markers": true,
+        "has_phase_markers": true,
+        "has_resistances": true,
+        "has_immunities": true,
+        "matched_keywords": [
+          "Beschwörung",
+          "Legendäre Resistenz",
+          "Mehrfachangriff"
+        ]
+      },
+      "sections": {
+        "has_actions_section": true,
+        "has_spellcasting_section": false,
+        "has_legendary_actions_section": false,
+        "has_reactions_section": false,
+        "has_bonus_actions_section": false
+      },
+      "source_excerpt": {
+        "cr_line": "- **Stufe/Herausfordungsgrad:** 5",
+        "matched_lines": [
+          "- **Beschwörung-Override:**",
+          "- **Legendäre Resistenzen-Override:**",
+          "- **Mehrfachangriff:**"
+        ]
+      }
+    },
     {
       "source_path": "World/Bestiarium/Blutjäger.md",
       "file_name": "Blutjäger.md",
