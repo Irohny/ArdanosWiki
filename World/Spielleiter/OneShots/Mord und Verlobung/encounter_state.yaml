@@ -1,0 +1,103 @@
+scenes:
+  akt-2-hinterhalt-im-hohlweg:
+    status: draft
+    preparation:
+      monster_source_keys:
+      - Grauklingen
+      - Blutjäger
+      - Söldner
+      - Schwarze Viper
+    runtime:
+      round_number: 2
+      active_combatant_id: v
+      combatants:
+      - id: b
+        name: b
+        side: enemy
+        max_hp: 10
+        current_hp: 10
+        initiative: 10
+        armor_class: 10
+        conditions: []
+      - id: v
+        name: v
+        side: enemy
+        max_hp: 10
+        current_hp: 10
+        initiative: 10
+        armor_class: 10
+        conditions: []
+      - id: blutjager
+        name: Blutjäger
+        side: enemy
+        source_type: bestiary
+        source_key: Blutjäger
+        max_hp: 10
+        current_hp: 10
+        initiative: 11
+        armor_class: 10
+        conditions: []
+      - id: s1
+        name: s1
+        side: enemy
+        source_type: bestiary
+        source_key: Söldner
+        max_hp: 12
+        current_hp: 12
+        initiative: 9
+        armor_class: 10
+        conditions: []
+    notes: []
+  akt-1-markt-von-tiravor:
+    status: draft
+    preparation:
+      monster_source_keys:
+      - Der Namensnehmer
+      - Schwarze Viper (Attentäter)
+      - Blutjger
+    runtime:
+      round_number: 1
+      active_combatant_id: der-namensnehmer
+      combatants:
+      - id: der-namensnehmer
+        name: Der Namensnehmer
+        side: enemy
+        source_type: bestiary
+        source_key: Der Namensnehmer
+        max_hp: 12
+        current_hp: 5
+        initiative: 12
+        armor_class: 18
+        conditions: []
+      - id: schwarze-viper-attentater
+        name: Schwarze Viper (Attentäter)
+        side: enemy
+        source_type: bestiary
+        source_key: Schwarze Viper (Attentäter)
+        max_hp: 12
+        current_hp: 12
+        initiative: 12
+        armor_class: 16
+        conditions:
+        - name: Vergiftet
+      - id: blutjger
+        name: Blutjger
+        side: player
+        source_type: bestiary
+        source_key: Blutjger
+        max_hp: 10
+        current_hp: 10
+        initiative: 10
+        armor_class: 1
+        conditions: []
+      - id: gustav
+        name: gustav
+        side: player
+        source_type: player
+        source_key: ''
+        max_hp: null
+        current_hp: null
+        initiative: 12
+        armor_class: null
+        conditions: []
+    notes: []

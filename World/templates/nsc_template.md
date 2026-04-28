@@ -1,23 +1,17 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche und nicht oeffentliche Informationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
-
 - **Rufname / Beiname:**
 - **Titel / Amt:**
 - **Haus / Dynastie:**
-- **Regentschaft**
+- **Regentschaft:**
 - **Spezies / Volk:** Mensch
 - **Herkunft:** Herkunftsort oder Reich
 - **Geburtsjahr:** 0000 n.d.D.
 - **Sterbejahr:**
 - **Alter:**
 
-- **Verknuepfte Orte:** [[Ort A]], [[Ort B]]
-- **Verknuepfte NPCs:** [[Anderer NPC]], [[Weitere Figur]]
-- **Bekannt fuer:** Diplomatie, Kriegskunst, Fruemmigkeit oder Verwaltung
-- **Erste Erwaehnung:** unbekannt
+- **Verknüpfte Orte:** [[Ort A]], [[Ort B]]
+- **Verknüpfte NPCs:** [[Anderer NPC]], [[Weitere Figur]]
+- **Bekannt für:** Diplomatie, Kriegskunst, Fruemmigkeit oder Verwaltung
+- **Erste Erwähnung:** unbekannt
 - **Tags:** #schlagwort #region #rolle
 
 ## Beschreibung und Auftreten

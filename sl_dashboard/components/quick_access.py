@@ -10,42 +10,64 @@ def _build_wiki_page_href(target_path: str) -> str:
     return f"{cfg.WIKI_APP_BASE_URL}/?{urlencode({'page': target_path})}"
 
 
-def _render_link_card(
+def _render_link_row(
     title: str,
     *,
-    caption: str | None = None,
+    details: str | None = None,
     button_key: str,
     wiki_target: str | None,
-    is_active: bool,
 ) -> None:
-    with st.container(border=True):
-        header_col, action_col = st.columns((3, 1), vertical_alignment="top")
-        header_col.markdown(f"**{title}**")
-        with action_col:
-            if wiki_target:
-                st.link_button(
-                    "->",
-                    url=_build_wiki_page_href(wiki_target),
-                    use_container_width=True,
-                    type="primary" if is_active else "secondary",
-                )
-            else:
-                st.button(
-                    "-",
-                    key=button_key,
-                    use_container_width=True,
-                    type="primary" if is_active else "secondary",
-                    disabled=True,
-                )
-        if caption:
-            st.caption(caption)
+    name_col, meta_col, action_col = st.columns((3.6, 2.4, 1.0), gap="small")
+    name_col.markdown(f"**{title}**")
+    meta_col.caption(details or "-")
+
+    if wiki_target:
+        action_col.link_button(
+            "->",
+            url=_build_wiki_page_href(wiki_target),
+            use_container_width=True,
+            type="secondary",
+        )
+    else:
+        action_col.button(
+            "->",
+            key=f"{button_key}::missing-wiki",
+            use_container_width=True,
+            type="secondary",
+            disabled=True,
+        )
+
+    st.divider()
+
+
+def _build_npc_detail_lines(npc: DashboardNpc) -> tuple[str, str]:
+    species_line = npc.species or "-"
+    return species_line, npc.location or "-"
+
+
+def _render_npc_row(npc: DashboardNpc) -> None:
+    name_col, details_col, action_col = st.columns((2, 3, 1), gap="small")
+    species_line, extra_line = _build_npc_detail_lines(npc)
+
+    name_col.markdown(f"**{npc.name}**")
+    details_col.caption(species_line)
+    details_col.caption(extra_line)
+
+    if npc.source_file:
+        action_col.link_button(
+            "->",
+            url=_build_wiki_page_href(npc.source_file),
+            use_container_width=True,
+            type="secondary",
+        )
+
+    st.divider()
 
 
 def render_quick_links(
     links: tuple[DashboardLink, ...],
     *,
     allowed_contexts: tuple[str, ...] | None = None,
-    active_title: str | None = None,
 ) -> None:
     filtered_links = links
     if allowed_contexts is not None:
@@ -59,29 +81,20 @@ def render_quick_links(
         return
 
     for link in filtered_links:
-        _render_link_card(
+        _render_link_row(
             link.title,
+            details=link.reason or link.context,
             button_key=f"detail-link::{link.context}::{link.title}",
             wiki_target=link.source_file or None,
-            is_active=active_title == link.title,
         )
 
 
 def render_active_npcs(
     npcs: tuple[DashboardNpc, ...],
-    *,
-    active_name: str | None = None,
 ) -> None:
     if not npcs:
         st.caption("Noch keine NSCs markiert.")
         return
 
     for npc in npcs:
-        caption_parts = [value for value in (npc.species, npc.title) if value]
-        _render_link_card(
-            npc.name,
-            caption=" | ".join(caption_parts) if caption_parts else None,
-            button_key=f"detail-npc::{npc.name}",
-            wiki_target=npc.source_file or None,
-            is_active=active_name == npc.name,
-        )
+        _render_npc_row(npc)

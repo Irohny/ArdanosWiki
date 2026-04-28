@@ -133,6 +133,7 @@ MONSTER_DEFENSE_OPTIONS = [
     "Hieb von nicht-magischen Waffen",
     "Wucht, Stich und Hieb von nicht-magischen Waffen",
 ]
+MONSTER_LOADED_MONSTER_KEY = "monster_creator_loaded_monster"
 
 
 def set_to_monster_creator_view() -> None:
@@ -726,6 +727,7 @@ def _load_monster_into_state(monster_name: str) -> None:
     st.session_state["monster_creator_notes"] = _extract_section_content(
         content, "Notizen"
     )
+    st.session_state[MONSTER_LOADED_MONSTER_KEY] = monster_name
 
     st.session_state["monster_creator_has_spellcasting"] = bool(
         spell_state["has_spellcasting"]
@@ -1030,6 +1032,7 @@ def _normalize_actions_state() -> None:
 
 def _ensure_monster_creator_state() -> None:
     defaults = {
+        MONSTER_LOADED_MONSTER_KEY: "",
         "monster_creator_name": "",
         "monster_creator_foundation": MONSTER_FOUNDATION_OPTIONS[0],
         "monster_creator_cr": "",
@@ -1126,6 +1129,21 @@ def _ensure_monster_creator_state() -> None:
         save_key = f"monster_creator_save_{key}"
         if save_key not in st.session_state:
             st.session_state[save_key] = ""
+
+
+def _reset_monster_creator_form(*, preserve_existing_selection: bool = False) -> None:
+    preserved_state: dict[str, object] = {}
+    if preserve_existing_selection and "monster_creator_existing_monster" in st.session_state:
+        preserved_state["monster_creator_existing_monster"] = st.session_state[
+            "monster_creator_existing_monster"
+        ]
+
+    for key in list(st.session_state.keys()):
+        if key.startswith("monster_creator_"):
+            del st.session_state[key]
+
+    st.session_state.update(preserved_state)
+    _ensure_monster_creator_state()
 
 
 def _monster_profile_values() -> dict[str, object]:
@@ -1636,27 +1654,26 @@ def render_monster_creator_view() -> None:
     )
 
     with st.container(border=True):
-        control_col, load_col, reset_col, overwrite_col = st.columns(
-            (4, 1, 1, 1), vertical_alignment="bottom"
+        control_col, reset_col, overwrite_col = st.columns(
+            (4, 1, 1), vertical_alignment="bottom"
         )
         with control_col:
             selected_existing_monster = st.selectbox(
-                "Bestiarium-Monster laden",
+                "Bestehendes Bestiarium-Monster bearbeiten",
                 [""] + bestiary_monsters,
                 key="monster_creator_existing_monster",
                 format_func=lambda value: value or "Neues Monster erstellen",
             )
-        if load_col.button(
-            "Laden", use_container_width=True, disabled=not selected_existing_monster
-        ):
+            st.caption("Die Auswahl wird direkt in den Editor geladen.")
+
+        loaded_monster = str(st.session_state.get(MONSTER_LOADED_MONSTER_KEY, ""))
+        if selected_existing_monster and selected_existing_monster != loaded_monster:
             _load_monster_into_state(selected_existing_monster)
-            st.success(f"{selected_existing_monster} wurde in den Creator geladen.")
-            st.rerun()
+        elif not selected_existing_monster and loaded_monster:
+            _reset_monster_creator_form(preserve_existing_selection=True)
+
         if reset_col.button("Leeren", use_container_width=True):
-            for key in list(st.session_state.keys()):
-                if key.startswith("monster_creator_"):
-                    del st.session_state[key]
-            _ensure_monster_creator_state()
+            _reset_monster_creator_form()
             st.rerun()
         overwrite_requested = overwrite_col.button(
             "Ueberschreiben",

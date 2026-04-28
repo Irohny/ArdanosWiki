@@ -13,17 +13,23 @@ def _render_status_list(items: tuple[str, ...]) -> None:
         render_wiki_markdown(f"- {item}")
 
 
-def render_session_status_card(status: SessionStatus) -> None:
+def has_session_status_content(
+    status: SessionStatus,
+    *,
+    alerts: tuple[str, ...] = (),
+) -> bool:
+    return bool(status.current_goal or alerts)
+
+
+def render_session_status_card(
+    status: SessionStatus,
+    *,
+    alerts: tuple[str, ...] = (),
+) -> None:
     if status.current_goal:
         st.markdown("**Sitzungsziel**")
         render_wiki_markdown(status.current_goal)
 
-    if status.pacing:
-        st.markdown(f"**Pacing:** {status.pacing}")
-
-    st.markdown("**Offene Faeden**")
-    if not status.open_threads:
-        st.caption("Noch keine offenen Faeden notiert.")
-        return
-
-    _render_status_list(status.open_threads)
+    if alerts:
+        st.markdown("**Warnungen**")
+        _render_status_list(alerts)

@@ -37,24 +37,31 @@ def _render_scene_summary(
     active_scene_title: str,
     *,
     state_key: str,
+    scene_number: int,
+    total_scenes: int,
+    phase_label: str,
 ) -> None:
     is_active = active_scene_title == scene.title
-    title_color = "#63391f" if is_active else "#352619"
-
+    status_label = scene.status.strip().capitalize() or "-"
     with st.container(border=True):
-        header_col, action_col = st.columns((4, 1), vertical_alignment="top")
-        header_col.markdown(
-            f'<div style="font-weight: 700; color: {title_color}; padding-top: 0.35rem;">{scene.title}</div>',
-            unsafe_allow_html=True,
-        )
-        action_col.button(
-            "->",
-            key=f"scene-open::{scene.title}",
-            use_container_width=True,
-            type="primary" if is_active else "secondary",
-            on_click=_set_active_value,
-            args=(state_key, scene.title),
-        )
+        content_col, action_col = st.columns((5, 1), gap="small")
+        with content_col:
+            st.caption(f"{phase_label} | Szene {scene_number} von {total_scenes}")
+            if is_active:
+                st.markdown(f"**{scene.title}**")
+            else:
+                st.markdown(scene.title)
+            st.caption(f"Ort: {scene.location or '-'} | Status: {status_label}")
+        with action_col:
+            st.button(
+                "->",
+                key=f"scene-open::{scene.title}",
+                use_container_width=True,
+                type="primary" if is_active else "secondary",
+                help="Szene aktivieren",
+                on_click=_set_active_value,
+                args=(state_key, scene.title),
+            )
 
 
 def render_scene_focus_card(
@@ -63,6 +70,8 @@ def render_scene_focus_card(
     state_key: str,
     previous_scene_title: str | None,
     next_scene_title: str | None,
+    active_scene_number: int,
+    total_scenes: int,
 ) -> None:
     prev_col, title_col, next_col = st.columns((1, 6, 1), vertical_alignment="center")
 
@@ -83,6 +92,7 @@ def render_scene_focus_card(
 
     with title_col:
         st.subheader(scene.title)
+        st.caption(f"Aktuelle Szene {active_scene_number} von {total_scenes}")
 
     with next_col:
         st.button(
@@ -101,6 +111,10 @@ def render_scene_focus_card(
 
     with st.expander("Szenenbeschreibung", expanded=True):
         render_wiki_markdown(scene.summary)
+
+    if scene.goal:
+        with st.expander("Szenenziel", expanded=False):
+            render_wiki_markdown(scene.goal)
 
     con2 = st.container(border=True)
     con2.markdown("**Szenennotizen**")
@@ -142,17 +156,48 @@ def render_next_scenes(
         st.caption("Noch keine Folgeszenen definiert.")
         return
 
-    active_scene = ordered_scenes[0]
-    _render_scene_summary(active_scene, active_scene_title, state_key=state_key)
+    active_index = next(
+        (
+            index
+            for index, scene in enumerate(ordered_scenes)
+            if scene.title == active_scene_title
+        ),
+        0,
+    )
+    total_scenes = len(ordered_scenes)
+    completed_scenes = ordered_scenes[:active_index]
+    active_scene = ordered_scenes[active_index]
+    upcoming_scenes = ordered_scenes[active_index + 1 :]
 
-    next_scene = ordered_scenes[1] if len(ordered_scenes) > 1 else None
-    if next_scene is not None:
-        _render_scene_summary(next_scene, active_scene_title, state_key=state_key)
+    if completed_scenes:
+        for scene_number, scene in enumerate(completed_scenes, start=1):
+            _render_scene_summary(
+                scene,
+                active_scene_title,
+                state_key=state_key,
+                scene_number=scene_number,
+                total_scenes=total_scenes,
+                phase_label="Vorher",
+            )
 
-    remaining_scenes = ordered_scenes[2:]
-    if not remaining_scenes:
+    _render_scene_summary(
+        active_scene,
+        active_scene_title,
+        state_key=state_key,
+        scene_number=active_index + 1,
+        total_scenes=total_scenes,
+        phase_label="Aktiv",
+    )
+
+    if not upcoming_scenes:
         return
 
-    st.markdown("---")
-    for scene in remaining_scenes:
-        _render_scene_summary(scene, active_scene_title, state_key=state_key)
+    for offset, scene in enumerate(upcoming_scenes, start=1):
+        _render_scene_summary(
+            scene,
+            active_scene_title,
+            state_key=state_key,
+            scene_number=active_index + offset + 1,
+            total_scenes=total_scenes,
+            phase_label="Als naechstes" if offset == 1 else "Spaeter",
+        )

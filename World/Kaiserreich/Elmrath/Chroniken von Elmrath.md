@@ -1,5 +1,5 @@
 
-![[Caelynn Morgenblatt]]
+![[Celynia Morgenblatt]]
 
 ---
 

@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3cd86bcf0afc78ed",
+        "id": "82da152e6c82c51b",
         "type": "tabs",
         "children": [
           {
-            "id": "89732927cd70c283",
+            "id": "943348e17862fa0b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Sessions/Session 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Session 1"
             }
           }
         ]
@@ -162,44 +166,45 @@
       "bases:Neue Base erstellen": false
     }
   },
-  "active": "89732927cd70c283",
+  "active": "943348e17862fa0b",
   "lastOpenFiles": [
-    "World/Bestiarium/Blutjger.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/NPCs/Celynia Morgenblatt 1.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Sessions/Session 1.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Sessions",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Leitfaden.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/NPCs/Thalanor.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/NPCs/Lethariel Nachtwind.md",
+    "World/templates/nsc_template.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/NPCs/Aric Dornenspeer.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/NPCs/Vampir.md",
+    "World/Mythologie/Existenzebene/Schleierwelt.md",
+    "World/Mythologie/Existenzebene/Schattenlicht.md",
+    "World/Kaiserreich/Elmrath/NPCs/Celynia Morgenblatt.md",
+    "World/Kaiserreich/Elmrath/Paktfest von Len'yrel.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Walderkundung.md",
+    "World/Spielleiter/Orte/Sumpf des Nichtseins.md",
+    "World/Spielleiter/Orte/Todeswasser See.md",
+    "World/Spielleiter/Orte/Lichtung des Friedens.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Lorathiel/Lorathiel.md",
+    "World/Spielleiter/Kampangen/Gegner NPCs.md",
+    "World/Spielleiter/Kampangen/Runenorakel.md",
+    "World/Zauberarchiv/Donnerwoge.md",
+    "World/Zauberarchiv/Donnerndes Niederstrecken.md",
+    "World/Zauberarchiv/Zerbersten.md",
+    "World/Zauberarchiv/Blitz herbeirufen.md",
+    "World/Zauberarchiv/Feuerball.md",
+    "World/Zauberarchiv/Schneesturm.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Startdorf.md",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/NPCs",
+    "World/Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Lorathiel",
+    "World/Images/elmrath_vertical_timeline.svg",
     "sl_dashboard/__pycache__/editor.cpython-312.pyc",
     "sl_dashboard/__pycache__/creator_view.cpython-312.pyc",
     "sl_dashboard/creator_view.py",
     "sl_dashboard/editor.py",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Roderic Marith.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Noah Silberklinge.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Hendrik Vaelor.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Elowen Marith.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Bruder Calen Wellenruh.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Borin Eisensteg.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Albrecht von Dornenfels.md",
     "sl_dashboard/components/__pycache__/theme.cpython-312.pyc",
     "sl_dashboard/components/theme.py",
-    "World/Spielleiter/OneShots/Mord und Verlobung/session.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-5-finale-konsequenzen.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-4-konfrontation-im-anwesen.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-3-nachtangriff-am-lager.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-2-hinterhalt-im-hohlweg.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/scenes/akt-1-markt-von-tiravor.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/scenes",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Thalion Grünquell.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Maran Danlauf.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Joram Lumarsson.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Eldric Feldhain.md",
-    "sl_dashboard/data/mord_und_verlobung/npcs/Roderic Marith.md",
-    "sl_dashboard/data/mord_und_verlobung/npcs/Noah Silberklinge.md",
-    "sl_dashboard/data/mord_und_verlobung/npcs/Hendrik Vaelor.md",
-    "sl_dashboard/data/mord_und_verlobung/npcs/Albrecht von Dornenfels.md",
-    "sl_dashboard/data/mord_und_verlobung/npcs/Elowen Marith.md",
-    "sl_dashboard/data/mord_und_verlobung/npcs/Bruder Calen Wellenruh.md",
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Grauklingen.md",
-    "sl_dashboard/data/mord_und_verlobung/monsters",
-    "__pycache__/sl_dashboard_app.cpython-312.pyc",
-    "sl_dashboard/components/__pycache__/markdown.cpython-312.pyc",
     "World/Images/Schatzkammer_innen.png",
     "World/Spielleiter/Kampange/Kapitel 1 Das Attentat/Zeitungsartikel.png",
     "World/Images/Schatzkammer_Eingang.jpg",
@@ -208,7 +213,6 @@
     "World/Spielleiter/Fundus/Tränke/Elexir der Wandelnen Träume.png",
     "World/Spielleiter/Fundus/Tränke/Flasche des ewigen Rums.png",
     "World/Spielleiter/Fundus/Tränke/Trank 1.png",
-    "World/Spielleiter/Fundus/Tränke/Trank 2.png",
-    "World/Spielleiter/Fundus/Tränke/Trank 3.png"
+    "World/Spielleiter/Fundus/Tränke/Trank 2.png"
   ]
 }

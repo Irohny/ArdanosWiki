@@ -5,10 +5,16 @@ import re
 
 import yaml
 
+from sl_dashboard.editor import get_bestiary_defenses
 from sl_dashboard.models import (
     DashboardData,
+    DashboardEncounter,
+    EncounterCombatant,
+    EncounterCondition,
+    EncounterPreparation,
     DashboardLink,
     DashboardNpc,
+    EncounterRuntime,
     DashboardScene,
     DashboardTool,
     SessionStatus,
@@ -76,6 +82,7 @@ SESSION_SECTION_FIELD_MAP = {
     "alerts": "alerts",
     "notizen": "notes",
 }
+ENCOUNTER_STATE_FILE_NAMES = ("encounter_state.yaml", "encounter_state.yml")
 
 
 @dataclass(frozen=True)
@@ -631,6 +638,11 @@ def _build_scene(record: dict[str, Any]) -> DashboardScene:
         status=str(record.get("status", "offen")),
         summary=str(record.get("summary", "")),
         location=str(record.get("location", "")),
+        id=_first_non_empty(
+            str(record.get("id", "")),
+            str(record.get("title", "")),
+        ),
+        encounter=record.get("encounter"),
         source_file=str(record.get("source_file", "")),
         source_heading=str(record.get("source_heading", "")),
         image_files=_as_tuple(record.get("image_files")),
@@ -644,6 +656,132 @@ def _build_scene(record: dict[str, Any]) -> DashboardScene:
     )
 
 
+def _resolve_encounter_state_file(base_dir: Path) -> Path | None:
+    for name in ENCOUNTER_STATE_FILE_NAMES:
+        candidate = base_dir / name
+        if candidate.exists():
+            return candidate
+    return None
+
+
+def _load_encounter_state(base_dir: Path) -> dict[str, Any]:
+    encounter_state_file = _resolve_encounter_state_file(base_dir)
+    if encounter_state_file is None:
+        return {}
+    return _read_yaml_file(encounter_state_file)
+
+
+def _build_encounter_condition(record: Any) -> EncounterCondition:
+    if not isinstance(record, dict):
+        return EncounterCondition(name=str(record).strip())
+
+    return EncounterCondition(
+        name=str(record.get("name", "")).strip(),
+        duration=str(record.get("duration", "")).strip(),
+        source=str(record.get("source", "")).strip(),
+        notes=str(record.get("notes", "")).strip(),
+    )
+
+
+def _build_encounter_combatant(record: Any) -> EncounterCombatant:
+    if not isinstance(record, dict):
+        raise ValueError("Encounter-Combatant muss ein Dictionary sein.")
+
+    source_type = str(record.get("source_type", "")).strip()
+    source_key = str(record.get("source_key", "")).strip()
+    conditions = tuple(
+        _build_encounter_condition(condition)
+        for condition in record.get("conditions", ()) or ()
+    )
+    bestiary_defenses = (
+        get_bestiary_defenses(source_key)
+        if source_type == "bestiary" and source_key
+        else {
+            "immunities": (),
+            "resistances": (),
+            "weaknesses": (),
+        }
+    )
+    immunities = _as_tuple(record.get("immunities")) or bestiary_defenses["immunities"]
+    resistances = _as_tuple(record.get("resistances")) or bestiary_defenses["resistances"]
+    weaknesses = _as_tuple(record.get("weaknesses")) or bestiary_defenses["weaknesses"]
+
+    return EncounterCombatant(
+        id=str(record.get("id", "")).strip(),
+        name=str(record.get("name", "")).strip(),
+        side=str(record.get("side", "")).strip(),
+        source_type=source_type,
+        source_key=source_key,
+        max_hp=record.get("max_hp") if isinstance(record.get("max_hp"), int) else None,
+        current_hp=(
+            record.get("current_hp")
+            if isinstance(record.get("current_hp"), int)
+            else None
+        ),
+        initiative=(
+            record.get("initiative")
+            if isinstance(record.get("initiative"), int)
+            else None
+        ),
+        armor_class=(
+            record.get("armor_class")
+            if isinstance(record.get("armor_class"), int)
+            else None
+        ),
+        immunities=immunities,
+        resistances=resistances,
+        weaknesses=weaknesses,
+        conditions=conditions,
+        notes=str(record.get("notes", "")).strip(),
+    )
+
+
+def _build_encounter_preparation(record: Any) -> EncounterPreparation:
+    if not isinstance(record, dict):
+        return EncounterPreparation()
+
+    return EncounterPreparation(
+        target_difficulty=str(record.get("target_difficulty", "")).strip(),
+        predicted_difficulty=str(record.get("predicted_difficulty", "")).strip(),
+        monster_source_keys=_as_tuple(record.get("monster_source_keys")),
+        analysis_summary=str(record.get("analysis_summary", "")).strip(),
+        analysis_notes=_as_tuple(record.get("analysis_notes")),
+    )
+
+
+def _build_encounter_runtime(record: Any) -> EncounterRuntime:
+    if not isinstance(record, dict):
+        return EncounterRuntime()
+
+    combatants = tuple(
+        _build_encounter_combatant(combatant)
+        for combatant in record.get("combatants", ()) or ()
+    )
+
+    round_number = record.get("round_number")
+    if not isinstance(round_number, int) or round_number < 1:
+        round_number = 1
+
+    return EncounterRuntime(
+        round_number=round_number,
+        active_combatant_id=str(record.get("active_combatant_id", "")).strip(),
+        combatants=combatants,
+    )
+
+
+def _build_dashboard_encounter(scene_id: str, record: Any) -> DashboardEncounter | None:
+    if not isinstance(record, dict) or not record:
+        return None
+
+    return DashboardEncounter(
+        scene_id=scene_id,
+        status=str(record.get("status", "draft")).strip() or "draft",
+        preparation=_build_encounter_preparation(record.get("preparation")),
+        runtime=_build_encounter_runtime(record.get("runtime")),
+        notes=_as_tuple(record.get("notes")),
+    )
+
+
 def _build_link(record: dict[str, Any]) -> DashboardLink:
     source_file = str(record.get("world_file", record.get("source_file", "")))
     source_heading = str(record.get("source_heading", ""))
@@ -651,13 +789,24 @@ def _build_link(record: dict[str, Any]) -> DashboardLink:
     properties = world_record.properties or {}
     context = str(record.get("context", "Link"))
 
-    reason = str(record.get("reason", record.get("summary", "")))
-    if not reason and context.casefold() == "monster":
-        reason = _build_monster_summary(
-            _read_world_content(source_file, source_heading), properties
+    if context.casefold() == "monster":
+        reason = _first_non_empty(
+            str(record.get("species", "")),
+            str(record.get("race", "")),
+            str(record.get("volk", "")),
+            properties.get("volk", ""),
+            properties.get("rasse", ""),
+            str(record.get("reason", "")),
+            str(record.get("summary", "")),
         )
-    if not reason:
-        reason = world_record.summary
+        if not reason:
+            reason = _build_monster_summary(
+                _read_world_content(source_file, source_heading), properties
+            )
+    else:
+        reason = str(record.get("reason", record.get("summary", "")))
+        if not reason:
+            reason = world_record.summary
 
     return DashboardLink(
         title=_first_non_empty(
@@ -722,6 +871,13 @@ def _build_npc(record: dict[str, Any]) -> DashboardNpc:
         motivation=motivation,
         tension=str(record.get("tension", "")),
         species=species,
+        location=_first_non_empty(
+            str(record.get("location", "")),
+            str(record.get("ort", "")),
+            properties.get("ort", ""),
+            properties.get("verknuepfte_orte", ""),
+            properties.get("herkunft", ""),
+        ),
         title=title,
         voice=_first_non_empty(
             str(record.get("voice", "")),
@@ -826,6 +982,10 @@ def load_dashboard_data(session_dir: Path | None = None) -> DashboardData:
         _resolve_session_file(base_dir),
         section_field_map=SESSION_SECTION_FIELD_MAP,
     )
+    encounter_state = _load_encounter_state(base_dir)
+    encounters_by_scene_id = encounter_state.get("scenes", {})
+    if not isinstance(encounters_by_scene_id, dict):
+        raise ValueError(f"Ungueltiger Encounter-State in {base_dir}")
 
     scenes_by_id = _load_records_by_id(
         _resolve_records_dir(base_dir, "scenes", "Scenes"),
@@ -859,9 +1019,25 @@ def load_dashboard_data(session_dir: Path | None = None) -> DashboardData:
         **monsters_by_id,
         **_load_world_monster_records(ordered_scene_records, monsters_by_id),
     }
-    current_scene = _build_scene(scenes_by_id[current_scene_id])
+    current_scene = _build_scene(
+        {
+            **scenes_by_id[current_scene_id],
+            "encounter": _build_dashboard_encounter(
+                current_scene_id,
+                encounters_by_scene_id.get(current_scene_id),
+            ),
+        }
+    )
     next_scenes = tuple(
-        _build_scene(scenes_by_id[scene_id])
+        _build_scene(
+            {
+                **scenes_by_id[scene_id],
+                "encounter": _build_dashboard_encounter(
+                    scene_id,
+                    encounters_by_scene_id.get(scene_id),
+                ),
+            }
+        )
         for scene_id in ordered_scene_ids
         if scene_id != current_scene_id and scene_id in scenes_by_id
     )

@@ -1,4 +1,57 @@
+from __future__ import annotations
+
 from dataclasses import dataclass, field
+
+
+@dataclass(frozen=True)
+class EncounterCondition:
+    name: str
+    duration: str = ""
+    source: str = ""
+    notes: str = ""
+
+
+@dataclass(frozen=True)
+class EncounterCombatant:
+    id: str
+    name: str
+    side: str
+    source_type: str = ""
+    source_key: str = ""
+    max_hp: int | None = None
+    current_hp: int | None = None
+    initiative: int | None = None
+    armor_class: int | None = None
+    immunities: tuple[str, ...] = ()
+    resistances: tuple[str, ...] = ()
+    weaknesses: tuple[str, ...] = ()
+    conditions: tuple[EncounterCondition, ...] = ()
+    notes: str = ""
+
+
+@dataclass(frozen=True)
+class EncounterPreparation:
+    target_difficulty: str = ""
+    predicted_difficulty: str = ""
+    monster_source_keys: tuple[str, ...] = ()
+    analysis_summary: str = ""
+    analysis_notes: tuple[str, ...] = ()
+
+
+@dataclass(frozen=True)
+class EncounterRuntime:
+    round_number: int = 1
+    active_combatant_id: str = ""
+    combatants: tuple[EncounterCombatant, ...] = ()
+
+
+@dataclass(frozen=True)
+class DashboardEncounter:
+    scene_id: str
+    status: str = "draft"
+    preparation: EncounterPreparation = field(default_factory=EncounterPreparation)
+    runtime: EncounterRuntime = field(default_factory=EncounterRuntime)
+    notes: tuple[str, ...] = ()
 
 
 @dataclass(frozen=True)
@@ -7,6 +60,8 @@ class DashboardScene:
     status: str
     summary: str
     location: str
+    id: str = ""
+    encounter: DashboardEncounter | None = None
     source_file: str = ""
     source_heading: str = ""
     image_files: tuple[str, ...] = ()
@@ -26,6 +81,7 @@ class DashboardNpc:
     motivation: str
     tension: str
     species: str = ""
+    location: str = ""
     title: str = ""
     voice: str = ""
     reason: str = ""

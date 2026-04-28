@@ -4,7 +4,7 @@ from sl_dashboard.components.markdown import render_wiki_markdown
 from sl_dashboard.models import DashboardTool
 
 
-def _render_notes(notes: tuple[str, ...]) -> None:
+def render_notes(notes: tuple[str, ...]) -> None:
     if len(notes) == 1 and "\n" in notes[0]:
         render_wiki_markdown(notes[0])
         return
@@ -29,4 +29,4 @@ def render_toolbox(tools: tuple[DashboardTool, ...], notes: tuple[str, ...]) -> 
         st.caption("Noch keine Sitzungsnotizen vorhanden.")
         return
 
-    _render_notes(notes)
+    render_notes(notes)
