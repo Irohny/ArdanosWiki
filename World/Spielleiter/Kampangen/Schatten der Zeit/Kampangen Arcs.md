@@ -1,10 +1,12 @@
 ## Siegel des Lebens
 Gott: [[Solyra]]
-Gegner: [[Zerra die Flüsterin]], Seliré & Thaven Succus & Incubus
-Paladin: [[Sir Daryn Velios]]
+Gegner: [[Zera die Flüsterin]], [[Blutgräfin Bathory]]
+Paladin: [[Selvian Korth]]
 Ort: [[Elmrath]] [[Nythariel, die Wurzel zwischen den Welten]]
 Artefakt: Samen der Sonne
-Plothook:
+Plothook: 
+- [[Befreiung der Gräfin]]
+- Das Gegenmittel der Verwandlung ist der Sonnensamen
 ## Siegel der Natur
 Gott: [[Ocyra]]
 Gegner: [[Lady Seress]], [[Xal'Zhurn]]
@@ -15,8 +17,8 @@ Plothook:
 
 ## Siegel der Schöpfung
 Gott: [[Volgrin]]
-Gegner: [[Lord Malvurax]]
-Paladin: [[Selvian Korth]]
+Gegner: 
+Paladin: [[Sir Daryn Velios]]
 Ort: [[Schwarzklamm]]
 Artefakt: Amboss der ersten Flamme
 Plothook:
@@ -29,7 +31,7 @@ Artefakt: Kette des ersten Paktes
 Plothook:
 ## Siegel des Todes
 Gott: [[Erythra]]
-Gegner: [[Lord Vareth Nocthollow]]
+Gegner: [[Lord Malvurax]]
 Paladin: [[Lady Caelira von Thornewald]]
 Ort: [[Vaylen]]
 Artefakt: Krone der letzten Königin

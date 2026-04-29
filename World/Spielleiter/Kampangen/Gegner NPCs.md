@@ -1,4 +1,4 @@
-- [[Zerra die Flüsterin]] Spionin und Botin, Zauberin 
+- [[Zera die Flüsterin]] Spionin und Botin, Zauberin 
 - [[Eldrin Velmara]] Heiler Manipulirt von Zerra, Forscht am ewigen leben
 - [[Lord Malvurax]] Botschafter von Ephazul, Cambion
 - [[Ephazul]] Dämonenfürst, Herr des Bösen

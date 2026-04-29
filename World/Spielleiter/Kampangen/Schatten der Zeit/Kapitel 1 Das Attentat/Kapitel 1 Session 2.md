@@ -11,6 +11,7 @@ Endatum: 14 (Gnadentag) Licht (Frühling) 2486 n.d.D.
 * Gruppe glaubt [[Drakmora]] und/oder [[Schwarzklamm]] wollen [[Marktgraf Reodemus]] töten
 
 # Ablauf
+Tag 1 (13. Licht)
 - Treffen [[Syvaris Nachtseele]] und [[Nyssara Elenvyre]]
 	- [[Träne der Sonne]] geklaut von [[Garron der Grüne]]
 	- [[Syvaris Nachtseele]] Mission zurückbringen in die [[Himmelshöfe]]
@@ -22,7 +23,7 @@ Endatum: 14 (Gnadentag) Licht (Frühling) 2486 n.d.D.
 	- Auftraggeber wird geheim gehalten
 	- Gesichter werden nicht erkannt
 	- Mönche lösen sich auf und triggern die Visionen
-	- 
+	
 - Trupp geht zum [[Stolzes Einhorn]]
 - Gruppe trifft [[Varian Schattentaenzer]] in der [[Goldene Rune]]
 	- Varian erkennt Nyssara
@@ -36,7 +37,7 @@ Endatum: 14 (Gnadentag) Licht (Frühling) 2486 n.d.D.
 	- bekommt Auftrag von den [[Tashiro'en]] die [[Träne der Sonne]] in den [[Nebelhafen]] zu bringen
 	- Vishuda bekommt Informtionen zu giften (Narrenblut 80 Gold)
 - [[Bruder Marcus]] kämpft erneut einen Boxkampf gegen [[Kapitän Havoc]]
-
+Gruppe geht schlafen Ende Tag (13. Licht)
 
 ### Nayssara
 - Auftrag von [[Selene Drachenruf]] beobachte die Gruppe der Helden

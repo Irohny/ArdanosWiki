@@ -1151,6 +1151,7 @@ def render_new_session_form(
     *,
     form_key_suffix: str,
     close_state_key: str | None = None,
+    pending_selected_session_key_state: str | None = None,
 ) -> None:
     with st.form(f"sl_creator_new_session::{form_key_suffix}"):
         meta_col, detail_col = st.columns(2)
@@ -1190,7 +1191,8 @@ def render_new_session_form(
         st.error(str(exc))
         return
 
-    st.session_state[selected_session_key_state] = session_dir.name
+    target_key = pending_selected_session_key_state or selected_session_key_state
+    st.session_state[target_key] = session_dir.name
     if close_state_key is not None:
         st.session_state[close_state_key] = False
     st.session_state[FLASH_MESSAGE_KEY] = f"Session {session_dir.name} wurde angelegt."

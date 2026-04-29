@@ -1,20 +1,19 @@
-Er fand das Relikt in den tiefen der Schwarzklamm.
+Er fand das Relikt in den tiefen im [[Immergrüner Hain]] im [[Nythariel, die Wurzel zwischen den Welten]].
 
-Eine uralte Schmiedestätte – eine **erste Quelle der Schöpfung**, an der die Götter einst selbst gearbeitet haben sollen.
+Eine uralte Stätte des Lichtes – eine **erste Quelle der Schöpfung**
 
-Er sah wie mächtig dieser Ort und das darin befindlicche Relikt, der Amboss der ersten Flamme war. Er erkannte, dass niemand außer ihm jemals von der existenz erfahren durfte, da die Schmiede [[Volgrin]]s niemals einem Herrscher in die Hände fallen sollte. So machte er sich auf den Weg zurück um die Mission als fehlschlag zu beenden.
+Er sah wie mächtig dieser Ort und das darin befindlicche Relikt, der der Sonnensamen war. Er erkannte, dass niemand außer ihm jemals von der existenz erfahren durfte, da die Macht die von diesem Samen ausgeht nicht nur Leben geben sondern auch unendlcih viele Leben nehmen könnte. So machte er sich auf den Weg zurück um die Mission als fehlschlag zu beenden.
 
 ---
 # Die Verfolgung
 
-
 Doch auf seinem Rückweg bemerkte er etwas.
 Er wurde beobachtet.
 
-In den Pässen der Schwarzklamm bemerkte Selvian:
-- Spuren im Schnee, die nie verschwanden 
+Auf den dunklen Pfaden im Unterholz bemerkte Selvian:
+- Spuren, die nie verschwanden 
 - fremde Magie, die ihm folgte
-- Informanten, die ihn kannten, obwohl sie ihn nie gesehen hatten
+- Tiere, die ihn kannten, obwohl sie ihn nie gesehen hatten
 
 Jemand wusste:
 - dass er das Siegel gefunden hatte.
@@ -22,7 +21,6 @@ Jemand wusste:
 Und jemand wollte dieses Wissen.
 
 Selvian erkannte:
-
 > Wenn er direkt zu den anderen Paladinen zurückkehrt, bringt er ihre Mission in Gefahr.
 
 Also verschwand er.

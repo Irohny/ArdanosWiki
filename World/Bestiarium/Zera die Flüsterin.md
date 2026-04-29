@@ -1,5 +1,4 @@
 ![[ZeraFluesterin.jpeg|200]]
-# Zerra die Flüsterin
 
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:** 6

@@ -1,31 +1,37 @@
-- Vision [[Nyssara Elenvyre]]
-	- Geschichte des Phönix
-	- Störung durch [[Maeridra Dornenglanz]] und ein unmoralisches Angebot
+Startdatum: (Nachmittags) 14 (Gnadentag) Licht (Frühling) 2486 n.d.D. 
+Enddatum: -
+
+- Start: Nyssaria schreit: "Nein, ich werde dich nicht befreien."
+	- Sie ist versteinert, atmet noch, aber trotzdem regungslos
+	- [[Selene Drachenruf]] betritt das Zimmer
+		- Ihr könnt sie nicht aufwecken. Sie kämpft gegen einen Dämon aus alter Zeit
+		- [[Nyssara Elenvyre]] ist vor ungefähr 2 Jahrhunderten auf einer Expedition mit dem [[Schattenherz]] verschmolzen.
+		- Das [[Schattenherz]] ist eines der 3 Gefänisse, welche die Urdämonen gefangen halten. Sie ist mit [[Maeridra Dornenglanz]] verschmolzen und kämpft mit ihr seitdem um die Kontrolle über ihren Körper.
+		- Ich werde sie mit nach [[Velithor]] nehmen. Dort kann ich ihr helfen den Kampf zu gewinnen, sodass sie euch irgendwann wieder helfen kann.
 	
 - Die Gruppe hört Geräusche aus der Bibliothek oberhalb der Krypta
-	- "Wo sind die Unterlage. Der Alte muss doch hier irgendwas haben, was auf seine Pläne schließen lässt. Selene ([[Selene Drachenruf]]) meinte, dass wir hier etwas finden können was die Zukunft verändert."
+	- K: "Wo ist der Alte?  [[Selvian Korth|Selvian]] sagte, dass wir ihn hier finden sollten"
+	- P: "Sei ruhig, wer weiß wo diese Verrückten sind, die die Brüder gefangen genommen haben. Wenn sie sie nicht getötet haben, wird der Schwur des Schweigens sie vernichtet haben, bevor sie zu viel reden konnten. Lass uns Informationen suchen und abhauen."
+	- K: "Hier, ich habe was! Hier liegen 2 Briefe"
 	
-- Kleriker und Paladin durchsuchen die Bibliothek
+-  Kleriker und Paladin durchsuchen die Bibliothek
 	- Encounter
-	- Abschlussworte: "Ihr habt den lauf der Geschichte verändert! Unser Ziel ist erreicht. Ab jetzt ist die Zukunft wieder offen. Danke"
 	- Beide Lösen sich in Licht auf, sowie die beide Mönche
 	
-- Hinweise in der Bibliothek
-	- Brief: "Wir müssen vor dem Erkundungstrupp von [[Mariven]] die [[Azure Rune]] bergen. Xal'Zhurn hat Hinweise gefunden, dass [[Edran Tiefstrom]] an Bord gewesen sein muss, als es unterging. Seress"
-	- Brief: "Die Truppen stehen bereit. Das Land wird brennen und das Ziel wird vernichtet. van Harl"
+- Brief 1:
+	- Mein Lord, ich habe ein Treffen von [[Selvian Korth|Selvian]] und [[Elaena Silberhand]] belauschen können. Sie haben Informationen, dass  [[Edran Tiefstrom|Tiefstroms]] Aufzeichnungen im Wrack der [[Azure Rune]] zu finden sein sollen. Wenn sie die Aufzeichnungen vor uns finden, könnten sie zu einer großen Gefahr werden. Hochachtungsvoll [[Lady Seress]]
+	
+- Brief 2:
+	- Mein Lord, die Suche nach verbündeten gestaltet sich schwierig. Ich habe Informationen über eine mächtige Verbündete gefunden und werde mich auf den weg nach Norden machen um die Geschichten zu kontrollieren. Hingebungsvoll [[Zera die Flüsterin|Zera]]
+	
+- Am Ende: [[Lady Maerina von Elmrath]] eilt zu der Gruppe:
+	- [[Selene Drachenruf|Erzmagierin Drachenruf]]! Ein Rabe aus [[Valatheris]] hat schlimme Kunde gebracht. In [[Drakmora]] ist ein Krieg ausgebrochen. Der Klan van Harl hat sich mit den wilden Horden aus der Nordsteppe verbündet und streift nun plündernd durch das Fürstentum. 
+	- Der Rat der Fürsten wird sofort Einberufen
+	- Der Fürstenball wurde wegen des Angriffes abgesagt
+	- Die Truppen wurden zuletzt bei den [[Drachengründe]]n gesichtet
 
-#### Die Geschichte des Phönix
-Basierend auf der Geschichte:
+- Die [[Windhexe]] mit Crew und dem [[Marktgraf Reodemus]] wird die Stadt gegen 19Uhr verlassen
 
-![[Die Feuertaufe von Kar'drathar]]
-
-Der Grund für den Vulkanausbruch war ich. Als eines Tages ein Magier in meine Krater kam ahnte ich nichts böses. Er sagte, dass er sich verlaufen habe und das er  noch nie einen Phönix gesehen habe. Als ich mich ihm näherte, traf mich ein Zauber von unbeschreibarer Stärke. Ich konnte mich nicht mehr Bewegen. Für die Dauer dieses Fluchs betrat der Magier mein Nest und nahm mein Kücken mit sich. So schnell wie er gekommen ist, so schnell ist er verschwunden. Ich wurde wütend und suchte dieses Ungeheuer im Ganzen Gebirge, der Weite und dem angrenzenden Wald, doch ich fand ihn nicht. Mein Zorn manifestierte sich in diesem Vulkan und er toste und stürmte und vernichtete fast die Ganze Gegend. Ein Trupp von Helden machte sich deshalb auf zu mir in den Vulkan um die Ursache des Ausbruches zu untersuchen. Ich kämpfte gegen diese neuen Eindringlinge. Am Ende waren sie zu stark. Anstatt mich zu bannen, versprachen sie mir, mich bei meiner Suche zu unterstützen, wenn ich mich beruhige und den Vulkan wieder kontrolliere. Ich ging den Pakt ein und gab ihnen eine Träne von mir. Diese Träne hältst du jetzt gerade in deiner Hand. Ich gab ihnen das Versprechen, dass ihn denen Helfen werde, die diese Träne besitzen.  
-
-#### Angebot des Meisters
-Nicht schlecht, nicht schlecht. Wie bist du nur in den Besitz eines so mächtigen Artefakts gekommen meine hübsche?
-
-Ich wusste doch, dass du stark bist, als ich mich mit der Verbunde habe. Was hast du jetzt mit diesem Artefakt vor? Du willst es doch nicht etwa in dieses Dorf zurück bringen, wie es diese Schuppige Echse gesagt hat. 
-
-Behalte es doch, dieses Artefakt gibt dir Resistenz gegen Feuer (halber schaden). Allerdings scheint es durch die Trauer des Phönix verflucht zu sein. Die Trauer der Träne erfüllt den Träger, sodass er nicht mehr klar denken kann (-2 Weisheit & Inteliegenz). 
-
-Wenn dir dieser Preis zu hoch ist gib es doch diesem dunkel Elfen. Ich würde zu gerne sehen, wie er unter dem Fluch leidet. Vielleicht stirbt er ja daran und wir bekommen eine neue Seele. Er schein stark zu sein. Eine solche Kraft , wie ihn, können wir bestimmt gut gebrauchen.
+- Fortsetzung:
+	- Gruppe geht auf das Schiff -> Sturm spült das Schiff auf ein Riff vor der Insel, weiterleiten zu [[Befreiung der Gräfin]]
+	- Gruppe reist über Land Richtung  [[Nebelhafen]] und [[Drakmora]] -> Weiterleitung [[Befreiung der Gräfin]]

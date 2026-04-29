@@ -16,6 +16,7 @@ from sl_dashboard.loader import get_session_dir_by_key, list_available_sessions
 
 
 SESSION_SELECT_KEY = "sl_dashboard_selected_session"
+PENDING_SESSION_SELECT_KEY = f"{SESSION_SELECT_KEY}__pending"
 SHOW_CREATE_SESSION_EXPANDER_KEY = "sl_dashboard_show_create_session_expander"
 LEAD_PAGE_PATH = "sl_dashboard_pages/leitungsansicht.py"
 ENCOUNTER_PAGE_PATH = "sl_dashboard_pages/kampftracker.py"
@@ -51,6 +52,22 @@ def initialize_wiki_context() -> None:
             st.session_state[db] = build_markdown_database(f"World/{db}")
 
 
+def _resolve_session_select_state(
+    option_keys: list[str],
+    current_selected_key: str | None,
+    pending_selected_key: str | None,
+) -> tuple[str | None, bool]:
+    if pending_selected_key is not None:
+        if pending_selected_key in option_keys:
+            return pending_selected_key, True
+        pending_selected_key = None
+        return (option_keys[0], True) if option_keys else (None, True)
+
+    if current_selected_key in option_keys:
+        return current_selected_key, False
+    return (option_keys[0], False) if option_keys else (None, False)
+
+
 def render_session_selector(selected_page_url_path: str) -> Path | None:
     session_options = list_available_sessions()
     is_workshop_page = selected_page_url_path == WORKSHOP_URL_PATH
@@ -66,9 +83,16 @@ def render_session_selector(selected_page_url_path: str) -> Path | None:
 
     with selector_col:
         if option_keys:
-            default_key = st.session_state.get(SESSION_SELECT_KEY)
-            if default_key not in option_keys:
+            default_key, consume_pending_selection = _resolve_session_select_state(
+                option_keys,
+                st.session_state.get(SESSION_SELECT_KEY),
+                st.session_state.get(PENDING_SESSION_SELECT_KEY),
+            )
+            if consume_pending_selection:
+                st.session_state.pop(PENDING_SESSION_SELECT_KEY, None)
+            if default_key is None:
                 default_key = session_options[0].key
+            if st.session_state.get(SESSION_SELECT_KEY) != default_key:
                 st.session_state[SESSION_SELECT_KEY] = default_key
 
             selected_key = st.selectbox(
@@ -102,6 +126,7 @@ def render_session_selector(selected_page_url_path: str) -> Path | None:
                     SESSION_SELECT_KEY,
                     form_key_suffix="top-expander",
                     close_state_key=SHOW_CREATE_SESSION_EXPANDER_KEY,
+                    pending_selected_session_key_state=PENDING_SESSION_SELECT_KEY,
                 )
 
     if selected_key is None:
