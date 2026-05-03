@@ -1,7 +1,3 @@
-# 🌲 ERKUNDUNGSSYSTEM – IMMERGRÜNER HAIN
-
----
-
 ## 🧭 GRUNDPRINZIP
 - Der Wald besteht aus Regionen
 - Jede Region hat:
@@ -108,11 +104,19 @@ Große Orte erscheinen nur wenn:
 - hohe Würfe erreicht werden  
 - Voraussetzungen erfüllt sind  
 
-Beispiele:
-- Lorathiel  
-- Mondtempel  
-- Weltenbaum  
+Wichtige Punkte/Ziele:
+- [[Lorathiel]]  
+- [[Lunareth der Sichelschrein]]  
+- [[Nythariel, die Wurzel zwischen den Welten]]
 
+Besondere Regionen/Punkte:
+- Sumpf des Nichtseins (immer wenn die Silbe Ich fällt versinkt der Spieler ein Stück)
+- Quelle des Friedens
+- Verlassener Steinkreis
+- Spinnennetze (Düsterwald Hobbit)
+- Verlassenes Haus eines Köhlers
+- Der Weg, der nicht existiert (Der pfad wird nur von manchen gesehen)
+- Nebel der Visoinen
 ---
 
 # 🌫️ VERIRREN
