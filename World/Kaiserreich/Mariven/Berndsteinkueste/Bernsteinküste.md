@@ -18,7 +18,7 @@ Durch die vielen Konflikte und Herrschaftswechsel ist die Bevölkerung dieses La
 ---
 
 ### 🛖 **Dörfer (kleiner, ländlich, Fischerorte oder Harzsammlergemeinden)**
-1. **[[Bernruh]]** – friedlicher Ort mit Blick auf die glitzernden Klippen
+1. **[[Bernruh]]** – friedlicher Ort an der [[Stromkrone]]
 2. **Kielbruch** – ein wettergepeitschtes Fischerdorf
 3. **Windfurt** – kleines Dorf am Mündungssumpf
 4. **Triftmoor** – halb auf Stelzen gebautes Dorf über sumpfigem Küstenboden
