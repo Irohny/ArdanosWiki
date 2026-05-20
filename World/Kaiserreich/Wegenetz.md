@@ -1,13 +1,13 @@
 ### Große Bernststeinstraße
-Länge:
-Reisedauer:
+Länge: 640km
+Reisedauer: 16 Tage
 Gut ausgebaute Küstenstraße entlang der **[[Bernsteinküste]]**. Entlang dieser Route liegen zahlreiche Fischerdörfer, kleine Hafenstädte und Handelsplätze, die vom Küstenhandel, Fischerei und der Bernsteingewinnung leben.  
 Die Straße beginnt an der einzigen Brücke ([[Stromkrone]]) über den [[Lumaros]] im Dorf **[[Bernruh]]** und folgt der Küstenlinie bis zum **[[Nebelhafen]]**, dem wichtigsten Umschlagplatz der Region.
 
 ---
 #### Himmelshofstraße
-Länge:
-Reisedauer:
+Länge: 720km
+Reisedauer: 18 Tage
 Diese Straße durchzieht das nördliche **[[Elmrath]]** und führt durch die sanften Hügel der **[[Himmelshöfe]]**, die für Weinbau und Hopfenfelder bekannt sind.  
 Die Region ist geprägt von Halblingssiedlungen, verstreuten Dörfern und landwirtschaftlichen Gütern.  
 In ihrer Verlängerung verbindet die Route **[[Luminara]]** mit **[[Velithor]]** und stellt – neben dem Wasserweg über den **[[Lumaros]]** und den **[[Kristallsee]]** – eine der wichtigsten Handelsverbindungen dar.  

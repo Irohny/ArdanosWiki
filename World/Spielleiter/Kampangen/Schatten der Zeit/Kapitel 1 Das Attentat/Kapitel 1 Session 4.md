@@ -1,5 +1,5 @@
 Startdatum: (Nachmittags) 14 (Gnadentag) Licht (Frühling) 2486 n.d.D. 
-Enddatum: -
+Enddatum:  (Abends) 14 (Gnadentag) Licht (Frühling) 2486 n.d.D. 
 
 - Start: Nyssaria schreit: "Nein, ich werde dich nicht befreien."
 	- Sie ist versteinert, atmet noch, aber trotzdem regungslos
@@ -22,7 +22,7 @@ Enddatum: -
 	- Mein Lord, ich habe ein Treffen von [[Selvian Korth|Selvian]] und [[Elaena Silberhand]] belauschen können. Sie haben Informationen, dass  [[Edran Tiefstrom|Tiefstroms]] Aufzeichnungen im Wrack der [[Azure Rune]] zu finden sein sollen. Wenn sie die Aufzeichnungen vor uns finden, könnten sie zu einer großen Gefahr werden. Hochachtungsvoll [[Lady Seress]]
 	
 - Brief 2:
-	- Mein Lord, die Suche nach verbündeten gestaltet sich schwierig. Ich habe Informationen über eine mächtige Verbündete gefunden und werde mich auf den weg nach Norden machen um die Geschichten zu kontrollieren. Hingebungsvoll [[Zera die Flüsterin|Zera]]
+	- Mein Lord, die Suche nach verbündeten gestaltet sich schwierig. Ich habe Informationen über eine mächtige Verbündete gefunden und werde mich auf den Weg nach Norden machen um die Geschichten zu kontrollieren. Hingebungsvoll [[Zera die Flüsterin|Zera]]
 	
 - Am Ende: [[Lady Maerina von Elmrath]] eilt zu der Gruppe:
 	- [[Selene Drachenruf|Erzmagierin Drachenruf]]! Ein Rabe aus [[Valatheris]] hat schlimme Kunde gebracht. In [[Drakmora]] ist ein Krieg ausgebrochen. Der Klan van Harl hat sich mit den wilden Horden aus der Nordsteppe verbündet und streift nun plündernd durch das Fürstentum. 

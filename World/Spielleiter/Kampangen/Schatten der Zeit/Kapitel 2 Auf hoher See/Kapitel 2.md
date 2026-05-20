@@ -1,27 +1,11 @@
 # Auf hoher See
 
-### Start:
-* Hafen [[Luminara]]: Die Spieler suchen die [[Kapitän Havoc]] und sein Schiff die [[Windhexe]] um den [[Marktgraf Reodemus]] in die Haupstadt von [[Mariven]] [[Verethia]] zu bringen.
-* Der Kapitän ist im [[Grüner Wyvern]] und trinkt
-* Spieler müssen ihn überzeugen
-* Die Spieler entscheiden zusammen mit [[Kapitän Havoc]] den Kurs nach [[Verethia]].
-* Die Spieler haben Zeit um untereinander zu Quatschen und den Marktgrafen über das Attentat zu befragen.
 
 ### Am Morgen:
 * In der Nacht hat [[Gnodomir]] einen Traum [[Traum des Sturms]]
 * Am nächsten Morgen, wenn alle aufwachen herscht ein Flaut. Erdrückende stille, in der sich niemand traut etwas zu sagen.
 * Die spieler sollen das Schiff so gut es geht vorbereiten
 
-### Der Sturm (Skill-Challenge)
-* Segelsichern
-* Kurs halten (Halten, Wellen & Felsen ausweichen)
-* Schaden begrenzen
-* Crew organisieren
-* Wasser aus dem Bug schippen
-* Festhalten bei großen Wellen
-* Mastbruch
-* Blitzeinschalg
-* Rettung von Mitgleidern
 
 ### Die Jagd
 * Kurze Pause nach dem Sturm um sich zu sammeln

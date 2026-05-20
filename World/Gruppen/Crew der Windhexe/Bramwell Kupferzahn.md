@@ -25,18 +25,18 @@ Metadatenfelder aus dieser Struktur.
 
 ![[BRamwellKupferzahn.jpg|200]]
 
-Bramwell Kupferzahn ist der zankende, aber verlaessliche
+Bramwell Kupferzahn ist der zankende, aber verlässliche
 Schiffsingenieur der [[Windhexe]].
 Er liebt sein Werkzeug mehr als die meisten Menschen und spricht mit dem
-Schiff, als waere es ein lebendiges Haustier.
+Schiff, als wäre es ein lebendiges Haustier.
 
-- Merkmale: Zaenkisch, aber loyal
+- Merkmale: Zänkisch, aber loyal
 - Typischer Sprachstil oder Zitat: "Sie knarzt noch? Dann lebt sie auch noch!"
 
 ## Rolle und Beziehungen
 
-- [[Windhexe]]: haelt das Schiff mit Improvisation und Erfahrung zusammen
-- [[Kapitän Havoc]]: arbeitet trotz Reibung eng mit dem Kapitaen zusammen
+- [[Windhexe]]: hält das Schiff mit Improvisation und Erfahrung zusammen
+- [[Kapitän Havoc]]: arbeitet trotz Reibung eng mit dem Kapitän zusammen
 
 <!--
 Nicht oeffentliche Angaben zum NPC.
