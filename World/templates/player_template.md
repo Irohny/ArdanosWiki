@@ -1,4 +1,4 @@
-- **Stufe:**
+- **Stufe:** 
 - **Volk:** 
 - **Herkunft:**
 - **Klasse:**
