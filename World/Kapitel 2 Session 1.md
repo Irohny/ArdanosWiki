@@ -13,6 +13,8 @@
 * Hafen [[Luminara]]: Die Spieler suchen die [[Kapitän Havoc]] und sein Schiff die [[Windhexe]] um den [[Marktgraf Reodemus]] in die Haupstadt von [[Mariven]] [[Verethia]] zu bringen.
 * Die Spieler entscheiden zusammen mit [[Kapitän Havoc]] den Kurs nach [[Verethia]].
 * Die Spieler haben Zeit um untereinander zu Quatschen und den Marktgrafen über das Attentat zu befragen.
+* [[Skill im Sturm]]
+* [[Rotenbrunn]]
 
 ## Ziele
 - Schiff soll kentern

@@ -26,6 +26,15 @@ Startwert: **6**
 |1|kurz vor Untergang|
 |0|Schiff strandet/zerschellt|
 
+### Geschwindigkeit
+|Windlage|Beschreibung|km pro Tag|Hexfelder (8km)|
+|---|---|---|---|
+|Flaute|kaum Wind|10–20 km|1–2|
+|Schwacher Wind|langsame Fahrt|40–60 km|5–7|
+|Normaler Wind|Standardreise|80–120 km|10–15|
+|Starker Wind|schnelle Fahrt|140–180 km|17–22|
+|Sturmwind|gefährlich schnell|200+ km|25+|
+
 ---
 # AKT I — DER STURM ZIEHT AUF
 
