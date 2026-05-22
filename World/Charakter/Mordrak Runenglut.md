@@ -1,4 +1,4 @@
-![[mordrak_runenglut.png|200]]
+![[mordrak_runenglut.png|150]]
 - **Stufe:** 3 Krieger / 1 Blutjäger
 - **Volk:** Zwerg
 - **Klasse:** Runenkrieger
@@ -11,13 +11,15 @@
 ## ⚔️ Eigenschaften
 - **Rüstungsklasse (RK)/ Rüstung:** Kettenpanzer 16 +1 (Kampfstil Verteidigung) 
 - **Waffen:**
-	- 2x Streitaxt (Umstoßen, Vielseitig (1W10)) +5 (W20+STR+Ü), 1W8+ 5 (STR+Ü) Hieb
-	- Zweihandhammer __Volgrins-Zorn__ (Streifen) +5 (W20+STR+Ü), 2W6+5 (STR+Ü) Wucht 
-	- 4x Beile (Plagen), RW6m/18m, +5/+3 (W20+STR/GES+Ü), 1W6 + 5/+3 (STR/GES+Ü) Hieb
+	- 2x Streitaxt (Umstoßen, Vielseitig (1W10)) +5 (STR+Ü), 1W8 + 5 (STR+Ü) Hieb
+	- Zweihandhammer __Volgrins-Zorn__ (Streifen) +5 (STR+Ü), 2W6 + 5 (STR+Ü) Wucht 
+	- 4x Beile (Plagen), RW6m/18m, +5/+3 (STR/GES+Ü), 1W6 + 5/3 (STR/GES+Ü) Hieb
 - **Initiative:** +1
 - **Bewegung:** 9m
 - **Trefferpunkte:**  43 
 - **Trefferwürfel:** 4W10
+- **Erschöpfung:**
+- **Todesrettung:**
 - **Rituswürfel:** W4
 - **Passive Wahrnehmung:** (10+Weis) 10
 - **Übungsbonus:** +2
@@ -41,20 +43,20 @@
 | Attribute | 16 (+3)    | 12 (+1)       | 15 (+2)     | 13 (+1)     | 10 (0)   | 8 (-1)   |
 | Rettungs. | (Ü) +5     | +1            | (Ü )+4      | +1          | 0        | -1       |
 
-| Akrobatik (Ges)<br>+1                | Arkane Kunde (Int)<br>+1           | Athletik (Str)<br>+3        | Auftreten (Char)<br>-1       | Einschüchtern (Cha)<br>-1          |
-| ------------------------------------ | ---------------------------------- | --------------------------- | ---------------------------- | ---------------------------------- |
-| **Fingerfertigkeit** (Ges + Ü)<br>+3 | **Geschichte** (Int)<br>+1         | **Heilkunde** (Weis)<br>0   | **Heimlichkeit** (Ges)<br>+1 | **Mit Tieren umgehen** (Weis)<br>0 |
-| **Motiv erkennen** (Weis)<br>0       | **Nachforschung** (Int  + Ü)<br>+3 | **Naturkunde** (Int)<br>+1  | **Religion** (Int)<br>+1     | **Täuschen** (Cha + Ü)<br>+1       |
-| **Überlebenskunst** (Weis)<br>0      | **Überzeugen** (Cha + Ü)<br>+1     | **Wahrnehmung** (weis)<br>0 |                              |                                    |
+| Akrobatik (Ges)<br>+1                        | Arkane Kunde (Int)<br>+1           | Athletik (Str)<br>+3        | Auftreten (Char)<br>-1       | Einschüchtern (Cha)<br>-1            |
+| -------------------------------------------- | ---------------------------------- | --------------------------- | ---------------------------- | ------------------------------------ |
+| **Fingerfertigkeit** (Ges, Ü, Vorteil)<br>+3 | **Geschichte** (Int)<br>+1         | **Heilkunde** (Weis)<br>0   | **Heimlichkeit** (Ges)<br>+1 | **Mit Tieren umgehen** (Weis)<br>0   |
+| **Motiv erkennen** (Weis)<br>0               | **Nachforschung** (Int  + Ü)<br>+3 | **Naturkunde** (Int)<br>+1  | **Religion** (Int)<br>+1     | **Täuschen** (Cha, Ü, Vorteil)<br>+1 |
+| **Überlebenskunst** (Weis)<br>0              | **Überzeugen** (Cha + Ü)<br>+1     | **Wahrnehmung** (weis)<br>0 |                              |                                      |
 
 - **Immunitäten:**
-- **Resistenzen:** Giftschaden und Vorteil auf Rettungswürfe für/gegen Vergiftung (Zwergische Resistenz)
+- **Resistenzen:** Gift und Vorteil auf Rettungswürfe für/gegen Vergiftung (Zwergische Resistenz)
 - **Schwächen:** 
 
 ---
 ## Runen & Blutzauber
-- Rettung SG Runen (8+Übung+Konst)
-- Rettung SG Blut (8+Übung+Int)
+- Rettung SG Runen 13 (8+Übung+Konst) 
+- Rettung SG Blut 11 (8+Übung+Int)
 
 Runen wirken nur, wenn man Kontakt zu dem Gegenstand hat auf dem sie eingeritzt sind
 - #### Feuerrune: 
@@ -67,7 +69,7 @@ Runen wirken nur, wenn man Kontakt zu dem Gegenstand hat auf dem sie eingeritzt 
 	- **Aktiv:** (Reaktion 1 pro LR, KR) Wenn Spieler oder Kreatur in 9m Schaden bekommt kann der Schaden und Effekte auf eine andere Kreatur in 9m Radius übertragen werden
 - #### Riesenrune:
 	- **Position:** Auf dem Gürtel
-	- (Bonusaktion, Anzahl = Übung pro LR) +1 Größenklasse Mittelgroß -> Groß, 
+	- (Bonusaktion, Anzahl = Übung pro LR) +1 Größenklasse Mittelgroß -> Groß (ca. 2.5m), 
 		Vorteil auf STR und STR RW und 1W6 extra Schaden
 	
 Blutfluch Verstärkung für 1 Rituswürfel nekrotischer Schaden
@@ -78,44 +80,34 @@ Blutfluch Verstärkung für 1 Rituswürfel nekrotischer Schaden
 ---
 ## Übungen
 - einfache & Kriegswaffen
-- leichte & schwere Rüstung
-- Schild
+- alle Rüstung & Schilde
 - Alchemiewerkzeug (Blutjäger)
 - Schmiedewerkzeug (normal und Handwerker Talent)
 - Lederwerkzeug (Handwerker Talent)
 - Schreinerwerkzeug (Handwerker Talent)
-
 ## Talent Handwerker
-**_Rabatt:_** Wann immer du einen nichtmagischen Gegenstand kaufst, erhältst du einen Rabatt von 20 Prozent auf den Kauf.
+**Rabatt:** Wann immer du einen nichtmagischen Gegenstand kaufst, erhältst du einen Rabatt von 20 Prozent auf den Kauf.
 
-**_Flinkes_** **_Handwerk:_**  Nach einer langen Rast kannst du einen Ausrüstungsgegenstand aus der Tabelle „Flinkes Handwerk" herstellen, sofern du über das Handwerkszeug verfügst, das mit diesem Gegenstand assoziiert ist, und im Umgang mit diesem Werkzeug geübt bist. Der Gegenstand bleibt bis nach der nächsten langen Rast erhalten und zerfällt dann.
+**Flinkes Handwerk:**  Nach einer langen Rast kannst du einen Ausrüstungsgegenstand aus der Tabelle „Flinkes Handwerk" herstellen, sofern du über das Handwerkszeug verfügst, das mit diesem Gegenstand assoziiert ist, und im Umgang mit diesem Werkzeug geübt bist. Der Gegenstand bleibt bis nach der nächsten langen Rast erhalten und zerfällt dann.
 Möglich: Eimer, Eisentopf, Enterhaken, Krähenfüße, Metallkügelchen
 
 ---
 ## Ausrüstung
-- **Schmiedewerkzeug**
-> 	**Attribut:** Stärke **Gewicht:** **4** kg 
-> 	**Verwenden:** Eine Tür oder einen Behälter aufbrechen (SG 20)
-> 	**Herstellen:** Jede Nahkampfwaffe (außer Kampfstab, Knüppel, Peitsche Zweihandknüppel) , mittelschwere Rüstung (außer Fellrüstung). schwere Rüstung Brechstange, Eimer, Eisenstachel, Eisentopf, Enterhaken, Feuerwaffenmunition, Kette, Krähenfüße, Metallkügelchen, Schleudermunition
-> 		(Material im Wert von halben Kaufpreis und Kosten in GM/10 Tage Arbeit)
+- **Schmiedewerkzeug** (**Attribut:** Stärke )
+	**Verwenden:** Eine Tür oder einen Behälter aufbrechen (SG 20)> 	**Herstellen:** Jede Nahkampfwaffe (außer Kampfstab, Knüppel, Peitsche Zweihandknüppel) , mittelschwere Rüstung (außer Fellrüstung). schwere Rüstung Brechstange, Eimer, Eisenstachel, Eisentopf, Enterhaken, Feuerwaffenmunition, Kette, Krähenfüße, Metallkügelchen, Schleudermunition
+	(Material im Wert von halben Kaufpreis und Kosten in GM/10 Tage Arbeit)
 
-- **Alchimistenwerkzeug**
-> 	**Attribut:** Intelligenz **Gewicht:** 4 kg
-> 	**Verwenden:** Eine Substanz identifizieren (SG 15) oder ein Feuer entfachen (SG 15) **Herstellen:** Alchemistenfeuer, Materialkomponentenbeutel, Öl , Papier, Parfüm, Säure
-> 		(Brauen Heiltränke SHB S. 233, 8h Arbeit und Materialien 25GM)
+- **Alchimistenwerkzeug** (**Attribut:** Intelligenz)
+	**Verwenden:** Eine Substanz identifizieren (SG 15) oder ein Feuer entfachen (SG 15) **Herstellen:** Alchemistenfeuer, Materialkomponentenbeutel, Öl , Papier, Parfüm, Säure 		(Brauen Heiltränke SHB S. 233, 8h Arbeit und Materialien 25GM)
  	
 - **Entdeckerausrüstung**
-> 	Eine Entdeckerausrüstung enthält folgende Gegenstände:
-	 10 Fackeln, zwei Flaschen Öl, Rucksack, Schlafsack, Seil,
-	 10 Tagesrationen, Trinkschlauch und Zunderkästchen.
+	Eine Entdeckerausrüstung enthält folgende Gegenstände:	 10 Fackeln, zwei Flaschen Öl, Rucksack, Schlafsack, Seil, 10 Tagesrationen, Trinkschlauch und Zunderkästchen.
 
 ---
 ## Hintergrund
-
 Mordrak stammt aus einem großen und angesehenen Clan (Runenglut) aus dem Gebirge im Norden bei Adagar (Der Ort heißt: - **Azgarum**), der seit Generationen für seine meisterhaften Runenschmieden bekannt war. Schon früh lernte er die uralte Kunst, magische Runen in Waffen, Rüstungen und Stein zu gravieren.
 
 Doch während seines Studiums der Runen erkannte er etwas, das andere übersehen hatten:
-
 Nicht nur Runen tragen Macht — auch Blut.
 
 Fasziniert von dieser Erkenntnis begann er heimlich damit, Runenmagie und Blutmagie miteinander zu verbinden. Durch kleine Rituale und Experimente erschuf er die ersten Blutrunen — Runen, die nicht nur durch klassische Magie, sondern durch Lebenskraft gespeist wurden.
@@ -126,16 +118,11 @@ Die Ergebnisse waren beeindruckend:
 * und neue Möglichkeiten im Kampf gegen Monster und dunkle Kreaturen.
 
 Voller Stolz präsentierte er seine Forschung den Ältesten seines Clans.
-
 Doch statt Bewunderung erntete er Entsetzen.
-
 Die Ältesten erklärten seine Arbeit zu:
-* gefährlich,  
-* unnatürlich,  
-* und als Verrat an den Traditionen des Clans.
+* gefährlich, unnatürlich und als Verrat an den Traditionen des Clans.
 
 Sie verboten ihm jede weitere Forschung.
-
 Doch er konnte seine Arbeit nicht aufgeben. Zu überzeugt war er davon, dass Blutrunen großes Potenzial besaßen und seinem Volk eines Tages helfen könnten.
 
 Er forschte heimlich weiter.
@@ -147,7 +134,6 @@ Seitdem zieht er als Söldner und Monsterjäger durch die Länder. Die Jagd auf 
 
 Trotz allem empfindet er keinen Hass auf seinen Clan.
 
-Im Gegenteil:  
 Die Verbannung schmerzt ihn bis heute tief. Noch immer hofft er, eines Tages zurückzukehren und zu beweisen, dass Blutrunen keine verdorbene oder dunkle Magie sind, sondern ein Werkzeug, das den Zwergen helfen kann.
 
 Abseits des Kampfes ist er ein grummeliger, aber freundlicher Zwerg, der von seiner Forschung nahezu besessen ist. Ständig kritzelt oder ritzt er neue Runen in Holz, Metall, Stein — oder alles andere, was ihm in die Hände fällt.
@@ -161,38 +147,35 @@ Mordrak schmiedete den Hammer eigenhändig während seiner frühen Forschungen �
 
 **Kraeth**, benannt nach dem göttlichen Raben, der den nahenden Tod erkennt, besitzt eine schmalere, scharf gebogene Klinge, die darauf ausgelegt ist, schnell und präzise zuzuschlagen. Die Runen auf der Schneide leuchten schwach auf, wenn Mordrak verwundete oder dem Tode nahe Kreaturen jagt.
 
----
-### **Wesen**
+## Einsteig
+- Mordrak ist auf dem Weg nach Strumflut um Kharrum aufzusuchen, einen Zwerg aus seinem Klan, der freiwillig gegangen ist. Er erhofft sich neue Impulse für seine Forschung
+- Treffen einer Zwergenhändlergruppe unter dem Zwergen Brokk
+- Die Gruppe wird von einem Typen gefangen genommen, da sie angeblich einen Goblintrupp ermordet haben sollen
+- Die Goblins hatten irgendwas mit einer Jungen Frau zu tun
+- Die Gruppe flieht in der Nacht. Mordrak konnte nicht entkommen
 
+---
+### **Wesen/Antrieb**
 Mordrak ist kein brutaler Berserker, sondern ein ruhiger, kontrollierter Krieger und Meisterschmied. Er glaubt, dass wahre Stärke durch Wissen, Opfer und Disziplin entsteht. Für ihn sind Runenmagie und Blut keine Gegensätze, sondern die nächste Stufe zwergischer Schmiedekunst.
-
----
-
-## **Antrieb**
 
 „Wissen darf nicht gefürchtet werden.“
 
 Mordrak will die Grenzen der Runenmagie erweitern. Er verachtet blinde Traditionen und glaubt, dass Macht nur durch Opfer, Schmerz und Verständnis erreicht werden kann. Seine Forschungen dienen nicht dem Chaos, sondern der Vollkommenheit.
 
+Mordrak sieht sich nicht als Monster oder Bösewicht.  
+Er glaubt, dass seine Arbeit eines Tages verstanden wird — selbst wenn andere ihn heute dafür fürchten.
+
 ---
-
 ## **Sprachstil**
-
-- Ruhig, tief, kontrolliert
-- Wenige, präzise Worte
+- Ruhig, tief, kontrolliert, Wenige, präzise Worte
 - Nutzt Bilder aus Schmiedekunst, Stahl, Feuer und Blut
 - Wird bei Wut eher leise als laut
-
-### **Beispiele**
-
+### **Phrasen**
 - „Schwaches Eisen zerbricht im Feuer.“
 - „Macht wird durch Opfer geschmiedet.“
 - „Narben sind der Preis wahrer Stärke.“
-
----
-
+- "Bei Volgrins Runen"
 ## **Auftreten**
-
 - Langsame, schwere Bewegungen
 - Beobachtet mehr, als er spricht
 - Direkter Blickkontakt
@@ -200,44 +183,11 @@ Mordrak will die Grenzen der Runenmagie erweitern. Er verachtet blinde Tradition
 - Behandelt Schmiedekunst fast wie ein heiliges Ritual
 
 ---
-
 ## **Werte**
-
-Mordrak respektiert:
-
-- Disziplin
-- Wissen
-- Handwerkskunst
-- Opferbereitschaft
-- Stärke des Willens
-
-Er verachtet:
-
-- Feigheit
-- Ignoranz
-- Sinnlose Traditionen
-- Unverdiente Macht
-
----
-
-## **Kampfstil**
-
-Mordrak kämpft ruhig und unerbittlich. Keine wilden Bewegungen — jeder Schlag wirkt schwer, gezielt und endgültig.
-
-### **Waffen**
-
-**Volgrins Zorn**  
-Symbol seines Glaubens und seiner Forschungen. Mehr heiliges Werkzeug als bloße Waffe.
-
-**Kraeth & Veyrun**  
-Präzise Jagdwaffen — schnell, tödlich und unausweichlich wie die Raben des Todes.
-
----
-
-## **Wichtiger Kern**
-
-Mordrak sieht sich nicht als Monster oder Bösewicht.  
-Er glaubt, dass seine Arbeit eines Tages verstanden wird — selbst wenn andere ihn heute dafür fürchten.
+**Respektiert**:
+- Disziplin, Wissen, Handwerkskunst, Opferbereitschaft, Stärke des Willens
+**Verachtet**:
+- Feigheit, Ignoranz, Sinnlose Traditionen, Unverdiente Macht
 
 ---
 ## Links:
