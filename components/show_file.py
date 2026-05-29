@@ -1,5 +1,6 @@
 import streamlit as st
 import re
+from urllib.parse import urlencode
 from config import cfg
 from components import utils
 from components.login import Roles
@@ -62,8 +63,11 @@ def make_internal_links_clickable(text: str) -> str:
             st.session_state["tree"], f"{link_text}.md"
         )
         if target_path:
-            # Encode den Pfad in den Link
-            return f'<a href="?page={target_path}">{link_text}</a>'
+            href = f"?{urlencode({'page': target_path})}"
+            return (
+                f'<a href="{href}" target="_blank" '
+                f'rel="noopener noreferrer">{link_text}</a>'
+            )
         else:
             return link_text
 

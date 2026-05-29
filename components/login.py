@@ -1,5 +1,6 @@
 import streamlit as st
 from enum import Enum
+from components.auth import clear_auth_cookie, persist_auth_claims
 from components import utils
 from config import cfg
 
@@ -52,12 +53,15 @@ def check_login_data():
             st.session_state["tree"] = utils.find_markdown_files(
                 cfg.MARKDOWN_DIR, st.session_state["user"]
             )
+            persist_auth_claims(user["name"], user["role"])
             return
 
 
 def logout():
+    clear_auth_cookie()
     st.session_state["user"] = User()
     st.session_state["tree"] = utils.find_markdown_files(
         cfg.MARKDOWN_DIR, st.session_state["user"]
     )
-    utils.set_path(st.session_state["root_path"])
+    if "root_path" in st.session_state:
+        utils.set_path(st.session_state["root_path"])
