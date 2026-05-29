@@ -25,7 +25,7 @@ Plothook:
 ## Siegel der Ordnung
 Gott: [[Lyrithiel]]
 Gegner: [[Ser Vakor]], [[Luredan van Harl]]
-Paladin: [[Morgran Eisenbann]] alias Arn'Old
+Paladin: [[Milo von Kroton]] alias Arn'Old
 Ort: [[Drakmora]]
 Artefakt: Kette des ersten Paktes
 Plothook:
