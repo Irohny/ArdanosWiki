@@ -5,7 +5,7 @@ import streamlit as st
 from components import utils
 from components.header import header
 from components.file_parser import build_markdown_database
-from components.login import Roles, User
+from components.login import User, login_filed
 from components.sidebar import create_sidebar
 from config import cfg
 from sl_dashboard import render_sl_dashboard, render_sl_dashboard_encounter
@@ -27,6 +27,10 @@ WORKSHOP_URL_PATH = "werkstatt"
 
 
 def resolve_page_title() -> str:
+    user = st.session_state.get("user")
+    if not getattr(user, "loged_in", False):
+        return "SL-Dashboard"
+
     selected_page = st.query_params.get("page")
     if not selected_page:
         return "SL-Dashboard"
@@ -34,19 +38,54 @@ def resolve_page_title() -> str:
     return Path(str(selected_page)).stem
 
 
+def ensure_dashboard_user() -> User:
+    user = st.session_state.get("user")
+    if isinstance(user, User):
+        return user
+
+    st.session_state["user"] = User()
+    return st.session_state["user"]
+
+
+def is_dashboard_user_logged_in() -> bool:
+    return bool(ensure_dashboard_user().loged_in)
+
+
+def clear_login_blocked_query_params() -> None:
+    for key in ("page", LINKED_WIKI_PAGE_QUERY_PARAM):
+        if key in st.query_params:
+            del st.query_params[key]
+
+
+def render_dashboard_login_screen() -> None:
+    clear_login_blocked_query_params()
+    apply_sl_parchment_theme()
+
+    _, content_col, _ = st.columns((1, 1.2, 1), gap="large")
+    with content_col:
+        st.title("Login")
+        st.caption("Melde dich an, um das Dashboard zu nutzen.")
+        with st.container(border=True):
+            login_filed(st)
+
+
 def initialize_wiki_context() -> None:
-    if "root_path" in st.session_state:
+    user = ensure_dashboard_user()
+    if not user.loged_in:
         return
 
-    st.session_state["user"] = User(name="SL", role=Roles.GameMaster, loged_in=True)
-    st.session_state["tree"] = utils.find_markdown_files(
-        cfg.MARKDOWN_DIR, st.session_state["user"]
-    )
-    st.session_state["images"] = utils.collect_images_by_name(cfg.IMAGE_DIR)
-    st.session_state["root_path"] = str(list(st.session_state["tree"].keys())[0])
-    st.session_state["current_path"] = st.session_state["root_path"]
-    st.session_state["db_flag"] = False
-    st.session_state["db"] = ""
+    if "tree" not in st.session_state:
+        st.session_state["tree"] = utils.find_markdown_files(cfg.MARKDOWN_DIR, user)
+    if "images" not in st.session_state:
+        st.session_state["images"] = utils.collect_images_by_name(cfg.IMAGE_DIR)
+    if "root_path" not in st.session_state:
+        st.session_state["root_path"] = str(list(st.session_state["tree"].keys())[0])
+    if "current_path" not in st.session_state:
+        st.session_state["current_path"] = st.session_state["root_path"]
+    if "db_flag" not in st.session_state:
+        st.session_state["db_flag"] = False
+    if "db" not in st.session_state:
+        st.session_state["db"] = ""
     for db in cfg.DATABASE_LIST:
         if db not in st.session_state:
             st.session_state[db] = build_markdown_database(f"World/{db}")
@@ -172,6 +211,11 @@ def build_dashboard_pages() -> list:
 
 
 def prepare_dashboard_navigation():
+    ensure_dashboard_user()
+    if not is_dashboard_user_logged_in():
+        render_dashboard_login_screen()
+        return None
+
     initialize_wiki_context()
 
     if render_wiki_view_from_query():

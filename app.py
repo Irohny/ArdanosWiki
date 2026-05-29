@@ -4,8 +4,29 @@ from components.sidebar import create_sidebar
 from components.header import header
 from components import utils
 from config import cfg
-from components.login import User
+from components.login import User, login_filed
 from components.file_parser import build_markdown_database
+
+
+def ensure_app_user() -> User:
+    user = st.session_state.get("user")
+    if isinstance(user, User):
+        return user
+
+    st.session_state["user"] = User()
+    return st.session_state["user"]
+
+
+def render_login_screen() -> None:
+    if "page" in st.query_params:
+        del st.query_params["page"]
+
+    _, content_col, _ = st.columns((1, 1.2, 1), gap="large")
+    with content_col:
+        st.title("Login")
+        st.caption("Melde dich an, um die Wiki-App zu nutzen.")
+        with st.container(border=True):
+            login_filed(st)
 
 
 def main():
@@ -20,8 +41,12 @@ if __name__ == "__main__":
     st.set_page_config(
         "DnD Wiki", page_icon=f"{cfg.IMAGE_DIR}/dnd_logo.svg", layout="wide"
     )
+    user = ensure_app_user()
+    if not user.loged_in:
+        render_login_screen()
+        st.stop()
+
     if "root_path" not in st.session_state:
-        st.session_state["user"] = User()
         st.session_state["tree"] = utils.find_markdown_files(
             cfg.MARKDOWN_DIR, st.session_state["user"]
         )
