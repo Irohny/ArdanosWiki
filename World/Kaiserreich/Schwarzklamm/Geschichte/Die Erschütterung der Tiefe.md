@@ -6,7 +6,7 @@ Zeitspanne: 1698 n.d.D
 _„Und so brach die Stille – nicht durch Schlacht oder Streit, sondern durch den Schrei eines Wesens, das nie hätte erwachen dürfen.“_  
 – **Aus dem Schwarzen Kodex der Runenhalle**
 
-Im Jahre **1698 n.d.D.** verließ das Volk der [[Schwarzklamm]]-Zwerge fluchtartig ihre legendäre Heimat, die **[[Tiefe Hallen]]** – ein Ereignis, das in den Annalen als **„Die Erschütterung der Tiefe“** bekannt wurde.
+Im Jahre **1698 n.d.D.** verließ das Volk der [[Schwarzklamm]]-Zwerge fluchtartig ihre legendäre Heimat, die **[[Khazul-Vuldur]]** – ein Ereignis, das in den Annalen als **„Die Erschütterung der Tiefe“** bekannt wurde.
 
 Seit Jahrhunderten hatten die Zwerge dort tiefer gegraben als je zuvor, getrieben vom Hunger nach seltenen Metallen, uralter Magie – und einem gewissen Stolz, _tiefster_ aller Zwergenvölker zu sein. Trotz uralter Warnungen und Legenden wagten sie sich hinab in vergessene Schichten unter der Erde, an Orte, wo selbst die Runenlichter erloschen.
 

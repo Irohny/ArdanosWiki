@@ -1,0 +1,7 @@
+- Hoheprister im Tempel der Waldelfen von [[Lorathiel]]
+- Forschte viel den der Magie der Exisitenzebenen
+- Fand bei seinen Forschungen heraus, dass die macht der Finsternis bei der erschaffung der Existenzebenen geteilt wurde, sodass die Macht des Chaos in der [[Schleierwelt]] und die Macht des Todes im [[Schattenlicht]] exisitieren
+- Er forschte an einer möglichkeit die Mächte wieder zu vereinen, um die Magie der wahren Finsternis nutzbar zu machen
+- Er entwicklete das [[Ritual der Finsteren Konjunktion]] um die Existenzebenen der [[Schleierwelt]] und des [[Schattenlicht]]es zu vereinen, sodass die Mächte wieder in einer Ebene existieren
+- mit der wahren Finsterniss möchte er ewiges Leben für alle und Freiden für alle
+- für das Ritual muss er zwei Gefäße (Magische Lebewesen) die, die Macht der Ebenen beinhalten am Weltenbaum [[Nythariel, die Wurzel zwischen den Welten]] beim [[Ritual der Finsteren Konjunktion]] opfern (Diese Wesen werden 2 Hartmut und Timo)

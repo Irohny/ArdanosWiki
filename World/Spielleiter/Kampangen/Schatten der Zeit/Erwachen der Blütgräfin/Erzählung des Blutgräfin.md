@@ -12,7 +12,7 @@ Irgendwann griff die Krone ein. Soldaten durchsuchten das Haus… und was sie fa
 Aber es reichte, um selbst diese Männer verstummen zu lassen.
 
 Man hat sie nicht gehängt. Nicht verbrannt.  
-Nein… man hat sie eingemauert. In ihrem eigenen Gemach.  
+Nein… man hat sie eingemauert. In der Gruft des Hauses.  
 Stein für Stein. Ohne Licht. Ohne Ausweg.
 
 Das Haus verfiel mit den Jahren… aber der Hügel blieb nie still.

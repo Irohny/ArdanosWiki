@@ -1,67 +1,125 @@
-
-- **Rufname / Beiname:** Die Friedensbotin
-- **Titel / Amt:** Fürstin von [[Elmrath]]
+- **Rufname / Beiname:** Die Friedensbotin _(erst nach dem Paktfest von Len'yrel)_
+- **Titel / Amt:** Waldelfische Vermittlerin, spätere Fürstin von [[Elmrath]]
 - **Haus / Dynastie:** Morgenblatt
-- **Regentschaft:** 553 - 1041 n.d.D.
+- **Regentschaft:** 553 – 1041 n.d.D.
 - **Spezies / Volk:** Waldelfe
-- **Herkunft:** [[Elmrath]]
-- **Geburtsjahr:** 0 n.d.D
+- **Herkunft:** [[Lorathiel]]
+- **Geburtsjahr:** 0 n.d.D.
 - **Sterbejahr:** 1041 n.d.D.
-- **Alter:** -
+- **Verknüpfte Orte:** [[Lorathiel]], [[Elmrath]], [[Immergrüner Hain]]
+- **Verknüpfte NPCs:** [[Lethariel Nachtwind]],  [[Aric Dornenspeer]], [[Loravain Elaris]]
+- **Bekannt für:**
+    - Vermittlerin zwischen Waldvölkern und Hochalben
+    - Initiatorin des Paktfestes von Len'yrel
+    - Erste Fürstin von [[Elmrath]]
+- **Erste Erwähnung:** 552 n.d.D.
+- **Tags:** #herrscher #elmrath #adel #waldelfen #diplomatie
 
-- **Verknuepfte Orte:** [[Elmrath]], [[Lorathiel]]
-- **Verknuepfte NPCs:** [[Lethariel Nachtwind]], [[Thalanor]], [[Aric Dornenspeer]]
-- **Bekannt fuer:** 
-- **Erste Erwaehnung:** 553 n.d.D.
-- **Tags:** #herrscher #elmrath #adel
+---
 
-## Beschreibung und Auftreten
+# Beschreibung und Auftreten
 
-Celynia wirkt ruhig, fast unerschütterlich. Ihre Präsenz ist nicht laut, aber durchdringend – als würde der Wald selbst hinter ihren Worten stehen.
+Im Jahr 552 n.d.D. ist Celynia noch keine Herrscherin, sondern eine junge und aufstrebende Stimme innerhalb der Waldelfen.
 
-Ihre Kleidung besteht aus lebendem Gewebe: Blätter, feines Holz und schimmernde Stoffe, die sich leicht mit ihrer Bewegung verändern.
+Sie wirkt ruhig und besonnen. Ihre Präsenz ist nicht einschüchternd, sondern beruhigend – als würde der Wald selbst hinter ihren Worten stehen.
 
-Ihre Augen:
-- sanft
-- aufmerksam    
-- und manchmal… **zu wissend**
+Ihre Kleidung besteht aus fein gearbeitetem Waldgewebe, durchzogen von lebenden Blättern und schimmernden Naturfasern. Nichts an ihr wirkt prunkvoll, dennoch zieht sie die Aufmerksamkeit ihrer Umgebung auf sich.
 
-Sie spricht selten hastig.
-Jedes Wort wirkt gewählt – und trägt Gewicht.
+Ihre Augen sind:
+
+- aufmerksam
+- freundlich
+- nachdenklich
+
+Sie hört oft länger zu, als andere sprechen.
 
 Eindruck bei Fremden:
-> „Sie kämpft nicht – und genau deshalb ist sie gefährlich.“
 
-## Rolle und Beziehungen
-- Vermittlerin zwischen:
-    - Waldelfen (traditionell, abgeschottet)
-    - Menschen und anderen Völkern (expansiv, misstrauisch)
-    
-- Innerhalb Lorathiels:
-    - wird sie respektiert, aber nicht von allen unterstützt
-    - besonders ältere Elfen sehen ihre Politik als **gefährlich naiv**
-    
-- Außerhalb:
-    - viele halten sie für:
-        - Hoffnungsträgerin
-        - oder Bedrohung für bestehende Machtstrukturen
+> „Sie scheint immer zuerst nach einer Lösung zu suchen, bevor sie nach einem Schuldigen sucht.“
 
-## Ziele
-- Dauerhaften Frieden zwischen Wald und Zivilisation schaffen
-- Die Isolation [[Lorathiel]] beenden
-- Das Gleichgewicht des Immergrünen Hains bewahren
+---
 
-Langfristig:
-- Eine neue Ordnung schaffen, in der beide Seiten existieren können
+# Rolle und Beziehungen
 
-## Plot-Hooks
+## Während der Kampagne (552 n.d.D.)
 
--
+Celynia gehört zu den wenigen Waldelfen, die weiterhin an eine friedliche Zukunft glauben.
 
-## Geheime Informationen
+Sie bemüht sich um Verständigung zwischen:
 
--
+- den Waldelfen des [[Immergrüner Hain]]
+- den Hochalben der [[Goldene Weite]]
+- den Grenzsiedlern der umliegenden Regionen
 
-## Kampfwerte
+---
 
--
+## Innerhalb von [[Lorathiel]]
+
+Sie genießt Respekt für ihre Weisheit und ihr Mitgefühl.
+
+Allerdings betrachten viele ältere Waldelfen ihre Ansichten kritisch.
+
+Einige halten sie für:
+
+- idealistisch
+- naiv
+- gefährlich kompromissbereit
+
+Vor allem in Zeiten zunehmender Monsterangriffe wächst der Widerstand gegen ihre Ideen.
+
+---
+
+## Beziehung zu Loravain Elaris
+
+Celynia respektiert Loravains Wissen und seinen Rang als Hohepriester.
+
+Dennoch fühlt sie sich in seiner Gegenwart oft unwohl.
+
+Sie kann nicht erklären warum, hat aber den Eindruck:
+
+> „Loravain spricht oft vom Gleichgewicht der Welt, aber selten von den Menschen, die in ihr leben.“
+
+Sie besitzt keine Beweise gegen ihn, gehört jedoch zu den wenigen Personen, die seinem Einfluss misstrauen.
+
+---
+
+# Ziele
+
+## Kurzfristig
+
+- Die Wahrheit hinter den Angriffen im Wald aufdecken
+- Eine Eskalation zwischen Waldelfen und Siedlern verhindern
+- Die verschiedenen Fraktionen zum Dialog bewegen
+
+## Langfristig
+
+- Die Isolation [[Lorathiel]] überwinden
+- Einen dauerhaften Frieden zwischen Wald und Zivilisation schaffen
+- Eine gemeinsame Zukunft für Waldelfen, Hochalben und Menschen ermöglichen
+
+---
+
+# Bedeutung für die Kampagne
+
+Celynia kann als wichtigste Ansprechpartnerin der Gruppe innerhalb der Waldelfen dienen.
+
+Sie:
+
+- unterstützt die Helden mit Informationen
+- vermittelt Kontakte
+- ermutigt zu friedlichen Lösungen
+- lenkt die Gruppe auf den Pfad zum Mondtempel [[Lunareth der Sichelschrein]]
+
+Durch ihre Begegnungen mit den Helden gewinnt sie selbst die Erfahrungen und das Ansehen, die sie später zur Anführerin des neu gegründeten Fürstentums [[Elmrath]] machen.
+
+---
+
+# Nach der Kampagne
+
+Nach dem Fall von [[Loravain Elaris]] und der Rettung des [[Nythariel, die Wurzel zwischen den Welten]] wird Celynia zu einer der wichtigsten Stimmen für den Wiederaufbau der Region.
+
+Im Jahr 553 n.d.D. führt sie die Verhandlungen zwischen den Waldvölkern und den Hochalben der [[Goldene Weite]], die schließlich im **Paktfest von Len'yrel** münden.
+
+Dort wird sie zur ersten Fürstin von [[Elmrath]] ernannt und erhält den Beinamen:
+
+> **Die Friedensbotin**.

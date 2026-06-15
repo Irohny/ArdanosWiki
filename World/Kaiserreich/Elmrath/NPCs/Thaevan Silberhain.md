@@ -7,7 +7,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Rufname / Beiname:** Der Lautlose Herr
 - **Titel / Amt:** Fürst von [[Elmrath]]
 - **Haus / Dynastie:** Silberhain
-- **Regentschaft:** 1014 - 1159 n.d.D.
+- **Regentschaft:** 1614 - 2059 n.d.D.
 - **Spezies / Volk:** Hochelfe
 - **Herkunft:** [[Elmrath]]
 - **Geburtsjahr:** 

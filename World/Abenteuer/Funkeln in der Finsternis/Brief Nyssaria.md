@@ -6,7 +6,7 @@ Varian berichtete, die fünfköpfige Gruppe sei auf der Suche nach den drei magi
 
 Übrigens: Auf unserem Weg stieß ein weiterer Abenteurer zu uns, der behauptete, er habe seinen Namen offenbar vergessen. Da wir keine bessere Wahl hatten, tauften wir ihn auf „Sir Hoppel“. Was genau ihn hierher geführt hat, bleibt ein Rätsel, und niemand hielt es im Verlauf unserer Expedition für wichtig, genauer nachzufragen.
 
-Die Teleportationskreise führten uns problemlos zu den [[Tiefe Hallen]], die einst Zuflucht der Zwerge gewesen war. Deren Magie bei deren Auszug anscheinend verflogen ist – der Anblick war eher ernüchternd. Aber wir fanden Ruinen, verschlossene Zwergentüren und einen rätselhaften Felsspalt als Zugang – eine genauere Wegbeschreibung wäre an der Stelle toll gewesen, wir haben erstmal ewig suchen müssen, bis wir diesen Eingang fanden.
+Die Teleportationskreise führten uns problemlos zu den [[Khazul-Vuldur]], die einst Zuflucht der Zwerge gewesen war. Deren Magie bei deren Auszug anscheinend verflogen ist – der Anblick war eher ernüchternd. Aber wir fanden Ruinen, verschlossene Zwergentüren und einen rätselhaften Felsspalt als Zugang – eine genauere Wegbeschreibung wäre an der Stelle toll gewesen, wir haben erstmal ewig suchen müssen, bis wir diesen Eingang fanden.
 
 Die Wände schmückten Reliefs, die alte Zwergenlegenden erzählten – von Pakten mit Feuerwesen für die Schmiedekunst, von Ahnengeistern im Wasserbecken und windigen Geistergestalten, die über den Felssprung wachten.
 

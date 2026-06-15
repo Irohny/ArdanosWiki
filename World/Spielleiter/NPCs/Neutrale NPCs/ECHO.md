@@ -65,7 +65,7 @@ bis zu 3 Leg-Aktionen pro Zug
 ## Hintergrund
 - Erschaffen von Magieschmieden in der [[Schwarzklamm]]
 - Dieses Konstrukt soll von selbst lernen und den Zwergen helfen
-- In vergessenheit geraten nach der Flucht der Zwerge aus den [[Tiefe Hallen]]
+- In vergessenheit geraten nach der Flucht der Zwerge aus den [[Khazul-Vuldur]]
 - Steht dort nun in den Hallen herum und wartet auf eine begegnung
 ---
 ## Zitate

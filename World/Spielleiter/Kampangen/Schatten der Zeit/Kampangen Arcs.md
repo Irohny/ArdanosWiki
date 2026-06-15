@@ -13,7 +13,9 @@ Gegner: [[Lady Seress]], [[Xal'Zhurn]]
 Paladin: [[Edran Tiefstrom]]
 Ort: [[Mariven]]
 Artefakt: Der Kompass des Sturmlords
-Plothook:
+**Welt Reaktion:** Die Meere und Stürme werden Rauer, da die Gezeitenmagie wilder geworden ist nach dem Siegelbruch 
+Plothook: [[Edran Tiefstrom]] Aufezichnungen die von [[Elaena Silberhand]] und [[Selvian Korth]] gesucht werden, da sie auf dem Schiff [[Azure Rune]] liegen, dass einst mit dem Vater von [[Elaena Silberhand]] ([[Candamir Silberhand]]) untergegangen ist.
+- [[Arc Siegel der Ströme]]
 
 ## Siegel der Schöpfung
 Gott: [[Volgrin]]

@@ -1,10 +1,10 @@
-Die **[[Tiefe Hallen]]**, ein uraltes, von Zwergen in den Berg gehauenes Reich im östlichen Teil der [[Schwarzklamm]]. Einst ein blühendes Zentrum der Erzveredelung, heute ein weitgehend verlassenes Labyrinth aus Gängen, Hallen und alten Werkstätten.
+Die **[[Khazul-Vuldur]]**, ein uraltes, von Zwergen in den Berg gehauenes Reich im östlichen Teil der [[Schwarzklamm]]. Einst ein blühendes Zentrum der Erzveredelung, heute ein weitgehend verlassenes Labyrinth aus Gängen, Hallen und alten Werkstätten.
 
-- **Ort:** [[Tiefe Hallen]], [[Schwarzklamm]]
+- **Ort:** [[Khazul-Vuldur]], [[Schwarzklamm]]
 - 
 ### **Aufhänger / Einstieg:**
 
-[[Varian Schattentaenzer]] bat die Gruppe um ein treffen in der der Arkanen Akademie von [[Velithor]] um sie mit der Suche nach einer Expedition zu beauftragen, die in den [[Tiefe Hallen]] verloren gegangen ist. Die Expedition war auf der Suche nach der Werkstatt von [[Caelumbran der Letzte Sternenschmied]] um das Geheimnis um die Mythen um sein Leben zu untersuchen.
+[[Varian Schattentaenzer]] bat die Gruppe um ein treffen in der der Arkanen Akademie von [[Velithor]] um sie mit der Suche nach einer Expedition zu beauftragen, die in den [[Khazul-Vuldur]] verloren gegangen ist. Die Expedition war auf der Suche nach der Werkstatt von [[Caelumbran der Letzte Sternenschmied]] um das Geheimnis um die Mythen um sein Leben zu untersuchen.
 
 ### **Ziel:**
 - Findet die verschollene Expedition.

@@ -1,13 +1,13 @@
 ## **D&D One-Shot: _Die Träne der Sonne_**
 Jahr: 2163 n.d.D
 
-Das Abenteuer spielt im Fürstentum **[[Elmrath]]**, genauer gesagt in den abgelegenen **[[Himmelshöfe]]n**, einer von üppigen Wäldern und uralten Grasplateaus durchzogenen Hochebene. Dessen Ränder an das Gebiet des ruhenden Vulkans **[[Kar'drathar]]** grenzen, unter dem sich wieder eine feurige Macht regt.
+Das Abenteuer spielt im Fürstentum **[[Elmrath]]**, genauer gesagt in den abgelegenen **[[Himmelshöfe]]n**, einer von üppigen Wäldern und uralten Grasplateaus durchzogenen Hochebene. Dessen Ränder an das Gebiet des ruhenden Vulkans **[[Moragul]]** grenzen, unter dem sich wieder eine feurige Macht regt.
 
 ---
 
 ### 🎯 **Plot Hook**
 
-Die Gruppe wird von den Ältesten der [[Himmelshöfe]] gerufen: Die **_[[Träne der Sonne]]_**, ein heiliger Anhänger, zeigt seit Tagen ein unheimliches Glühen, und der Boden um **[[Kar'drathar]]** bebt. Flammenvögel kreisen den Krater, und Rauchzeichen in der Ferne deuten auf drohendes Unheil hin.  
+Die Gruppe wird von den Ältesten der [[Himmelshöfe]] gerufen: Die **_[[Träne der Sonne]]_**, ein heiliger Anhänger, zeigt seit Tagen ein unheimliches Glühen, und der Boden um **[[Moragul]]** bebt. Flammenvögel kreisen den Krater, und Rauchzeichen in der Ferne deuten auf drohendes Unheil hin.  
 **Die Helden sollen die Ursache herausfinden – und [[Elmrath]] vor einem erneuten Ausbruch retten.**
 
 ---

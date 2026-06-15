@@ -3,32 +3,40 @@
 Herkunft: Wurzelfurt
 Hintergrund: Händler
 Geschichte: 
-- Hutmacher Lehrling in Wurzelfurt, traf einen Fremden, der ihm einen Pakt mit einer finsteren Macht anbot um ihn stärker zu machen.
-### Jan / alias 50Kupfer
+- Hutmacher Lehrling in [[Wurzelfurt]], traf einen Fremden, der ihm einen Pakt mit einer finsteren Macht anbot um ihn stärker zu machen.
+- Er hat Angst vor der Macht die er nun besitzt, weil er nicht weiß was sie mit ihm machen wird
+- DM: Sein Pakt ist mit der Finsternis der Schleirerwelt, die ihm ein Diener von [[Loravain Elaris]] gegeben hat. Es gibt einige solcher Hexenmeister in der Gegend, die als Behältnis der Finsternis in der Welt   dienen sollen, damit das Ritual der finsteren Konjunktion vollendet werden kann
+### Jan / Kurt Johanson alias 50Kupfer
 **Barde, Mensch**
-Herkunft:
+Herkunft: -
 Hintergrund: Reisende
 Geschichte:
 - Kennt seine Familie nicht
+- Zieht als Barde und Scharlatan durch die Lande
 ### Daniel / 
 **Kleriker Tiefling Infernalisch, Licht**
-Herkunft:
+Herkunft: [[Schattenlicht]] oder [[Schleierwelt]]
 Hintergrund: Wache
 Geschichte:
-- Idee Magische Waldkarte um den Weltenbaum zu suchen
-- Diente im Solyra Tempel in Goldähr
+- Tiefling der sein infernalisches Erbe ablehnt
+- Er hat Angst vor dem Dämonischen Wesen in ihm, auch wenn er sich gegen seine Herkunft gewannt hat
+- Idee Magische Waldkarte um den Weltenbaum zu suchen, um einen Weg ins [[Immerlicht]] zu finden
+- Tempeldiener im [[Solyra]] in [[Goldähr]]
 ### Niklas / 
 **Paladin "Eid der Rache", Elf**
-Herkunft:
+Herkunft: [[Erlenfurt]]
 Hintergrund: Wache
 Geschichte:
-- Dorf wurde von Untoten überfallen, Vater ist necromancer, Rache gegen Vater (Vater als Racheobjekt)
+- Sein Dorf [[Erlenfurt]] wurde von Untoten überfallen, Vater war der Zauber, der die Armee der Untoten befehligte
+- Er schwor Rache gegen die Macht der Untoten und seinem Vater
 - Auf der Reise und suche nach dem Vater
-- War Wache im Solyra Tempel in Goldähr
+- War Wache im [[Solyra]] Tempel in [[Goldähr]]
 ### Timo / 
 **Zauberer Nekromancer Bannmagier, Drow**
 Herkunft:
 Hintergrund:
 Geschichte: 
-- Idee, Verrückter Wissenschaftler der an nekromatie forscht (liebt zombies und skellette) und idee von einer mysteriösen gestalt (Schattenfigure) bekommen hat.
-- In [[Lorathiel]] bekommt timo den necromancer zauber von einer dunklen Gestalt
+- Verrückter Wissenschaftler der an Nekromatie forscht (liebt zombies und skellette) 
+- In [[Lorathiel]] bekommt Timo den Nekromatiezauber von einer dunklen Gestalt
+- Er forscht ohne es zu wissen an der Macht der Finsterniss des [[Schattenlicht]]es
+- Er wird im laufe der Kampange immer mal wieder von den Erben der Nacht angesprochen und gefragt, ob er dem Orden beitretten möchte

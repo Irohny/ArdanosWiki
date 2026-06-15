@@ -4,11 +4,11 @@ Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in der
 Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
 -->
 
-- **Rufname / Beiname:** Die Stimme der Wälder
-- **Titel / Amt:** Fürstin von [[Elmrath]]
-- **Haus / Dynastie:** Dämmerwald
-- **Regentschaft:** 1610 - 1765 n.d.D.
-- **Spezies / Volk:** Halbelfe
+- **Rufname / Beiname:** Die Ruhe des Waldes
+- **Titel / Amt:** Fürst von [[Elmrath]]
+- **Haus / Dynastie:** Silberhain
+- **Regentschaft:** 2060 - 2325 n.d.D.
+- **Spezies / Volk:** Hochelfe
 - **Herkunft:** [[Elmrath]]
 - **Geburtsjahr:** 
 - **Sterbejahr:** 
@@ -17,7 +17,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Verknuepfte Orte:** [[Elmrath]]
 - **Verknuepfte NPCs:** 
 - **Bekannt fuer:** 
-- **Erste Erwaehnung:** 1610 n.d.D.
+- **Erste Erwaehnung:** 2060 n.d.D.
 - **Tags:** #herrscher #elmrath #adel
 
 ## Beschreibung und Auftreten

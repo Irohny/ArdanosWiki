@@ -122,7 +122,7 @@ Also fasste Reodemus einen unmöglichen Entschluss:
 
 ## Die Tiefenhalle
 
-Seine Forschungen führten ihn schließlich zu einem verlassenen Ort tief im Herzen der [[Schwarzklamm]] - die [[Tiefe Hallen]].
+Seine Forschungen führten ihn schließlich zu einem verlassenen Ort tief im Herzen der [[Schwarzklamm]] - die [[Khazul-Vuldur]].
 
 Ein uraltes unterirdisches Zwergenheiligtum.
 

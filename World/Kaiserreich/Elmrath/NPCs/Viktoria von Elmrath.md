@@ -23,6 +23,8 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 ## Beschreibung und Auftreten
 
 - **Title:**  _Sonnenkönigin_
+- Als Sie zur Fürstin gekröhnt wurde benannte Sie ihr Haus von Dämmerwald in von [[Elmrath]] um, um den Anspruch ihreres Hauses auf die Fürstenkrone in der Sprache zu verankern, da sie die erste menschliche Fürstin von [[Elmrath]] war.
+- Sie setzte [[Luminara]] als neuen Hauptsitz der Fürsten von [[Elmrath]] ein (siehe: [[Luminara Sitz der Fürsten von Elmrath]])
 
 ## Rolle und Beziehungen
 

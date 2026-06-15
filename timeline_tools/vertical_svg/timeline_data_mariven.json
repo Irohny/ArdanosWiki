@@ -96,7 +96,7 @@
     {
       "column": "mariven_rulers",
       "lane": 0,
-      "label": "Lureano Vintar",
+      "label": "Lureano Talvarin",
       "start": 503,
       "end": 547,
       "kind": "range"
@@ -112,7 +112,7 @@
     {
       "column": "mariven_rulers",
       "lane": 0,
-      "label": "Domerr Talzo",
+      "label": "Domerr Velora",
       "start": 603,
       "end": 685,
       "kind": "range"
@@ -144,7 +144,7 @@
     {
       "column": "mariven_rulers",
       "lane": 0,
-      "label": "Celetha Vintar II",
+      "label": "Celetha Talvarin II",
       "start": 983,
       "end": 1036,
       "kind": "range"
@@ -200,7 +200,7 @@
     {
       "column": "mariven_rulers",
       "lane": 0,
-      "label": "Orryn Talzo II",
+      "label": "Orryn Vellora II",
       "start": 1912,
       "end": 1971,
       "kind": "range"
@@ -208,7 +208,7 @@
     {
       "column": "mariven_rulers",
       "lane": 0,
-      "label": "Zallion Vintar III",
+      "label": "Zallion Velora III",
       "start": 1971,
       "end": 2030,
       "kind": "range"
@@ -216,7 +216,7 @@
     {
       "column": "mariven_rulers",
       "lane": 0,
-      "label": "Aelaria Talzo",
+      "label": "Aelaria Vellora",
       "start": 2030,
       "end": 2158,
       "kind": "range"
@@ -248,6 +248,15 @@
     {
       "column": "mariven_ranges",
       "lane": 0,
+      "label": "Jahre der Asche und des Salzes",
+      "start": 448,
+      "end": 503,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
       "label": "Baraberenüberfälle von Mariven",
       "start": 1236,
       "end": 1387,
@@ -258,7 +267,7 @@
       "column": "mariven_ranges",
       "lane": 0,
       "label": "Muschelkrieg",
-      "start": 1401,
+      "start": 1358,
       "end": 1402,
       "kind": "range",
       "fill": "#59a199"
@@ -267,7 +276,7 @@
       "column": "mariven_ranges",
       "lane": 0,
       "label": "Runenbann-Konflikt",
-      "start": 1603,
+      "start": 1503,
       "end": 1611,
       "kind": "range",
       "fill": "#59a199"

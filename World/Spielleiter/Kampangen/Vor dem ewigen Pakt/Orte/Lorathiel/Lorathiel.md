@@ -1,6 +1,7 @@
 > _„Wer Lorathiel betritt, betritt nicht eine Stadt – sondern das schlagende Herz eines uralten Waldes.“_
 
 Gemeinsprache auch bekannt als **Grünherz**
+Lorathiel war nach der Gründung des Fürstentums [[Elmrath]] die Hauptstadt des Reiches. Im zweiten Zeitalter verlor die Stadt ihren Status, als der Sitz der Fürsten von [[Elmrath]] nach [[Goldähr]] verlegt wurde um die Fürsten näher an das politische geschehen der Zeit zu bringen.
 
 ---
 ## **Dunkelholz / Velmathiel– Die Wurzeln der Stadt**

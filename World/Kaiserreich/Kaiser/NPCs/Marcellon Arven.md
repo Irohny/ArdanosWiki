@@ -1,9 +1,3 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
-
 - **Rufname / Beiname:** Der Handelsherr
 - **Titel / Amt:** Kaiser von [[Ardanos]]
 - **Haus / Dynastie:** Arven
@@ -14,10 +8,10 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Sterbejahr:**
 - **Alter:**
 
-- **Verknuepfte Orte:** [[Ardanos]], [[Mariven]], [[Krieg der Zwerge]]
-- **Verknuepfte NPCs:**
-- **Bekannt fuer:** Handelspolitik, maritime Staerke, Herrschaft in Kriegszeiten
-- **Erste Erwaehnung:** 2319 n.d.D.
+- **Verknüpfte Orte:** [[Ardanos]], [[Mariven]], [[Krieg der Klüfte]]
+- **Verknüpfte NPCs:**
+- **Bekannt für:** Handelspolitik, maritime Stärke, Herrschaft in Kriegszeiten
+- **Erste Erwähnung:** 2319 n.d.D.
 - **Tags:** #kaiser #kaiserreich #mariven #adel
 
 ## Beschreibung und Auftreten
@@ -27,9 +21,10 @@ Seine Herrschaft verband kaiserliche Macht mit maritimem und wirtschaftlichem Ei
 
 ## Rolle und Beziehungen
 
-Er regierte waehrend des [[Krieg der Zwerge]] und staerkte die Seemacht [[Mariven]]s.
+Er regierte während des [[Krieg der Klüfte]] und stärkte die Seemacht [[Mariven]]s.
 - [[Mariven]]: Herkunft seines Hauses und wirtschaftlicher Schwerpunkt
-- [[Krieg der Zwerge]]: praegender Konflikt seiner Herrschaft
+- [[Krieg der Klüfte]]: prägender Konflikt seiner Herrschaft. Er griff nicht in das Machtgefüge der [[Schwarzklamm]] ein, da Zwerge ihre Konflikte stehts alleine austragen und eine Einmischung von außen, von beiden Parteien des Krieges nicht gewollt wurde
+- Verlegung des Kaisersitzes (2345 n.d.D.) von [[Valatheris]] nach [[Luminara]] um den Kaisersitz näher an den pulsierenden Handelstrom zu bringen.
 
 ## Ziele
 

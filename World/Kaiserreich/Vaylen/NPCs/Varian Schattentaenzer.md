@@ -14,7 +14,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Sterbejahr:**
 - **Alter:**
 
-- **Verknuepfte Orte:** [[Vaylen]], [[Tiefe Hallen]], [[Goldene Rune]]
+- **Verknuepfte Orte:** [[Vaylen]], [[Khazul-Vuldur]], [[Goldene Rune]]
 - **Verknuepfte NPCs:** [[Selene Drachenruf]], [[Glutherz Doppelzunge]], [[Marktgraf Reodemus]], [[Drakmora]], [[Schwarzklamm]]
 - **Bekannt fuer:** Spionage, Informationshandel, verdeckte Missionen, politische Intrigen
 - **Erste Erwaehnung:** unbekannt
@@ -40,7 +40,7 @@ Er wirkt offenherzig, ist in Wahrheit aber listig, verschwiegen und meisterhaft 
 
 ## Plot-Hooks
 
-- One Shot Funkeln in der Finsternis: Auftraggeber einer Erkundungsmission in den [[Tiefe Hallen]]
+- One Shot Funkeln in der Finsternis: Auftraggeber einer Erkundungsmission in den [[Khazul-Vuldur]]
 - Kapitel 1: unterstuetzt die Gruppe nach Hinweisen auf Waffenhandel zwischen [[Drakmora]] und [[Schwarzklamm]]
 - Kapitel 1: es besteht der Verdacht, dass er den Mord an [[Glutherz Doppelzunge]] in Auftrag gab
 - Kapitel 2: trifft die Gruppe in der [[Goldene Rune]] und arrangiert ein Treffen mit [[Marktgraf Reodemus]]

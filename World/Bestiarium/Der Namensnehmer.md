@@ -82,29 +82,6 @@ Charisma Zauberlevel 18, +10 zum Treffen für Zauber
 ---
 
 ## Hintergrund
-#### Vergangeheit
-Einst war der Kreatur ein Mensch – ein brillanter Magier des **[[Orden der Klarheit]]**, begabt im Entschlüsseln der tiefsten Geheimnisse von Sprache und Macht. In seiner rastlosen Suche stieß er auf die Lehre der **wahren Namen**: das Wissen, dass jedes Wesen im Multiversum einen Klang besitzt, der sein Wesen bindet.
-
-Diese Forschung führte ihn an die Grenzen dessen, was selbst der Orden zu dulden vermochte. **Im Archiv der [[Stille Akademie]]** entdeckte er Fragmente des verbotenen **Codex des Nichtseins** – ein Werk, das in die Hände des Sterblichen bewusst gelegt wurde. Denn **[[Lord Malvurax]]** selbst hatte es dort verborgen, in der Gewissheit, dass ein Wissbegieriger es finden würde.
-
-Die Lektüre fraß sich wie ein Brand in den Geist des Magiers. Mit jeder Seite verstand er mehr – und vergaß zugleich ein Stück seiner selbst. Schließlich opferte er in einem Ritual **seinen eigenen Namen**, um Zugang zu den tiefsten Versen des Codex zu erhalten.
-
-Doch dies hatte Folgen:
-- Ohne Namen war er aus der Weltordnung gelöscht.
-- Er wurde ein „**Niemalsgeborener**“: ein Wesen, das existiert, aber nicht benannt werden kann.    
-- Der **Orden der Klarheit** verstieß ihn, die **Stille Akademie** verfluchte ihn.
-
-Nun wandelt er als **Schatten ohne Namen**, dessen Macht wächst, je mehr wahre Namen er raubt und bindet.
-
-#### Gegenwart
-Sein Ziel ist grausam klar:
-
-- Die **wahren Namen der fünf neuen Paladine** zu sammeln, die als Fackeln des Widerstands erstrahlen.
-    
-- Mit diesen Namen soll ein uralter Pakt erneuert werden, um die Macht von **[[Ephazul]]**, der Vergessenen Tiefe, zu nähren und in die Welt zu brechen.
-    
-
-Er trägt Fragmente des Codex bei sich, vollgekritzelt mit Namen, Strichen und Symbolen, die kaum noch jemand deuten kann. Seine Schrift ist chaotisch – teils Runen, teils verzerrte Laute, die sich beim Lesen ins Ohr des Betrachters flüstern.
 
 ---
 ## Zitate

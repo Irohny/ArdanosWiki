@@ -4,63 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "7d4fe3245f04b838",
+        "id": "3e5485d0514311c1",
         "type": "tabs",
         "children": [
           {
-            "id": "9870cc898632005c",
+            "id": "cd85266d826a7a63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kapitel 2 Session 1.md",
-                "mode": "preview",
+                "file": "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Arcs.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kapitel 2 Session 1"
+              "title": "Kampangen Arcs"
             }
           },
           {
-            "id": "efc5966674fe8fa7",
+            "id": "295b857a794140a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skill im Sturm.md",
-                "mode": "preview",
+                "file": "Spielleiter/Kampangen/Schatten der Zeit/Arc Siegel der Ströme.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Skill im Sturm"
+              "title": "Arc Siegel der Ströme"
             }
           },
           {
-            "id": "024c731571e6d394",
+            "id": "149d1fe3a3b599a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Ruine auf dem Blutfels.md",
-                "mode": "preview",
+                "file": "Spielleiter/Kampangen/Schatten der Zeit/Kriegssystem.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ruine auf dem Blutfels"
-            }
-          },
-          {
-            "id": "5d53f52e01c3f70b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kaiserreich/Geschichte/Zeitalter.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zeitalter"
+              "title": "Kriegssystem"
             }
           }
         ],
@@ -211,53 +197,53 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "024c731571e6d394",
+  "active": "e94c86397ec2adea",
   "lastOpenFiles": [
-    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 1 Das Attentat/Kapitel 1 Session 2.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Rotenbrunn.md",
-    "Kapitel 2 Session 1.md",
-    "Kaiserreich/Wegenetz.md",
-    "Skill im Sturm.md",
-    "Kaiserreich/Geschichte/Zeitalter.md",
-    "Kaiserreich/Ardanos.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 1 Das Attentat/Kapitel 1 Session 4.md",
-    "Spielleiter/Paladine des Goldenen Schildes/Selvian Korth.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kriegssystem.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Arcs.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Arc Siegel der Ströme.md",
+    "Kaiserreich/Mariven/AelVarin/Runanthis.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Das blaue Wrack/Azure Rune.md",
+    "Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Schatten.md",
+    "Kaiserreich/Geschichte/Geschichte/Luminara Sitz der Fürsten von Elmrath.md",
+    "Kaiserreich/Geschichte/Geschichte/Jahre der Asche und des Salzes.md",
+    "Kaiserreich/Mariven/Gründung Mariven.md",
+    "Kaiserreich/Mariven/AelVarin/Ael'Varin.md",
+    "Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Winde.md",
+    "Kaiserreich/Geschichte/Überblick.md",
+    "Kaiserreich/Geschichte/Geschichte/Eid von Morgenfels.md",
+    "Kaiserreich/Geschichte/Geschichte/Erzkrieg von Eron’Gath.md",
+    "Unbenannt 1.base",
+    "Unbenannt.base",
+    "Kaiserreich/Mariven/NPCs/Kommodore/Zallion Velora III.md",
+    "Kaiserreich/Mariven/NPCs/Kommodore/Orryn Vellora II.md",
+    "Kaiserreich/Mariven/NPCs/Kommodore/Domerr Velora.md",
+    "Kaiserreich/Mariven/NPCs/Kommodore/Aerinelle Vellora.md",
+    "Kaiserreich/Mariven/NPCs/Kommodore/Aelaria Vellora.md",
+    "Kaiserreich/Mariven/NPCs/Kommodore/Celetha Talvarin II.md",
+    "Kaiserreich/Mariven/NPCs/Kommodore/Lureano Talvarin.md",
+    "Kaiserreich/Mariven/NPCs/Talvarin.md",
+    "Kaiserreich/Mariven/Mariven.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Ruine auf dem Blutfels.md",
+    "Images/Wappen/bartholdy_wappen.png",
+    "Spielleiter/Kampangen/Schatten der Zeit/Notizen/Kapitel 2 Session 2.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Erzählung des Blutgräfin.md",
+    "Images/Umwelt/Mondtempel_zd1.png",
+    "Images/Umwelt/Mondtempel_zd2.png",
+    "Spielleiter/Kampangen/Schatten der Zeit/Nebelhafen",
+    "Spielleiter/Kampangen/Schatten der Zeit/Notizen",
+    "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 2",
+    "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Zeitungsartikel.png",
+    "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1",
+    "Images/Charackter/mordrak_runenglut.png",
     "Images/Tokens/token_thavos.png",
     "Images/Tokens/token_krinn.png",
     "Images/Tokens/token_havoc.png",
     "Images/Tokens/token_federbart.png",
     "Images/Tokens/token_bramm.png",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 2 Auf hoher See/Kapitel 2.md",
-    "Gruppen/Crew der Windhexe/Windhexe.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 2 Auf hoher See/Goldene Morgendämmerung.md",
-    "Gruppen/Crew der Windhexe/Bramwell Kupferzahn.md",
-    "Gruppen/Crew der Windhexe/Federbart.md",
-    "Kaiserreich/Vaylen/NPCs/Selene Drachenruf.md",
-    "Gruppen/Crew der Windhexe/Thavos Windzunge.md",
-    "Gruppen/Crew der Windhexe/Krinn Blattwender.md",
-    "Gruppen/Crew der Windhexe/Kapitän Havoc.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kapitel 2 Auf hoher See/Traum des Sturms.md",
-    "Spielleiter/Kampangen/Vor dem ewigen Pakt/ERKUNDUNGSSYSTEM – IMMERGRÜNER HAIN.md",
-    "Spielleiter/Schwur des Schweigens.md",
-    "Kaiserreich/Vaylen/Orte/Velithor.md",
-    "Kaiserreich/Vaylen/Orte/Stille Akademie.md",
-    "Kaiserreich/Vaylen/Orte/Porta Arcana.md",
-    "Kaiserreich/Vaylen/Orte/Bibliothek des Verborgenen Lichts.md",
     "Kaiserreich/Vaylen/Orte",
-    "Kaiserreich/Vaylen/Arcanis.md",
     "Kaiserreich/Schwarzklamm/Orte",
     "Kaiserreich/Elmrath/Orte/Luminara",
-    "Kaiserreich/Elmrath/Orte",
-    "Kaiserreich/Drakmora/Orte",
-    "Images/Umwelt/Schattengarten.png",
-    "Images/Umwelt/Mondtempel.png",
-    "Images/vaylen_vertical_timeline.svg",
-    "Images/schwarzklamm_vertical_timeline.svg",
-    "Images/mariven_vertical_timeline.svg",
-    "Kaiserreich/Kaiser/NPCs",
-    "Kaiserreich/Kaiser",
-    "Mythologie/Götter/Nebengötter",
-    "Mythologie/Götter/Hauptgötter",
-    "Mythologie/Existenzebene"
+    "Kaiserreich/Elmrath/Orte"
   ]
 }

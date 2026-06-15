@@ -1,0 +1,5 @@
+- Stats [[Der Namensnehmer]]
+- Oberster Bibliothekar in [[Lorathiel]]
+- Leiter der dunklen Weisen der Erben der Nacht
+- Stahl vor 50 Jahren den [[Codex des Nichtseins]], opferte seinen Namen an das Buch für dessen Macht
+- Forscht mit [[Loravain Elaris]] an der Magiekraft der Existenzebenen und dem [[Ritual der Finsteren Konjunktion]]

@@ -241,7 +241,7 @@
       "column": "drakmora_ranges",
       "lane": 0,
       "label": "Nord-Süd-Konflikt",
-      "start": 1304,
+      "start": 1183,
       "end": 1307,
       "kind": "range",
       "fill": "#c27d69"
@@ -250,7 +250,7 @@
       "column": "drakmora_ranges",
       "lane": 0,
       "label": "Erzkrieg von Eron’Gath",
-      "start": 1526,
+      "start": 1426,
       "end": 1528,
       "kind": "range",
       "fill": "#c27d69"

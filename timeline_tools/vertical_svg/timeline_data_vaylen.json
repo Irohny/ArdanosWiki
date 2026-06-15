@@ -137,7 +137,7 @@
       "column": "vaylen_ranges",
       "lane": 0,
       "label": "Runenbann-Konflikt",
-      "start": 1603,
+      "start": 1503,
       "end": 1611,
       "kind": "range",
       "fill": "#7f9cc0"

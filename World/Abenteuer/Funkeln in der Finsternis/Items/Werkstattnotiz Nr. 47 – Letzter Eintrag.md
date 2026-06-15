@@ -1,7 +1,7 @@
 
 **Verfasst von: [[Caelumbran der Letzte Sternenschmied]] **
 **Herbst 1573 n.d.D**
-**Ort: Verborgene Schmiede in den [[Tiefe Hallen]]**
+**Ort: Verborgene Schmiede in den [[Khazul-Vuldur]]**
 
 > _"Drei Gefäße. Drei Kerker. Drei Schlüssel."_
 

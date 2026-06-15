@@ -10,3 +10,5 @@ Zeit der *[[Ocyra]]* _(Herbst)_
 	- Die Gebiete entlang der großen Flüsse feiern Festen und bringen den Flussgeistern opfer dar um das zusammenleben der Völker und Geister zu festigen. Sie danken, dass ihre Siedlungen und Städte von Hochwassern verschont geblieben sind und  feiern den Quell des Lebens der von dem Fluss ausgeht.
 - **Ernteumzüge:** 
 	- Bauern feiern in dieser Zeit die Ernte und das Ende der warmen Tage, bevor der Winter wieder einbricht
+- **Die Sturmnächte**
+	- Einmal im Jahr gedenken die Marivenier dem Untergang der alten Stadt [[Runanthis]]. Für eine 9 Tage werden die Feuer der Leuchttürme der [[Ocyra]] Tempel gelöscht. Hafenglocken verstummen. Kein Schiff verlässt in diesen Nacht den sicheren Hafen. Familien erzählen die Geschichte von Runathis und erinnern daran, dass selbst die mächtigsten Reiche vergänglich sind.

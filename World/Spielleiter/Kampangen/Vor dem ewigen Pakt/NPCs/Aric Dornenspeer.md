@@ -9,7 +9,7 @@
 - **Alter:**
 
 - **Verknüpfte Orte:** [[Lorathiel]]
-- **Verknüpfte NPCs:** [[Celynia Morgenblatt]], [[Thalanor]]
+- **Verknüpfte NPCs:** [[Celynia Morgenblatt]], [[Loravain Elaris]]
 - **Bekannt für:** Stärke, Misstrauen, Loyalität
 - **Erste Erwähnung:** unbekannt
 - **Tags:**

@@ -1,4 +1,6 @@
 ![[DumKardak.png|200]]
+**Zwergisch:** Tiefe Tunnel Wacht
+
 Die größte Stadt [[Schwarzklamm]]s, ein Labyrinth aus Höhlen, Brücken und Kammern, erleuchtet von Glutfeuern.
 
 ### Halle der Ahnen

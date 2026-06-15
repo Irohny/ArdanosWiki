@@ -36,26 +36,6 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Drakmora/Altlicht.md",
-      "title": "Altlicht",
-      "timeline_label": "Altlicht",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Drakmora"
-      ],
-      "categories": [
-        "Drakmora"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
       "path": "World/Kaiserreich/Drakmora/Chroniken Drakmora.md",
       "title": "Chroniken Drakmora",
       "timeline_label": "Chroniken Drakmora",
@@ -1017,6 +997,46 @@
       "is_relevant": false
     },
     {
+      "path": "World/Kaiserreich/Drakmora/Orte/Altlicht.md",
+      "title": "Altlicht",
+      "timeline_label": "Altlicht",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Drakmora/Orte/Rußstein.md",
+      "title": "Rußstein",
+      "timeline_label": "Rußstein",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Drakmora"
+      ],
+      "categories": [
+        "Drakmora"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
       "path": "World/Kaiserreich/Drakmora/Reiterkriege der Nebelsteppe.md",
       "title": "Reiterkriege der Nebelsteppe",
       "timeline_label": "Reiterkriege der Nebelsteppe",
@@ -1053,26 +1073,6 @@
       "metadata_source": "header",
       "structured_fields": {},
       "is_relevant": true
-    },
-    {
-      "path": "World/Kaiserreich/Drakmora/Rußstein.md",
-      "title": "Rußstein",
-      "timeline_label": "Rußstein",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Drakmora"
-      ],
-      "categories": [
-        "Drakmora"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
     },
     {
       "path": "World/Kaiserreich/Drakmora/Schimmernde Klippen.md",
@@ -1125,46 +1125,6 @@
       ],
       "categories": [
         "Drakmora"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Bernruh & Nordtor.md",
-      "title": "Bernruh & Nordtor",
-      "timeline_label": "Bernruh & Nordtor",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Chroniken von Elmrath.md",
-      "title": "Chroniken von Elmrath",
-      "timeline_label": "Chroniken von Elmrath",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
       ],
       "timespan_line_count": 0,
       "timespan_raw": null,
@@ -1270,172 +1230,6 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Goldene Rune.md",
-      "title": "Goldene Rune",
-      "timeline_label": "Goldene Rune",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [
-        "#Taverne "
-      ],
-      "metadata_source": "header",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Grüner Wyvern.md",
-      "title": "Grüner Wyvern",
-      "timeline_label": "Grüner Wyvern",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [
-        "#Taverne"
-      ],
-      "metadata_source": "header",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Hafen von Luminara.md",
-      "title": "Hafen von Luminara",
-      "timeline_label": "Hafen von Luminara",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Luminara.md",
-      "title": "Luminara",
-      "timeline_label": "Luminara",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Palast des Kaisers.md",
-      "title": "Palast des Kaisers",
-      "timeline_label": "Palast des Kaisers",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Scriptorium Luminis.md",
-      "title": "Scriptorium Luminis",
-      "timeline_label": "Scriptorium Luminis",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Stolzes Einhorn.md",
-      "title": "Stolzes Einhorn",
-      "timeline_label": "Stolzes Einhorn",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [
-        "#Taverne "
-      ],
-      "metadata_source": "header",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/Luminara/Tempel St. Aurelia.md",
-      "title": "Tempel St. Aurelia",
-      "timeline_label": "Tempel St. Aurelia",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
       "path": "World/Kaiserreich/Elmrath/Marktgraf Reodemus.md",
       "title": "Marktgraf Reodemus",
       "timeline_label": "Marktgraf Reodemus",
@@ -1473,53 +1267,11 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "1456 - 1014 n.d.D.",
+      "timespan_raw": "1376 - 1614 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
-        "start": 1456,
-        "end": 1014,
-        "is_open": false
-      },
-      "metadata_lines": [],
-      "metadata_source": "fields",
-      "structured_fields": {
-        "Rufname / Beiname": "Die Sturmseherin",
-        "Titel / Amt": "Fürstin von [[Elmrath]]",
-        "Haus / Dynastie": "Silberhain",
-        "Regentschaft": "1456 - 1014 n.d.D.",
-        "Spezies / Volk": "Hochelfe",
-        "Herkunft": "[[Elmrath]]",
-        "Geburtsjahr": "",
-        "Sterbejahr": "",
-        "Alter": "",
-        "Verknuepfte Orte": "[[Elmrath]]",
-        "Verknuepfte NPCs": "",
-        "Bekannt fuer": "",
-        "Erste Erwaehnung": "1456 n.d.D.",
-        "Tags": "#herrscher #elmrath #adel"
-      },
-      "is_relevant": true
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/NPCs/Arannis Silven.md",
-      "title": "Arannis Silven",
-      "timeline_label": "Arannis Silven",
-      "primary_types": [
-        "Herrscher"
-      ],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 1,
-      "timespan_raw": "1765 - 1914 n.d.D.",
-      "parsed_timespan": {
-        "kind": "range",
-        "start": 1765,
-        "end": 1914,
+        "start": 1376,
+        "end": 1614,
         "is_open": false
       },
       "metadata_lines": [],
@@ -1527,8 +1279,8 @@
       "structured_fields": {
         "Rufname / Beiname": "Der Ätherfürst",
         "Titel / Amt": "Fürst von [[Elmrath]]",
-        "Haus / Dynastie": "Silven",
-        "Regentschaft": "1765 - 1914 n.d.D.",
+        "Haus / Dynastie": "Silberhain",
+        "Regentschaft": "1376 - 1614 n.d.D.",
         "Spezies / Volk": "Hochelfe",
         "Herkunft": "[[Elmrath]]",
         "Geburtsjahr": "",
@@ -1543,9 +1295,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Elmrath/NPCs/Caelynn Morgenblatt.md",
-      "title": "Caelynn Morgenblatt",
-      "timeline_label": "Caelynn Morgenblatt",
+      "path": "World/Kaiserreich/Elmrath/NPCs/Celynia Morgenblatt.md",
+      "title": "Celynia Morgenblatt",
+      "timeline_label": "Celynia Morgenblatt",
       "primary_types": [
         "Herrscher"
       ],
@@ -1571,12 +1323,12 @@
         "Titel / Amt": "Fürstin von [[Elmrath]]",
         "Haus / Dynastie": "Morgenblatt",
         "Regentschaft": "553 - 1041 n.d.D.",
-        "Spezies / Volk": "Hochelfe",
+        "Spezies / Volk": "Waldelfe",
         "Herkunft": "[[Elmrath]]",
-        "Geburtsjahr": "",
-        "Sterbejahr": "",
-        "Alter": "",
-        "Verknuepfte Orte": "[[Elmrath]]",
+        "Geburtsjahr": "0 n.d.D",
+        "Sterbejahr": "1041 n.d.D.",
+        "Alter": "-",
+        "Verknuepfte Orte": "[[Elmrath]], [[Lorathiel]]",
         "Verknuepfte NPCs": "",
         "Bekannt fuer": "",
         "Erste Erwaehnung": "553 n.d.D.",
@@ -1599,11 +1351,11 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "1041 - 1455 n.d.D.",
+      "timespan_raw": "1041 - 1375 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
         "start": 1041,
-        "end": 1455,
+        "end": 1375,
         "is_open": false
       },
       "metadata_lines": [],
@@ -1612,7 +1364,7 @@
         "Rufname / Beiname": "Der Nebelkönig",
         "Titel / Amt": "Fürst von [[Elmrath]]",
         "Haus / Dynastie": "Silberhain",
-        "Regentschaft": "1041 - 1455 n.d.D.",
+        "Regentschaft": "1041 - 1375 n.d.D.",
         "Spezies / Volk": "Hochelfe",
         "Herkunft": "[[Elmrath]]",
         "Geburtsjahr": "",
@@ -1622,48 +1374,6 @@
         "Verknuepfte NPCs": "",
         "Bekannt fuer": "",
         "Erste Erwaehnung": "1041 n.d.D.",
-        "Tags": "#herrscher #elmrath #adel"
-      },
-      "is_relevant": true
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/NPCs/Elirae Nyssien.md",
-      "title": "Elirae Nyssien",
-      "timeline_label": "Elirae Nyssien",
-      "primary_types": [
-        "Herrscher"
-      ],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 1,
-      "timespan_raw": "1159 - 1433 n.d.D.",
-      "parsed_timespan": {
-        "kind": "range",
-        "start": 1159,
-        "end": 1433,
-        "is_open": false
-      },
-      "metadata_lines": [],
-      "metadata_source": "fields",
-      "structured_fields": {
-        "Rufname / Beiname": "Die Glut der Weisheit",
-        "Titel / Amt": "Fürstin von [[Elmrath]]",
-        "Haus / Dynastie": "Nyssien",
-        "Regentschaft": "1159 - 1433 n.d.D.",
-        "Spezies / Volk": "Hochelfe",
-        "Herkunft": "[[Elmrath]]",
-        "Geburtsjahr": "",
-        "Sterbejahr": "",
-        "Alter": "",
-        "Verknuepfte Orte": "[[Elmrath]]",
-        "Verknuepfte NPCs": "",
-        "Bekannt fuer": "Unter ihrer Regentschaft wurde der erste Kontakt zu den Magiern Vaylens gestärkt.",
-        "Erste Erwaehnung": "1159 n.d.D.",
         "Tags": "#herrscher #elmrath #adel"
       },
       "is_relevant": true
@@ -1746,48 +1456,6 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Elmrath/NPCs/Isilme Dämmerwald.md",
-      "title": "Isilme Dämmerwald",
-      "timeline_label": "Isilme Dämmerwald",
-      "primary_types": [
-        "Herrscher"
-      ],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 1,
-      "timespan_raw": "1610 - 1765 n.d.D.",
-      "parsed_timespan": {
-        "kind": "range",
-        "start": 1610,
-        "end": 1765,
-        "is_open": false
-      },
-      "metadata_lines": [],
-      "metadata_source": "fields",
-      "structured_fields": {
-        "Rufname / Beiname": "Die Stimme der Wälder",
-        "Titel / Amt": "Fürstin von [[Elmrath]]",
-        "Haus / Dynastie": "Dämmerwald",
-        "Regentschaft": "1610 - 1765 n.d.D.",
-        "Spezies / Volk": "Halbelfe",
-        "Herkunft": "[[Elmrath]]",
-        "Geburtsjahr": "",
-        "Sterbejahr": "",
-        "Alter": "",
-        "Verknuepfte Orte": "[[Elmrath]]",
-        "Verknuepfte NPCs": "",
-        "Bekannt fuer": "",
-        "Erste Erwaehnung": "1610 n.d.D.",
-        "Tags": "#herrscher #elmrath #adel"
-      },
-      "is_relevant": true
-    },
-    {
       "path": "World/Kaiserreich/Elmrath/NPCs/Lady Maerina von Elmrath.md",
       "title": "Lady Maerina von Elmrath",
       "timeline_label": "Lady Maerina von Elmrath",
@@ -1823,9 +1491,9 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Elmrath/NPCs/Naeryss Silven.md",
-      "title": "Naeryss Silven",
-      "timeline_label": "Naeryss Silven",
+      "path": "World/Kaiserreich/Elmrath/NPCs/Orellan Silberhain.md",
+      "title": "Orellan Silberhain",
+      "timeline_label": "Orellan Silberhain",
       "primary_types": [
         "Herrscher"
       ],
@@ -1837,20 +1505,20 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "1914 - 2325 n.d.D.",
+      "timespan_raw": "2060 - 2325 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
-        "start": 1914,
+        "start": 2060,
         "end": 2325,
         "is_open": false
       },
       "metadata_lines": [],
       "metadata_source": "fields",
       "structured_fields": {
-        "Rufname / Beiname": "Der Mondgeborene",
+        "Rufname / Beiname": "Die Ruhe des Waldes",
         "Titel / Amt": "Fürst von [[Elmrath]]",
-        "Haus / Dynastie": "von Elmrath",
-        "Regentschaft": "1914 - 2325 n.d.D.",
+        "Haus / Dynastie": "Silberhain",
+        "Regentschaft": "2060 - 2325 n.d.D.",
         "Spezies / Volk": "Hochelfe",
         "Herkunft": "[[Elmrath]]",
         "Geburtsjahr": "",
@@ -1858,50 +1526,8 @@
         "Alter": "",
         "Verknuepfte Orte": "[[Elmrath]]",
         "Verknuepfte NPCs": "",
-        "Bekannt fuer": "Nannte das Haus Talanis in von Elmrath um, um den Anspruch auf die Krone des Landes zu unterstreichen. Er verhandelte den Friedenspankt **2160 n.d.D** beim [[Eid von Morgenfels]]",
-        "Erste Erwaehnung": "1914 n.d.D.",
-        "Tags": "#herrscher #elmrath #adel"
-      },
-      "is_relevant": true
-    },
-    {
-      "path": "World/Kaiserreich/Elmrath/NPCs/Orellan Dämmerwald.md",
-      "title": "Orellan Dämmerwald",
-      "timeline_label": "Orellan Dämmerwald",
-      "primary_types": [
-        "Herrscher"
-      ],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Elmrath"
-      ],
-      "categories": [
-        "Elmrath"
-      ],
-      "timespan_line_count": 1,
-      "timespan_raw": "1487 - 1610 n.d.D.",
-      "parsed_timespan": {
-        "kind": "range",
-        "start": 1487,
-        "end": 1610,
-        "is_open": false
-      },
-      "metadata_lines": [],
-      "metadata_source": "fields",
-      "structured_fields": {
-        "Rufname / Beiname": "Der Grenzhüter",
-        "Titel / Amt": "Fürst von [[Elmrath]]",
-        "Haus / Dynastie": "Dämmerwald",
-        "Regentschaft": "1487 - 1610 n.d.D.",
-        "Spezies / Volk": "Halbelf",
-        "Herkunft": "[[Elmrath]]",
-        "Geburtsjahr": "",
-        "Sterbejahr": "",
-        "Alter": "",
-        "Verknuepfte Orte": "[[Elmrath]]",
-        "Verknuepfte NPCs": "",
         "Bekannt fuer": "",
-        "Erste Erwaehnung": "1487 n.d.D.",
+        "Erste Erwaehnung": "2060 n.d.D.",
         "Tags": "#herrscher #elmrath #adel"
       },
       "is_relevant": true
@@ -1921,11 +1547,11 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "1014 - 1159 n.d.D.",
+      "timespan_raw": "1614 - 2059 n.d.D.",
       "parsed_timespan": {
         "kind": "range",
-        "start": 1014,
-        "end": 1159,
+        "start": 1614,
+        "end": 2059,
         "is_open": false
       },
       "metadata_lines": [],
@@ -1934,7 +1560,7 @@
         "Rufname / Beiname": "Der Lautlose Herr",
         "Titel / Amt": "Fürst von [[Elmrath]]",
         "Haus / Dynastie": "Silberhain",
-        "Regentschaft": "1014 - 1159 n.d.D.",
+        "Regentschaft": "1614 - 2059 n.d.D.",
         "Spezies / Volk": "Hochelfe",
         "Herkunft": "[[Elmrath]]",
         "Geburtsjahr": "",
@@ -2068,9 +1694,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Elmrath/Paktfest von Len'yrel.md",
-      "title": "Paktfest von Len'yrel",
-      "timeline_label": "Paktfest von Len'yrel",
+      "path": "World/Kaiserreich/Elmrath/Orte/Erlenfurt.md",
+      "title": "Erlenfurt",
+      "timeline_label": "Erlenfurt",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2088,9 +1714,255 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Elmrath/Wurzelholm.md",
+      "path": "World/Kaiserreich/Elmrath/Orte/Goldähr.md",
+      "title": "Goldähr",
+      "timeline_label": "Goldähr",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Goldene Rune.md",
+      "title": "Goldene Rune",
+      "timeline_label": "Goldene Rune",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Taverne "
+      ],
+      "metadata_source": "header",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Grüner Wyvern.md",
+      "title": "Grüner Wyvern",
+      "timeline_label": "Grüner Wyvern",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Taverne"
+      ],
+      "metadata_source": "header",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Hafen von Luminara.md",
+      "title": "Hafen von Luminara",
+      "timeline_label": "Hafen von Luminara",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Luminara.md",
+      "title": "Luminara",
+      "timeline_label": "Luminara",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Palast des Kaisers.md",
+      "title": "Palast des Kaisers",
+      "timeline_label": "Palast des Kaisers",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Scriptorium Luminis.md",
+      "title": "Scriptorium Luminis",
+      "timeline_label": "Scriptorium Luminis",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Stolzes Einhorn.md",
+      "title": "Stolzes Einhorn",
+      "timeline_label": "Stolzes Einhorn",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [
+        "#Taverne "
+      ],
+      "metadata_source": "header",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Luminara/Tempel St. Aurelia.md",
+      "title": "Tempel St. Aurelia",
+      "timeline_label": "Tempel St. Aurelia",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Nordtor.md",
+      "title": "Nordtor",
+      "timeline_label": "Nordtor",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Stromkrone.md",
+      "title": "Stromkrone",
+      "timeline_label": "Stromkrone",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Orte/Wurzelholm.md",
       "title": "Wurzelholm",
       "timeline_label": "Wurzelholm",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Elmrath"
+      ],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Elmrath/Paktfest von Len'yrel.md",
+      "title": "Paktfest von Len'yrel",
+      "timeline_label": "Paktfest von Len'yrel",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -2385,10 +2257,10 @@
         "Drakmora"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1526 - 1528 n.d.D",
+      "timespan_raw": "Zeitspanne: 1426 - 1528 n.d.D",
       "parsed_timespan": {
         "kind": "range",
-        "start": 1526,
+        "start": 1426,
         "end": 1528,
         "is_open": false
       },
@@ -2397,7 +2269,7 @@
         "#Schwarzklamm",
         "#Drakmora",
         "",
-        "Zeitspanne: 1526 - 1528 n.d.D",
+        "Zeitspanne: 1426 - 1528 n.d.D",
         ""
       ],
       "metadata_source": "header",
@@ -2438,6 +2310,39 @@
       "is_relevant": true
     },
     {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Goldähr Sitz der Fürsten von Elmrath.md",
+      "title": "Goldähr Sitz der Fürsten von Elmrath",
+      "timeline_label": "Goldähr Sitz der Fürsten von Elmrath",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 1285 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 1285,
+        "end": 1285,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis ",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 1285 n.d.D",
+        ""
+      ],
+      "metadata_source": "header",
+      "structured_fields": {},
+      "is_relevant": true
+    },
+    {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Invasion der Nordbarbaren.md",
       "title": "Invasion der Nordbarbaren",
       "timeline_label": "Invasion der Nordbarbaren",
@@ -2471,6 +2376,106 @@
       "is_relevant": true
     },
     {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Jahre der Asche und des Salzes.md",
+      "title": "Jahre der Asche und des Salzes",
+      "timeline_label": "Jahre der Asche und des Salzes",
+      "primary_types": [
+        "Krieg"
+      ],
+      "declared_categories": [
+        "Mariven"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 448 - 503 n.d.D",
+      "parsed_timespan": {
+        "kind": "range",
+        "start": 448,
+        "end": 503,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Krieg",
+        "#Mariven ",
+        "",
+        "Zeitspanne: 448 - 503 n.d.D",
+        ""
+      ],
+      "metadata_source": "header",
+      "structured_fields": {},
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Luminara Sitz der Fürsten von Elmrath.md",
+      "title": "Luminara Sitz der Fürsten von Elmrath",
+      "timeline_label": "Luminara Sitz der Fürsten von Elmrath",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Elmrath"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Elmrath"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2325 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 2325,
+        "end": 2325,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis ",
+        "#Elmrath",
+        "",
+        "Zeitspanne: 2325 n.d.D",
+        ""
+      ],
+      "metadata_source": "header",
+      "structured_fields": {},
+      "is_relevant": true
+    },
+    {
+      "path": "World/Kaiserreich/Geschichte/Geschichte/Luminara Sitz der Kaiser von Ardanos.md",
+      "title": "Luminara Sitz der Kaiser von Ardanos",
+      "timeline_label": "Luminara Sitz der Kaiser von Ardanos",
+      "primary_types": [
+        "Ereignis"
+      ],
+      "declared_categories": [
+        "Kaiserreich"
+      ],
+      "fallback_categories": [],
+      "categories": [
+        "Kaiserreich"
+      ],
+      "timespan_line_count": 1,
+      "timespan_raw": "Zeitspanne: 2345 n.d.D",
+      "parsed_timespan": {
+        "kind": "point",
+        "start": 2345,
+        "end": 2345,
+        "is_open": false
+      },
+      "metadata_lines": [
+        "#Ereignis ",
+        "#Ardanos",
+        "#Kaiserreich ",
+        "",
+        "Zeitspanne: 2345 n.d.D",
+        ""
+      ],
+      "metadata_source": "header",
+      "structured_fields": {},
+      "is_relevant": true
+    },
+    {
       "path": "World/Kaiserreich/Geschichte/Geschichte/Muschelkrieg.md",
       "title": "Muschelkrieg",
       "timeline_label": "Muschelkrieg",
@@ -2487,10 +2492,10 @@
         "Mariven"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1401 - 1402 n.d.D",
+      "timespan_raw": "Zeitspanne: 1358 - 1402 n.d.D",
       "parsed_timespan": {
         "kind": "range",
-        "start": 1401,
+        "start": 1358,
         "end": 1402,
         "is_open": false
       },
@@ -2499,7 +2504,7 @@
         "#Elmrath",
         "#Mariven",
         "",
-        "Zeitspanne: 1401 - 1402 n.d.D",
+        "Zeitspanne: 1358 - 1402 n.d.D",
         ""
       ],
       "metadata_source": "header",
@@ -2523,10 +2528,10 @@
         "Elmrath"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1304 - 1307 n.d.D",
+      "timespan_raw": "Zeitspanne: 1183 - 1307 n.d.D",
       "parsed_timespan": {
         "kind": "range",
-        "start": 1304,
+        "start": 1183,
         "end": 1307,
         "is_open": false
       },
@@ -2535,7 +2540,7 @@
         "#Drakmora",
         "#Elmrath",
         "",
-        "Zeitspanne: 1304 - 1307 n.d.D",
+        "Zeitspanne: 1183 - 1307 n.d.D",
         ""
       ],
       "metadata_source": "header",
@@ -2559,10 +2564,10 @@
         "Vaylen"
       ],
       "timespan_line_count": 1,
-      "timespan_raw": "Zeitspanne: 1603 - 1611 n.d.D",
+      "timespan_raw": "Zeitspanne: 1503 - 1611 n.d.D",
       "parsed_timespan": {
         "kind": "range",
-        "start": 1603,
+        "start": 1503,
         "end": 1611,
         "is_open": false
       },
@@ -2571,7 +2576,7 @@
         "#Mariven",
         "#Vaylen",
         "",
-        "Zeitspanne: 1603 - 1611 n.d.D",
+        "Zeitspanne: 1503 - 1611 n.d.D",
         ""
       ],
       "metadata_source": "header",
@@ -2582,22 +2587,6 @@
       "path": "World/Kaiserreich/Geschichte/Zeitalter.md",
       "title": "Zeitalter",
       "timeline_label": "Zeitalter",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [],
-      "categories": [],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Geschichte/Überblick.md",
-      "title": "Überblick",
-      "timeline_label": "Überblick",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [],
@@ -2938,7 +2927,7 @@
         "Geburtsjahr": "",
         "Sterbejahr": "2483 n.d.D.",
         "Alter": "",
-        "Verknuepfte Orte": "[[Ardanos]], [[Schwarzklamm]], [[Tiefe Hallen]]",
+        "Verknuepfte Orte": "[[Ardanos]], [[Schwarzklamm]], [[Khazul-Vuldur]]",
         "Verknuepfte NPCs": "",
         "Bekannt fuer": "Wiederbesiedlung, Aufbruch, politische Erneuerung",
         "Erste Erwaehnung": "2470 n.d.D.",
@@ -3064,10 +3053,6 @@
         "Geburtsjahr": "",
         "Sterbejahr": "",
         "Alter": "",
-        "Verknuepfte Orte": "[[Ardanos]], [[Mariven]], [[Krieg der Zwerge]]",
-        "Verknuepfte NPCs": "",
-        "Bekannt fuer": "Handelspolitik, maritime Staerke, Herrschaft in Kriegszeiten",
-        "Erste Erwaehnung": "2319 n.d.D.",
         "Tags": "#kaiser #kaiserreich #mariven #adel"
       },
       "is_relevant": true
@@ -3118,6 +3103,26 @@
       "path": "World/Kaiserreich/Mariven/AelVarin/Ael'Varin.md",
       "title": "Ael'Varin",
       "timeline_label": "Ael'Varin",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/AelVarin/Runanthis.md",
+      "title": "Runanthis",
+      "timeline_label": "Runanthis",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3298,6 +3303,26 @@
       "path": "World/Kaiserreich/Mariven/Cirellin/Cirion.md",
       "title": "Cirion",
       "timeline_label": "Cirion",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Mariven"
+      ],
+      "categories": [
+        "Mariven"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Mariven/Gründung Mariven.md",
+      "title": "Gründung Mariven",
+      "timeline_label": "Gründung Mariven",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -3599,9 +3624,9 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Aelaria Talzo.md",
-      "title": "Aelaria Talzo",
-      "timeline_label": "Aelaria Talzo",
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Aelaria Vellora.md",
+      "title": "Aelaria Vellora",
+      "timeline_label": "Aelaria Vellora",
       "primary_types": [
         "Herrscher"
       ],
@@ -3725,9 +3750,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Celetha Vintar II.md",
-      "title": "Celetha Vintar II",
-      "timeline_label": "Celetha Vintar II",
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Celetha Talvarin II.md",
+      "title": "Celetha Talvarin II",
+      "timeline_label": "Celetha Talvarin II",
       "primary_types": [
         "Herrscher"
       ],
@@ -3767,9 +3792,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Domerr Talzo.md",
-      "title": "Domerr Talzo",
-      "timeline_label": "Domerr Talzo",
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Domerr Velora.md",
+      "title": "Domerr Velora",
+      "timeline_label": "Domerr Velora",
       "primary_types": [
         "Herrscher"
       ],
@@ -3977,9 +4002,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Lureano Vintar.md",
-      "title": "Lureano Vintar",
-      "timeline_label": "Lureano Vintar",
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Lureano Talvarin.md",
+      "title": "Lureano Talvarin",
+      "timeline_label": "Lureano Talvarin",
       "primary_types": [
         "Herrscher"
       ],
@@ -4061,9 +4086,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Orryn Talzo II.md",
-      "title": "Orryn Talzo II",
-      "timeline_label": "Orryn Talzo II",
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Orryn Vellora II.md",
+      "title": "Orryn Vellora II",
+      "timeline_label": "Orryn Vellora II",
       "primary_types": [
         "Herrscher"
       ],
@@ -4271,9 +4296,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Zallion Vintar III.md",
-      "title": "Zallion Vintar III",
-      "timeline_label": "Zallion Vintar III",
+      "path": "World/Kaiserreich/Mariven/NPCs/Kommodore/Zallion Velora III.md",
+      "title": "Zallion Velora III",
+      "timeline_label": "Zallion Velora III",
       "primary_types": [
         "Herrscher"
       ],
@@ -4562,86 +4587,6 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Schwarzklamm/Durak-Zhul.md",
-      "title": "Durak-Zhul",
-      "timeline_label": "Durak-Zhul",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Schwarzklamm"
-      ],
-      "categories": [
-        "Schwarzklamm"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Schwarzklamm/Dûm-Khadrak.md",
-      "title": "Dûm-Khadrak",
-      "timeline_label": "Dûm-Khadrak",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Schwarzklamm"
-      ],
-      "categories": [
-        "Schwarzklamm"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Schwarzklamm/Eisenzinnen.md",
-      "title": "Eisenzinnen",
-      "timeline_label": "Eisenzinnen",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Schwarzklamm"
-      ],
-      "categories": [
-        "Schwarzklamm"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Schwarzklamm/Erytra Tempel.md",
-      "title": "Erytra Tempel",
-      "timeline_label": "Erytra Tempel",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Schwarzklamm"
-      ],
-      "categories": [
-        "Schwarzklamm"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
       "path": "World/Kaiserreich/Schwarzklamm/Geschichte/Die Erschütterung der Tiefe.md",
       "title": "Die Erschütterung der Tiefe",
       "timeline_label": "Die Erschütterung der Tiefe",
@@ -4732,9 +4677,9 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Schwarzklamm/Kar'drathar.md",
-      "title": "Kar'drathar",
-      "timeline_label": "Kar'drathar",
+      "path": "World/Kaiserreich/Schwarzklamm/Moragul.md",
+      "title": "Moragul",
+      "timeline_label": "Moragul",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -4996,6 +4941,206 @@
       "is_relevant": false
     },
     {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Azgal-Drakara.md",
+      "title": "Azgal-Drakara",
+      "timeline_label": "Azgal-Drakara",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Dûm-Khadrak.md",
+      "title": "Dûm-Khadrak",
+      "timeline_label": "Dûm-Khadrak",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Eisenzinnen.md",
+      "title": "Eisenzinnen",
+      "timeline_label": "Eisenzinnen",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Erytra Tempel.md",
+      "title": "Erytra Tempel",
+      "timeline_label": "Erytra Tempel",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Grim-Karak.md",
+      "title": "Grim-Karak",
+      "timeline_label": "Grim-Karak",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Khaza-Lhûr.md",
+      "title": "Khaza-Lhûr",
+      "timeline_label": "Khaza-Lhûr",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Khazad-Durak.md",
+      "title": "Khazad-Durak",
+      "timeline_label": "Khazad-Durak",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Khazul-Vuldur.md",
+      "title": "Khazul-Vuldur",
+      "timeline_label": "Khazul-Vuldur",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Ur-Gralnir.md",
+      "title": "Ur-Gralnir",
+      "timeline_label": "Ur-Gralnir",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Schwarzklamm/Orte/Varn-Marnrun.md",
+      "title": "Varn-Marnrun",
+      "timeline_label": "Varn-Marnrun",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Schwarzklamm"
+      ],
+      "categories": [
+        "Schwarzklamm"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
       "path": "World/Kaiserreich/Schwarzklamm/Schwarze Klamm.md",
       "title": "Schwarze Klamm",
       "timeline_label": "Schwarze Klamm",
@@ -5051,49 +5196,9 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Schwarzklamm/Tiefe Hallen.md",
-      "title": "Tiefe Hallen",
-      "timeline_label": "Tiefe Hallen",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Schwarzklamm"
-      ],
-      "categories": [
-        "Schwarzklamm"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Schwarzklamm/Ur-Gralnir.md",
-      "title": "Ur-Gralnir",
-      "timeline_label": "Ur-Gralnir",
-      "primary_types": [],
-      "declared_categories": [],
-      "fallback_categories": [
-        "Schwarzklamm"
-      ],
-      "categories": [
-        "Schwarzklamm"
-      ],
-      "timespan_line_count": 0,
-      "timespan_raw": null,
-      "parsed_timespan": null,
-      "metadata_lines": [],
-      "metadata_source": "none",
-      "structured_fields": {},
-      "is_relevant": false
-    },
-    {
-      "path": "World/Kaiserreich/Vaylen/Bibliothek des Verborgenen Lichts.md",
-      "title": "Bibliothek des Verborgenen Lichts",
-      "timeline_label": "Bibliothek des Verborgenen Lichts",
+      "path": "World/Kaiserreich/Vaylen/Arcanis.md",
+      "title": "Arcanis",
+      "timeline_label": "Arcanis",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -5437,7 +5542,7 @@
         "Geburtsjahr": "",
         "Sterbejahr": "",
         "Alter": "",
-        "Verknuepfte Orte": "[[Vaylen]], [[Tiefe Hallen]], [[Goldene Rune]]",
+        "Verknuepfte Orte": "[[Vaylen]], [[Khazul-Vuldur]], [[Goldene Rune]]",
         "Verknuepfte NPCs": "[[Selene Drachenruf]], [[Glutherz Doppelzunge]], [[Marktgraf Reodemus]], [[Drakmora]], [[Schwarzklamm]]",
         "Bekannt fuer": "Spionage, Informationshandel, verdeckte Missionen, politische Intrigen",
         "Erste Erwaehnung": "unbekannt",
@@ -5446,9 +5551,9 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Vaylen/Schwebenden Inseln von Arcanis.md",
-      "title": "Schwebenden Inseln von Arcanis",
-      "timeline_label": "Schwebenden Inseln von Arcanis",
+      "path": "World/Kaiserreich/Vaylen/Orte/Bibliothek des Verborgenen Lichts.md",
+      "title": "Bibliothek des Verborgenen Lichts",
+      "timeline_label": "Bibliothek des Verborgenen Lichts",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -5466,9 +5571,49 @@
       "is_relevant": false
     },
     {
-      "path": "World/Kaiserreich/Vaylen/Stille Akademie.md",
+      "path": "World/Kaiserreich/Vaylen/Orte/Porta Arcana.md",
+      "title": "Porta Arcana",
+      "timeline_label": "Porta Arcana",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Orte/Stille Akademie.md",
       "title": "Stille Akademie",
       "timeline_label": "Stille Akademie",
+      "primary_types": [],
+      "declared_categories": [],
+      "fallback_categories": [
+        "Vaylen"
+      ],
+      "categories": [
+        "Vaylen"
+      ],
+      "timespan_line_count": 0,
+      "timespan_raw": null,
+      "parsed_timespan": null,
+      "metadata_lines": [],
+      "metadata_source": "none",
+      "structured_fields": {},
+      "is_relevant": false
+    },
+    {
+      "path": "World/Kaiserreich/Vaylen/Orte/Velithor.md",
+      "title": "Velithor",
+      "timeline_label": "Velithor",
       "primary_types": [],
       "declared_categories": [],
       "fallback_categories": [
@@ -5521,17 +5666,13 @@
       "is_relevant": true
     },
     {
-      "path": "World/Kaiserreich/Vaylen/Velithor.md",
-      "title": "Velithor",
-      "timeline_label": "Velithor",
+      "path": "World/Kaiserreich/Wegenetz.md",
+      "title": "Wegenetz",
+      "timeline_label": "Wegenetz",
       "primary_types": [],
       "declared_categories": [],
-      "fallback_categories": [
-        "Vaylen"
-      ],
-      "categories": [
-        "Vaylen"
-      ],
+      "fallback_categories": [],
+      "categories": [],
       "timespan_line_count": 0,
       "timespan_raw": null,
       "parsed_timespan": null,

@@ -239,6 +239,15 @@
     {
       "column": "emperor",
       "lane": 1,
+      "label": "Luminara Sitz der Kaiser von Ardanos",
+      "start": 2345,
+      "end": 2345,
+      "kind": "point",
+      "fill": "#d1b057"
+    },
+    {
+      "column": "emperor",
+      "lane": 1,
       "label": "Blutfeldzug in der Aschenweite",
       "start": 2478,
       "end": 2482,
@@ -255,7 +264,7 @@
     {
       "column": "elmrath",
       "lane": 0,
-      "label": "Caelynn Morgenblatt",
+      "label": "Celynia Morgenblatt",
       "start": 553,
       "end": 1041,
       "kind": "range"
@@ -263,64 +272,32 @@
     {
       "column": "elmrath",
       "lane": 0,
-      "label": "Thaevan Silberhain",
-      "start": 1014,
-      "end": 1159,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath",
-      "lane": 0,
       "label": "Elenion Silberhain",
       "start": 1041,
-      "end": 1455,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath",
-      "lane": 0,
-      "label": "Elirae Nyssien",
-      "start": 1159,
-      "end": 1433,
+      "end": 1375,
       "kind": "range"
     },
     {
       "column": "elmrath",
       "lane": 0,
       "label": "Aenyris Silberhain",
-      "start": 1456,
-      "end": 1014,
+      "start": 1376,
+      "end": 1614,
       "kind": "range"
     },
     {
       "column": "elmrath",
       "lane": 0,
-      "label": "Orellan Dämmerwald",
-      "start": 1487,
-      "end": 1610,
+      "label": "Thaevan Silberhain",
+      "start": 1614,
+      "end": 2059,
       "kind": "range"
     },
     {
       "column": "elmrath",
       "lane": 0,
-      "label": "Isilme Dämmerwald",
-      "start": 1610,
-      "end": 1765,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath",
-      "lane": 0,
-      "label": "Arannis Silven",
-      "start": 1765,
-      "end": 1914,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath",
-      "lane": 0,
-      "label": "Naeryss Silven",
-      "start": 1914,
+      "label": "Orellan Silberhain",
+      "start": 2060,
       "end": 2325,
       "kind": "range"
     },
@@ -352,7 +329,7 @@
       "column": "elmrath",
       "lane": 1,
       "label": "Nord-Süd-Konflikt",
-      "start": 1304,
+      "start": 1183,
       "end": 1307,
       "kind": "range",
       "fill": "#95b565"
@@ -360,10 +337,28 @@
     {
       "column": "elmrath",
       "lane": 1,
+      "label": "Goldähr Sitz der Fürsten von Elmrath",
+      "start": 1285,
+      "end": 1285,
+      "kind": "point",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath",
+      "lane": 1,
       "label": "Muschelkrieg",
-      "start": 1401,
+      "start": 1358,
       "end": 1402,
       "kind": "range",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath",
+      "lane": 1,
+      "label": "Luminara Sitz der Fürsten von Elmrath",
+      "start": 2325,
+      "end": 2325,
+      "kind": "point",
       "fill": "#95b565"
     },
     {
@@ -530,7 +525,7 @@
       "column": "drakmora",
       "lane": 1,
       "label": "Nord-Süd-Konflikt",
-      "start": 1304,
+      "start": 1183,
       "end": 1307,
       "kind": "range",
       "fill": "#c27d69"
@@ -539,7 +534,7 @@
       "column": "drakmora",
       "lane": 1,
       "label": "Erzkrieg von Eron’Gath",
-      "start": 1526,
+      "start": 1426,
       "end": 1528,
       "kind": "range",
       "fill": "#c27d69"
@@ -563,7 +558,7 @@
     {
       "column": "mariven",
       "lane": 0,
-      "label": "Lureano Vintar",
+      "label": "Lureano Talvarin",
       "start": 503,
       "end": 547,
       "kind": "range"
@@ -579,7 +574,7 @@
     {
       "column": "mariven",
       "lane": 0,
-      "label": "Domerr Talzo",
+      "label": "Domerr Velora",
       "start": 603,
       "end": 685,
       "kind": "range"
@@ -611,7 +606,7 @@
     {
       "column": "mariven",
       "lane": 0,
-      "label": "Celetha Vintar II",
+      "label": "Celetha Talvarin II",
       "start": 983,
       "end": 1036,
       "kind": "range"
@@ -667,7 +662,7 @@
     {
       "column": "mariven",
       "lane": 0,
-      "label": "Orryn Talzo II",
+      "label": "Orryn Vellora II",
       "start": 1912,
       "end": 1971,
       "kind": "range"
@@ -675,7 +670,7 @@
     {
       "column": "mariven",
       "lane": 0,
-      "label": "Zallion Vintar III",
+      "label": "Zallion Velora III",
       "start": 1971,
       "end": 2030,
       "kind": "range"
@@ -683,7 +678,7 @@
     {
       "column": "mariven",
       "lane": 0,
-      "label": "Aelaria Talzo",
+      "label": "Aelaria Vellora",
       "start": 2030,
       "end": 2158,
       "kind": "range"
@@ -715,6 +710,15 @@
     {
       "column": "mariven",
       "lane": 1,
+      "label": "Jahre der Asche und des Salzes",
+      "start": 448,
+      "end": 503,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven",
+      "lane": 1,
       "label": "Baraberenüberfälle von Mariven",
       "start": 1236,
       "end": 1387,
@@ -725,7 +729,7 @@
       "column": "mariven",
       "lane": 1,
       "label": "Muschelkrieg",
-      "start": 1401,
+      "start": 1358,
       "end": 1402,
       "kind": "range",
       "fill": "#59a199"
@@ -734,7 +738,7 @@
       "column": "mariven",
       "lane": 1,
       "label": "Runenbann-Konflikt",
-      "start": 1603,
+      "start": 1503,
       "end": 1611,
       "kind": "range",
       "fill": "#59a199"
@@ -775,7 +779,7 @@
       "column": "schwarzklamm",
       "lane": 1,
       "label": "Erzkrieg von Eron’Gath",
-      "start": 1526,
+      "start": 1426,
       "end": 1528,
       "kind": "range",
       "fill": "#727782"
@@ -867,7 +871,7 @@
       "column": "vaylen",
       "lane": 1,
       "label": "Runenbann-Konflikt",
-      "start": 1603,
+      "start": 1503,
       "end": 1611,
       "kind": "range",
       "fill": "#7f9cc0"

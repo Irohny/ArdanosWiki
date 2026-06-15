@@ -7,7 +7,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Rufname / Beiname:** Der Nebelkönig
 - **Titel / Amt:** Fürst von [[Elmrath]]
 - **Haus / Dynastie:** Silberhain
-- **Regentschaft:** 1041 - 1455 n.d.D.
+- **Regentschaft:** 1041 - 1375 n.d.D.
 - **Spezies / Volk:** Hochelfe
 - **Herkunft:** [[Elmrath]]
 - **Geburtsjahr:** 

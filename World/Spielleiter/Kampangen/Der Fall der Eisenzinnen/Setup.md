@@ -5,7 +5,7 @@ _Der letzte Schlag im Bürgerkrieg der Schwarzklamm_
 **Rolle der SC:** Elite-Schatteneinheit der **Schwarzschild-Allianz**
 
 **Zeit:** 2408 n.d.D
-**Orte:** [[Schwarzklamm]], [[Durak-Zhul]], [[Ur-Gralnir]], [[Eisenzinnen]], [[Dûm-Khadrak]], [[Helmbrach-Massiv]], [[Nordfels-Krone]]
+**Orte:** [[Schwarzklamm]], [[Varn-Marnrun]], [[Ur-Gralnir]], [[Eisenzinnen]], [[Dûm-Khadrak]], [[Helmbrach-Massiv]], [[Nordfels-Krone]]
 
 
 ---

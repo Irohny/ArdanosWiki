@@ -2,9 +2,9 @@
 #Schwarzklamm
 #Drakmora
 
-Zeitspanne: 1526 - 1528 n.d.D
+Zeitspanne: 1426 - 1528 n.d.D
 
-1526–1528 n.d.D.
+1426–1528 n.d.D.
 
 **Konfliktparteien:** [[Schwarzklamm]] vs. [[Drakmora]]  
 **Ursache:** Alte Minen im Grenzgebirge, deren magisches Gestein beiden Reichen als rechtmäßig galt.  

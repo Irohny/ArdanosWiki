@@ -1,5 +1,5 @@
 # In den Tiefen Hallen
-Die Spielergruppe soll [[Tiefe Hallen]] der [[Schwarzklamm]] erkunden. (Grund ???)
+Die Spielergruppe soll [[Khazul-Vuldur]] der [[Schwarzklamm]] erkunden. (Grund ???)
 
 ### Besonderheiten
 Je tiefer die Gruppe in die tiefen Hallen eintaucht, desto schwächer wird der Kleriker. In den Tiefen der Hallen herrscht eine dunkle Macht, die den Gott des Lichtes abhält, sodass er hier kaum noch über magische Fähigkeiten seines Gottes verfügt. Der Kleriker hört/ sieht in Visionen eine dunkle Gestalt, die im neue Macht verspricht, die größer ist, als alles was er bis jetzt kennt. (Versuchung durch einen dunklen Gott/ Dämon). Der Kleriker kann entweder den Gott wechseln oder seinem Gott treu bleiben (Belohnung, nach der Quest)

@@ -96,7 +96,7 @@
     {
       "column": "elmrath_rulers",
       "lane": 0,
-      "label": "Caelynn Morgenblatt",
+      "label": "Celynia Morgenblatt",
       "start": 553,
       "end": 1041,
       "kind": "range"
@@ -104,64 +104,32 @@
     {
       "column": "elmrath_rulers",
       "lane": 0,
-      "label": "Thaevan Silberhain",
-      "start": 1014,
-      "end": 1159,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath_rulers",
-      "lane": 0,
       "label": "Elenion Silberhain",
       "start": 1041,
-      "end": 1455,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath_rulers",
-      "lane": 0,
-      "label": "Elirae Nyssien",
-      "start": 1159,
-      "end": 1433,
+      "end": 1375,
       "kind": "range"
     },
     {
       "column": "elmrath_rulers",
       "lane": 0,
       "label": "Aenyris Silberhain",
-      "start": 1456,
-      "end": 1014,
+      "start": 1376,
+      "end": 1614,
       "kind": "range"
     },
     {
       "column": "elmrath_rulers",
       "lane": 0,
-      "label": "Orellan Dämmerwald",
-      "start": 1487,
-      "end": 1610,
+      "label": "Thaevan Silberhain",
+      "start": 1614,
+      "end": 2059,
       "kind": "range"
     },
     {
       "column": "elmrath_rulers",
       "lane": 0,
-      "label": "Isilme Dämmerwald",
-      "start": 1610,
-      "end": 1765,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath_rulers",
-      "lane": 0,
-      "label": "Arannis Silven",
-      "start": 1765,
-      "end": 1914,
-      "kind": "range"
-    },
-    {
-      "column": "elmrath_rulers",
-      "lane": 0,
-      "label": "Naeryss Silven",
-      "start": 1914,
+      "label": "Orellan Silberhain",
+      "start": 2060,
       "end": 2325,
       "kind": "range"
     },
@@ -193,7 +161,7 @@
       "column": "elmrath_ranges",
       "lane": 0,
       "label": "Nord-Süd-Konflikt",
-      "start": 1304,
+      "start": 1183,
       "end": 1307,
       "kind": "range",
       "fill": "#95b565"
@@ -202,9 +170,27 @@
       "column": "elmrath_ranges",
       "lane": 0,
       "label": "Muschelkrieg",
-      "start": 1401,
+      "start": 1358,
       "end": 1402,
       "kind": "range",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath_points",
+      "lane": 0,
+      "label": "Goldähr Sitz der Fürsten von Elmrath",
+      "start": 1285,
+      "end": 1285,
+      "kind": "point",
+      "fill": "#95b565"
+    },
+    {
+      "column": "elmrath_points",
+      "lane": 0,
+      "label": "Luminara Sitz der Fürsten von Elmrath",
+      "start": 2325,
+      "end": 2325,
+      "kind": "point",
       "fill": "#95b565"
     },
     {

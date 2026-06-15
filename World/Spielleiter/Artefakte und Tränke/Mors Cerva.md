@@ -3,7 +3,7 @@
 **"Dunkle Gewissheit"**
 Ein ca 20cm langer Dolch aus schwarzem Stahl verziert mit roten Runen aus einer längst ausgestorbenen Sprache. Der Klinge und Griff sind aus einem Stück geschmiedet. Ein solches Handwerk ist heutzutage fast nicht mehr zu finden. Trotz seiner faszinierenden Schönheit strahlt dieser Dolche eine dunkle Aura aus.  
 
-Liegt auf dem Altar im tiefsten Punkt der [[Tiefe Hallen]] in der [[Schwarzklamm]].
+Liegt auf dem Altar im tiefsten Punkt der [[Khazul-Vuldur]] in der [[Schwarzklamm]].
 ### Fähigkeiten
 * +1 zum treffen
 * Necromantische Heilung: Heilt die hälfte des ausgeteilten Schadens

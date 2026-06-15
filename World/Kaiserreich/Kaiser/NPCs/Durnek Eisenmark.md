@@ -14,7 +14,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Sterbejahr:** 2483 n.d.D.
 - **Alter:**
 
-- **Verknuepfte Orte:** [[Ardanos]], [[Schwarzklamm]], [[Tiefe Hallen]]
+- **Verknuepfte Orte:** [[Ardanos]], [[Schwarzklamm]], [[Khazul-Vuldur]]
 - **Verknuepfte NPCs:**
 - **Bekannt fuer:** Wiederbesiedlung, Aufbruch, politische Erneuerung
 - **Erste Erwaehnung:** 2470 n.d.D.
@@ -28,7 +28,7 @@ Er wird vor allem mit dem Versuch verbunden, verlorene Staetten des Reiches neu 
 ## Rolle und Beziehungen
 
 Seine Herrschaft war auf Erneuerung und Wiedergewinnung ausgerichtet.
-- [[Tiefe Hallen]]: setzte sich fuer ihre Wiederbesiedlung ein
+- [[Khazul-Vuldur]]: setzte sich fuer ihre Wiederbesiedlung ein
 - [[Schwarzklamm]]: Herkunft seines Hauses und zentraler Interessensraum seiner Politik
 
 ## Ziele

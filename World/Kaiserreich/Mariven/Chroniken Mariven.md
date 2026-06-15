@@ -1,4 +1,4 @@
-![[Lureano Vintar]]
+![[Lureano Talvarin]]
 
 ---
 
@@ -6,7 +6,7 @@
 
 ---
 
-![[Domerr Talzo]]
+![[Domerr Velora]]
 
 ---
 
@@ -22,7 +22,7 @@
 
 ---
 
-![[Celetha Vintar II]]
+![[Celetha Talvarin II]]
 
 ---
 
@@ -50,15 +50,15 @@
 
 ---
 
-![[Orryn Talzo II]]
+![[Orryn Vellora II]]
 
 ---
 
-![[Zallion Vintar III]]
+![[Zallion Velora III]]
 
 ---
 
-![[Aelaria Talzo]]
+![[Aelaria Vellora]]
 
 ---
 

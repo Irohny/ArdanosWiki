@@ -9,7 +9,7 @@
 - **Alter:**
 
 - **Verknüpfte Orte:** [[Lorathiel]]
-- **Verknüpfte NPCs:** [[Celynia Morgenblatt]], [[Thalanor]], [[Aric Dornenspeer]]
+- **Verknüpfte NPCs:** [[Celynia Morgenblatt]], [[Aric Dornenspeer]],  [[Loravain Elaris]]
 - **Bekannt für:** Wissen über alle Geheimnisse, Diplomatische Fähigkeiten
 - **Erste Erwähnung:** unbekannt
 - **Tags:** #schlagwort #region #rolle

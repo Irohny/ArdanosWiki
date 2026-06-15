@@ -4,10 +4,10 @@ Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in der
 Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
 -->
 
-- **Rufname / Beiname:** Die Sturmseherin
-- **Titel / Amt:** Fürstin von [[Elmrath]]
+- **Rufname / Beiname:** Der Ätherfürst
+- **Titel / Amt:** Fürst von [[Elmrath]]
 - **Haus / Dynastie:** Silberhain
-- **Regentschaft:** 1456 - 1014 n.d.D.
+- **Regentschaft:** 1376 - 1614 n.d.D.
 - **Spezies / Volk:** Hochelfe
 - **Herkunft:** [[Elmrath]]
 - **Geburtsjahr:** 
@@ -17,7 +17,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Verknuepfte Orte:** [[Elmrath]]
 - **Verknuepfte NPCs:** 
 - **Bekannt fuer:** 
-- **Erste Erwaehnung:** 1456 n.d.D.
+- **Erste Erwaehnung:** 1765 n.d.D.
 - **Tags:** #herrscher #elmrath #adel
 
 ## Beschreibung und Auftreten

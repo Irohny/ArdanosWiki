@@ -4,4 +4,4 @@
 - **Haltung:** Impulsiv, stolz, leidenschaftlich – lehnt Theorie ab, lebt fürs Spektakel.
 - **Beziehung:** Respektiert Tatkraft, verachtet Zauderer.
 - **Lieblingszitat:** „Magie ist kein Werkzeug. Sie ist Donner, der deinen Namen ruft.“
-- **Letzter Aufenthalt:** In der Gegend des Vulkans [[Kar'drathar]]
+- **Letzter Aufenthalt:** In der Gegend des Vulkans [[Moragul]]

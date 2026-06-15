@@ -1,5 +1,7 @@
-![[Mondtempel.png|300]]
-An die steile Flanke des Helmbrach-Massivs geschmiegt, erhebt sich **Lunareth** wie ein stiller Wächter zwischen Himmel und Erde. Terrassenartig in den Fels gebaut, zieht sich der Tempel in mehreren Ebenen den Hang hinauf – verbunden durch schmale Treppen, überdachte Holzgänge und verwinkelte Innenhöfe, in denen Windspiele leise im Bergwind klingen.
+
+![[Mondtempel_zd1.png|400]]
+
+An die steile Flanke des [[Helmbrach-Massiv]]s geschmiegt, erhebt sich **Lunareth** wie ein stiller Wächter zwischen Himmel und Erde. Terrassenartig auf den Fels gebaut, zieht sich der Tempel in mehreren Ebenen den Hang hinauf – verbunden durch schmale Treppen, überdachte Holzgänge und verwinkelte Innenhöfe, in denen Windspiele leise im Bergwind klingen.
 
 Seine Architektur erinnert an fernöstliche Schreine: geschwungene Dächer aus dunklem Holz und grauen Ziegeln, kunstvoll geschnitzte Balken und Tore, die mit Symbolen des Mondes verziert sind. Jeder Hof wirkt wie ein eigener, abgeschlossener Ort der Einkehr – manche offen zum Himmel, andere verborgen hinter Papierwänden und steinernen Laternen.
 

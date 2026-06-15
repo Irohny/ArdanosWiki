@@ -5,7 +5,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 
 **0 n.d.D** Erschaffung der Welt durch die Götter (die Dämmerung)
 - **328 n.d.D** Krönung von [[Bardum Eisenklang]] erster König der [[Schwarzklamm]]
-- **419 n.d.D** Erste Nennung der [[Tiefe Hallen]]
+- **419 n.d.D** Erste Nennung der [[Khazul-Vuldur]]
 - **441 n.d.D** Vereinigung arkaner gelehrter unter [[Seralyss Drachenruf]] (Gründung: [[Vaylen]]) 
 - **503 n.d.D** Zusammenschluss der goldenen Inseln zur Handelsrepublik [[Mariven]]
 - **553 n.d.D** [[Paktfest von Len'yrel]] (Gründung: [[Elmrath]])
@@ -27,7 +27,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 - **2025- 2165 n.d.D.** [[Invasion der Nordbarbaren]] 
 - **2160 n.d.D** Zusammenschluss der Fürstentümer [[Eid von Morgenfels]]
 - **2162 n.d.D** Die Schlacht am [[Feuerfeld von Nebelstein]]
-- **2163 n.d.D** [[Die Feuertaufe von Kar'drathar]] Ausbruch des [[Kar'drathar]]
+- **2163 n.d.D** [[Die Feuertaufe von Kar'drathar]] Ausbruch des [[Moragul]]
 
 ---
 **Drittes Zeitalter – Zeitalter des Friedens und Wohlstands** (Dauer min. 321 Jahre)
@@ -49,7 +49,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 - **2410–2442 n.d.D.** Regentschaft [[Alinor Thorne II]]
 - **2443–2469 n.d.D.** Regentschaft [[Elsinya Arven]]
 - **2447 n.d.D** [[Das Sonnenwunder von Valmere]]
-- **2461 n.d.D.** Start der Neubesiedlung der [[Tiefe Hallen]]
+- **2461 n.d.D.** Start der Neubesiedlung der [[Khazul-Vuldur]]
 - **2470–2483 n.d.D.** Regentschaft [[Durnek Eisenmark]]
 - **2478 - 2482 n.d.D.** [[Blutfeldzug in der Aschenweite]]
 - **2484 n.d.D.** Regentschaft [[Aldric von Elmrath]]

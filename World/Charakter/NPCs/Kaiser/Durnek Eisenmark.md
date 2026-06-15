@@ -14,7 +14,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Sterbejahr:** 2483 n.d.D.
 - **Alter:**
 
-- **Verknuepfte Orte:** [[Ardanos]], [[Schwarzklamm]], [[Tiefe Hallen]]
+- **Verknuepfte Orte:** [[Ardanos]], [[Schwarzklamm]], [[Khazul-Vuldur]]
 - **Verknuepfte NPCs:**
 - **Bekannt fuer:** Wiederbesiedlung, Aufbauwille, politische Erneuerung
 - **Erste Erwaehnung:** 2470 n.d.D.
@@ -23,12 +23,12 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 ## Beschreibung und Auftreten
 
 Durnek Eisenmark war ein tieflingischer Kaiser aus [[Schwarzklamm]], der fuer Aufbau und Wiedergewinnung verlorener Staetten stand.
-Er wird vor allem mit der Wiederbesiedlung der [[Tiefe Hallen]] verbunden.
+Er wird vor allem mit der Wiederbesiedlung der [[Khazul-Vuldur]] verbunden.
 
 ## Rolle und Beziehungen
 
 Seine Regentschaft war nach vorn gerichtet und stark vom Gedanken der Erneuerung gepraegt.
-- [[Tiefe Hallen]]: setzte sich fuer ihre Wiederbesiedlung ein
+- [[Khazul-Vuldur]]: setzte sich fuer ihre Wiederbesiedlung ein
 - [[Schwarzklamm]]: Herkunft seines Hauses und zentrales Interessengebiet seiner Politik
 
 ## Ziele
@@ -39,7 +39,7 @@ Seine Regentschaft war nach vorn gerichtet und stark vom Gedanken der Erneuerung
 ## Plot-Hooks
 
 - Sein Tod unter ungeklärten Umständen kann der Ausgangspunkt fuer Hof- oder Nachfolgeintrigen sein
-- Entscheidungen zur Wiederbesiedlung der [[Tiefe Hallen]] koennen alte Gefahren neu geweckt haben
+- Entscheidungen zur Wiederbesiedlung der [[Khazul-Vuldur]] koennen alte Gefahren neu geweckt haben
 
 ## Geheime Informationen
 

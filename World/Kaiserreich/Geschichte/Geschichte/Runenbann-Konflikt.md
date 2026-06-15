@@ -2,9 +2,9 @@
 #Mariven
 #Vaylen
 
-Zeitspanne: 1603 - 1611 n.d.D
+Zeitspanne: 1503 - 1611 n.d.D
 
-1603–1611 n.d.D.
+1503–1611 n.d.D.
 
 **Konfliktparteien:** [[Vaylen]] vs. [[Mariven]]  
 **Ursache:** [[Mariven]] verhängte ein magisches Exportverbot für arkane Kristalle an [[Vaylen]].
