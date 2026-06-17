@@ -16,6 +16,10 @@ monster-catalog:
     uv run python timeline_tools/monster_catalog/validate_monsters.py
     uv run python timeline_tools/monster_catalog/build_monster_catalog.py
 
+# build compact GM lore context for LLM prompts
+context:
+    uv run python timeline_tools/build_llm_context.py
+
 # run streamlit app
 run:
     uv run streamlit run app.py
