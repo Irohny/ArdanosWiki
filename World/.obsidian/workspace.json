@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3e5485d0514311c1",
+        "id": "44abf7f03f147449",
         "type": "tabs",
         "children": [
           {
-            "id": "cd85266d826a7a63",
+            "id": "7c903aa06cbce664",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Arcs.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kampangen Arcs"
-            }
-          },
-          {
-            "id": "295b857a794140a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Arc Siegel der Ströme.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arc Siegel der Ströme"
-            }
-          },
-          {
-            "id": "149d1fe3a3b599a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Kriegssystem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kriegssystem"
+              "title": "Neuer Tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Luminara.",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -197,9 +164,39 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "e94c86397ec2adea",
+  "active": "7c903aa06cbce664",
   "lastOpenFiles": [
+    "Kaiserreich/Elmrath/Orte/Luminara/Luminara.md",
+    "Kaiserreich/Elmrath/Orte/Luminara/Hafen von Luminara.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kreigsbereichte.md",
+    "Luminara.jpeg",
+    "Images/Maps/Luminara.jpeg",
+    "Unbenannt 1.base",
+    "Unbenannt.base",
     "Spielleiter/Kampangen/Schatten der Zeit/Kriegssystem.md",
+    "Charakter/Spieler/hc_Hector/Klan van Harl.md",
+    "Kaiserreich/Mariven/Mariven.md",
+    "Kaiserreich/Drakmora/Region Drakmora.md",
+    "Images/Maps/HerrenhausErdgeschoss.jpeg",
+    "Images/Maps/HerrenhausGarten.jpeg",
+    "Images/Maps/HerrenhausKeller.jpeg",
+    "Images/Maps/SeewegeMariven.jpeg",
+    "Images/SeewegeMariven.jpeg",
+    "HerrenhausGarten.jpeg",
+    "Nicht bestätigt 680461.crdownload",
+    "HerrenhausErdgeschoss.jpeg",
+    "Nicht bestätigt 249871.crdownload",
+    "HerrenhausKeller.jpeg",
+    "Nicht bestätigt 711338.crdownload",
+    "Abenteuer/Gnodomirs Chroniken 4.md",
+    "Kaiserreich/Wegenetz.md",
+    "Kaiserreich/Mariven/Berndsteinkueste/Vaelorin.md",
+    "Kaiserreich/Mariven/Berndsteinkueste/Wellenhort.md",
+    "Kaiserreich/Aurenielische See.md",
+    "Mythologie/Götter/Nebengötter/Aureniel.md",
+    "Kaiserreich/Mariven/AelVarin/Valmaaren.md",
+    "Charakter/Spieler/mc_Marcus/Bizeptiner Orden/Bizeptiner Orden.md",
+    "Charakter/Spieler/hc_Hector/Luredan van Harl.md",
     "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Arcs.md",
     "Spielleiter/Kampangen/Schatten der Zeit/Arc Siegel der Ströme.md",
     "Kaiserreich/Mariven/AelVarin/Runanthis.md",
@@ -210,40 +207,10 @@
     "Kaiserreich/Mariven/Gründung Mariven.md",
     "Kaiserreich/Mariven/AelVarin/Ael'Varin.md",
     "Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Winde.md",
-    "Kaiserreich/Geschichte/Überblick.md",
-    "Kaiserreich/Geschichte/Geschichte/Eid von Morgenfels.md",
-    "Kaiserreich/Geschichte/Geschichte/Erzkrieg von Eron’Gath.md",
-    "Unbenannt 1.base",
-    "Unbenannt.base",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Zallion Velora III.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Orryn Vellora II.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Domerr Velora.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Aerinelle Vellora.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Aelaria Vellora.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Celetha Talvarin II.md",
-    "Kaiserreich/Mariven/NPCs/Kommodore/Lureano Talvarin.md",
-    "Kaiserreich/Mariven/NPCs/Talvarin.md",
-    "Kaiserreich/Mariven/Mariven.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Ruine auf dem Blutfels.md",
-    "Images/Wappen/bartholdy_wappen.png",
-    "Spielleiter/Kampangen/Schatten der Zeit/Notizen/Kapitel 2 Session 2.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Erzählung des Blutgräfin.md",
-    "Images/Umwelt/Mondtempel_zd1.png",
-    "Images/Umwelt/Mondtempel_zd2.png",
     "Spielleiter/Kampangen/Schatten der Zeit/Nebelhafen",
     "Spielleiter/Kampangen/Schatten der Zeit/Notizen",
     "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 2",
-    "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Zeitungsartikel.png",
     "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1",
-    "Images/Charackter/mordrak_runenglut.png",
-    "Images/Tokens/token_thavos.png",
-    "Images/Tokens/token_krinn.png",
-    "Images/Tokens/token_havoc.png",
-    "Images/Tokens/token_federbart.png",
-    "Images/Tokens/token_bramm.png",
-    "Kaiserreich/Vaylen/Orte",
-    "Kaiserreich/Schwarzklamm/Orte",
-    "Kaiserreich/Elmrath/Orte/Luminara",
-    "Kaiserreich/Elmrath/Orte"
+    "Kaiserreich/Vaylen/Orte"
   ]
 }

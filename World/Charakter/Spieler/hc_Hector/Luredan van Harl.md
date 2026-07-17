@@ -1,6 +1,6 @@
 _Zweitgeborener Sohn, 38 Jahre_
 
-- Der berüchtigte Kommandant aus Tharions Vergangenheit.
+- Der berüchtigte Kommandant aus [[Hector]] Vergangenheit.
     
 - Hat seine Kriegsniederlage durch Fälschung von Berichten verschleiert und wurde später sogar befördert.
     

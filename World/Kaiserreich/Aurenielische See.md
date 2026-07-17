@@ -1,0 +1,1 @@
+Das Meer, welches sich vor der Küste Ardanos erstecket.

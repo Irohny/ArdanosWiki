@@ -1,225 +1,51 @@
-## Kriegsrunde
+Jede Runde:
+1. Einkommen (+2 Truppen pro Stadt, +1 pro Region)
+2. Moral prüfen (+1 angrenzen an Verbündete, -1 angrenzen an Gegner)
+3. Ereignis würfeln (pro Region)
+4. Diplomatie zu Neutral
+5. Bewegungen (gewichteter Mittelwert bei Moral für Truppen Mischung)
+6. Kämpfe
 
-Alle **3 Ingame-Tage** wird eine Kriegsrunde ausgespielt.
-Ablauf:
-1. Befehle festlegen
-2. Truppen bewegen
-3. Schlachten austragen
-4. Belagerungen auswerten
-5. Überläufer prüfen
-6. Siegelsuche von Ser Vakor fortführen
 
----
+**Kampfstärke = Truppen + Moral + W6**
 
-# Fraktionen
+## Truppentabelle
 
-## 🛡️ Fürstentreue Klans
+| **Differenz** | **Ergebnis**                          | Moral                   |
+| ------------- | ------------------------------------- | ----------------------- |
+| 1–2           | Beide verlieren 2 Truppen             | 0                       |
+| 3–5           | Sieger verliert 2, Verlierer 4        | +1 Sieg / -1 Niederlage |
+| 6–8           | Sieger verliert 1, Verlierer 5        | +2 Sieg / -2 Niederlage |
+| 9+            | Verlierer wird vernichtet oder flieht | +5 Sieg / -5 Niederlage |
+## Ereignisstabelle
 
-- Verteidigungsbonus in Heimatregionen (+2)
-    
-- Können Garnisonen aufstellen
-    
+| **Wurf** | **Ereignis**              |
+| -------- | ------------------------- |
+| 1        | Seuche (-2 Truppen)       |
+| 2        | Deserteure (-1 Moral)     |
+| 3        | Regen (alle Angriffe -2)  |
+| 4        | Nichts                    |
+| 5        | Freiwillige (+2 Truppen)  |
+| 6        | Held erscheint (+1 Moral) |
+| 7        | Spione (-2 Verteidigung)  |
+| 8        | Großer Sieg (+2 Moral)    |
 
-## 🐺 Reiter des Nordens
+## Diplomatie
+Diplomatie = W6 + Bonus + Drohungen
 
-- Bewegung: 2 Regionen pro Kriegsrunde
-    
-- +2 auf Angriffe gegen unbefestigte Regionen
-    
+**Vorteil** wenn Moral >= 2 * Gegnermoral
+**Nachteil** wenn Moral <= 0.5 * Gegnermoral
 
-## ⚔️ Luredan van Harl
+**Boni:** 
+- +1 pro Angrenzendes Gebiet
+- -2 wenn letzte Runde angegriffen
+**Drohungen:**
+- Truppendifferenz
 
-- Führt den Krieg gegen Drakmora
-    
-- Kann Regionen zum Überlaufen bewegen
-    
-- Nutzt Eliteeinheiten
-    
-
-## 🗝️ Ser Vakor
-
-- Sucht die **Kette des ersten Paktes**
-    
-- Nimmt nicht an Feldschlachten teil
-    
-- Besitzt eine Siegelsuch-Leiste
-    
-
----
-
-# Regionen
-
-Regionen können besitzen:
-
-- **Heimatregion:** Fürstentreue +2 Verteidigung
-    
-- **Festung:** +4 Verteidigung
-    
-- **Hauptstadt:** +6 Verteidigung
-    
-- **Kloster/Heiligtum:** Wichtige Hinweise
-    
-- **Grenzregion:** Reiter des Nordens +2 Angriff
-    
-
----
-
-# Armeestärken
-
-|Einheit|Stärke|
+|**Ergebnis**|**Effekt**|
 |---|---|
-|Garnison|2|
-|Kriegerschar|4|
-|Veteranen|6|
-|Elite|8|
+|Niederlage|Loyalität verschiebt sich um 1 zum Gegner|
+|Erfolg|Loyalität +1|
+|Großer Erfolg (5+)|Loyalität +2|
 
----
 
-# Bewegung
-
-Jede Armee bewegt sich pro Kriegsrunde:
-
-- Normale Armeen: **1 Region**
-    
-- Reiter des Nordens: **2 Regionen**
-    
-
----
-
-# Schlachten
-
-Wenn feindliche Armeen dieselbe Region betreten:
-
-**1W20 + Armeestärke + regionale Boni**
-
-Höheres Ergebnis gewinnt.
-
-## Ergebnis
-
-**Sieg mit 1–4 Punkten**
-
-- Verlierer zieht sich zurück
-    
-
-**Sieg mit 5–9 Punkten**
-
-- Verlierer verliert die Armee
-    
-
-**Sieg mit 10+ Punkten**
-
-- Region fällt sofort
-    
-- Festung verliert 1 Belagerungsstufe
-    
-
----
-
-# Belagerungen
-
-Festungen besitzen **3 Belagerungsstufen**.
-
-Belagerungswurf:
-
-**1W20 + Angreiferstärke**  
-gegen  
-**1W20 + Verteidigerstärke + 4**
-
-Bei Erfolg verliert die Festung **1 Stufe**.
-
-Bei **0 Stufen** fällt die Festung.
-
----
-
-# Überläufer
-
-Für jede fürstentreue Region, die:
-
-- an feindliche Gebiete grenzt,
-    
-- keine Garnison besitzt,
-    
-
-würfle **1W6**.
-
-|Wurf|Ergebnis|
-|---|---|
-|1–4|Loyal|
-|5|Unruhen|
-|6|Region läuft über|
-
-### Modifikatoren
-
-+1 wenn Luredan benachbart ist.
-
-−1 wenn die Helden dort geholfen haben.
-
-−1 wenn eine Festung vorhanden ist.
-
----
-
-# Siegelsuche – Ser Vakor
-
-Fortschrittsleiste: **0–6**
-
-Alle **2 Kriegsrunden**:
-
-**1W6**
-
-|Wurf|Ergebnis|
-|---|---|
-|1–2|Keine Fortschritte|
-|3–4|Neue Hinweise|
-|5|Standort entdeckt|
-|6|Zugang zur Kette|
-
-Bei **6 Fortschrittspunkten** erhält Ser Vakor die **Kette des ersten Paktes**.
-
----
-
-# Einfluss der Spieler
-
-|Aktion|Effekt|
-|---|---|
-|Festung entsetzen|+4 Verteidigung|
-|Heerführer besiegen|Gegner −2 Stärke|
-|Flüchtlinge retten|Region bleibt loyal|
-|Sabotage|Belagerung scheitert|
-|Ser Vakors Spur verfolgen|−1 Siegelfortschritt|
-|Verbündete gewinnen|Neue Garnison (2)|
-
----
-
-# Kampagnenstatus
-
-## Ausgangslage
-
-- Das Kloster in den Drachengründen wurde zerstört.
-    
-- Die Aufzeichnungen von Milo von Kroton gingen verloren.
-    
-- Ser Vakor besitzt Hinweise auf die **Kette des ersten Paktes**.
-    
-- Luredan van Harl führt mit den Reitern des Nordens Krieg gegen Drakmora.
-    
-
-## Wenn die Helden nicht eingreifen
-
-- Festungen fallen.
-    
-- Regionen laufen über.
-    
-- Ser Vakor findet die Kette.
-    
-- Das **Siegel der Ordnung** wird gebrochen.
-    
-
-## Wenn die Helden eingreifen
-
-- Die Front stabilisiert sich.
-    
-- Luredans Vormarsch wird gestoppt.
-    
-- Ser Vakor verliert Zeit oder seine Hinweise.
-    
-- Die Kette kann gesichert werden.

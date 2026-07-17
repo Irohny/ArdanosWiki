@@ -5,7 +5,7 @@ Aufgrund des hier aufkommenden Handels mit [[Mariven]] wurde Luminara zu beginn 
 
 20 Jahre später (2345 n.d.D) in der Regentschaft von [[Kaiserreich/Kaiser/NPCs/Marcellon Arven|Marcellon Arven]] (**2319–2354 n.d.D.**) ist Luminara auch die Hauptstadt der Kaiserreiches [[Ardanos]].
 
-![[Luminara.jpg|500]]
+![[Luminara.jpeg|500]]
 ### Wichte Orte 
 * Bibliothek [[Scriptorium Luminis]]
 * Tavernen: 

@@ -6,7 +6,7 @@ In [[Drakmora]] steht das Symbol mittlerweile für _ambitionierte Stärke_ und _
 
 ## **Sitz:**
 ![[Kharbrund.png|300]]
-**Festung Kharbrund**, ein imposanter Herrensitz in der Steppe südlich von **[[Valatheris]]**. Der basaltgraue Bau ragt über Hochebene, von Flammenrinnen durchzogen.  
+**Festung Flammenwacht**, ein imposanter Herrensitz in der Steppe südlich von **[[Valatheris]]**. Der basaltgraue Bau ragt über Hochebene, von Flammenrinnen durchzogen.  
 Die Festung wurde kürzlich erweitert – mit Söldnergeld und alten Pakten.
 
 ## **Familienstruktur**
