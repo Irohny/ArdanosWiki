@@ -6,17 +6,17 @@
 - Vision Gnodomir:
 	- Perspektive Rabe der Rabenköniging (Geh weiter auf dem Weg des Rabens)
 - Die Atmosphäre ist immer noch sehr bedrückend und angespannt
-- hinter dem Heerenhaus liegt das Dorf [[Rotenbrunn]]
+- hinter dem Heerenhaus liegt das Dorf [[Rotbrunn]]
 - Option 1:
 	- Gruppe erkundet Herrenhaus -> Erwachen der Blutgräfin
 - Option 2:
-	- Gruppe zieht weiter und findet das Dorf [[Rotenbrunn]]
+	- Gruppe zieht weiter und findet das Dorf [[Rotbrunn]]
 	- möglicher Übergang in Storyline 2 der Blutgräfin
 ## Erkundung des Herrenhauses
  - [[Ruine auf dem Blutfels]]
 
 ## Information zur Umgebung
-- Von [[Rotenbrunn]] kommt die Gruppe in 2h Weg auf die Große Bernsteinstraße
+- Von [[Rotbrunn]] kommt die Gruppe in 2h Weg auf die Große Bernsteinstraße
 - Von Rotenbrunn sind es noch 200km bis 300km bis nach Nebelhafen
 
 ## Nach diesem Storystrang

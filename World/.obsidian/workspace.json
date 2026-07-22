@@ -4,20 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "44abf7f03f147449",
+        "id": "1b76ec30e073a917",
         "type": "tabs",
         "children": [
           {
-            "id": "7c903aa06cbce664",
+            "id": "4881d0629ec309b0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Erzählung des Blutgräfin.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Erzählung des Blutgräfin"
+            }
+          },
+          {
+            "id": "ea9f846073750e76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Rotbrunn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotbrunn"
+            }
+          },
+          {
+            "id": "51b91503e7491f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Ruine auf dem Blutfels.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ruine auf dem Blutfels"
+            }
+          },
+          {
+            "id": "6a33b2133221ecfd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bestiarium/Blutgräfin Bathory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Blutgräfin Bathory"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -49,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Luminara.",
+                "query": "Luminara.j",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b693fe0798ea280e",
@@ -164,53 +212,53 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "7c903aa06cbce664",
+  "active": "6a33b2133221ecfd",
   "lastOpenFiles": [
+    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Ruine auf dem Blutfels.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Erzählung des Blutgräfin.md",
+    "Bestiarium/Blutgräfin Bathory.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Rotbrunn.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Befreiung der Gräfin.md",
     "Kaiserreich/Elmrath/Orte/Luminara/Luminara.md",
-    "Kaiserreich/Elmrath/Orte/Luminara/Hafen von Luminara.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kreigsbereichte.md",
-    "Luminara.jpeg",
-    "Images/Maps/Luminara.jpeg",
-    "Unbenannt 1.base",
-    "Unbenannt.base",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kriegssystem.md",
-    "Charakter/Spieler/hc_Hector/Klan van Harl.md",
-    "Kaiserreich/Mariven/Mariven.md",
-    "Kaiserreich/Drakmora/Region Drakmora.md",
-    "Images/Maps/HerrenhausErdgeschoss.jpeg",
-    "Images/Maps/HerrenhausGarten.jpeg",
-    "Images/Maps/HerrenhausKeller.jpeg",
-    "Images/Maps/SeewegeMariven.jpeg",
-    "Images/SeewegeMariven.jpeg",
-    "HerrenhausGarten.jpeg",
-    "Nicht bestätigt 680461.crdownload",
-    "HerrenhausErdgeschoss.jpeg",
-    "Nicht bestätigt 249871.crdownload",
-    "HerrenhausKeller.jpeg",
-    "Nicht bestätigt 711338.crdownload",
-    "Abenteuer/Gnodomirs Chroniken 4.md",
-    "Kaiserreich/Wegenetz.md",
+    "Kaiserreich/Mariven/Berndsteinkueste/Nebelhafen.md",
+    "Images/Maps/Nebelhafen.jpg",
+    "Images/Maps/Luminara.jpg",
+    "Kaiserreich/Ardanos.md",
+    "Spielleiter/Zwergische Begriffe.md",
+    "Kaiserreich/Schwarzklamm/Orte/Barazdur.md",
+    "Images/Maps/Ardanos.jpeg",
+    "Images/Maps/2023-12-lsb-00145_1_1_struth_christoph.afo.pdf",
     "Kaiserreich/Mariven/Berndsteinkueste/Vaelorin.md",
+    "Images/Maps/Rotbrunn.jpeg",
+    "Images/Tokens/TokenGruhl.png",
+    "Images/Tokens/TokenBartholdy.png",
+    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Schattenstein.md",
+    "Images/Charackter/BatholdyVampir.png",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kriegssystem.md",
+    "Kaiserreich/Drakmora/Region Drakmora.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kreigsbereichte.md",
+    "Unbenannt.base",
+    "Images/Maps/Drakmora_Runde2.png",
+    "Images/Maps/Drakmora_Runde1.png",
+    "Images/Maps/SeewegeMariven.jpeg",
+    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Daniel Background.md",
     "Kaiserreich/Mariven/Berndsteinkueste/Wellenhort.md",
-    "Kaiserreich/Aurenielische See.md",
-    "Mythologie/Götter/Nebengötter/Aureniel.md",
     "Kaiserreich/Mariven/AelVarin/Valmaaren.md",
-    "Charakter/Spieler/mc_Marcus/Bizeptiner Orden/Bizeptiner Orden.md",
-    "Charakter/Spieler/hc_Hector/Luredan van Harl.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Arcs.md",
+    "Kaiserreich/Aurenielische See.md",
     "Spielleiter/Kampangen/Schatten der Zeit/Arc Siegel der Ströme.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Arcs.md",
     "Kaiserreich/Mariven/AelVarin/Runanthis.md",
     "Spielleiter/Kampangen/Schatten der Zeit/Das blaue Wrack/Azure Rune.md",
     "Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Schatten.md",
     "Kaiserreich/Geschichte/Geschichte/Luminara Sitz der Fürsten von Elmrath.md",
     "Kaiserreich/Geschichte/Geschichte/Jahre der Asche und des Salzes.md",
-    "Kaiserreich/Mariven/Gründung Mariven.md",
-    "Kaiserreich/Mariven/AelVarin/Ael'Varin.md",
-    "Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Winde.md",
+    "Unbenannt 1.base",
     "Spielleiter/Kampangen/Schatten der Zeit/Nebelhafen",
     "Spielleiter/Kampangen/Schatten der Zeit/Notizen",
     "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 2",
     "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1",
-    "Kaiserreich/Vaylen/Orte"
+    "Kaiserreich/Vaylen/Orte",
+    "Kaiserreich/Schwarzklamm/Orte",
+    "Kaiserreich/Elmrath/Orte/Luminara"
   ]
 }

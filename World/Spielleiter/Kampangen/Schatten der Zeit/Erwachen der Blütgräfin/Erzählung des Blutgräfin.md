@@ -1,3 +1,4 @@
+![[BatholdyVampir.png|200]]
 „Ihr wollt also vom Blutfels hören…?  
 Dann hört gut zu – und überlegt euch danach, ob ihr wirklich hinauf wollt.
 

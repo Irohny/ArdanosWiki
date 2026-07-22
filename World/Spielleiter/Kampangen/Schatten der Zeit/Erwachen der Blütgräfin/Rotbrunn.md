@@ -1,8 +1,8 @@
 Fürstentum: Unbekannt (Wahrscheinlich Mariven Insel oder Bernsteinküste)
+![[Rotbrunn.jpeg|400]]
+Rotbrunn ist eine kleine, abgelegene Siedlung am Fuße des Blutfels, umgeben von dichten Wäldern und kargen Feldern. Die Häuser sind aus dunklem Holz und grobem Stein gebaut, ihre Dächer vom Wind und den Jahren gezeichnet. Ein alter Brunnen auf dem Marktplatz gibt der Stadt ihren Namen – sein Wasser schimmert bei bestimmten Lichtverhältnissen leicht rötlich.
 
-Rotenbrunn ist eine kleine, abgelegene Siedlung am Fuße des Blutfels, umgeben von dichten Wäldern und kargen Feldern. Die Häuser sind aus dunklem Holz und grobem Stein gebaut, ihre Dächer vom Wind und den Jahren gezeichnet. Ein alter Brunnen auf dem Marktplatz gibt der Stadt ihren Namen – sein Wasser schimmert bei bestimmten Lichtverhältnissen leicht rötlich.
-
-Das Leben in Rotenbrunn ist still und vorsichtig. Die Menschen sprechen leise, besonders wenn Fremde anwesend sind, und bei Einbruch der Dunkelheit werden Türen und Fenster verriegelt. Niemand bleibt freiwillig lange draußen, wenn der Wind vom Blutfels herabweht.
+Das Leben in Rotbrunn ist still und vorsichtig. Die Menschen sprechen leise, besonders wenn Fremde anwesend sind, und bei Einbruch der Dunkelheit werden Türen und Fenster verriegelt. Niemand bleibt freiwillig lange draußen, wenn der Wind vom Blutfels herabweht.
 
 Denn dann, so sagen die Alten, trägt er mehr als nur Kälte mit sich.
 

@@ -5,7 +5,7 @@
 - Sie finden die Ruine auf dem Blutfels
 
 ### Option 2:
--  Die Gruppe kommt in die Kleinstadt **[[Rotenbrunn]]**
+-  Die Gruppe kommt in die Kleinstadt **[[Rotbrunn]]**
 - Sie hört on Gerüchten, dass Nachts trotz Sommers der Boden auf dem Blutfels nahe der Ruine gefriert
 -  einige Menschen der Stadt gelten als Verschollen und werden gesucht
 - Es wird eine verstümmelte Leiche nahe der Stadt gefunden und ein Junge ist Verschwunden

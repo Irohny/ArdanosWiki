@@ -1,120 +1,105 @@
 # 1. Valatheris
-- **Truppen:** 20 **Moral:** 19  
-- **Fraktion** #Fürstentreu
 - Hauptstadt
 - Herrin: [[Valaine Nebelhain]]
 - Straße: Nordlinie
 - Straße: Urstraße
 - Straße: Drachenspur
 # 2. Drachengründe
-- **Truppen:** 19 **Moral:** 20 
-- **Fraktion** #Rebellion
 - Ort Kloster des [[Bizeptiner Orden]]
 - Festung: Falkenzwinge
 - Festung: Drachenfeste
 - Fluss: Rabenstrom
 - Straße: Drachenspur
 # 3. Nebelkliff
-- **Truppen:** 8 **Moral:** 20
-- **Fraktion** #Neutral 
 - Fluss: Schwarzstrom
 # 4. Schimmerklippen
-- **Truppen:** 10 **Moral:** 11
-- **Fraktion** #Neutral 
 - Fluss: Schwarzstrom
+- Festung: Donnerwacht
 # 5. Silberheide
-- **Truppen:** 3 **Moral:** 8
-- **Fraktion** #Neutral 
  - Fluss: Schwarzstrom
  - Stadt: Bannerhall
 # 6. Schildmark
-- **Truppen:** 17 **Moral:** 10
-- **Fraktion** #Rebellion 
 - Besfestigte Grenzregion zu der Nordweite. Verteidigungsbollwerk gegen die Reitervölker des Nordens.
 - Fluss: Schwarzstrom
-- Festung: Donnerwacht
 - Festung: Schildhall
 - Festung: Nordend
 
-# 7. Wolfsheim
-- **Truppen:** 3 **Moral:** 10
-- **Fraktion** #Fürstentreu 
+# 7. Wolfsheim 
 
-# 8. Sturmkessel
-- **Truppen:** 11 **Moral:** 6
-- **Fraktion** #Fürstentreu 
+# 8. Sturmkessel 
 - Brücke nach [[Mariven]]/[[Bernsteinküste]]
 - Straße: Nordlinie
 - Stadt: Sturmwall
 
 # 9. Klingensteppe
-- **Truppen:** 14 **Moral:** 4
-- **Fraktion**  #Fürstentreu 
 - Festung: Weitenfell
 
 # 10. Donnermoor
-- **Truppen:** 14 **Moral:** 4
-- **Fraktion** #Neutral 
 - Stadt: Schwarzried
 
 # 11. Rabenmark
-- **Truppen:** 9 **Moral:** 12
-- **Fraktion** #Neutral 
 - Ort: [[Erytra Tempel]]
 - Fluss: Rabenstrom
 - Straße: Nordlinie
 # 12. Rabenforst
-- **Truppen:** 10 **Moral:** 10
-- **Fraktion** #Neutral 
 - Straße: Nordlinie
 
-# 13. Schattenforst
-- **Truppen:** 17 **Moral:** 8
-- **Fraktion** #Neutral 
+# 13. Schattenholz
 - Straße: Urstraße
 - Stadt: Hohenforst
 
 # 14. Schwarzhall
-- **Truppen:** 17 **Moral:** 20
-- **Fraktion** #Rebellion 
-- Ort: Kahrbrund
+- Ort: Flammenwacht
 - Familie: van Hral
 - Fluss: Rabenstrom
 - Festung: Flammenwacht
 
 # 15. Blutheide
-- **Truppen:** 3 **Moral:** 12
-- **Fraktion** #Neutral 
 - Fluss: Blutlauf
 - Straße: Urstraße
 
-# 16. Eisenfels
-- **Truppen:** 8 **Moral:** 7 
-- **Fraktion** #Fürstentreu 
+# 16. Eisenfels 
 - Straße: Drachenspur
 
-# 17. Feuerfeld
-- **Truppen:** 2 **Moral:** 20
-- **Fraktion** #Rebellion 
+# 17. Feuerfeld 
 - Fluss: Rabenstrom
 - Stadt: Altlicht
 - Straße: Urstraße
 
 # 18. Drachenwacht
-- **Truppen:** 7 **Moral:** 20
-- **Fraktion** #Rebellion 
 - Fluss: Blutlauf
 - Straße: Drachenspur
 - Stadt: Odemhall
 # 19. Nebelsteppe
-- **Truppen:** 7 **Moral:** 7
-- **Fraktion** #Rebellion 
 - Straße: Drachenspur
 
 # 20. Aschenkamm
-- **Truppen:** 5 **Moral:** 1
-- **Fraktion** #Neutral 
 - Bergregion mit kleinen Klans ohne viel Einfluss auf die Politik in [[Drakmora]]. Die Klans leben in ihren Gebieten in den Tälern des [[Aschekamm]]s.
 - Gebiet: Eisenzacken
 - Gebiet: Wolfsgrat
 - Gebiet: Drachenfels
+
+
+|     | **Region**     | **Truppen** | **Moral** | **Treue**    | **Loyalität** |
+| --- | -------------- | ----------- | --------- | ------------ | ------------- |
+| 1   | Valatheris     | 23          | 19        | #Fürstentreu |               |
+| 2   | Drachengründe  | 1           | 20        | #Rebellion   |               |
+| 3   | Nebelkliff     | 8           | 20        | #Neutral     | 0             |
+| 4   | Schimmerklippe | 10          | 11        | #Neutral     | -2            |
+| 5   | Silberheide    | 1           | 9         | #Fürstentreu |               |
+| 6   | Schildmark     | 1           | 9         | #Fürstentreu |               |
+| 7   | Wolfsheim      | 4           | 9         | #Fürstentreu |               |
+| 8   | Sturmkessel    | 14          | 7         | #Fürstentreu |               |
+| 9   | Klingensteppe  | 12          | 3         | #Neutral     | 0             |
+| 10  | Donnermoor     | 19          | 9         | #Fürstentreu |               |
+| 11  | Rabenmark      | 9           | 12        | #Neutral     | -2            |
+| 12  | Rabenforst     | 19          | 20        | #Neutral     | 0             |
+| 13  | Schatteholz    | 17          | 8         | #Neutral     | -1            |
+| 14  | Schwarzhall    | 1           | 20        | #Rebellion   |               |
+| 15  | Blutheide      | 1           | 12        | #Neutral     | 0             |
+| 16  | Eisenmark      | 10          | 20        | #Rebellion   |               |
+| 17  | Feuerfeld      | 3           | 16        | #Rebellion   |               |
+| 18  | Drachenwacht   | 21          | 20        | #Rebellion   |               |
+| 19  | Nebelsteppe    | 1           | 8         | #Rebellion   |               |
+| 20  | Aschenkamm     | 5           | 1         | #Neutral     | 0             |
+

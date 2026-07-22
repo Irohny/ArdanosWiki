@@ -35,12 +35,13 @@ Doch niemand bleibt lange genug, um sicher zu sein.
     - Kaum welche wieder hinaus.
 
 ---
-## **2. Die Eingangshalle**
+## **2. Atrium**
 - Hohe Decke mit verrostetem Kronleuchter.
 - Große, zerstörte Freitreppe.
 - Zerrissene Teppiche bedecken den Boden.
 - Die Luft wirkt unnatürlich kalt.
 - Staub liegt überall – bis auf einzelne Spuren.
+- Alte Bilder hängen schief an der Wänden
 
 #### Erkundungspunkte
 - **Familienporträts:**
@@ -90,10 +91,10 @@ Doch niemand bleibt lange genug, um sicher zu sein.
 - Umgeworfene Stühle liegen verstreut.
 - Ein Ballsaal voller Stille.
 #### Erkundungspunkte
-- **Bankett-Illusion erleben:**
+- **SG>10: Bankett-Illusion erleben**
     - Musik erklingt.
     - Der Saal erscheint wie zu Batholdys Glanzzeiten.
-- **Verzerrung der Vision:**
+- **SG<10: Verzerrung der Vision:**
     - Gäste reißen Fleisch von Leibern.
     - Die Musik wird schief.
 - **Untersuchung der Tafel:**
@@ -159,3 +160,4 @@ Doch niemand bleibt lange genug, um sicher zu sein.
     - Flucht der Blutgräfin.
 - **Gnodomirs Biss:**
     - Der Beginn seiner Mutation.
+    - [[Blutgräfin Bathory]]

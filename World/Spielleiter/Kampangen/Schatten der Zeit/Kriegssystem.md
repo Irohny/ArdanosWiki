@@ -3,20 +3,21 @@ Jede Runde:
 2. Moral prüfen (+1 angrenzen an Verbündete, -1 angrenzen an Gegner)
 3. Ereignis würfeln (pro Region)
 4. Diplomatie zu Neutral
-5. Bewegungen (gewichteter Mittelwert bei Moral für Truppen Mischung)
-6. Kämpfe
+5. Kämpfe
+6. Bewegungen (gewichteter Mittelwert bei Moral für Truppen Mischung)
 
 
-**Kampfstärke = Truppen + Moral + W6**
+**Kampfstärke = Truppen + Moral + W20
 
 ## Truppentabelle
 
 | **Differenz** | **Ergebnis**                          | Moral                   |
 | ------------- | ------------------------------------- | ----------------------- |
-| 1–2           | Beide verlieren 2 Truppen             | 0                       |
-| 3–5           | Sieger verliert 2, Verlierer 4        | +1 Sieg / -1 Niederlage |
-| 6–8           | Sieger verliert 1, Verlierer 5        | +2 Sieg / -2 Niederlage |
-| 9+            | Verlierer wird vernichtet oder flieht | +5 Sieg / -5 Niederlage |
+| 0-5           | Beide verlieren 2 Truppen             | 0                       |
+| 5-10          | Sieger verliert 2, Verlierer 4        | +1 Sieg / -1 Niederlage |
+| 10-15         | Sieger verliert 1, Verlierer 5        | +2 Sieg / -2 Niederlage |
+| 15-19         | Verliere 6                            | +4 Sieg/-4 Niederlage   |
+| >20           | Verlierer wird vernichtet oder flieht | +5 Sieg / -5 Niederlage |
 ## Ereignisstabelle
 
 | **Wurf** | **Ereignis**              |
@@ -37,10 +38,11 @@ Diplomatie = W6 + Bonus + Drohungen
 **Nachteil** wenn Moral <= 0.5 * Gegnermoral
 
 **Boni:** 
-- +1 pro Angrenzendes Gebiet
+- +1 pro Angrenzendes Gebiet der eigenen Fraktion
+- -1 pro Angrenzendes Gebiet der Gegener Fraktion
 - -2 wenn letzte Runde angegriffen
 **Drohungen:**
-- Truppendifferenz
+- Truppendifferenz/2
 
 |**Ergebnis**|**Effekt**|
 |---|---|
