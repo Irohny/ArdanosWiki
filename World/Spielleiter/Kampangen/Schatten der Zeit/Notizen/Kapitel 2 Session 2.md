@@ -1,41 +1,25 @@
-**Startdatum:** (Morgens) 16 (Lichtag) Licht (Frühling) 2486 n.d.D. 
-**Enddatum:** -
+**Startdatum:** (Morgens) 16 (Lichttag) Licht (Frühling) 2486 n.d.D. 
+**Enddatum:** (Nachmittag) 16 (Lichttag) Licht (Frühling) 2486 n.d.D
 
 ## Ablauf
 - Gruppe wacht am Lagerfeuer am Fuße des Blutfelses auf
-- Vision Gnodomir:
-	- Perspektive Rabe der Rabenköniging (Geh weiter auf dem Weg des Rabens)
-- Die Atmosphäre ist immer noch sehr bedrückend und angespannt
-- hinter dem Heerenhaus liegt das Dorf [[Rotbrunn]]
-- Option 1:
-	- Gruppe erkundet Herrenhaus -> Erwachen der Blutgräfin
-- Option 2:
-	- Gruppe zieht weiter und findet das Dorf [[Rotbrunn]]
-	- möglicher Übergang in Storyline 2 der Blutgräfin
-## Erkundung des Herrenhauses
- - [[Ruine auf dem Blutfels]]
-
-## Information zur Umgebung
-- Von [[Rotbrunn]] kommt die Gruppe in 2h Weg auf die Große Bernsteinstraße
-- Von Rotenbrunn sind es noch 200km bis 300km bis nach Nebelhafen
-
-## Nach diesem Storystrang
-**Nebelgrund:**
-- In einem Fischerdorf (Nebelgrund) vor dem [[Nebelhafen]] treffen die Spieler auf [[Krinn Blattwender]], [[Bramwell Kupferzahn]]
-- [[Kapitän Havoc]]  ist bei dem Schiffsunglück gestorben (wurde bereits in NEbelgrund beigesetzt)
-	- Gruppe bekommt seinen Kompass als Andenken
-- [[Federbart]] (später von der [[Goldene Morgendämmerung]] gerettet), [[Marktgraf Reodemus]] und [[Nyssara Elenvyre]] werden vermisst
-- Wenn sie weiter nach [[Elaena Silberhand]] suchen können sie erfahren, dass die [[Goldene Morgendämmerung]] in Nebelhafen geankert hat
-
-**Nebelhafen**
-- In Nebelhafen erfahren sie, dass die [[Goldene Morgendämmerung]] Richtung [[Havgrim]] weiter wollte
-- Gnodomir erfährt vom Großen [[Erythra]] Tempel, wo im vlt geholfen werden kann, dort können sie auch erfahren, welche Seelen in letzter Zeit in das [[Schattenlicht]] gegangen sind. So könnten sie herausfinden, welche ihrer Freund bei dem Schiffsunglück wirklich gestorben sind
-- In [[Nebelhafen]]: [[Vishuda]] wird von seinem verschwundenen Lehrmeister beiseite genommen, der ihm erzählt, dass in er die [[Träne der Sonne]] nicht zum versteck bringen darf, da das ein Hinterhalt ist um ihn zu töten. Der Meister hat den Klan verlassen, da er eigene Dinge zu erledigen hatte und vermutete, dass es einen Verräter in den Reihen des Klans gibt. Der Lehrmeister verschwindet plötzlich wieder 
-
-## Todos:
-- Map Heerenhaus
-- NPC Blutgräfin
-- Encounter ghoule und blutgräfin
-- Map Benrsteinküste Überabreiten
-- Map Drakmora
-- Map Gesamt mit neuen Wegen erweitern
+- Gruppe beschließt das Herrenhaus zu erkunden
+- Hector und Vishuda betretten die Herrenhausruine durch die Tür
+- Gnodomir und Markus erkunden den Brunnen im Vorgarten und entdecken einen Geheimgang im inneren, der in das Herrenhaus führt
+- Hector und Vishuda betreten das Atrium und erkunden die Ahnengallerie der Familie Bartholdy und gehen anschließend in das Wohnzimmer
+- Gnodomir und Markus kommen in der Küche aus dem Geheimgang heruas und erkunden diese. Sie finden Leichenreste
+- Gnodomir und Markus sehen gerade noch Vishuda vom Atrium ins Wohnzimmer gehen und gehen hinterher
+- Hector geht weiter in den Speisesaal und sieht eine Illusion eines der Bankette der letzten Herzogin
+- Vishuda sieht eine Illusion mit Monstern die Leichenteile fressen
+- Gnodomir sieht die Illusion von Hector und Markus die von Vishuda als sie sie verfolgen
+- Als Hector eine Falltür findet wird die Gruppe von 4 Gruhlen angegriffen.
+- Die Gruppe besiegt die Gruhle und lgt eine Kurze Rast im Speisesaal ein
+- Die Gruppe führt die Erkundung des Kellers fort und findet verlassene Verliße und eine Folterkammer mit einer vermauerten Tür
+- Die Tür wird aufgebrochen
+- Die Gruppe betritt die Gruft und öffnet den Sarg der Gräfin
+- Bartholdy erkennt den Kleriker des Erythra und greift ihn an
+- Sie bezaubert Hector, sodass er für sie Kämpft. 
+- Hector und die Gräfin greifen Gnodomir an
+- Die Gräfin packt und beißt Gnodomir
+- Hector besiegt Markus
+- Als Hector von seiner bezauberung erlöst wird greift er die Gräfin an, die ein Wehklagen von sich lässt, das Vishuda und Gnodomir erledigen. Hector stabilisiert alle und wartet, darauf, dass sie sich von dem Kampf erholen

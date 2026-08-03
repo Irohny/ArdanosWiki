@@ -1,7 +1,32 @@
-#Ereignis
-#Schwarzklamm
+- **Rufname / Beiname:** Eisenklang
+- **Titel / Amt:** König der Klamm
+- **Haus / Dynastie:**
+- **Regentschaft:** 328 n.d.D - 
+- **Spezies / Volk:** Mensch
+- **Herkunft:** Herkunftsort oder Reich
+- **Geburtsjahr:** 268 n.d.D.
+- **Sterbejahr:**
+- **Alter:**
 
-Zeitspanne: 328 n.d.D
+- **Verknüpfte Orte:** [[Schwarzklamm]]
+- **Verknüpfte NPCs:**
+- **Bekannt für:** 
+- **Erste Erwähnung:** unbekannt
+- **Tags:** #schlagwort #region #rolle
+
+## Beschreibung und Auftreten
 
 Erster König der [[Schwarzklamm]] mit Sitz in den [[Khazul-Vuldur]]. Verfasser des [[Codex Feramor]].
 Krönung im Jahre 328 n.d.D, beginn des [[Schwarzklamm]].
+
+
+## Rolle und Beziehungen
+
+-
+## Ziele
+
+## Plot-Hooks
+
+## Geheime Informationen
+
+## Kampfwerte

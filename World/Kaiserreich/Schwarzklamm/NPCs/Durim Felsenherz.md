@@ -1,11 +1,5 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
-
 - **Rufname / Beiname:**
-- **Titel / Amt:** Koenig und spaeter Fuerst von [[Schwarzklamm]]
+- **Titel / Amt:** König und später Fuerst von [[Schwarzklamm]]
 - **Haus / Dynastie:** Felsenherz
 - **Regentschaft:** 2058 - 2319 n.d.D.
 - **Spezies / Volk:** Zwerg

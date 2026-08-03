@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e30c6ce4c69bcb6f","type":"text","text":"PZWO Fach Wiki","x":-380,"y":-480,"width":165,"height":50},
+		{"id":"8a8bf3832d86b680","x":-140,"y":-485,"width":180,"height":60,"type":"text","text":"Wiki Projektantrag"},
+		{"id":"a2d619e790327b15","x":120,"y":-485,"width":250,"height":60,"type":"text","text":"Standards\nFC/IDS/bSDD Wissen"},
+		{"id":"7c5c5f5b9943615f","type":"text","text":"WDY Software Wiki","x":-140,"y":-220,"width":200,"height":60},
+		{"id":"b4c100a565ba88c0","x":-165,"y":0,"width":250,"height":60,"type":"text","text":"Software"}
+	],
+	"edges":[
+		{"id":"89130d5dd04ce06b","fromNode":"e30c6ce4c69bcb6f","fromSide":"bottom","toNode":"7c5c5f5b9943615f","toSide":"top","label":"Fachwissen"},
+		{"id":"d6e6be876083d034","fromNode":"8a8bf3832d86b680","fromSide":"bottom","toNode":"7c5c5f5b9943615f","toSide":"top","label":"Anforderungen"},
+		{"id":"cf8e8aa867125444","fromNode":"7c5c5f5b9943615f","fromSide":"bottom","toNode":"b4c100a565ba88c0","toSide":"top","label":"Anforderungen"},
+		{"id":"6036203c60a8a494","fromNode":"a2d619e790327b15","fromSide":"bottom","toNode":"7c5c5f5b9943615f","toSide":"top","label":"Informationen"}
+	]
+}

@@ -1,9 +1,3 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
-
 - **Rufname / Beiname:** Die Händlerin der Wahrheit
 - **Titel / Amt:** Kommodore des Fürstentums [[Mariven]]
 - **Haus / Dynastie:** Talzo

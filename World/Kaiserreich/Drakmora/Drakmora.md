@@ -5,6 +5,7 @@ Zeitspanne: 610 n.d.D
 
 # Das Volk von Drakmora – Die Kriegsschmiede des Nordens
 ![[Wappen Drakmora.png|200]]
+
 Drakmora ist ein Land der Krieger, Schmiede und Handwerker, geformt durch das Eisen ihrer Waffen und die Disziplin ihres Volkes. Die Bewohner sind ein stolzes, widerstandsfähiges Volk, das in einer Kultur der Ehre, des Kampfes und der handwerklichen Meisterschaft lebt.
 
 **Oberhaupt:** Fürstin [[Valaine Nebelhain]]

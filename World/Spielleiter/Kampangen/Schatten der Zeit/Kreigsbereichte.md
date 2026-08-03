@@ -15,7 +15,7 @@ Die Fronten verhärten sich. Die Nordstämme stehen tief in den Grenzlanden, wä
 ![[Drakmora_Runde1.png|300]]
 
 ---
-**2. Bericht, 17. Licht, 2486 n.d.d**
+**2. Bericht, 17. Licht, 2486 n.d.D**
 
 Die jüngsten Tage brachten nicht nur Kämpfe auf den Schlachtfeldern, sondern auch einen erbitterten Krieg der Worte. Den Gesandten der Rebellen gelangen bedeutende diplomatische Erfolge. Nach Berichten unserer Spione konnten sie die Regionen **Schimmerklippe** und **Rabenmark** zunehmend auf ihre Seite ziehen und ihren Einfluss dort erheblich ausbauen.
 

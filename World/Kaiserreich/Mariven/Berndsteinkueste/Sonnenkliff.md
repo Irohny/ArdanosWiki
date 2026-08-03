@@ -1,1 +1,0 @@
-Kleine Stadt in [[Mariven]] an der [[Bernsteinküste]] nahe der Mündung des [[Lumaros]] in das große Meer.

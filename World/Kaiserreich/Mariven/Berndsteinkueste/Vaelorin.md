@@ -1,1 +1,0 @@
-Am [[Selvarin]] gelegen ist Vaelorin die größte Stadt im Landesinneren von [[Mariven]]. 

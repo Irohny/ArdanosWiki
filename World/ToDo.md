@@ -1,0 +1,3 @@
+- Inselgeschichte Ael Varin mit Verlust der Nordseite und untergang runanthis beschreiben
+- Klan van Harl strukturieren und überarbeiten
+- Wunderheiler Geschichte als Sidequst weiter ausarbeiten

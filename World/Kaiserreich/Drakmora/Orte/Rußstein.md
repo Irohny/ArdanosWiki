@@ -1,3 +1,0 @@
-- Häuser aus dunklem Gestein, vom ewigen Rauch geschwärzt.
-- Südliches [[Drakmora]]
-- -Herkunft von [[Hector]]

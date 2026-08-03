@@ -1,0 +1,7 @@
+- Ort Kloster des [[Bizeptiner Orden]]
+- Festung: Falkenzwinge
+- Festung: Drachenfeste
+- Fluss: Rabenstrom
+- Straße: Drachenspur
+
+ Die **Drachengründe** im Nordosten [[Drakmora]]s sind ein wildes, von Wind und Stein gezeichnetes Hochland, durchzogen von alten Pfaden und uralten Kampfplätzen. In den tiefen Schluchten und auf windumtosten Plateaus leben noch heute die letzten Drachenborn-Clans, stolze Krieger mit uralter Blutlinie. Ihre Festungen schmiegen sich an Felswände, von Runen durchzogen und von Drachenstatuen bewacht. Inmitten dieser rauen Landschaft erhebt sich das legendäre **[[Refugium des reinen Gains]]** das Kloster des [[Bizeptiner Orden]]s, ein Tempel des Körpers und Geistes, wo aus auserwählten Kriegern lebende Waffen geformt werden. Magie und Muskelkraft verschmelzen hier zu einer Disziplin, die in ganz Drakmora gefürchtet und verehrt wird.

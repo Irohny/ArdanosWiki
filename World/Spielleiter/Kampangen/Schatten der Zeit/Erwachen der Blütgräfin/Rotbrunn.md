@@ -1,4 +1,4 @@
-Fürstentum: Unbekannt (Wahrscheinlich Mariven Insel oder Bernsteinküste)
+Fürstentum: [[Mariven]], [[Bernsteinküste]]
 ![[Rotbrunn.jpeg|400]]
 Rotbrunn ist eine kleine, abgelegene Siedlung am Fuße des Blutfels, umgeben von dichten Wäldern und kargen Feldern. Die Häuser sind aus dunklem Holz und grobem Stein gebaut, ihre Dächer vom Wind und den Jahren gezeichnet. Ein alter Brunnen auf dem Marktplatz gibt der Stadt ihren Namen – sein Wasser schimmert bei bestimmten Lichtverhältnissen leicht rötlich.
 
@@ -7,17 +7,17 @@ Das Leben in Rotbrunn ist still und vorsichtig. Die Menschen sprechen leise, bes
 Denn dann, so sagen die Alten, trägt er mehr als nur Kälte mit sich.
 
 # Orte:
-- Taverne **Rotquell**
+- Gasthaus **Rotquell**
 	- Kleine Rustikale Unterkunft mit einfachen Betten und einem gemütlichen Schankraum
 - Friedhof
 	- Einige Gräber die frisch aufgeschüttet aussehen
-	- Einige Gräber die offen aussehen, als wenn sie gerade ausgegebraben wurden. An manchen liegen reste von Särgen herum
+	- Einige Gräber die offen aussehen, als wenn sie gerade ausgegraben wurden. An manchen liegen Reste von Särgen herum
 - Zentraler Brunnen Mittelpunkt der Stadt
 - Verlassenes Haus einer Vermissten (mit hinweisen auf das Herrenhaus)
-- Schmiede mit einem grummeligen Schied der gleubt, dass Wildschweine an allem Schuld sind
+- Schmiede mit einem grummeliegen Schmied der glaubt, dass Wildschweine an allem Schuld sind
 
 # NPCs:
-- Hargan Voss (Mensch) Wirt des Gausthauses
+- Hargan Voss (Mensch) Wirt des Gasthauses
 	- Seine Tochter (Marit) Verschwand vor Jahren am Blutfels
 - Elira (Elfin) Heilerin 
 	- moralischer Kompass, hat Angst vor den düsteren Geschichten

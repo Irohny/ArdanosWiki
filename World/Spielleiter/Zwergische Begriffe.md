@@ -1,3 +1,4 @@
+
 | Zwergisch | Deutsch                             | Kategorie         |
 | --------- | ----------------------------------- | ----------------- |
 | Khaz      | Halle, unterirdische Stadt          | Ort               |

@@ -1,0 +1,4 @@
+- Bergregion mit kleinen Klans ohne viel Einfluss auf die Politik in [[Drakmora]]. Die Klans leben in ihren Gebieten in den Tälern des Aschekamms.
+- Gebiet: Eisenzacken
+- Gebiet: Wolfsgrat
+- Gebiet: Drachenfels

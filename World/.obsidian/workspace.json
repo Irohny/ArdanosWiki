@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "1b76ec30e073a917",
+        "id": "e9142c046743fbdc",
         "type": "tabs",
         "children": [
           {
-            "id": "4881d0629ec309b0",
+            "id": "42668da7842fefef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Erzählung des Blutgräfin.md",
+                "file": "Spielleiter/Kampangen/Schatten der Zeit/Notizen/Kapitel 2 Session 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erzählung des Blutgräfin"
+              "title": "Kapitel 2 Session 3"
             }
           },
           {
-            "id": "ea9f846073750e76",
+            "id": "9e48690c0be26b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,37 +34,8 @@
               "icon": "lucide-file",
               "title": "Rotbrunn"
             }
-          },
-          {
-            "id": "51b91503e7491f30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Ruine auf dem Blutfels.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ruine auf dem Blutfels"
-            }
-          },
-          {
-            "id": "6a33b2133221ecfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bestiarium/Blutgräfin Bathory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blutgräfin Bathory"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Luminara.j",
+                "query": "tag:#Geral",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 272.5
   },
   "right": {
     "id": "b693fe0798ea280e",
@@ -185,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Spielleiter/Zwergische Begriffe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von Zwergische Begriffe"
             }
           }
         ],
@@ -209,56 +180,58 @@
       "canvas:Neuen Canvas erstellen": false,
       "daily-notes:Heutige Notiz öffnen": false,
       "templates:Vorlage einfügen": false,
-      "command-palette:Befehlspalette öffnen": false
+      "command-palette:Befehlspalette öffnen": false,
+      "karpathywiki:Ingest current file": false,
+      "karpathywiki:Query wiki": false
     }
   },
-  "active": "6a33b2133221ecfd",
+  "active": "42668da7842fefef",
   "lastOpenFiles": [
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Ruine auf dem Blutfels.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Erzählung des Blutgräfin.md",
-    "Bestiarium/Blutgräfin Bathory.md",
     "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Rotbrunn.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Befreiung der Gräfin.md",
-    "Kaiserreich/Elmrath/Orte/Luminara/Luminara.md",
-    "Kaiserreich/Mariven/Berndsteinkueste/Nebelhafen.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Notizen/Kapitel 2 Session 3.md",
+    "Spielleiter/Auf dem Weg/Wegbegegnungen.md",
+    "Spielleiter/Auf dem Weg/Wanderbühne.md",
+    "Spielleiter/Auf dem Weg/Spur des Bruders.md",
+    "Spielleiter/Auf dem Weg/Moor der Selbstlosen.md",
+    "Spielleiter/Auf dem Weg/Meine Brücke.md",
+    "Spielleiter/Auf dem Weg/Drei Klingen von Lysandria.md",
+    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Wellenhort.md",
+    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Bernruh.md",
+    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Bernsteinküste.md",
+    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Nebelhafen.md",
+    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Sonnenkliff.md",
+    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Tiravor.md",
+    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Vaelorin.md",
+    "Spielleiter/Eastereggs.md",
+    "Images/Maps/Nebelhafen.jpeg",
+    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Wurzelfurt.md",
+    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Dörfer.md",
+    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Lunareth der Sichelschrein.md",
+    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Sessions/Session 1.md",
+    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Der Packt des Hutmaches.md",
+    "Kaiserreich/Elmrath/Regionen/Immergrüner Hain/Immergrüner Hain.md",
+    "Spielleiter/Zwergische Begriffe.md",
+    "wiki/Welcome to Karpathy LLM Wiki.md",
+    "wiki",
+    "Kaiserreich/Vaylen/Vaylen.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Kreigsbereichte.md",
+    "Kaiserreich/Schwarzklamm/Regionen/Helmbrach-Massiv",
+    "Kaiserreich/Schwarzklamm/Regionen/Nordfels-Krone",
+    "Kaiserreich/Schwarzklamm/Regionen",
+    "Kaiserreich/Vaylen/Regionen",
+    "Kaiserreich/Mariven/Regionen",
+    "Kaiserreich/Elmrath/Regionen/Küste",
+    "Kaiserreich/Elmrath/Regionen/Immergrüner Hain",
+    "Kaiserreich/Elmrath/Regionen/Himmelshöfe",
+    "Kaiserreich/Elmrath/Regionen/Goldene Weite",
+    "Images/Maps/Rotbrunn.jpeg",
     "Images/Maps/Nebelhafen.jpg",
     "Images/Maps/Luminara.jpg",
-    "Kaiserreich/Ardanos.md",
-    "Spielleiter/Zwergische Begriffe.md",
-    "Kaiserreich/Schwarzklamm/Orte/Barazdur.md",
-    "Images/Maps/Ardanos.jpeg",
-    "Images/Maps/2023-12-lsb-00145_1_1_struth_christoph.afo.pdf",
-    "Kaiserreich/Mariven/Berndsteinkueste/Vaelorin.md",
-    "Images/Maps/Rotbrunn.jpeg",
-    "Images/Tokens/TokenGruhl.png",
-    "Images/Tokens/TokenBartholdy.png",
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Schattenstein.md",
-    "Images/Charackter/BatholdyVampir.png",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kriegssystem.md",
-    "Kaiserreich/Drakmora/Region Drakmora.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kreigsbereichte.md",
-    "Unbenannt.base",
     "Images/Maps/Drakmora_Runde2.png",
     "Images/Maps/Drakmora_Runde1.png",
-    "Images/Maps/SeewegeMariven.jpeg",
-    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Daniel Background.md",
-    "Kaiserreich/Mariven/Berndsteinkueste/Wellenhort.md",
-    "Kaiserreich/Mariven/AelVarin/Valmaaren.md",
-    "Kaiserreich/Aurenielische See.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Arc Siegel der Ströme.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kampangen Arcs.md",
-    "Kaiserreich/Mariven/AelVarin/Runanthis.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Das blaue Wrack/Azure Rune.md",
-    "Kaiserreich/Zeitmessung/Jahreszeiten/Zeit der Schatten.md",
-    "Kaiserreich/Geschichte/Geschichte/Luminara Sitz der Fürsten von Elmrath.md",
-    "Kaiserreich/Geschichte/Geschichte/Jahre der Asche und des Salzes.md",
-    "Unbenannt 1.base",
-    "Spielleiter/Kampangen/Schatten der Zeit/Nebelhafen",
-    "Spielleiter/Kampangen/Schatten der Zeit/Notizen",
-    "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 2",
-    "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1",
-    "Kaiserreich/Vaylen/Orte",
-    "Kaiserreich/Schwarzklamm/Orte",
-    "Kaiserreich/Elmrath/Orte/Luminara"
+    "Images/Maps/Ardanos.jpeg",
+    "Images/Charackter/BatholdyVampir.png",
+    "Luminara.jpeg",
+    "Images/Maps/Luminara.jpeg"
   ]
 }

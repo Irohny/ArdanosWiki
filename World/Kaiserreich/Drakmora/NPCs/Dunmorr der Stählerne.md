@@ -1,9 +1,3 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
-
 - **Rufname / Beiname:** Der Staehlerne
 - **Titel / Amt:** Fuerst von [[Drakmora]]
 - **Haus / Dynastie:**
