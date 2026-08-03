@@ -1,9 +1,9 @@
-**Rauben, Plündern, Entern und Versenken** – das ist das Gesetz der Gischtgeborenen. Ein **loser, aber tödlicher Verbund von Piraten**, angeführt vom gefürchteten **[[Blackwood Blake]]**, dessen Name in jedem Hafen nur geflüstert wird.  
+**Rauben, Plündern, Entern und Versenken** – das ist das Gesetz der [[Gischtgeborenen]]. Ein **loser, aber tödlicher Verbund von Piraten**, angeführt vom gefürchteten **[[Blackwood Blake]]**, dessen Name in jedem Hafen nur geflüstert wird.  
 Sie stehlen, was das Meer hergibt – **Gold, Waffen, Geheimnisse und Menschenleben** – und verkaufen ihre Beute an jeden, der zahlt, ganz gleich wie verdorben.
 
 Sie glauben, das Meer habe sie selbst geboren – und dass nur **Blutopfer die Gunst der Tiefe** sichern.
 
-### **Schiffe der Gischtgeborenen**
+### **Schiffe der [[Gischtgeborenen]]**
 
 - **[[Blood Pearl]]** – _Flagschiff Blakes; rot getrimmte Segel, schwer bewaffnet – ihr Anblick ist oft der letzte._
     

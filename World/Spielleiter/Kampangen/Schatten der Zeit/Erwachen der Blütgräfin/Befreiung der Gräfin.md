@@ -2,7 +2,7 @@
 ### Option 1:
 - Wenn die Gruppe durch die Wildniss streift finden sich verstümmelte Leichen - erst nur Tiere und später auch Menschen und Elfen
 - Nachts merken sie eine unheimliche kälte die nicht zu der Jahrszeit passt
-- Sie finden die Ruine auf dem Blutfels
+- Sie finden die [[Ruine auf dem Blutfels]]
 
 ### Option 2:
 -  Die Gruppe kommt in die Kleinstadt **[[Rotbrunn]]**
@@ -12,6 +12,6 @@
 - Die Gruppe wird gebeten das Problem zu untersuchen
 
 # Erkundung
-Die Gruppe sollte die Ruine des Herrenhauses erkunden. Sie berefreien Batholdy und Gnodomir wird von ihr Gebissen. Die Wunde lässt soll ihn langsam zum Daphnir mutieren lassen.
+Die Gruppe sollte die Ruine des Herrenhauses erkunden. Sie berefreien Batholdy und [[Gnodomir]] wird von ihr Gebissen. Die Wunde lässt soll ihn langsam zum Daphnir mutieren lassen.
 [[Ruine auf dem Blutfels]]
 

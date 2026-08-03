@@ -1,2 +1,2 @@
 - Fluss: Blutlauf
-- Straße: Urstraße
+- Straße: [[Urstraße]]

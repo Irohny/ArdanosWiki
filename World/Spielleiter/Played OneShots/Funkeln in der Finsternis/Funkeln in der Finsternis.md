@@ -25,9 +25,9 @@ Die **[[Khazul-Vuldur]]**, ein uraltes, von Zwergen in den Berg gehauenes Reich 
 ---
 ### **Konflikt / Antagonist:**
 
-Die Expedition hat tatsächlich das „Herz der Tiefe“ gefunden. Doch es ist ein **parasitärer Kristall**, der Lebewesen übernimmt, indem er sich in ihre Körper einnistet und langsam ihr Bewusstsein ersetzt. Die Expedition wurden entweder getötet oder übernommen – ihre Körper wandeln nun als „**Kristallträger**“ durch die Hallen.
+Die Expedition hat tatsächlich das „[[Herz der Tiefe]]“ gefunden. Doch es ist ein **parasitärer Kristall**, der Lebewesen übernimmt, indem er sich in ihre Körper einnistet und langsam ihr Bewusstsein ersetzt. Die Expedition wurden entweder getötet oder übernommen – ihre Körper wandeln nun als „**Kristallträger**“ durch die Hallen.
 
-**Das Herz selbst** ist das Gefängnis eines uralten Wesens aus dem Chaos der Schöpfung. Es besitzt rudimentäres Bewusstsein und „flüstert“ denen, die ihm zu nahe kommen.
+**Das Herz selbst** ist das Gefängnis eines uralten Wesens aus dem Chaos der [[Schöpfung]]. Es besitzt rudimentäres Bewusstsein und „flüstert“ denen, die ihm zu nahe kommen.
 
 ---
 
@@ -39,7 +39,7 @@ Die Expedition hat tatsächlich das „Herz der Tiefe“ gefunden. Doch es ist e
 ![[Suche der Werkstatt]]
 ## **3. Station: Die Schmiede von Caelumbran**
 ![[Werkstatt von Caelumbran]]
-## **4. Station: Kristallwald**
+## **4. Station: [[Kristallwald]]**
 ![[Kristallwald]]
 
 # 5. Station: Herzkammer

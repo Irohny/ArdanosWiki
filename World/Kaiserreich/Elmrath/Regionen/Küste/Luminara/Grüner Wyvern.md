@@ -5,8 +5,8 @@
 * Düster vergammel
 * Schwarzmarkt
 * Kapitel 1:
-	* Ort Spion Tiefling [[Glutherz Doppelzunge]] (Brief mit Waffenhandel)
-	* [[Kapitän Havoc]] Boxkampf
+	* Ort Spion Tiefling [[Glutherz Doppelzunge]] ([[Brief]] mit Waffenhandel)
+	* [[Kapitän Havoc]] [[Boxkampf]]
 
 ![[sl GrünerWyvern]]
 

@@ -1,7 +1,7 @@
 * Zielperson: [[Marktgraf Reodemus]]
 * Ranger auf der Empore
 * 2 Mönche mit Gift beim Rabenritual
-* Kleriker und Paladin im Untergrund, der die Wachen und die monster organisiert 
+* Kleriker und Paladin im Untergrund, der die Wachen und die [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|monster]] organisiert 
 
 ### Aufgaben Gruppe
 - **[[Vishuda]]** Berge das Armulett [[Träne der Sonne]] und übergebe es [[Zera die Flüsterin]]

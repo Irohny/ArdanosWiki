@@ -5,4 +5,4 @@ großer Hafen mit vielen großen und kleinen Handelschiffen
 * Fischer reden viel wenn der Tag lang ist und sie bezahlt werden
 * Händler haben Angst vor der [[Blood Pearl]] und der Priatengruppe um den [[Blackwood Blake]]
 * [[Blackwood Blake]] gefärdet den handel auf see mit seiner Priatengruppe
-* [[Kapitän Havoc]] liegt mit der Windhexe vor ort (NPC zum quatschen)
+* [[Kapitän Havoc]] liegt mit der [[Windhexe]] vor ort (NPC zum quatschen)

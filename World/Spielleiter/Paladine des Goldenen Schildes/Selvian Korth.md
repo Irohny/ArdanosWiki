@@ -1,6 +1,6 @@
 Er fand das Relikt in den tiefen im [[Immergrüner Hain]] im [[Nythariel, die Wurzel zwischen den Welten]].
 
-Eine uralte Stätte des Lichtes – eine **erste Quelle der Schöpfung**
+Eine uralte Stätte des Lichtes – eine **erste Quelle der [[Schöpfung]]**
 
 Er sah wie mächtig dieser Ort und das darin befindlicche Relikt, der der Sonnensamen war. Er erkannte, dass niemand außer ihm jemals von der existenz erfahren durfte, da die Macht die von diesem Samen ausgeht nicht nur Leben geben sondern auch unendlcih viele Leben nehmen könnte. So machte er sich auf den Weg zurück um die Mission als fehlschlag zu beenden.
 

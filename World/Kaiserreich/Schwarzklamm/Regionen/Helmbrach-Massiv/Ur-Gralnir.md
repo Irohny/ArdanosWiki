@@ -1,21 +1,21 @@
-> _„Aus Stein und Glut formte er das Leben. Aus dem Schlag seines Hammers entsprang der Strom. Wo Velgrin fließt, hallt [[Volgrin]]s Herz.“_  
-> — Inschrift über dem Tor von Ur-Gralnir
+> _„Aus Stein und Glut formte er das Leben. Aus dem Schlag seines Hammers entsprang der Strom. Wo [[Velgrin]] fließt, hallt [[Volgrin]]s Herz.“_  
+> — Inschrift über dem Tor von [[Ur-Gralnir]]
 
-Tief im nördlichen Abgrund der **[[Schwarze Klamm]]**, verborgen unter Schichten uralten Gesteins, liegt **Ur-Gralnir**, der erste und heiligste **Tempel [[Volgrin]]s**. Kein Sonnenstrahl erreicht diesen Ort, und doch leuchten die Hallen in warmem, bronzenem Glanz – erhellt vom ewigen Feuer in der Schmiede des Allhammers.
+Tief im nördlichen Abgrund der **[[Schwarze Klamm]]**, verborgen unter Schichten uralten Gesteins, liegt **[[Ur-Gralnir]]**, der erste und heiligste **Tempel [[Volgrin]]s**. Kein Sonnenstrahl erreicht diesen Ort, und doch leuchten die Hallen in warmem, bronzenem Glanz – erhellt vom ewigen Feuer in der Schmiede des Allhammers.
 
 Der Zugang erfolgt nur über einen einzigen, verborgenen Pfad: eine **heilige Treppe**, „die der Wind nie streift“, die sich von einem Zwergenkloster aus durch Jahrtausende alte Tunnel windet, geschützt durch Runen, Rätsel und uralte Wächter.
 ### **Architektur und Atmosphäre**
 
-Ur-Gralnir wurde nicht **erbaut**, sondern **aus dem Berg geschmiedet**, so glauben die Zwerge. Die gewaltigen Hallen wirken wie aus einem einzigen Erzblock geschlagen – kantig, monumental und in vollkommener Harmonie mit der Tiefe.  
+[[Ur-Gralnir]] wurde nicht **erbaut**, sondern **aus dem Berg geschmiedet**, so glauben die Zwerge. Die gewaltigen Hallen wirken wie aus einem einzigen Erzblock geschlagen – kantig, monumental und in vollkommener Harmonie mit der Tiefe.  
 Schmucklose Säulen tragen gewaltige Decken, Runenreliefs erzählen vom Weltenhammer, von Feuer und Formung, von Erschaffung und Ewigkeit.
 
 In der Mitte der Haupthalle liegt der **Amboss des Ursprunges** – ein massiver, schwarzglühender Block, aus dem der **[[Velgrin]] entspringt**. Kein Quell, kein Rinnsal – der Fluss tritt direkt aus dem Amboss hervor, als würde [[Volgrin]] selbst weiter schmieden und das Wasser sein Schweiß sein.
 
-Die Wasser des **Velgrim** in Ur-Gralnir sind anders als jene, die weiter talabwärts fließen: klar wie Glas und doch silbrig schimmernd, wirken sie fast schwerelos. Wer hineinsieht, sieht nicht nur sein Spiegelbild – sondern oft **Vergangenes, Zukünftiges, oder nie Geschehenes**.
+Die Wasser des **Velgrim** in [[Ur-Gralnir]] sind anders als jene, die weiter talabwärts fließen: klar wie Glas und doch silbrig schimmernd, wirken sie fast schwerelos. Wer hineinsieht, sieht nicht nur sein Spiegelbild – sondern oft **Vergangenes, Zukünftiges, oder nie Geschehenes**.
 
 **Propheten** unter den Zwergen sehen darin Zeichen der Götter. **Wächterpriester** trinken an bestimmten Tagen ein einziges Tropfenmaß, um Visionen über ihr Volk zu empfangen. Andere berichten, dass der Fluss **mit [[Volgrin]]s Stimme spricht**, wenn die Welt in Not ist.
 
-Ur-Gralnir ist **heiliger Boden**, unantastbar für Nicht-Zwerge, oft sogar für Zwerge selbst. Nur **Runenpriester**, **Hüter des Ambosses**, oder **Auserwählte mit reinem Herzen** dürfen ihn betreten. Der Tempel ist Pilgerziel, aber auch Prüfungsort – denn wer ihn betritt, spürt den Blick des Schöpfergottes selbst.
+[[Ur-Gralnir]] ist **heiliger Boden**, unantastbar für Nicht-Zwerge, oft sogar für Zwerge selbst. Nur **Runenpriester**, **Hüter des Ambosses**, oder **Auserwählte mit reinem Herzen** dürfen ihn betreten. Der Tempel ist Pilgerziel, aber auch Prüfungsort – denn wer ihn betritt, spürt den Blick des Schöpfergottes selbst.
 
 Einmal im Jahrhundert findet hier das **Hammerfest** statt, bei dem alle Clanführer zusammentreffen, um Rat zu halten – begleitet von Ritualen, Waffensegnungen und Lesungen aus der **Chronik des Erzhammers**.
 
@@ -27,7 +27,7 @@ Einmal im Jahrhundert findet hier das **Hammerfest** statt, bei dem alle Clanfü
     
 - Unter dem Tempel gibt es Gerüchte über eine **verlorene Kammer**, in der [[Volgrin]] einst mit anderen Göttern das „Erste Urteil“ über die Völker sprach.
     
-- Die Runenwand hinter dem Altar enthält angeblich einen **vergessenen Namen** – den wahren Namen des Velgrin, der seine Kontrolle ermöglichen könnte.
+- Die Runenwand hinter dem Altar enthält angeblich einen **vergessenen Namen** – den wahren Namen des [[Velgrin]], der seine Kontrolle ermöglichen könnte.
     
 - Der **Fluss fließt nicht bei jedem Besuch gleich** – in manchen Nächten ruht er, in anderen schlägt er gegen die Steine wie ein Herz im Zorn.
 
@@ -77,6 +77,6 @@ Einmal im Jahrhundert findet hier das **Hammerfest** statt, bei dem alle Clanfü
     
 - **Beschreibung**: Begeistert von alten Schriften, träumt von Abenteuern. Schreibt ständig mit.
     
-- **Motivation**: Will „die Geschichte neu schreiben“ – glaubt, dass etwas mit Ur-Gralnir nicht stimmt.
+- **Motivation**: Will „die Geschichte neu schreiben“ – glaubt, dass etwas mit [[Ur-Gralnir]] nicht stimmt.
     
 - **Plotfunktion**: Hat möglicherweise versehentlich ein uraltes Ritual aktiviert oder Hinweise auf eine Verschwörung entdeckt.

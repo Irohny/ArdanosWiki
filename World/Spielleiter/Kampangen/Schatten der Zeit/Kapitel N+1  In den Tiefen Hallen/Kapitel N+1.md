@@ -9,7 +9,7 @@ Je tiefer die Gruppe in die tiefen Hallen eintaucht, desto schwächer wird der K
 
 ### 🎯 **Ziel der Mission (Mögliche Aufhänger)**
 
-- Die Gruppe wurde vom **Hochkönig der Schwarzklamm** beauftragt, ein altes **Artefakt** oder **verlorenes Wissen** aus den tiefsten Ebenen zurückzubringen.
+- Die Gruppe wurde vom **Hochkönig der [[Schwarzklamm]]** beauftragt, ein altes **Artefakt** oder **verlorenes Wissen** aus den tiefsten Ebenen zurückzubringen.
     
 - Oder: Die tiefen Hallen sind Ausgangspunkt **unerklärlicher seismischer Erschütterungen** oder **dämonischer Einflüsse**, die die Region bedrohen.
     
@@ -48,7 +48,7 @@ Je tiefer die Gruppe in die tiefen Hallen eintaucht, desto schwächer wird der K
 
 ---
 
-### 📚 **Ablauf der Session**
+### 📚 **Ablauf der [[Spielleiter/OneShots/Finale Arc 0/session|Session]]**
 
 #### **I. Einstieg: Der Abstieg**
 
@@ -81,7 +81,7 @@ Je tiefer die Gruppe in die tiefen Hallen eintaucht, desto schwächer wird der K
     - Entscheidungsmöglichkeiten, z. B.: "Verliere einen Zauberplatz, um der Vision zu widerstehen" – oder "Gewinne temporäre Macht mit Konsequenzen".
         
 
-#### **IV. Finales Heiligtum**
+#### **IV. Finales [[Heiligtum]]**
 
 - Die Gruppe erreicht eine gigantische Halle: dort steht ein **verfallener Altar** mit einem dunklen Spiegel oder Obelisken.
     

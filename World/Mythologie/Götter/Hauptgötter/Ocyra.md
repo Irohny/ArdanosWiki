@@ -4,7 +4,7 @@ Gesinnung: Neutral
 
 ![[Symbol Ocyra.png|200]]
 
-Ocyra herrscht über die **Meere, Gezeiten und Stürme**. Sie ist die unbarmherzige Beschützerin der Ozeane: Wer die Naturgewalten missachtet, wird von ihr in **Sturm und Flut** bestraft, doch jene, die die Meere ehren, können auf ihren Schutz zählen. Ebbe und Flut symbolisieren ihre Kontrolle über **Leben, Tod und Wandel**, während Stürme Ausdruck ihres Zorns oder ihrer Freude sind.
+[[Ocyra]] herrscht über die **Meere, Gezeiten und Stürme**. Sie ist die unbarmherzige Beschützerin der Ozeane: Wer die Naturgewalten missachtet, wird von ihr in **Sturm und Flut** bestraft, doch jene, die die Meere ehren, können auf ihren Schutz zählen. Ebbe und Flut symbolisieren ihre Kontrolle über **Leben, Tod und Wandel**, während Stürme Ausdruck ihres Zorns oder ihrer Freude sind.
 
 **Bedeutung in den Fürstentümern:**
 - In **[[Mariven]]** (Handel & Seehandel) ist sie eine der meistverehrten Gottheiten. Tempel und Schreine zu ihren Ehren stehen in den großen Hafenstädten.

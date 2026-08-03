@@ -1,4 +1,4 @@
-### **Skill-Challenge: Navigieren durch den Kristallwald**
+### **Skill-Challenge: Navigieren durch den [[Kristallwald]]**
 
 **Ziel:** 3 Erfolge vor 2 Fehlschlägen (DC 13–16, je nach Situation)
 
@@ -15,7 +15,7 @@ Die Gruppe muss gemeinsam den richtigen Weg durch das labyrinthartige Kristallfe
     - Um magische Illusionsmuster zu erkennen, die Erinnerungen manipulieren und Spiegelbilder der Realität formen.
     
 - ***Nachforschung (SG 14)**
-	- Hinter einem lichtbrechenden Schleier aus Glasadern, findet die Gruppe eine weitere Leiche:  **Thramli Eisenzeichen**
+	- Hinter einem lichtbrechenden Schleier aus Glasadern, findet die Gruppe eine weitere Leiche:  **[[Thramli Eisenzeichen]]**
 		- Seine Rüstung ist durchbohrt von Kristallsplittern, doch sein Gesicht zeigt einen Ausdruck völliger Verwirrung – als hätte er gegen sich selbst gekämpft.
 		- In seiner Hand hält er ein zersplittertes Medaillon der Expedition.
 		- In seinem Rucksack: 2W4+2 Heiltränke

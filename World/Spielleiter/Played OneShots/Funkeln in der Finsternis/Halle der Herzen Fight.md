@@ -1,6 +1,6 @@
 ### **Bosskampf: Die Stimme des Herzens**
 
-Aus dem Schatten vor dem Altar erhebt sich ein verformter Körper – einst **Brakk Eisenfaust**, ein Halbork und Mitglied der Expedition. Nun jedoch nur noch ein Schatten seiner selbst:
+Aus dem Schatten vor dem Altar erhebt sich ein verformter Körper – einst **[[Brakk Eisenfaust]]**, ein Halbork und Mitglied der Expedition. Nun jedoch nur noch ein Schatten seiner selbst:
 
 - Kristalladern durchziehen seine Haut wie leuchtende Parasiten.
     

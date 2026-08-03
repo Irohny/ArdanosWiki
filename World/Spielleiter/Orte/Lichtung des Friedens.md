@@ -1,10 +1,10 @@
-# Lichtung des Friedens (Narnia)
+# [[Lichtung des Friedens]] (Narnia)
 
 ## Ort 
 Eine wunderschöne kleine Waldlicht. Dieser Ort strahlt einen Frieden aus, dass alle kurz stehen bleiben.
 
 ## Besonderheiten
-Je länger die Spieler an diesen Ort verweilen desto mehr vergessen sie ihre Vergangenheit
+Je länger die [[Spieler]] an diesen Ort verweilen desto mehr vergessen sie ihre Vergangenheit
 und wolle nie wieder hier weg.
 
 ## Background

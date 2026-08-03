@@ -1,7 +1,7 @@
 
 Ein loser Zusammenschluss von Gauklern, Narren, Musikanten, Geschichtenerzählern, Taschenspielern und Glücksrittern. Von außen wirken sie wie harmlose, bunte Wandertruppen, die von Dorf zu Dorf ziehen. Doch hinter den flatternden Fahnen und der Musik verbirgt sich ein **geheimer Kodex** und ein enges Band, das alle Mitglieder miteinander verbindet
 
-- Das Bunte Band ist **keine Gilde im klassischen Sinn**, sondern eine **Bruderschaft**, die sich über Generationen durch mündliche Überlieferung weitergegeben hat.
+- [[Das Bunte Band]] ist **keine Gilde im klassischen Sinn**, sondern eine **Bruderschaft**, die sich über Generationen durch mündliche Überlieferung weitergegeben hat.
     
 - Der Name bezieht sich sowohl auf die **farbigen Bänder**, die jedes Mitglied trägt, als auch auf das **unsichtbare Band**, das die Spielleute aneinanderbindet.
     
@@ -47,7 +47,7 @@ Gemeinsam sind wir stark, und keiner bleibt allein.
 
 So schwören wir es, bei Lied und Feuer,  
 bei Maske und Wein:  
-Wir sind das Bunte Band,  
+Wir sind [[das Bunte Band]],  
 und frei wie der Wind soll unser Bund sein.“
 
 ---

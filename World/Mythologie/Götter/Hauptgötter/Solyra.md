@@ -2,17 +2,17 @@
 Domäne: Licht & Leben
 Gesinnung: Neutral, Gut
 ![[Symbol Sylara.png|200]]
-Solyra ist die **Gottin der Sonne, des Lichts und der Heilung**. Sie wird von Heilern, Bauern und jenen verehrt, die Gerechtigkeit und Schutz suchen. Viele **Paladine und Kleriker** sind ihr geweiht und kämpfen gegen das Böse in ihrem Namen.
+[[Solyra]] ist die **Gottin der Sonne, des Lichts und der Heilung**. Sie wird von Heilern, Bauern und jenen verehrt, die Gerechtigkeit und Schutz suchen. Viele **Paladine und Kleriker** sind ihr geweiht und kämpfen gegen das Böse in ihrem Namen.
 
 **Bedeutung in den Fürstentümern:**
 
 - In **[[Elmrath]]** ist sie der Hauptgott der Bauern und Landarbeiter. Ihre Priester segnen die Ernten und bitten um gutes Wetter.
-- In **[[Schwarzklamm]]** wird er von **Kriegern und Schmieden** verehrt, da das Licht der Schmiedefeuer als Symbol seiner Kraft gesehen wird.
+- In **[[Schwarzklamm]]** wird er von **Kriegern und Schmieden** verehrt, da das Licht der [[Schmiedefeuer]] als Symbol seiner Kraft gesehen wird.
 - In **[[Drakmora]]** ist sie weniger zentral, wird aber von einigen als Gegengewicht zu den dunkleren Mächten akzeptiert.
 
 **Titel:**
 - Lebensbringerin
-- Immerlicht
+- [[Immerlicht]]
 - Hoffnungsschimmer
 
 **Boten:**

@@ -11,7 +11,7 @@ Liegt auf dem Altar im tiefsten Punkt der [[Khazul-Vuldur]] in der [[Schwarzklam
 ### Fluch der Blutgier
 Wenn der Dolch im Kampf gezogen wird muss er min. 3 Trefferpunkte aufnehmen (6 austeilen), damit seine Blutgier gestillt wird. Ansonsten kann der Nutzende den Dolch nicht aus der Hand legen.
 
-Wenn der Dolch lange kein Blut bekommen hat, hört der Besitzer Stimmen, die Blut fordern und den Spieler auffordern zu morden. Die Stimmen werden immer lauter und treiben den Spieler in den Wahnsinn. Dies geht so lange bis der Dolch wieder neues Blut bekommen hat.
+Wenn der Dolch lange kein Blut bekommen hat, hört der Besitzer Stimmen, die Blut fordern und den [[Spieler]] auffordern zu morden. Die Stimmen werden immer lauter und treiben den [[Spieler]] in den Wahnsinn. Dies geht so lange bis der Dolch wieder neues Blut bekommen hat.
 
 ### Geschichte
 Es heißt, dass dieser Dolch einst einem Vampierlord gehörte, der für seine Brutalität bekannt war. Im letzten Kampf, in dem eine furchtlos Abenteuergruppe den Lord besiegten wurde der Geist des Vampirs an diesen Dolch gebannt. Seit dem ist dieser Dolch verflucht und treibt seine Besitzer in den Wahnsinn.

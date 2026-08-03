@@ -1,7 +1,7 @@
 ![[Wappen der Liga des Wahren Mets.png|200]]
-Die **Liga des wahren Mets** ist ein traditionsreicher Bund von Braumeistern, Metbrennern und Hütern alter Gärgeheimnisse. Ihre Mitglieder schwören auf Reinheit, Handwerkskunst und die „wahre Essenz“ des Mets – unverfälscht, heilig und von den Göttern der Fülle gesegnet.  
+Die **[[Liga des wahren Mets]]** ist ein traditionsreicher Bund von Braumeistern, Metbrennern und Hütern alter Gärgeheimnisse. Ihre Mitglieder schwören auf Reinheit, Handwerkskunst und die „wahre Essenz“ des Mets – unverfälscht, heilig und von den Göttern der Fülle gesegnet.  
 
-Gegründet von **Baldur Hopfengold** und **Bims Batzinger**, hat sich die Liga über Jahrhunderte hinweg in allen Fürstentümern des Kaiserreiches etabliert. Heute gilt sie nicht nur als Gilde der Metbrauer, sondern auch als **politische Kraft** mit Einfluss an Fürstenhöfen, in Handelsstädten und sogar bei religiösen Zeremonien.  
+Gegründet von **[[Baldur Hopfengold]]** und **[[Bims Batzinger]]**, hat sich die Liga über Jahrhunderte hinweg in allen Fürstentümern des Kaiserreiches etabliert. Heute gilt sie nicht nur als Gilde der Metbrauer, sondern auch als **politische Kraft** mit Einfluss an Fürstenhöfen, in Handelsstädten und sogar bei religiösen Zeremonien.  
 
 ## 🎭 Merkmale der Organisation
 - **Symbol:** Ein goldener Metkrug, umrankt von Hopfenranken.  
@@ -18,9 +18,9 @@ Gegründet von **Baldur Hopfengold** und **Bims Batzinger**, hat sich die Liga �
 
 ---
 
-> _„Ein Krug Met kann Freundschaft schließen, ein Fass Met kann einen Krieg beenden.“_ – Baldur Hopfengold  
+> _„Ein Krug Met kann Freundschaft schließen, ein Fass Met kann einen Krieg beenden.“_ – [[Baldur Hopfengold]]  
 
-# 🍯 Ränge der Liga des wahren Mets
+# 🍯 Ränge der [[Liga des wahren Mets]]
 
 ## Lehrlinge & Neulinge
 - **Honigkoster** – frisch aufgenommen, muss die Qualität des Mets kosten und die Fässer bewachen.  
@@ -46,10 +46,10 @@ Gegründet von **Baldur Hopfengold** und **Bims Batzinger**, hat sich die Liga �
 > _„Man steigt in der Liga nicht nur mit Können auf, sondern auch mit Schlücken.“_  
 
 ## Das Rezept des Skaldentrunks
-Die Liga bewahrt das Wissen um ein uraltes Metrezept, das nur als **„Trank der wahren Stimme“** oder im Volksmund **Skaldentrunk** bekannt ist.  
+Die Liga bewahrt das Wissen um ein uraltes Metrezept, das nur als **„Trank der wahren Stimme“** oder im Volksmund **[[Skaldentrunk]]** bekannt ist.  
 Dieser Met soll den Trinkenden für kurze Zeit mit der Macht der Worte und der Wahrheit erfüllen – Legenden sagen, dass selbst Könige ganze Kriege beenden mussten, wenn ein Dichter unter dem Einfluss des Skaldentrunks sprach.  
 
-- **Wirkung (Legende):** Wer den Skaldentrunk trinkt, erhält für 1 Stunde eine Stimme, die durch alle Lügen schneidet und die Herzen der Zuhörer unvermeidlich berührt.  
+- **Wirkung (Legende):** Wer den [[Skaldentrunk]] trinkt, erhält für 1 Stunde eine Stimme, die durch alle Lügen schneidet und die Herzen der Zuhörer unvermeidlich berührt.  
 - **Nebenwirkung:** Die Wahrheit verlangt einen Preis – der Trinker spricht in dieser Zeit **ausschließlich die Wahrheit** (und muss alles, was er sagt, frei heraus offenbaren).  
 
 ---
@@ -57,8 +57,8 @@ Dieser Met soll den Trinkenden für kurze Zeit mit der Macht der Worte und der W
 ## Gefahren & Intrigen
 - Viele Fürsten und Höflinge ahnen, dass die Liga ein besonderes Geheimnis hütet – aber kaum jemand kennt das Ausmaß.  
 - Alchemisten und Spione wollen das Rezept rauben, um Redner, Könige oder gar Dämonen mit der Macht des Skaldentrunks zu beherrschen.  
-- Der Skaldentrunk wirkt nur, wenn er nach uralten Riten gebraut und in heiligen Fässern aus dem Holz der ersten Met-Eiche gelagert wird.  
+- Der [[Skaldentrunk]] wirkt nur, wenn er nach uralten Riten gebraut und in heiligen Fässern aus dem Holz der ersten Met-Eiche gelagert wird.  
 
 ---
 
-> _„Einen Skaldentrunk reicht man nicht aus Höflichkeit – sondern nur, wenn man will, dass die Welt sich verändert.“_
+> _„Einen [[Skaldentrunk]] reicht man nicht aus Höflichkeit – sondern nur, wenn man will, dass die Welt sich verändert.“_

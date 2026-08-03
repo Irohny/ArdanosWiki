@@ -25,4 +25,4 @@ Ein halb eingestürzter Lagerraum mit verrosteten Werkzeugen und alten Kisten.
 Ein halbmechanisches, halborganisches Konstrukt – schwebendes Auge mit Kristallkern, aus dem dünne Tentakel mit Sensoren wachsen. Es patrouilliert stumm.
 - Bei Entdeckung: _Stealth vs. Passive Perception 14_
 - Bei Kampf: Blendblitz (DC 13 Con Save vs. Blind), dann Flucht.
-- Kann Nachrichten an das **Herz der Tiefe** weiterleiten (macht spätere Kämpfe schwerer, wenn nicht gestoppt).
+- Kann [[Nachrichten]] an das **[[Herz der Tiefe]]** weiterleiten (macht spätere Kämpfe schwerer, wenn nicht gestoppt).

@@ -66,6 +66,6 @@ Versunkene Marktplätze zeichnen sich unter der Oberfläche ab.
 
 Die Spitzen längst vergessener Türme durchbrechen gelegentlich die Wellen.
 
-Die meisten Marivenier meiden diese Orte aus Ehrfurcht oder Furcht.
+Die meisten Marivenier meiden diese Orte aus Ehrfurcht oder [[Furcht]].
 
 Doch Gelehrte, Schatzsucher und Abenteurer zieht es immer wieder in die Tiefen der versunkenen Stadt – auf der Suche nach verlorenen Schätzen, uraltem Wissen und der Wahrheit über den Untergang Runathis.

@@ -14,7 +14,7 @@ Morgran erkennt sofort die **große Macht der Kette**. Sie ist nicht nur ein Rel
 
 ### 2. Die Vision der Gefahr
 Als er die Kette berührt, bekommt Morgran **eine Vision**:
-- Eine dunkle Macht – **Ephazul** – liegt gefangen, aber sehr intelligent und manipulierend
+- Eine dunkle Macht – **[[Ephazul]]** – liegt gefangen, aber sehr intelligent und manipulierend
 - Wer die Kette missbraucht oder ihre Macht falsch einsetzt, könnte **die Welt ins Chaos stürzen**
 - Mächtige Individuen werden kommen, um die Kette zu stehlen und die Siegel zu brechen
 

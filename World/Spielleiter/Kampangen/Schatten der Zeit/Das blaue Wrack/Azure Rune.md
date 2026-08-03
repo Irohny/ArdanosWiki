@@ -1,5 +1,5 @@
 ![[AzureRune.png|300]]
-Die _Azure Rune_ war einst das stolze Flaggschiff der [[Goldene Armada]], ein Meisterwerk magischer und handwerklicher Kunst aus dem zweiten Zeitalter. Kein anderes Schiff verband so nahtlos nautische Eleganz mit arkane Macht.
+Die _Azure Rune_ war einst das stolze Flaggschiff der [[Goldene Armada]], ein Meisterwerk magischer und handwerklicher Kunst aus dem zweiten [[Zeitalter]]. Kein anderes Schiff verband so nahtlos nautische Eleganz mit arkane Macht.
 
 Ein massives Dreimastschiff aus azurblauem Holz. Der Rumpf schimmerte wie ruhiges Wasser im Abendlicht, während runenverzierte Planken bei Nacht ein leises, silbriges Leuchten ausstrahlten.
 
@@ -24,4 +24,4 @@ Sie leitet das Schiff durch Sturm, Magie und Dunkelheit. Wenn Gefahr naht, soll 
 
 ### 📖 **Mythische Aura**
 
-Viele Seeleute schworen, die _Azure Rune_ habe ihren eigenen Willen gehabt. Sie sei **Candamirs zweite Seele** gewesen – stets wachsam, stets bereit, über Mariven zu wachen. Nach dem Untergang wurde das Schiff **zu einer Legende** – und seine Galleonsfigur zu einem Symbol des Widerstands gegen die Valynische Zeitmagie.
+Viele Seeleute schworen, die _Azure Rune_ habe ihren eigenen Willen gehabt. Sie sei **Candamirs zweite Seele** gewesen – stets wachsam, stets bereit, über [[Mariven]] zu wachen. Nach dem Untergang wurde das Schiff **zu einer Legende** – und seine Galleonsfigur zu einem Symbol des Widerstands gegen die Valynische Zeitmagie.

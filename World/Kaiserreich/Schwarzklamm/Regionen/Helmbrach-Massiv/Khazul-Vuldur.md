@@ -2,7 +2,7 @@ Zwergisch: Alte Halle im tiefen Stein
 ## **Die Tiefen Hallen – Die vergessene Schmiede der Dunkelheit**
 
 **Ort:** Unter dem Gebirge der [[Schwarzklamm]]  
-**Zeitalter:** Erstnennung 412 n.d.D, 1. Zeitalter, unbewohnt ab ca. 1698 n.d.D  
+**[[Zeitalter]]:** Erstnennung 412 n.d.D, 1. [[Zeitalter]], unbewohnt ab ca. 1698 n.d.D  
 **Aktueller Zustand:** Teilweise wiederbesiedelt, größtenteils jedoch verdorben und gefährlich
 ![[TiefeHallen.png|300]]
 
@@ -13,7 +13,7 @@ Zwergisch: Alte Halle im tiefen Stein
 Die Tiefen Hallen waren einst das Kronjuwel des **ersten Zwergenreichs** – eine unterirdische Stadt voller Pracht, Macht und Mysterien.  
 Heute ist ihr oberstes Drittel **im Wiederaufbau**, während der Rest tief in der Dunkelheit dämonisch verdorben liegt.
 
-Die Atmosphäre wechselt abrupt mit jeder Ebene: Oben erklingen Hämmer und Gesänge, tiefer unten nur das Flüstern alter Flüche und das Echo von vergessenen Schreien.
+Die Atmosphäre wechselt abrupt mit jeder Ebene: Oben erklingen Hämmer und Gesänge, tiefer unten nur das Flüstern alter Flüche und das [[Echo]] von vergessenen Schreien.
 
 ---
 
@@ -49,7 +49,7 @@ Die Tiefen Hallen liegen verborgen hinter einem gewaltigen Steintor, das mit Run
 Auf einer versteckten Felswand sind 4 Reliefs in drei Reihen abgebildet.
 1. **Oben:** Ein Zwergenschmied mit rußgeschwärztem Gesicht steht inmitten einer lodernden Schmiede. Über ihm bäumt sich eine gewaltige Flammenbestie auf, doch der Schmied hebt seinen Hammer, aus dessen Schlag Funken wie Sterne regnen.
    ![[Feuerrelief.png|150]]
-2. **Mitte Links:** Eine Zwergenpriesterin schaut in ein unterirdisches Becken, während um sie herum Geister in Wasserspiegelungen erscheinen. Eine Träne fällt von ihrer Wange und wird zu einem glühenden Tropfen auf der Wasseroberfläche.
+2. **Mitte [[Links]]:** Eine Zwergenpriesterin schaut in ein unterirdisches Becken, während um sie herum Geister in Wasserspiegelungen erscheinen. Eine Träne fällt von ihrer Wange und wird zu einem glühenden Tropfen auf der Wasseroberfläche.
    ![[Wasserrelief.png|150]]
 3. **Mitte Rechts:** Ein junger Zwergenkrieger steht am Rand eines Felsvorsprungs, den Wind in seinem Haar. Um ihn tanzen spiralförmig gezeichnete Linien, in denen Gesichter erscheinen – Erinnerungen, Stimmen, alte Warnungen. Seine Hand greift in den Wind und formt ein Zeichen aus Luft.
    ![[Windrelief.png|150]]
@@ -57,7 +57,7 @@ Auf einer versteckten Felswand sind 4 Reliefs in drei Reihen abgebildet.
 	![[Erderelief.png|150]]
 
 In der Mitte zwischen den Bildern sind 4 Ringe mit Runen zu erkennen. Die Ringe lassen sich in der steinernen Fassade drehen. Die Runen sind alte zwergische Runen die heute nicht mehr verwendet werden:
- 1. **Links:** KAZRÛN, Glut, Zorn, Schmiedefeuer
- 2. **Mitte Links:** ULMIR, Tiefe, Erinnerung, Fluss
+ 1. **[[Links]]:** KAZRÛN, Glut, Zorn, [[Schmiedefeuer]]
+ 2. **Mitte [[Links]]:** ULMIR, Tiefe, Erinnerung, Fluss
  3. **Mitte Rechts:** VHAROK, Wind, Stimme, Unsichtbares
  4. **Rechts:** THÛMRAL, Stein, Ewigkeit, Grundlage

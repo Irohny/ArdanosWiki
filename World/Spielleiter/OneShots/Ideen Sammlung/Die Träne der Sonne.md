@@ -12,7 +12,7 @@ Die Gruppe wird von den Ältesten der [[Himmelshöfe]] gerufen: Die **_[[Träne 
 
 ---
 
-### 🧩 **Struktur der Session**
+### 🧩 **Struktur der [[Spielleiter/OneShots/Finale Arc 0/session|Session]]**
 
 **Dauer:** 3–5 Stunden  
 **Empfohlenes Level:** 7–10  
@@ -23,7 +23,7 @@ Die Gruppe wird von den Ältesten der [[Himmelshöfe]] gerufen: Die **_[[Träne 
 
 ### ⚔️ **Akt 1 – Die Zeichen des Feuers**
 
-- Die Helden reisen durch die Himmelshöfe zum Vulkan.
+- Die Helden reisen durch die [[Himmelshöfe]] zum Vulkan.
     
 - Erste Hinweise: verbrannte Tiere, aufgewärmte Steine, feurige Visionen beim Tragen der _Träne der Sonne_.
     
@@ -74,4 +74,4 @@ Die Gruppe wird von den Ältesten der [[Himmelshöfe]] gerufen: Die **_[[Träne 
     
 - Der Vulkan beruhigt sich – für jetzt.
     
-- Ruhm in den Chroniken von Elmrath, Ehrenplatz in den Himmelshöfen
+- Ruhm in den Chroniken von [[Elmrath]], Ehrenplatz in den Himmelshöfen

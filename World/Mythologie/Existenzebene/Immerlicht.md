@@ -1,10 +1,10 @@
 **Ebene von [[Solyra]] – Göttin der Sonne und des Lebens**
 
-Das **Immerlicht** ist eine strahlende Sphäre aus goldenem Licht, ewiger Sonne und funkelnden Himmeln.
+Das **[[Immerlicht]]** ist eine strahlende Sphäre aus goldenem Licht, ewiger Sonne und funkelnden Himmeln.
 - Die Landschaften glühen in warmen Farben, Wiesen, goldene Wälder und glitzernde Flüsse prägen die Ebene.
 - Hier manifestiert sich das reine **Leben**: Heilung, Wachstum und Inspiration fließen frei.
 - Zeit und Raum scheinen weich zu sein; Wesen fühlen sich gestärkt, friedlich und erleuchtet.
-- Pilger und Sterbliche beten hier für **Heilung, Lebensenergie und göttliche Führung**.
+- Pilger und Sterbliche beten hier für **Heilung, Lebensenergie und [[göttliche Führung]]**.
 - Die Ebene dient als **Ursprung der Sonne und des Lichts**, das in die Sterbliche Welt fällt.
 
 #### Weiter Orte:

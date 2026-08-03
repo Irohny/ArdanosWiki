@@ -1,6 +1,6 @@
 ![[Melora_Tempel.png|300]]
 
-Im Herzen Verethias erhebt sich der gewaltige **Tempel der [[Ocyra]]**, Göttin des Meeres, der Stürme und der natürlichen Ordnung. Der Tempel ist zugleich Heiligtum, Flottensegenstätte und Zentrum spiritueller Macht.
+Im Herzen Verethias erhebt sich der gewaltige **Tempel der [[Ocyra]]**, Göttin des Meeres, der Stürme und der natürlichen Ordnung. Der Tempel ist zugleich [[Heiligtum]], Flottensegenstätte und Zentrum spiritueller Macht.
 
 - Seine Kuppel ist aus türkisfarbenem Glas, das im Sonnenlicht wie Wasser glänzt.
     

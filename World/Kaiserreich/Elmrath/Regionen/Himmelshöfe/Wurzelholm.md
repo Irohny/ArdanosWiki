@@ -1,7 +1,7 @@
 ![[Wurzelholm.png|300]]
 „Tief verwurzelt, stets willkommen.“
 
-Versteckt zwischen sanften Hügeln, goldgrünem Weizen und blühenden Apfelbäumen liegt das idyllische Dorf **Wurzelholm**, ein kleines Halblingdorf, das formell zur Grafschaft **[[Himmelshöfe]] von [[Elmrath]]** gehört – aber dessen Bewohner wenig Interesse an Politik, Abenteuern oder anderen seltsamen Dingen von außerhalb haben.
+Versteckt zwischen sanften Hügeln, goldgrünem Weizen und blühenden Apfelbäumen liegt das idyllische Dorf **[[Wurzelholm]]**, ein kleines Halblingdorf, das formell zur Grafschaft **[[Himmelshöfe]] von [[Elmrath]]** gehört – aber dessen Bewohner wenig Interesse an Politik, Abenteuern oder anderen seltsamen Dingen von außerhalb haben.
 
 Hier leben Halblinge in runden Erdhäusern, die in die Hänge der Hügel eingebettet sind, mit runden Türen, rauchenden Schornsteinen und Gärten voller Kürbisse, Kräuter und gelegentlich einer neugierigen Ziege. Das Gras ist saftig, die Zäune niedrig, und die Gastfreundschaft warm wie frischer Apfelkuchen.
 
@@ -11,7 +11,7 @@ Das Dorf wurde im Jahr 1973 n.d.D unter der Regenschaft von [[Naeryss Silven]] g
 
 ### **Bewohner & Familien**
 
-Wurzelholm ist eng verbunden mit traditionellen Halblingsfamilien, die seit Generationen hier leben. Besonders bekannt sind:
+[[Wurzelholm]] ist eng verbunden mit traditionellen Halblingsfamilien, die seit Generationen hier leben. Besonders bekannt sind:
 
 - **Familie Beutlin**, bekannt für ihre gepflegten Gärten und überpünktlichen Teerunden.
     
@@ -36,13 +36,13 @@ Wirtin **Mirabella Tuck**, eine spitzzüngige Halblingsdame mit einem Herz aus H
 
 ### **Besonderheiten in Wurzelgrund**
 
-- **Das Alte Steinrad** am Dorfrand soll einst Teil eines alten Weges von Elmrath gewesen sein – oder ein Mühlstein. Niemand weiß es genau.
+- **Das Alte Steinrad** am Dorfrand soll einst Teil eines alten Weges von [[Elmrath]] gewesen sein – oder ein Mühlstein. Niemand weiß es genau.
     
 - **Der Weg der Wildrosen**, ein kleiner, von Heckenrosen gesäumter Pfad führt zu einem verwachsenen Aussichtspunkt über das Tal. Dort sitzen oft junge Halblinge beim Träumen.
     
 - **Das große Frühlingstanzfest** ist das größte Ereignis des Jahres – mit Musik, Tanz und zu viel Erdbeerwein.
 
-### **Berühmte Bewohner von Wurzelholm**
+### **Berühmte Bewohner von [[Wurzelholm]]**
 
 |Name|Beschreibung|
 |---|---|

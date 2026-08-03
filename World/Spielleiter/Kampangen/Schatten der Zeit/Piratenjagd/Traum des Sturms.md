@@ -1,6 +1,6 @@
 Der Kleriker steht allein auf einer endlosen Wasserfläche. Kein Ufer in Sicht. Der Himmel über ihm ist grau wie Asche, reglos, ohne Sonne, ohne Schatten. Das Wasser spiegelt nicht – es ist wie flüssiges Glas.
 
-Plötzlich… ein **kalter Windstoß**.
+Plötzlich… ein **kalter [[Windstoß]]**.
 
 Ein ferner Klang – **eine Glocke**? Tief und dröhnend, als würde sie unter Wasser schlagen. Der Himmel beginnt zu reißen. Kein Donner – nur das leise Splittern von Himmelsschichten.
 

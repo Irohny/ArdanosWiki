@@ -1,6 +1,6 @@
 Ein abgelegener Pfad durch dichten Mischwald. Vögel sind verstummt. Die Dämmerung senkt sich langsam. Die Gruppe hört aus der Nähe lautes **Schluchzen** – kehlig, tief und gequält. Zwischendurch grollt eine Stimme, die wütend knurrt:
 
-> **„Meine Brücke… MEINE Brücke… war immer fair! IMMER ordentlich gezahlt! Niemand ist runtergefallen… WARUM?!“**
+> **„[[Meine Brücke]]… [[MEINE Brücke]]… war immer fair! IMMER ordentlich gezahlt! Niemand ist runtergefallen… WARUM?!“**
 
 ### 🧍 Die Szene:
 

@@ -5,8 +5,8 @@
 
 Die unteren Hallen bergen das Vermächtnis der **Zwerge, die zu tief gruben**. Sie entdeckten etwas Uraltes, das sie nicht verstehen konnten – vielleicht **ein Riss zwischen den Welten**, vielleicht ein Wesen, das dort gefangen war.
 
-**Reodemus** stieß im frühen 3. Zeitalter in diese Hallen vor und fand in der tiefsten Kammer – **der Kammer des Ewigen Altars** – einen Ort voller dämonischer Energie.  
-Dort schloss er seinen **Pakt mit Lyrithiel**, gebunden an Blut, Schatten und Zeit.
+**Reodemus** stieß im frühen 3. [[Zeitalter]] in diese Hallen vor und fand in der tiefsten Kammer – **der Kammer des Ewigen Altars** – einen Ort voller dämonischer Energie.  
+Dort schloss er seinen **Pakt mit [[Lyrithiel]]**, gebunden an Blut, Schatten und Zeit.
 
 Auf dem Altar liegt [[Mors Cerva]].
 
@@ -35,7 +35,7 @@ Auf dem Altar liegt [[Mors Cerva]].
     
 - Bewegliche Fallen, uralte Maschinen
     
-- **Monster:** Schattenwesen, Splittergolems, Flammengeister  
+- **[[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]]:** Schattenwesen, Splittergolems, Flammengeister  
     → **Rätsel:** Entziffere alte Schmiederezepte, um Zugänge zu öffnen
     
 
@@ -57,7 +57,7 @@ Auf dem Altar liegt [[Mors Cerva]].
     
 - Ort des Paktes von Reodemus  
     → **Bossfight:**  
-    **Champion von Lyrithiel**
+    **Champion von [[Lyrithiel]]**
     
 - Beschwört **Vrocks** und **Schattendämonen**
     
@@ -70,7 +70,7 @@ Auf dem Altar liegt [[Mors Cerva]].
 
 - Lichtzauber verlieren ab Ebene 3 massiv an Kraft
     
-- Der Kleriker hört Flüstern eines dunklen Gottes (Lyrithiel oder Diener)
+- Der Kleriker hört Flüstern eines dunklen Gottes ([[Lyrithiel]] oder Diener)
     
 - **Entscheidungsmoment**: Macht oder Treue  
     → Konsequenzen auf spätere Story

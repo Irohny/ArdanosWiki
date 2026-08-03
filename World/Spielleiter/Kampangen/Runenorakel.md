@@ -13,7 +13,7 @@
 | ᚾ        | Naudiz   | Not           | +1 AC <50% HP                                        | Bleib bei 1 HP statt 0 (Reaktion)                                                | [[Lyrithiel]] |
 | ᛁ        | Isa      | Eis           | -1,5m Bewegung bei Treffer für 3 Runden              | Ziel kann keine Reaktion nutzen 1min (Bonusaktion)                               | [[Ocyra]]     |
 | ᛃ        | Jera     | Ernte         | Stapelbonus: +1 Schaden pro Treffer in Reihe (max 3) | Lebenstransfer +1/2 des ausgeteilten Schadens des ersten Angriffes (Bonusaktion) | [[Sylvaldis]] |
-| ᛇ        | Eiwaz    | Eibe          | Vorteil auf Death Saves                              | Resistenz gegen 1 Schadenstyp (Bonusaktion)                                      | [[Erythra]]   |
+| ᛇ        | Eiwaz    | Eibe          | Vorteil auf Death Saves                              | [[Resistenz]] gegen 1 Schadenstyp (Bonusaktion)                                      | [[Erythra]]   |
 | ᛈ        | Perthro  | Schicksal     | 1x pro Tag Re-roll                                   | Gegner hat Nachteil auf Wurf                                                     | [[Erythra]]   |
 | ᛉ        | Algiz    | Schutz        | +1 AC                                                | +2 AC gegen einen Angriff (Reaktion)                                             | [[Volgrin]]   |
 | ᛊ        | Sowilo   | Sonne         | +1W4 Radiant                                         | Gegner geblendet bis Ende Zug (Bonusaktion)                                      | [[Solyra]]    |

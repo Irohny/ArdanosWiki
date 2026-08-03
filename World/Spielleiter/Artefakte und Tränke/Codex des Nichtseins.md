@@ -1,4 +1,4 @@
-Der **Codex des Nichtseins** ist ein uraltes, ketzerisches Werk, das nicht geschrieben, sondern _eingekerbt_ wurde – in Pergament, das wie aus versteinertem Schatten besteht. Seine Schriftzeichen wirken wie Risse in der Realität, die sich selbst im Auge des Lesers bewegen.
+Der **[[Codex des Nichtseins]]** ist ein uraltes, ketzerisches Werk, das nicht geschrieben, sondern _eingekerbt_ wurde – in Pergament, das wie aus versteinertem Schatten besteht. Seine Schriftzeichen wirken wie Risse in der Realität, die sich selbst im Auge des Lesers bewegen.
 
 ## Ursprung
 
@@ -19,4 +19,4 @@ Niemand weiß, wer den Codex zuerst verfasste. Legenden erzählen, er sei nicht 
     
 - Flüstern dringt aus den Seiten, als sprächen all jene, die ihre Namen darin verloren haben.
     
-- Manche glauben, der Codex sei selbst ein **Fragment von Ephazul**, der Vergessenen Tiefe, und dass jedes Lesen ein weiteres Tor zu ihm aufstößt.
+- Manche glauben, der Codex sei selbst ein **Fragment von [[Ephazul]]**, der Vergessenen Tiefe, und dass jedes Lesen ein weiteres Tor zu ihm aufstößt.

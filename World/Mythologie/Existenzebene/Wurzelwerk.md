@@ -23,4 +23,4 @@ Eine Bergkette, in der uralte Naturgeister und gewaltige Steinkreaturen schlafen
 ##### **Die Pilgerlichtung**
 Eine weite Lichtung mit einem alten Steinkreis. Druiden und Naturgeister versammeln sich hier, um die Zyklen von Jahreszeiten und Ernte zu feiern.
 ##### **Der Abgrund der verschlungenen Wurzeln**
-Ein riesiger Riss in der Erde, der von endlosen Wurzeln durchzogen ist. Manche dieser Wurzeln führen tief in andere Ebenen und gelten als **natürliche Übergänge der Schöpfung**.
+Ein riesiger Riss in der Erde, der von endlosen Wurzeln durchzogen ist. Manche dieser Wurzeln führen tief in andere Ebenen und gelten als **natürliche Übergänge der [[Schöpfung]]**.

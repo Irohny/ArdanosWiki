@@ -1,4 +1,4 @@
-Magie ist keine willkürliche Kraft, sondern ein **natürliches Geflecht**, das sich wie ein unsichtbares Netz durch die Welt zieht. Es durchdringt Stein, Luft, Fleisch, Wasser und Geist – ein **ursprüngliches Echo des Schöpfungswortes**, welches durch Runen, Rituale und Bindungen wieder hörbar gemacht werden kann.
+Magie ist keine willkürliche Kraft, sondern ein **natürliches Geflecht**, das sich wie ein unsichtbares Netz durch die Welt zieht. Es durchdringt Stein, Luft, Fleisch, Wasser und Geist – ein **ursprüngliches [[Echo]] des Schöpfungswortes**, welches durch Runen, Rituale und Bindungen wieder hörbar gemacht werden kann.
 
 ---
 
@@ -23,7 +23,7 @@ Magie ist keine willkürliche Kraft, sondern ein **natürliches Geflecht**, das 
 
 - **Klassen:** Magier, Zauberer, Runenmeister
     
-- **Magiequelle:** Die uralten **Runen der Schöpfung**, Fragmente des wahren Namens der Welt.
+- **Magiequelle:** Die uralten **Runen der [[Schöpfung]]**, Fragmente des wahren Namens der Welt.
     
 - **Wirkungsweise:** Durch **Studium, Formeln, Glyphen und Worte** aktivieren sie die Magie.
     

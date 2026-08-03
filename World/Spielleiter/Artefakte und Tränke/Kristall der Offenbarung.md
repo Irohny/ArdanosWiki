@@ -1,7 +1,7 @@
 ![[KristallDerOffenbarung.png|300]]
 _Artefakt (selten), benötigt Einstimmung durch einen Zauberwirker_
 
-Der **Kristall der Offenbarung** ist ein etwa faustgroßer Edelstein mit einem natürlichen Schimmer, der in seiner ruhenden Form tiefblau wie das offene Meer erscheint. Er wurde einst vom legendären Erzmagier **[[Tharion Veyl]]** erschaffen, einem Magier, der dem [[Orden der Klarheit]] vorstand und sein Leben der Aufdeckung von Täuschung und der Suche nach der einen Wahrheit widmete.
+Der **[[Kristall der Offenbarung]]** ist ein etwa faustgroßer Edelstein mit einem natürlichen Schimmer, der in seiner ruhenden Form tiefblau wie das offene Meer erscheint. Er wurde einst vom legendären Erzmagier **[[Tharion Veyl]]** erschaffen, einem Magier, der dem [[Orden der Klarheit]] vorstand und sein Leben der Aufdeckung von Täuschung und der Suche nach der einen Wahrheit widmete.
 
 Der Kristall ruht in einem filigranen silbernen Halterahmen, der wie ein gewebtes Netz aus Runen und magischen Linien wirkt. Er wird häufig an einem Gürtel, einem Stab oder als Anhänger getragen.
 

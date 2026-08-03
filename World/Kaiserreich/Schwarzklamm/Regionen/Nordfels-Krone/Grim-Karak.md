@@ -1,6 +1,6 @@
 Zwergisch:  Wachende Festung
 
-Grim-Karak ist eine massiv befestigte Zwergenfestung und das südliche Tor zum Khaz-Grimdur.  
+[[Grim-Karak]] ist eine massiv befestigte Zwergenfestung und das südliche Tor zum Khaz-Grimdur.  
 Sie dient als Handelskontrollpunkt zwischen der Oberfläche und den Tiefenwegen der Zwerge.  
 Große Warenlager, Zollhallen und Karawanenhöfe prägen das Bild der Anlage.
 

@@ -14,16 +14,16 @@ _Der letzte Schlag im Bürgerkrieg der Schwarzklamm_
 
 ### Geografie
 
-- **Helmbrach-Massiv**  
+- **[[Helmbrach-Massiv]]**  
     → Hochburg der **Schwarzschild-Allianz**  
-    → Hauptstadt **Dûm-Khadrak** fest in Durngars Hand  
+    → Hauptstadt **[[Dûm-Khadrak]]** fest in Durngars Hand  
     → Rebellenzellen in Dörfern, Minen, Randstädten
     
-- **Nebelsteppe**  
+- **[[Nebelsteppe]]**  
     → Weite, nebelverhangene Ebene  
     → gehört zum Königreich [[Vaylen]] die neutral sind und keine Truppen im land dulden
     
-- **Nordfels-Krone**  
+- **[[Nordfels-Krone]]**  
     → Vollständig unter Kontrolle der Rebellen  
     → **Eisenzinnen** als zentrale Festung & Kommandozentrum  
     → Schwer befestigt, jahrelang ausgebaut
@@ -56,7 +56,7 @@ _Helmbrach-Massiv | Politisch & verdeckt_
 
 - **Dûrak-Zûhl** (Bergstadt / Erzumschlagplatz)
     
-- **Dûm-Khadrak** (Hauptstadt)
+- **[[Dûm-Khadrak]]** (Hauptstadt)
     
 - **Tempel [[Volgrin]]s** (religiös & politisch brisant)
     
@@ -87,7 +87,7 @@ _Helmbrach-Massiv | Politisch & verdeckt_
 
 ---
 
-#### 2️⃣ Dûm-Khadrak – _„Stille in den Hallen“_
+#### 2️⃣ [[Dûm-Khadrak]] – _„Stille in den Hallen“_
 
 - Verschwörung im Verwaltungsapparat
     
@@ -150,7 +150,7 @@ Am Ende von Akt I erhält Schwarzschild:
 _Geheime Tunnel | Erkundung & Gefahren_
 
 **Ziel:**  
-Einen **verborgenen unterirdischen Verbindungsweg** zwischen Helmbrach-Massiv und Nordfels-Krone finden und sichern.
+Einen **verborgenen unterirdischen Verbindungsweg** zwischen [[Helmbrach-Massiv]] und [[Nordfels-Krone]] finden und sichern.
 
 > Ohne Tunnel: Frontalangriff = Massaker  
 > Mit Tunnel: Überraschung & Initiative
@@ -163,7 +163,7 @@ Einen **verborgenen unterirdischen Verbindungsweg** zwischen Helmbrach-Massiv un
     
 - Eingestürzte Schächte
     
-- Monster aus vergessenen Tiefen
+- [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]] aus vergessenen Tiefen
     
 - Alte Runensiegel
     
@@ -189,7 +189,7 @@ Einen **verborgenen unterirdischen Verbindungsweg** zwischen Helmbrach-Massiv un
     
 - Unterschiedliche Risiken:
     
-    - Monster
+    - [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]]
         
     - instabile Strukturen
         
@@ -266,7 +266,7 @@ _Wargame-Ansatz empfohlen_
     
     - Tunnel erfolgreich? → Überraschung
         
-    - Nebelsteppe offen? → Verluste
+    - [[Nebelsteppe]] offen? → Verluste
         
 2. **Erste Kollision**
     
@@ -299,7 +299,7 @@ _Wargame-Ansatz empfohlen_
 
 ### Einfluss der SC
 
-Die Spieler entscheiden:
+Die [[Spieler]] entscheiden:
 
 - Wo der Durchbruch erfolgt
     
@@ -314,9 +314,9 @@ Die Spieler entscheiden:
 
 - Schwarzschild herrscht unumstritten
     
-- Nordfels-Krone unterjocht
+- [[Nordfels-Krone]] unterjocht
     
-- Die Nebelsteppe wird Grenze oder Grab
+- Die [[Nebelsteppe]] wird Grenze oder Grab
     
 
 **Schicksal der SC:**

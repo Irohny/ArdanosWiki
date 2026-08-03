@@ -1,3 +1,3 @@
-- https://inkarnate.com
-- https://mr-dialect.com/deutscher-dialekt-uebersetzer/deutsch-elbisch-uebersetzer/
+- [Inkarnate - Create Fantasy Maps Online](https://inkarnate.com)
+- [Deutsch – Elbisch Übersetzer | AI Translator](https://mr-dialect.com/deutscher-dialekt-uebersetzer/deutsch-elbisch-uebersetzer/)
 - 

@@ -62,7 +62,7 @@ Einst war ich ein Kriegskleriker des Schmiedevaters [[Volgrin]].
 Ich diente an vorderster Front, predigte nicht vom Altar, sondern mit Hammer und Schild.
 
 Bei der Belagerung meines Tempels fiel die Festung.  
-Zivilisten suchten Schutz im Heiligtum, während die Mauern brachen.  
+Zivilisten suchten Schutz im [[Heiligtum]], während die Mauern brachen.  
 Ich hätte fliehen können.  
 Stattdessen stellte ich mich auf die Stufen des Tempels und hielt den Feind auf, damit Unschuldige entkommen konnten.
 
@@ -82,7 +82,7 @@ Ich durfte erneut leben, um weiter zu retten und zu kämpfen.
 Doch der Preis ist hoch:
 
 Wenn ich ein zweites Mal sterbe, werde ich nicht in die Hallen der Krieger eingehen.  
-Meine Seele wird im **Schattenlicht** wandeln – ziellos, ohne Ruhm, ohne Ahnen, ohne Lied.
+Meine Seele wird im **[[Schattenlicht]]** wandeln – ziellos, ohne Ruhm, ohne Ahnen, ohne Lied.
 
 Seit jenem Tag bin ich an sie gebunden.
 

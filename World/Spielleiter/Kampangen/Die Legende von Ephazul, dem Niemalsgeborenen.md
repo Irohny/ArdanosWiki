@@ -1,7 +1,7 @@
 
-> _„Bevor die Zeit begann, war Stille. Und in der Stille war Ephazul.“_
+> _„Bevor die Zeit begann, war Stille. Und in der Stille war [[Ephazul]].“_
 
-In den Anfängen allen Seins – noch bevor die Welt geformt, noch ehe der erste Stern entzündet wurde – existierte [[Ephazul]]. Kein Wesen aus Fleisch, kein Gedanke in einem göttlichen Geist, sondern ein **Abwesen**: das Echo eines Gedankens, der niemals gedacht, der Schatten eines Willens, der nie ergriffen wurde.
+In den Anfängen allen Seins – noch bevor die Welt geformt, noch ehe der erste Stern entzündet wurde – existierte [[Ephazul]]. Kein Wesen aus Fleisch, kein Gedanke in einem göttlichen Geist, sondern ein **Abwesen**: das [[Echo]] eines Gedankens, der niemals gedacht, der Schatten eines Willens, der nie ergriffen wurde.
 
 **[[Ephazul]] war der Unerzählte.** Kein Name nannte ihn, kein Lied pries ihn – und genau darin lag seine Macht. Wo kein Wort ihn band, war er frei. Wo keine Zeit ihn maß, war er unendlich.
 

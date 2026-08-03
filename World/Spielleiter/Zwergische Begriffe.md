@@ -38,7 +38,7 @@
 | Thrak     | Krieg                               | Militär           |
 | Khur      | Bastion, Verteidigungsanlage        | Militär           |
 | Mor       | Ahne, Vorfahr                       | Kultur            |
-| Thorum    | Heiligtum                           | Kultur            |
+| Thorum    | [[Heiligtum]]                           | Kultur            |
 | Duraz     | Ehre, Pflicht                       | Kultur            |
 | Ghar      | kleine Halle, funktionaler Raum     | Architektur       |
 | Bund      | Brücke                              | Infrastruktur     |

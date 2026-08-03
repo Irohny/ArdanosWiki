@@ -25,7 +25,7 @@ Bimbatz bittet die Gruppe, **ein altes Liederbuch** aus einem längst verfallene
 
 - Das Liederbuch enthält keine _Lieder_, sondern **eine verschlüsselte Prophezeiung über den Zeitdieb**.
     
-- Hinweise auf **Ephazul, den Niemalsgeborenen** werden erstmals namentlich erwähnt.
+- Hinweise auf **[[Ephazul]], den Niemalsgeborenen** werden erstmals namentlich erwähnt.
     
 - Die Gruppe findet eine **Karte oder Koordinate** eines vergessenen Kult-Treffpunkts.
     
@@ -46,8 +46,8 @@ Seine letzten Worte, bevor er in Schlaf oder Rausch versinkt:
 
 ### **Bonus-Elemente:**
 
-- Im Tempel können die Spieler auf einen „Stundenschatten“ treffen – ein Mini-Boss aus dem Gefolge des Zeitdiebs.
+- Im Tempel können die [[Spieler]] auf einen „Stundenschatten“ treffen – ein Mini-Boss aus dem Gefolge des Zeitdiebs.
     
-- Eine verfluchte Glocke hängt im inneren Turm, die bei Läuten Zeit kurz einfriert (und dabei die Spieler sichtbar macht für andere Kultisten).
+- Eine verfluchte Glocke hängt im inneren Turm, die bei Läuten Zeit kurz einfriert (und dabei die [[Spieler]] sichtbar macht für andere Kultisten).
     
 - Bimbatz trägt eine **amulettartige Taschenuhr**, die auf etwas in der Hauptstory reagiert (z. B. leuchtet sie, wenn ein Ritual beginnt).

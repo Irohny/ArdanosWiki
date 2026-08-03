@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "67947557503b9980",
+        "id": "3ebf190dbefb4e46",
         "type": "tabs",
         "children": [
           {
-            "id": "04984863cc851eaf",
+            "id": "37e7310235e23bce",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -144,19 +144,9 @@
               "icon": "lucide-list",
               "title": "Gliederung"
             }
-          },
-          {
-            "id": "fdf5ec349b895162",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -176,34 +166,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04984863cc851eaf",
+  "active": "37e7310235e23bce",
   "lastOpenFiles": [
+    "Spielleiter/OneShots/Ideen Sammlung/Barden Battle.md",
     "ToDo.md",
     "Links.md",
-    "CHANGELOG.md",
-    "Alchemie Regelwerk.md",
-    "Elgrin van Harl.md",
-    "Mythologie/Götter/Pantheon.md",
-    "Mythologie/Schöpfung.md",
-    "Kaiserreich/Ardanos.md",
-    "Kaiserreich/Zeitmessung/Wochentage.md",
-    "Kaiserreich/Wegenetz/Todweg.md",
-    "Kaiserreich/Wegenetz/Smaragdpfad.md",
-    "Kaiserreich/Wegenetz/Nordlinie.md",
-    "Kaiserreich/Wegenetz/Kronpass.md",
-    "Kaiserreich/Wegenetz/Nebelpfad.md",
-    "Kaiserreich/Wegenetz/Khazad-Durak.md",
-    "Kaiserreich/Wegenetz/Himmelshofstraße.md",
-    "Kaiserreich/Wegenetz/Große Bernsteinstraße.md",
-    "Kaiserreich/Wegenetz/Goldstraße.md",
-    "Kaiserreich/Wegenetz/Feststraße.md",
-    "Kaiserreich/Wegenetz/Drachenspur.md",
-    "Kaiserreich/Wegenetz/Arkanstraße.md",
-    "Kaiserreich/Vaylen/Chroniken von Vaylen.md",
-    "Kaiserreich/Vaylen/Vaylen.md",
-    "Kaiserreich/Schwarzklamm/Schwarzklamm.md",
-    "Kaiserreich/Mariven/Nebelsee.md",
-    "Kaiserreich/Mariven/Mariven.md",
+    "Spielleiter/Flammenwacht.md",
+    "Spielleiter/Elgrin van Harl.md",
+    "Wesen/Spieler Spezien.md",
+    "Wesen/Aetheri.md",
+    "Tranksammlung/Essenz der Wandlung.md",
+    "Tranksammlung/Drachenodem in der Flasche.md",
+    "Tranksammlung/Blutbiss.md",
+    "Tranksammlung/Alraunenelixier.md",
+    "Spielleiter/Zwergische Begriffe.md",
+    "Spielleiter/Schwur des Schweigens.md",
+    "Spielleiter/Magiesystem.md",
+    "Spielleiter/Eastereggs.md",
+    "Spielleiter/Played OneShots/Funkeln in der Finsternis/Zwergentür der Tiefen Hallen.md",
+    "Spielleiter/Played OneShots/Funkeln in der Finsternis/Suche der Werkstatt.md",
+    "Spielleiter/Played OneShots/Funkeln in der Finsternis/Kristallwald Skillchallange.md",
+    "Spielleiter/Played OneShots/Funkeln in der Finsternis/Halle der Herzen Fight.md",
+    "Spielleiter/Played OneShots/Funkeln in der Finsternis/Funkeln in der Finsternis.md",
+    "Spielleiter/Played OneShots/Funkeln in der Finsternis/Caelumbran Werkstatt Fight.md",
+    "Spielleiter/Paladine des Goldenen Schildes/Sir Daryn Velios.md",
+    "Spielleiter/Paladine des Goldenen Schildes/Selvian Korth.md",
+    "Spielleiter/Paladine des Goldenen Schildes/Milo von Kroton.md",
+    "Spielleiter/Paladine des Goldenen Schildes/Lady Caelira von Thornewald.md",
+    "Spielleiter/Paladine des Goldenen Schildes/Edran Tiefstrom.md",
+    "Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Zeitungsartikel.png",
     "ChatGPT_MD/templates",
     "ChatGPT_MD/chats",
     "ChatGPT_MD/agents",
@@ -222,7 +213,6 @@
     "Images/Maps/Drakmora_Runde1.png",
     "Images/Maps/Ardanos.jpeg",
     "Images/Charackter/BatholdyVampir.png",
-    "Luminara.jpeg",
-    "Images/Maps/Luminara.jpeg"
+    "Luminara.jpeg"
   ]
 }

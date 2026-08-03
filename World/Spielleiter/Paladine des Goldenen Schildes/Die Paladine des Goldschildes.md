@@ -1,14 +1,14 @@
-> _„Im Jahr 2186 n.d.D., dem 49. Regierungsjahr des Lichtkaisers Elyander Goldschild, entsandte das Reich fünf seiner größten Paladine, um alte Legenden über göttliche Siegel zu untersuchen. Die Namen dieser Helden sind bekannt – ihre Taten hingegen liegen im Nebel von Mythen und Widersprüchen.“_
+> _„Im Jahr 2186 n.d.D., dem 49. Regierungsjahr des Lichtkaisers [[Kaiserreich/Kaiser/NPCs/Elyander Goldschild|Elyander Goldschild]], entsandte das Reich fünf seiner größten Paladine, um alte Legenden über göttliche Siegel zu untersuchen. Die Namen dieser Helden sind bekannt – ihre Taten hingegen liegen im Nebel von Mythen und Widersprüchen.“_
 
 ---
 
 ### 📚 **Die offizielle Geschichte – nach der Manipulation durch den Zeitdieb:**
 
-Die **„Fünf Paladine Eleanders“** galten lange als tugendhafte Streiter des Lichts, doch ihre letzte gemeinsame Unternehmung endete in Tragödie und Rätsel. Sie reisten auf geheimen Befehl des Kaisers aus, um Relikte und vergessene Orte zu erforschen, von denen es hieß, sie seien göttlichen Ursprungs.
+Die **„Fünf Paladine Eleanders“** galten lange als tugendhafte Streiter des Lichts, doch ihre letzte gemeinsame Unternehmung endete in Tragödie und Rätsel. Sie reisten auf geheimen [[Befehl]] des Kaisers aus, um Relikte und vergessene Orte zu erforschen, von denen es hieß, sie seien göttlichen Ursprungs.
 
 **Doch kein einziger kehrte zurück.**
 
-Die offizielle Reichschronik hält fest, dass sie in den **Wirren eines plötzlichen Grenzkonflikts mit den Schattenfürsten von Vaylen** umkamen – ihr Verschwinden wurde als „Märtyrertod im Dienste der Krone“ erklärt. Ihre Mission wurde nie konkretisiert, ihre Berichte nie gefunden, ihre Namen nur mit leeren Ehrenstatuen in Goldhallia geehrt.
+Die offizielle Reichschronik hält fest, dass sie in den **Wirren eines plötzlichen Grenzkonflikts mit den Schattenfürsten von [[Vaylen]]** umkamen – ihr Verschwinden wurde als „Märtyrertod im Dienste der Krone“ erklärt. Ihre Mission wurde nie konkretisiert, ihre Berichte nie gefunden, ihre Namen nur mit leeren Ehrenstatuen in Goldhallia geehrt.
 
 Doch unter Gelehrten und Mönchen mehren sich Flüstern und Fragmente anderer Wahrheiten:
 

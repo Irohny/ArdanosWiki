@@ -1,10 +1,10 @@
 _Die Ebene des Todes_
 
-Das **Schattenlicht** ist das Reich des Todes und der erste Bestimmungsort aller Seelen nach ihrem Ende. Es ist kein einzelner Ort, sondern eine weitläufige, wandelbare Ebene, in der sich **Erinnerung, Schicksal und Urteil** zu Landschaften formen.
+Das **[[Schattenlicht]]** ist das Reich des Todes und der erste Bestimmungsort aller Seelen nach ihrem Ende. Es ist kein einzelner Ort, sondern eine weitläufige, wandelbare Ebene, in der sich **Erinnerung, Schicksal und Urteil** zu Landschaften formen.
 
-In der Welt der Lebenden erscheint das Schattenlicht nur flüchtig – als kalter Schimmer, ein gedämpftes Leuchten oder als ein Moment stiller Gewissheit im Angesicht des Todes. Im Reich der Toten jedoch entfaltet es sich als ein weites Land aus Nebeln, Hallen, stillen Flüssen und endlosen Pfaden.
+In der Welt der Lebenden erscheint das [[Schattenlicht]] nur flüchtig – als kalter Schimmer, ein gedämpftes Leuchten oder als ein Moment stiller Gewissheit im Angesicht des Todes. Im Reich der Toten jedoch entfaltet es sich als ein weites Land aus Nebeln, Hallen, stillen Flüssen und endlosen Pfaden.
 
-Alle Seelen gelangen zunächst hierher. Doch das Schattenlicht ist nicht für jede Seele der endgültige Ort. Manche werden nach ihrem Urteil weitergesandt – in die Reiche der Götter, deren Idealen sie im Leben am nächsten standen.
+Alle Seelen gelangen zunächst hierher. Doch das [[Schattenlicht]] ist nicht für jede Seele der endgültige Ort. Manche werden nach ihrem Urteil weitergesandt – in die Reiche der Götter, deren Idealen sie im Leben am nächsten standen.
 
 ---
 ## Das Gericht der Rabenkönigin
@@ -15,16 +15,16 @@ Hier erscheinen auch ihre beiden Raben:
 - **[[Kraeth]]**, Hüter der Zukunft
 - **[[Veyrun]]**, Bewahrer der Vergangenheit
 
-Veyrun offenbart die Taten eines Lebens, während Kraeth die möglichen Wege der Seele jenseits des Todes kennt. Gemeinsam ermöglichen sie Erythra ein vollkommenes Urteil.
+[[Veyrun]] offenbart die Taten eines Lebens, während [[Kraeth]] die möglichen Wege der Seele jenseits des Todes kennt. Gemeinsam ermöglichen sie [[Erythra]] ein vollkommenes Urteil.
 
 Nach diesem Urteil entscheidet sich das Schicksal der Seele.
 
-Manche verbleiben im Schattenlicht. Andere werden durch verborgene Wege zu den Ebenen der Götter geführt.
+Manche verbleiben im [[Schattenlicht]]. Andere werden durch verborgene Wege zu den Ebenen der Götter geführt.
 
 ---
 ## Der Rabenpfad
 
-Durch das Schattenlicht verläuft ein uralter Weg, der als **Rabenpfad** bekannt ist. Dieser Pfad wird von den Raben Erythras bewacht und verbindet verschiedene Regionen der Ebene miteinander.
+Durch das [[Schattenlicht]] verläuft ein uralter Weg, der als **Rabenpfad** bekannt ist. Dieser Pfad wird von den Raben Erythras bewacht und verbindet verschiedene Regionen der Ebene miteinander.
 
 Über den Rabenpfad werden Seelen zu ihrem endgültigen Schicksal geführt:
 - in die **Hallen der Gefallenen**, wo die Krieger **[[Volgrin]]s** Ruhm finden
@@ -36,7 +36,7 @@ Für Sterbliche gilt der Rabenpfad als einer der wenigen Wege, der zwischen den 
 ---
 ## Die Flüsse der Erinnerungen
 
-Mehrere stille Ströme durchziehen das Schattenlicht. Diese **Flüsse der Erinnerungen** tragen die Essenz vergangener Leben.
+Mehrere stille Ströme durchziehen das [[Schattenlicht]]. Diese **Flüsse der Erinnerungen** tragen die Essenz vergangener Leben.
 
 Wer ihr Wasser berührt, sieht Fragmente eines vergangenen Daseins – eigene Erinnerungen oder die anderer Seelen.
 

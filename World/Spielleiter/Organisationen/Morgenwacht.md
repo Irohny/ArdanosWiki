@@ -1,16 +1,16 @@
 _Religiöser Militärorden [[Solyra]]s_
 ![[Morgenwacht.png|200]]
-Die **Morgenwacht** ist ein religiöser Militärorden, der im Namen [[Solyra]]s für Licht, Leben und Reinheit kämpft. Sie versteht sich als erste Verteidigungslinie gegen Dunkelheit, Verderbnis und monströse Bedrohungen. Ihr Name symbolisiert den Moment vor dem Sonnenaufgang – die Zeit, in der die Dunkelheit am gefährlichsten ist und das Licht am dringendsten gebraucht wird.
+Die **[[Morgenwacht]]** ist ein religiöser Militärorden, der im Namen [[Solyra]]s für Licht, Leben und Reinheit kämpft. Sie versteht sich als erste Verteidigungslinie gegen Dunkelheit, Verderbnis und monströse Bedrohungen. Ihr Name symbolisiert den Moment vor dem Sonnenaufgang – die Zeit, in der die Dunkelheit am gefährlichsten ist und das Licht am dringendsten gebraucht wird.
 
 ---
 ### **Auftrag**
 
-Die Morgenwacht schützt die Schwachen, bekämpft Monster und widernatürliche Wesen und verbreitet die Lehre [[Solyra]]s. Wo das Licht bedroht wird, zieht der Orden aus, um Ordnung wiederherzustellen und Hoffnung zu bringen – notfalls mit dem Schwert.
+Die [[Morgenwacht]] schützt die Schwachen, bekämpft [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]] und widernatürliche Wesen und verbreitet die Lehre [[Solyra]]s. Wo das Licht bedroht wird, zieht der Orden aus, um Ordnung wiederherzustellen und Hoffnung zu bringen – notfalls mit dem Schwert.
 
 ---
 ### **Glaube & Ideale**
 
-Die Morgenwacht glaubt, dass wahres Licht aktiv verteidigt werden muss. Barmherzigkeit gilt den Unschuldigen, Entschlossenheit den Feinden des Lichts. Zweifel werden als menschlich akzeptiert, Untätigkeit jedoch als Verrat an der Pflicht.
+Die [[Morgenwacht]] glaubt, dass wahres Licht aktiv verteidigt werden muss. Barmherzigkeit gilt den Unschuldigen, Entschlossenheit den Feinden des Lichts. Zweifel werden als menschlich akzeptiert, Untätigkeit jedoch als Verrat an der Pflicht.
 
 Zentrale Werte:
 - Schutz des Lebens
@@ -26,15 +26,15 @@ _(Ränge, Titel und innere Fraktionen können später ergänzt werden.)_
 
 ---
 ### **Auftreten**
-Mit hellem Stahl, Sonnensymbolen und geweihter Ausrüstung treten Mitglieder der Morgenwacht geschlossen und diszipliniert auf. Ihr Erscheinen bedeutet Schutz – oder Urteil. In der Bevölkerung genießt der Orden hohes Ansehen, wird jedoch auch gefürchtet.
+Mit hellem Stahl, Sonnensymbolen und geweihter Ausrüstung treten Mitglieder der [[Morgenwacht]] geschlossen und diszipliniert auf. Ihr Erscheinen bedeutet Schutz – oder Urteil. In der Bevölkerung genießt der Orden hohes Ansehen, wird jedoch auch gefürchtet.
 
 ---
 ### **Ruf & Wahrnehmung**
-Für viele sind die Ritter der Morgenwacht Helden des Lichts. Andere sehen in ihnen fanatische Richter, deren Definition von Reinheit wenig Raum für Grauzonen lässt.
+Für viele sind die Ritter der [[Morgenwacht]] Helden des Lichts. Andere sehen in ihnen fanatische Richter, deren Definition von Reinheit wenig Raum für Grauzonen lässt.
 
 ---
 ### **Konflikte**
-Die Morgenwacht befindet sich in offenem Konflikt mit:
+Die [[Morgenwacht]] befindet sich in offenem Konflikt mit:
 - Kreaturen der Dunkelheit
 - Blutmagiern und verbotenen Kulten
 - Schwurklans wie den **Nachtgeweihten**

@@ -22,7 +22,7 @@ Eine fröhliche, bärtige Halblingsfrau mit einem Ofenwagen verkauft erstaunlich
 ### 🎭 **4. Der Maskenzug**
 
 Die Gruppe begegnet einem Tross von maskierten Pilgern auf dem Weg zu einem "Fest des Vergessens".  
-**Ungewöhnlich:** Keiner spricht. Eine Maske sieht einem Spieler auffällig ähnlich.
+**Ungewöhnlich:** Keiner spricht. Eine Maske sieht einem [[Spieler]] auffällig ähnlich.
 
 ---
 

@@ -4,7 +4,7 @@
 
 ### **Auftritt: Heiler [[Eldrin Velmara]]**
 
-Ein gutaussehender, charismatischer Heiler – **Eldrin Velmara** – ist weithin bekannt für seine sanfte Stimme und heilenden Hände. Ob in den Hallen der Reichen oder auf dem Pflaster der Armenviertel – **Eldrin behandelt jeden. Kostenlos, wenn nötig.**
+Ein gutaussehender, charismatischer Heiler – **[[Eldrin Velmara]]** – ist weithin bekannt für seine sanfte Stimme und heilenden Hände. Ob in den Hallen der Reichen oder auf dem Pflaster der Armenviertel – **Eldrin behandelt jeden. Kostenlos, wenn nötig.**
 
 Doch **Gerüchte mehren sich**:
 
@@ -46,7 +46,7 @@ Im Keller: ein **rituelles Labor**, ausgekleidet mit silbernen Spiegeln – dies
 
 #### Begegnung:
 
-**Eldrin Velmara** (CR 6 Warlock/Nekromant) wird von **verjüngten Wächtern** und **Seelenkonstrukten** beschützt.  
+**[[Eldrin Velmara]]** (CR 6 Warlock/Nekromant) wird von **verjüngten Wächtern** und **Seelenkonstrukten** beschützt.  
 Er bietet der Gruppe sogar einen Trank der ewigen Jugend an – wenn sie ihn gehen lassen.
 
 ---
@@ -66,6 +66,6 @@ Er bietet der Gruppe sogar einen Trank der ewigen Jugend an – wenn sie ihn geh
 
 - **Seelenphiole**: Kann eine gefangene Seele befreien oder für mächtige Magie genutzt werden.
     
-- **Gabe der Kinder** (einmalige Fähigkeit): Ein geretteter Kindgeist verleiht einem Helden 1x Inspiration & Vorteil auf Rettungswürfe gegen Furcht.
+- **Gabe der Kinder** (einmalige Fähigkeit): Ein geretteter Kindgeist verleiht einem Helden 1x Inspiration & Vorteil auf Rettungswürfe gegen [[Furcht]].
     
 - Das Vertrauen des **Untervolks**, wenn die Wahrheit ans Licht kommt.

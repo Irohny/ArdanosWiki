@@ -1,6 +1,6 @@
 ### **Kapitel – Der Schatten über [[Drakmora]]**
 
-**Auslöser:** Bruder Marcus, Mönch des [[Bizeptiner Orden]]s, erhält einen düsteren Rabenbrief von seinem Abt Bruder [[Arn'Old]]:  
+**Auslöser:** [[Bruder Marcus]], Mönch des [[Bizeptiner Orden]]s, erhält einen düsteren Rabenbrief von seinem Abt Bruder [[Arn'Old]]:  
 Das Kloster wurde von einer fremdländischen Söldnertruppe überfallen und vollständig zerstört. Nur wenige Brüder überlebten und haben sich in ein Dorf südlich der Hauptstadt **[[Drakmora]]** zurückgezogen. Doch die Feinde rücken näher.
 
 **Auftrag:** Die Gruppe soll **nach [[Valatheris]] reisen** und eine Audienz bei **Fürstin [[Valaine Nebelhain]]** ersuchen. Ziel: Verstärkung für das bedrohte Dorf erhalten.
@@ -11,7 +11,7 @@ Das Kloster wurde von einer fremdländischen Söldnertruppe überfallen und voll
     
 - Es handelt sich um eine fanatische **Berserkerkompanie** ([[Stahlwölfe]]), die sich von Valaine abgewendet hat, da sie mit ihrer Politik unzufrieden ist.
     
-- Valaine kann **keine volle Armee** entsenden: Ein geplanter Waffenhandel mit **Schwarzklamm** platzte – der Botschafter ([[Glutherz Doppelzunge]]) wurde **ermordet** (Rückbezug zu [[Kapitel 1 Notizen]]).
+- Valaine kann **keine volle Armee** entsenden: Ein geplanter Waffenhandel mit **[[Schwarzklamm]]** platzte – der Botschafter ([[Glutherz Doppelzunge]]) wurde **ermordet** (Rückbezug zu [[Kapitel 1 Notizen]]).
     
 
 **Folgen:**
@@ -27,4 +27,4 @@ Das Kloster wurde von einer fremdländischen Söldnertruppe überfallen und voll
 
 - Dieses Kapitel eignet sich als moralischer Scheideweg: Aufständische mit nachvollziehbaren Motiven vs. herrschaftlicher Verfall.
     
-- Möglichkeit für Spieler, eigene Entscheidung zu treffen: Reine Befehlsempfänger oder Vermittler zwischen zerfallenden Fronten?
+- Möglichkeit für [[Spieler]], eigene Entscheidung zu treffen: Reine Befehlsempfänger oder Vermittler zwischen zerfallenden Fronten?

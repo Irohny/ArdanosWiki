@@ -1,4 +1,4 @@
-#Mariven 
+#[[Mariven]] 
 * Flaggschiff der [[Goldene Armada]] von [[Mariven]]
 ![[Goldene Morgendaemmerung Image.png|600]]
 ### Kapitel 1:

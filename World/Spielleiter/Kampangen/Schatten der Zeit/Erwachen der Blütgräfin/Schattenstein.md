@@ -10,7 +10,7 @@ Beim Aufstieg auf den nebligen Hügel fällt auf:
     
 - **Grabsteine.** Inschriften werden sichtbar, darunter:
     
-    - _"Hier ruht Glutherz Doppelzunge – Möge er nie wieder lügen."_
+    - _"Hier ruht [[Glutherz Doppelzunge]] – Möge er nie wieder lügen."_
         
     - _"Gnoot – Der lachende Rausch."_
         
@@ -56,9 +56,9 @@ Die Burg scheint sich **rückwärts durch die Zeit zu rekonstruieren**. Je tiefe
 
 ## 👑 **Finaler Raum – Der Thronsaal von Val’Thalor**
 
-Ein prächtiger, vollständig rekonstruierter Thronsaal – ein Echo der Vergangenheit.
+Ein prächtiger, vollständig rekonstruierter Thronsaal – ein [[Echo]] der Vergangenheit.
 
-- **Lord Vareth Nocthollow** sitzt auf dem Thron. Seine Stimme ist ruhig, fast melancholisch.
+- **[[Lord Vareth Nocthollow]]** sitzt auf dem Thron. Seine Stimme ist ruhig, fast melancholisch.
     
 - Er bietet der Gruppe an, Teil seiner neuen Zeitlinie zu werden.
     

@@ -15,7 +15,7 @@ Kaum weiter auf dem Pfad, hören sie das **Klirren von Pferdegeschirr und Rufe**
 
 ---
 
-### 🎭 **Die Rabenwache**
+### 🎭 **Die [[Rabenwache]]**
 
 **Anführer:** _Riven Grünschatten_, charismatisch, schlagfertig, mit einem Mantel aus grünem Filz, einer schwarzen Lederbrustplatte und einem Dolch mit Rabenkopfgriff. Er trägt kein Schwert, sondern einen verzierten Bogen und spricht in ruhigem, überlegtem Ton.
 
@@ -27,7 +27,7 @@ Doch bevor es zur Konfrontation kommt, **ruft eine der Banditinnen überrascht**
 > **„Bei den alten Göttern – das sind doch…! Ich kenn euch!“**
 
 **NSC-Vorschlag:**  
-Die Stimme gehört zu **Mira Federschritt**, eine flinke Waldläuferin oder frühere Späherin, die in einem früheren Abenteuer der Gruppe geholfen hat (z. B. bei der Erkundung eines Grenzpasses oder in einem Sumpfgebiet). Sie ist nun Teil der **Rabenwache** – einem losen, aber gut organisierten Bund aus Waldläufern, ehemaligen Soldaten, Schurken und Idealisten.
+Die Stimme gehört zu **Mira Federschritt**, eine flinke Waldläuferin oder frühere Späherin, die in einem früheren Abenteuer der Gruppe geholfen hat (z. B. bei der Erkundung eines Grenzpasses oder in einem Sumpfgebiet). Sie ist nun Teil der **[[Rabenwache]]** – einem losen, aber gut organisierten Bund aus Waldläufern, ehemaligen Soldaten, Schurken und Idealisten.
 
 ---
 
@@ -45,15 +45,15 @@ Die Stimme gehört zu **Mira Federschritt**, eine flinke Waldläuferin oder frü
 
 ---
 
-### 🦉 **Hintergrund zur Rabenwache (für dich als DM)**
+### 🦉 **Hintergrund zur [[Rabenwache]] (für dich als DM)**
 
 - Gegründet nach einem gescheiterten Bauernaufstand.
     
 - Dezentral organisiert – einzelne Zellen agieren unabhängig.
     
-- Unterstützen revolutionäre Gruppen, versorgen hungernde Dörfer, sabotieren Adlige.
+- Unterstützen revolutionäre Gruppen, versorgen hungernde [[Dörfer]], sabotieren Adlige.
     
-- Riven glaubt an „maßvolle Rebellion“ – andere in der Rabenwache sind radikaler.
+- Riven glaubt an „maßvolle Rebellion“ – andere in der [[Rabenwache]] sind radikaler.
     
 
 ---

@@ -9,7 +9,7 @@ Für Frieden und Einheit.
 11-1, 8-3, 14-8, 9-3
 14-8, 14-5, 7-5, 1-8
 
-# 2. Waffenhandel (Schwarzklamm an Drakmora)
+# 2. Waffenhandel ([[Schwarzklamm]] an [[Drakmora]])
 ### Klartext
 Rot13:
 Der Berg hat gesprochen, das Feuer ist entfacht. Die Ware reist mit dem nächsten Schatten. Halte deine Hallen bereit. – Rußklinge

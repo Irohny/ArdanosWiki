@@ -1,4 +1,4 @@
-Thal'Aruun die Gläserne Königin
+[[Thal'Aruun die Gläserne Königin]]
 
 - **Typ:** Kristalline Entität / Spiegelwesen aus dem Untersee
     

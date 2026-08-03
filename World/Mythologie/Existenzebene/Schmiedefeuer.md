@@ -1,6 +1,6 @@
 _Ebene von [[Volgrin]] – Allhammer, Gott des Krieges, Wissens und der Schmiedekunst_
 
-Die **Schmiedefeuer** sind ein gewaltiges Reich aus glühenden Vulkanen, flüssigem Metall und endlosen Schmiedehallen.
+Die **[[Schmiedefeuer]]** sind ein gewaltiges Reich aus glühenden Vulkanen, flüssigem Metall und endlosen Schmiedehallen.
 
 Flüsse aus Lava und leuchtendem Erz durchziehen die Landschaft, während gewaltige Schmieden in den Bergen lodern. Der Himmel ist erfüllt vom roten Glühen der Feuer und dem ständigen Klang von Hammer auf Amboss.
 
@@ -24,7 +24,7 @@ In diesen Hallen wird:
 - trainiert
 - und die Kunst des Krieges weitergegeben
 
-Man sagt, dass **Volgrin selbst gelegentlich unter ihnen wandelt**, um neue Champions zu prüfen.
+Man sagt, dass **[[Volgrin]] selbst gelegentlich unter ihnen wandelt**, um neue Champions zu prüfen.
 
 ---
 
@@ -38,16 +38,16 @@ Hier entstehen:
 - Artefakte von unvorstellbarer Macht
 Manche dieser Gegenstände werden später von Göttern oder Helden beansprucht.
 ##### Das Erzmeer
-Ein riesiger See aus flüssigem Metall, in dem die reinsten Metalle der Schöpfung existieren.
+Ein riesiger See aus flüssigem Metall, in dem die reinsten Metalle der [[Schöpfung]] existieren.
 Nur die größten Meisterschmiede wagen es, daraus Material zu gewinnen.  
 Legenden besagen, dass hier das **erste Metall der Welt** geschmolzen wurde.
 ##### Die Berge des ersten Hammers
-Eine uralte Gebirgskette, in deren Herz **Volgrin einst den ersten Schlag seines Hammers führte**.
+Eine uralte Gebirgskette, in deren Herz **[[Volgrin]] einst den ersten Schlag seines Hammers führte**.
 Die Berge enthalten seltene Metalle, die nirgendwo sonst existieren.
 Zwerge betrachten diese Berge als **heilige Pilgerstätte ihrer Seelen**.
 ##### Die Funkenfelder
 Eine weite Ebene aus schwarzem Stein, auf der ständig glühende Funken aus dem Himmel fallen.
-Diese Funken sind Fragmente göttlicher Schöpfung – manchmal entstehen daraus:
+Diese Funken sind Fragmente göttlicher [[Schöpfung]] – manchmal entstehen daraus:
 - neue Metalle
 - lebendige Konstrukte
 - oder elementare Wesen aus Feuer und Erz.

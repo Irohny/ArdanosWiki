@@ -1,5 +1,5 @@
 ![[weltenbaum_gemaelde.png|200]]
-Mitten in den tiefsten Regionen des Immergrüner Hain steht Nythariel.
+Mitten in den tiefsten Regionen des [[Immergrüner Hain]] steht Nythariel.
 
 Sein Stamm ist breiter als jede Kathedrale des Kaiserreichs. Seine Krone verschwindet im ewigen Nebel über dem Wald. Seine Wurzeln durchziehen nicht nur die Erde – sie greifen in andere Ebenen wie Finger in Wasser.
 
@@ -15,9 +15,9 @@ Sie wirken wie flüssige Spiegel aus Harz und Licht.
 ### Bekannte oder vermutete Verbindungen:
 
 - Feenwildnis – überwucherter, wilder Spiegel des Hains
-- Schattenreich – kaltes, stilles Echo der Region
+- Schattenreich – kaltes, stilles [[Echo]] der Region
 - Elementarebene der Erde – Ursprung der Hügel und Ackerböden
-- Schattenlicht – Ebene der Toten
+- [[Schattenlicht]] – Ebene der Toten
 
 ⚠ Wichtig:  
 Die Portale öffnen sich nie zufällig. Sie reagieren auf:
@@ -51,7 +51,7 @@ Ein metaphysisches Siegel, das verhindert, dass:
     
 - Ephazuls Essenz zurücksickert
     
-- das Schattenlicht übertritt
+- das [[Schattenlicht]] übertritt
     
 
 Das Siegel speist sich direkt aus Nythariels Herzschlag.
@@ -92,7 +92,7 @@ Langfristig: Hungersnot → politische Instabilität → Bürgerkrieg.
 
 ## 1️⃣ „Das offene Tor“
 
-Ein Portal zur Feenwildnis oder zum Schattenlicht bleibt offen.
+Ein Portal zur Feenwildnis oder zum [[Schattenlicht]] bleibt offen.
 
 Folgen:
 
@@ -125,4 +125,4 @@ Symptome:
 - Charaktere mit Naturbezug träumen von einem riesigen Auge aus Harz.
     
 
-Am Ende könnten die Spieler erstmals den inneren Hohlraum betreten.
+Am Ende könnten die [[Spieler]] erstmals den inneren Hohlraum betreten.

@@ -4,7 +4,7 @@
     
 - **Erscheinung:** Hager, würdevoll, trägt einen Mantel aus echten Rabenschwingen und einen Schleier aus grauer Seide. Ihre Stimme klingt wie das Wispern des Windes in Gräbern.
     
-- **Besonderheit:** Nyvessa spricht mit den Toten – jedoch nicht auf Befehl. Sie behauptet, nur zuzuhören. Sie war einst eine Kriegsveteranin, bevor sie „die Stimme der Rabenkönigin“ im Traum vernahm.
+- **Besonderheit:** Nyvessa spricht mit den Toten – jedoch nicht auf [[Befehl]]. Sie behauptet, nur zuzuhören. Sie war einst eine Kriegsveteranin, bevor sie „die Stimme der Rabenkönigin“ im Traum vernahm.
     
 - **Ziel:** Sie ahnt, dass das Gleichgewicht zwischen Leben und Tod bedroht ist – und wartet auf ein Zeichen, wer das Schicksal wenden wird.
     
@@ -26,7 +26,7 @@
 
 ### **3. Pilger Tarman Vel**
 
-- **Rolle:** Büßer aus Vaylen, der den Tempel aufsuchte, um Vergebung für einen Mord zu bitten
+- **Rolle:** Büßer aus [[Vaylen]], der den Tempel aufsuchte, um Vergebung für einen Mord zu bitten
     
 - **Erscheinung:** Abgerissene Kleidung, stark tätowierte Hände mit alten Runen.
     

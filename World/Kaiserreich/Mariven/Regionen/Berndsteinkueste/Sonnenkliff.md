@@ -1,19 +1,19 @@
-**Sonnenkliff ist eine Stadt zwischen goldenem Sonnenlicht und dunklem Meer – ein Ort des Handels, der Fischerei und der Geschichten, die mit jeder Flut an ihre Küste gespült werden**
+**[[Sonnenkliff]] ist eine Stadt zwischen goldenem Sonnenlicht und dunklem Meer – ein Ort des Handels, der Fischerei und der Geschichten, die mit jeder Flut an ihre Küste gespült werden**
 
-Im Süden der [[Bernsteinküste]] liegt die mittelgroße Hafenstadt **Sonnenkliff**, deren helle Mauern und roten Ziegeldächer sich terrassenförmig an die steilen Küstenklippen schmiegen. Ihren Namen verdankt die Stadt den goldenen Sonnenstrahlen, die am Abend über das Meer gleiten und die Felsen in ein warmes, beinahe bernsteinfarbenes Leuchten tauchen.
+Im Süden der [[Bernsteinküste]] liegt die mittelgroße Hafenstadt **[[Sonnenkliff]]**, deren helle Mauern und roten Ziegeldächer sich terrassenförmig an die steilen Küstenklippen schmiegen. Ihren Namen verdankt die Stadt den goldenen Sonnenstrahlen, die am Abend über das Meer gleiten und die Felsen in ein warmes, beinahe bernsteinfarbenes Leuchten tauchen.
 
-Sonnenkliff lebt vom Meer. Fischerboote kehren täglich mit ihren Fängen zurück, während Handelsschiffe aus den anderen Regionen [[Mariven]]s und fernen Ländern im geschützten Hafen anlegen. Auf den Märkten der Stadt werden frischer Fisch, Salz, Muscheln, getrocknete Algen und Waren aus Übersee gehandelt. Besonders bekannt ist Sonnenkliff für seine erfahrenen Fischer und die kleinen, wendigen Küstenschiffe, die selbst bei rauer See noch sicher navigieren können.
+[[Sonnenkliff]] lebt vom Meer. Fischerboote kehren täglich mit ihren Fängen zurück, während Handelsschiffe aus den anderen Regionen [[Mariven]]s und fernen Ländern im geschützten Hafen anlegen. Auf den Märkten der Stadt werden frischer Fisch, Salz, Muscheln, getrocknete Algen und Waren aus Übersee gehandelt. Besonders bekannt ist [[Sonnenkliff]] für seine erfahrenen Fischer und die kleinen, wendigen Küstenschiffe, die selbst bei rauer See noch sicher navigieren können.
 
 Die Stadt selbst ist geprägt von engen, windgeschützten Gassen, steinernen Treppen und zahlreichen Aussichtspunkten über das Meer. Unterhalb der oberen Stadt liegen die Hafenviertel, in denen Tavernen, Lagerhäuser und Werkstätten der Schiffbauer dicht beieinanderstehen. Über allem thront der alte Klippenbezirk mit den Häusern wohlhabender Händler und dem Sitz des örtlichen Stadtrats.
 
-Obwohl Sonnenkliff deutlich kleiner und weniger prachtvoll als die großen Handelsstädte [[Mariven]]s ist, besitzt die Stadt eine lebhafte und weltoffene Atmosphäre. Seeleute, Händler und Reisende aus aller Welt treffen hier aufeinander. Doch mit dem Reichtum des Seehandels kommen auch Schmuggler, Piraten und andere Gefahren. So ist Sonnenkliff eine Stadt, in der sich der Duft von Salz und gebratenem Fisch mit dem Ruf der Händler, dem Knarren alter Schiffe und den Geschichten über ferne Länder vermischt.
+Obwohl [[Sonnenkliff]] deutlich kleiner und weniger prachtvoll als die großen Handelsstädte [[Mariven]]s ist, besitzt die Stadt eine lebhafte und weltoffene Atmosphäre. Seeleute, Händler und Reisende aus aller Welt treffen hier aufeinander. Doch mit dem Reichtum des Seehandels kommen auch Schmuggler, Piraten und andere Gefahren. So ist [[Sonnenkliff]] eine Stadt, in der sich der Duft von Salz und gebratenem Fisch mit dem Ruf der Händler, dem Knarren alter Schiffe und den Geschichten über ferne Länder vermischt.
 
 ---
-### **Besondere Orte in Sonnenkliff**
+### **Besondere Orte in [[Sonnenkliff]]**
 
-#### **Der Tempel der Ocyra**
+#### **Der Tempel der [[Ocyra]]**
 
-Der [[Ocyra]]-Tempel liegt auf einer natürlichen Felsplattform oberhalb des Hafens. Von dort aus können die Priester über die gesamte Bucht und weit hinaus auf das Meer blicken. Das Heiligtum ist zugleich religiöses Zentrum und Zufluchtsort für Seeleute, die vor einer Reise um Ocyra’s Schutz bitten.
+Der [[Ocyra]]-Tempel liegt auf einer natürlichen Felsplattform oberhalb des Hafens. Von dort aus können die Priester über die gesamte Bucht und weit hinaus auf das Meer blicken. Das [[Heiligtum]] ist zugleich religiöses Zentrum und Zufluchtsort für Seeleute, die vor einer Reise um [[Ocyra]]’s Schutz bitten.
 
 Im Inneren befindet sich ein großes Becken mit Meerwasser, das durch einen natürlichen Felsspalt regelmäßig von den Gezeiten gespeist wird. Die Bewohner glauben, dass die Priester an der Bewegung des Wassers Zeichen der Göttin erkennen können.
 
@@ -23,7 +23,7 @@ Der geschützte Hafen ist das wirtschaftliche Herz der Stadt. Neben Fischerboote
 
 Besonders auffällig ist der **Goldene Kai**, an dem die größten Handelsschiffe anlegen dürfen. Seine Steine schimmern bei Sonnenuntergang golden – ob durch natürlichen Bernstein im Gestein oder durch eine alte Legende, weiß niemand genau.
 
-#### **Der Fischmarkt von Sonnenkliff**
+#### **Der Fischmarkt von [[Sonnenkliff]]**
 
 Der größte Markt der Stadt findet jeden Morgen am Hafen statt. Hier werden frischer Fisch, Krabben, Muscheln und seltene Meeresfrüchte verkauft. Händler bieten außerdem getrockneten Fisch und haltbare Vorräte für lange Seereisen an.
 
@@ -31,7 +31,7 @@ Der Markt ist laut, chaotisch und ein hervorragender Ort für Gerüchte. Seeleut
 
 #### **Die Klippenlaterne**
 
-Auf der höchsten Klippe der Stadt steht ein alter Leuchtturm. Sein Feuer weist Schiffen den Weg in den Hafen und gilt als eines der wichtigsten Seezeichen an der Bernsteinküste.
+Auf der höchsten Klippe der Stadt steht ein alter Leuchtturm. Sein Feuer weist Schiffen den Weg in den Hafen und gilt als eines der wichtigsten Seezeichen an der [[Bernsteinküste]].
 
 Das Feuer wird von einer kleinen Gruppe von Leuchtturmwärtern gehütet. Manche behaupten, dass die Flamme niemals vollständig erlischt – selbst während schwerster Stürme. In besonders dunklen Nächten soll sie außerdem manchmal in einer ungewöhnlichen goldenen Farbe leuchten.
 
@@ -57,7 +57,7 @@ Manche Stücke sind außergewöhnlich groß oder enthalten eingeschlossene Pflan
 
 Eine der bekanntesten Tavernen der Stadt. Sie ist Treffpunkt für Seeleute, Fischer, Händler und Reisende. Die Besitzerin kennt beinahe jeden, der im Hafen ein- und ausläuft.
 
-Die Taverne ist ein hervorragender Ort für Gerüchte, Aufträge und Begegnungen. Außerdem erzählt man sich, dass die Besitzerin vor vielen Jahren selbst zur See gefahren ist und mehr über die Gewässer vor Sonnenkliff weiß, als sie zugibt.
+Die Taverne ist ein hervorragender Ort für Gerüchte, Aufträge und Begegnungen. Außerdem erzählt man sich, dass die Besitzerin vor vielen Jahren selbst zur See gefahren ist und mehr über die Gewässer vor [[Sonnenkliff]] weiß, als sie zugibt.
 
 
 

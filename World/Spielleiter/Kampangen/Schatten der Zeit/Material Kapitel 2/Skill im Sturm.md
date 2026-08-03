@@ -1,7 +1,7 @@
 ## Ablauf
 
 1. Du liest die Szene vor
-2. Die Spieler entscheiden frei, wie sie helfen
+2. Die [[Spieler]] entscheiden frei, wie sie helfen
 3. Jeder würfelt passend zu seiner Aktion
 4. Mehrheit entscheidet den Ausgang
 

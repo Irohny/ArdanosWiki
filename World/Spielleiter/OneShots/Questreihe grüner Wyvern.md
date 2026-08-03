@@ -35,7 +35,7 @@ Ein alter Tagebucheintrag eines Zwergenreisenden erwähnt den "ewigen Wirt Garro
 4. **Verteidigt die Taverne** gegen einen Übergriff (Stadtwache, Steuereintreiber) – Garron beobachtet, greift aber nur subtil ein.
     
 
-📘 Am Ende überreicht Garron eine geisterhafte Medaille mit dem Wappen der Taverne: ein grüner Wyvern in einer Hopfenschnur.
+📘 Am Ende überreicht Garron eine geisterhafte Medaille mit dem Wappen der Taverne: ein [[grüner Wyvern]] in einer Hopfenschnur.
 
 ---
 

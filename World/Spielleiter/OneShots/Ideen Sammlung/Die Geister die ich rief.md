@@ -1,4 +1,4 @@
-# Die Geister die ich rief
+# [[Die Geister die ich rief]]
 
 ### Plot
 Magier kommt mit den Geistern, die er beschwor nicht zurecht.

@@ -24,7 +24,7 @@ Der Blick des Soldaten bleibt an einem der Spielercharaktere hängen (du kannst 
 ### 🧩 **Mögliche Entwicklungen**
 
 1. **Klärendes Gespräch**  
-    Der Hauptmann ist misstrauisch, aber offen. Die Spieler können versuchen, die Unschuld ihres Gefährten zu beweisen (Wurf auf Überzeugen, Geschichte, Täuschung – je nach Hintergrund).
+    Der Hauptmann ist misstrauisch, aber offen. Die [[Spieler]] können versuchen, die Unschuld ihres Gefährten zu beweisen (Wurf auf Überzeugen, Geschichte, Täuschung – je nach Hintergrund).
     
 2. **In Gewahrsam**  
     Der verdächtigte SC wird „bis zur Klärung“ festgenommen. Die Gruppe kann verhandeln, Informationen auftreiben oder Hilfe suchen, um ihn freizubekommen.
@@ -39,7 +39,7 @@ Der Blick des Soldaten bleibt an einem der Spielercharaktere hängen (du kannst 
 
 - **Wahrnehmung (DC 15):** Einer der SC bemerkt, dass der Hauptmann _nicht überrascht_ ist – als hätte er von der Gruppe gewusst.
     
-- **Geschichte (DC 13):** Die Namen Vesh & Vaylen sind tatsächlich bekannt – es gab dort kürzlich politische Unruhen.
+- **Geschichte (DC 13):** Die Namen Vesh & [[Vaylen]] sind tatsächlich bekannt – es gab dort kürzlich politische Unruhen.
     
 - **Überreden/Täuschen (DC 16–20 je nach Herangehensweise):** Um Garvens Verdacht zu zerstreuen oder Zeit zu gewinnen.
     

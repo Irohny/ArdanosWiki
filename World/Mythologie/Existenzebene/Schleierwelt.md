@@ -1,11 +1,11 @@
 **Ebene von [[Lyrithiel]] – Gott der List und Geheimnisse**
 
-Die **Schleierwelt** ist ein Reich aus Schatten, Spiegeln und fließenden Illusionen.
+Die **[[Schleierwelt]]** ist ein Reich aus Schatten, Spiegeln und fließenden Illusionen.
 - Die Landschaft verändert sich ständig; Wege, Räume und Gestalten sind schwer greifbar.
 - Hier wirken **Intrigen, Täuschungen und verborgene Magie** besonders stark.
 - Reisende fühlen sich beobachtet, und Wahrheit und Lüge verschwimmen.
 - Magier, Spione und Trickster suchen diese Ebene, um **verborgene Erkenntnisse oder geheime Wege** zu finden.
-- Die Schleierwelt ist das **versteckte Gewebe zwischen den Ebenen**, verbunden durch Lyrithiels Macht.
+- Die [[Schleierwelt]] ist das **versteckte Gewebe zwischen den Ebenen**, verbunden durch Lyrithiels Macht.
 
 #### Weitere Orte:
 ##### **Der Hof der tausend Masken**
@@ -21,6 +21,6 @@ Ein stiller Garten mit silbernen Bäumen und dunklen Teichen. Wer hier verweilt,
 ##### **Der Schleiersee**
 Ein großer, ruhiger See, dessen Oberfläche wie ein Spiegel wirkt. Wer hineinblickt, sieht nicht sich selbst, sondern **die Gestalt, die er vor anderen verbirgt**.
 ##### **Die Halle der gebrochenen Eide**
-Eine verfallene Halle, deren Wände mit alten Verträgen und Eiden bedeckt sind. Viele wurden gebrochen, andere nie erfüllt. Manche sagen, dass hier die ersten Pakte entstanden, die später von Lyrithiel selbst beeinflusst wurden.
+Eine verfallene Halle, deren Wände mit alten Verträgen und Eiden bedeckt sind. Viele wurden gebrochen, andere nie erfüllt. Manche sagen, dass hier die ersten Pakte entstanden, die später von [[Lyrithiel]] selbst beeinflusst wurden.
 ##### **Die verborgene Pforte**
 Ein Tor ohne festen Ort, das sich nur manchmal zeigt. Es kann zu **anderen Ebenen, vergessenen Orten oder verlorenen Welten** führen – doch niemand weiß, wann oder wo es erscheint.
