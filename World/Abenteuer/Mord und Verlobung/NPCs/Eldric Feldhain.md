@@ -61,23 +61,23 @@
 
 ## Hintergrund
 
-Eldric Feldhain wuchs in den niedrigen Vierteln [[Tiravor]]s auf, dort, wo der **Dan** in den **[[Lumaros]]** mündet. Sein Leben war von Arbeit, Pflicht und dem Wissen geprägt, dass niemand kommen würde, um die Stadt zu retten – wenn nicht ihre eigenen Leute.
+[[Eldric Feldhain]] wuchs in den niedrigen Vierteln [[Tiravor]]s auf, dort, wo der **Dan** in den **[[Lumaros]]** mündet. Sein Leben war von Arbeit, Pflicht und dem Wissen geprägt, dass niemand kommen würde, um die Stadt zu retten – wenn nicht ihre eigenen Leute.
 
 Noch vor seinem zwanzigsten Lebensjahr meldete sich Eldric freiwillig für den **[[Muschelkrieg]] (1401–1402 n.d.D.)**. Er kämpfte auf Seiten der Händler von **[[Mariven]]** gegen die **Besatzung [[Elmrath]]s**, meist an den Küsten, in feuchten Sümpfen und an unruhigen Flussmündungen. Dort lernte er, dass Disziplin Leben rettet – und Zögern tötet.
 
 An seiner Seite kämpfte **[[Maran Danlauf]]**. Die beiden wurden nicht durch große Worte zu Brüdern, sondern durch Nächte im Schlamm, durch gemeinsam gehaltene Linien und durch das Wissen, dass der andere stehen bleibt.
 
-### Der Dämon von Tiravor (ca. 1408 n.d.D.)
+### Der Dämon von [[Tiravor]] (ca. 1408 n.d.D.)
 
-Der Cambion kam nicht als Monster.
+Der Cambion kam nicht als [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]].
 
 Er kam als Mensch.
 
-Über Jahre hinweg trat er unter wechselnden Namen auf: als Händler, als Berater, als frommer Wohltäter. Er beeinflusste den Stadtrat, säte Misstrauen zwischen Garnison und Bürgern, versprach Schutz – gegen einen Preis. Sein Ziel war klar: **Kontrolle über Tiravor**, nicht durch Zerstörung, sondern durch Abhängigkeit.
+Über Jahre hinweg trat er unter wechselnden Namen auf: als Händler, als Berater, als frommer Wohltäter. Er beeinflusste den Stadtrat, säte Misstrauen zwischen Garnison und Bürgern, versprach Schutz – gegen einen Preis. Sein Ziel war klar: **Kontrolle über [[Tiravor]]**, nicht durch Zerstörung, sondern durch Abhängigkeit.
 
 Als seine Intrigen aufflogen und sein Einfluss zerbrach, zeigte er sein wahres Gesicht.
 
-In einer einzigen Nacht riss er die Masken fort und führte eine **dämonische Streitmacht** aus den feuchten Niederungen des Lumaros gegen die Stadt. Tore brannten, Menschen flohen, und Tiravor stand kurz davor, zu fallen.
+In einer einzigen Nacht riss er die Masken fort und führte eine **dämonische Streitmacht** aus den feuchten Niederungen des [[Lumaros]] gegen die Stadt. Tore brannten, Menschen flohen, und [[Tiravor]] stand kurz davor, zu fallen.
 
 Eldric stellte sich ihm entgegen.  
 Nicht als Held – sondern als Soldat.

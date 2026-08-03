@@ -2,7 +2,7 @@
 
 Schiff von [[Kapitän Havoc]]
 ### Kapitel 1:
-* Die Windhexe liegt im Hafen von [[Luminara]]
+* Die [[Windhexe]] liegt im Hafen von [[Luminara]]
 
 ### Crew
 ![[Kapitän Havoc]]

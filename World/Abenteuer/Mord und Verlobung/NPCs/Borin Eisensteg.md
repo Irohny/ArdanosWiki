@@ -91,17 +91,17 @@ Bonus +7
 
 ## Hintergrund
 
-Borin Eisensteg kämpfte im **Muschelkrieg** mit der Überzeugung, dass Ordnung und Recht verteidigt werden müssen – koste es, was es wolle. Doch was er sah, war kein gerechter Krieg. Es waren verbrannte Dörfer, gebrochene Eide und Befehle, die Verantwortung nach oben weiterreichten.
+[[Borin Eisensteg]] kämpfte im **[[Muschelkrieg]]** mit der Überzeugung, dass Ordnung und Recht verteidigt werden müssen – koste es, was es wolle. Doch was er sah, war kein gerechter Krieg. Es waren verbrannte [[Dörfer]], gebrochene Eide und Befehle, die Verantwortung nach oben weiterreichten.
 
 Nach dem Krieg legte Borin sein Banner nieder.
 
-Er schwor neu – nicht einem Fürsten, sondern den Menschen. Er zog nach Tiravor, baute eine Schmiede und wurde zu dem, was die Stadt brauchte: ein Zuhörer, ein Helfer, ein Schild.
+Er schwor neu – nicht einem Fürsten, sondern den Menschen. Er zog nach [[Tiravor]], baute eine Schmiede und wurde zu dem, was die Stadt brauchte: ein Zuhörer, ein Helfer, ein Schild.
 
 Schon vor dem Cambion war Borin eine feste Größe. Wenn Streit drohte, ging man zu ihm. Wenn jemand Schutz brauchte, stellte er sich davor.
 
-### Der Dämon von Tiravor (1408 n.d.D.)
+### Der Dämon von [[Tiravor]] (1408 n.d.D.)
 
-Borin erkannte im Cambion alles, was er im Muschelkrieg verachtet hatte: Kontrolle, Täuschung, Macht ohne Verantwortung.  
+Borin erkannte im Cambion alles, was er im [[Muschelkrieg]] verachtet hatte: Kontrolle, Täuschung, Macht ohne Verantwortung.  
 Er stellte sich dem Dämon nicht für Ruhm, sondern für jeden Bürger, der keinen Schild trug.
 
 Seit jener Nacht ist sein Eid unumstößlich

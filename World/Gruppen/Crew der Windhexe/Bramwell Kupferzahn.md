@@ -19,13 +19,13 @@ Metadatenfelder aus dieser Struktur.
 - **Verknuepfte NPCs:** [[Kapitän Havoc]]
 - **Bekannt fuer:** Schiffsreparaturen, Werkzeugfetisch, ruppige Loyalitaet
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #windhexe #crew #ingenieur #zwerg
+- **Tags:** #[[windhexe]] #crew #ingenieur #zwerg
 
 ## Beschreibung und Auftreten
 
 ![[BRamwellKupferzahn.jpg|200]]
 
-Bramwell Kupferzahn ist der zankende, aber verlässliche
+[[Bramwell Kupferzahn]] ist der zankende, aber verlässliche
 Schiffsingenieur der [[Windhexe]].
 Er liebt sein Werkzeug mehr als die meisten Menschen und spricht mit dem
 Schiff, als wäre es ein lebendiges Haustier.

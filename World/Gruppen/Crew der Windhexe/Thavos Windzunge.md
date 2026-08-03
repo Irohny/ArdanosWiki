@@ -19,13 +19,13 @@ Metadatenfelder aus dieser Struktur.
 - **Verknuepfte NPCs:** [[Kapitän Havoc]]
 - **Bekannt fuer:** Windmagie, Navigation, Jagd nach dem perfekten Sturm
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #windhexe #crew #navigator #magie
+- **Tags:** #[[windhexe]] #crew #navigator #magie
 
 ## Beschreibung und Auftreten
 
 ![[ThavosWindzunge.jpg|400]]
 
-Thavos Windzunge ist der zauberkundige Navigator der [[Windhexe]] und
+[[Thavos Windzunge]] ist der zauberkundige Navigator der [[Windhexe]] und
 wirkt wie ein ueberdrehter Magier mit zu vielen Ideen gleichzeitig.
 Er sucht staendig nach dem "perfekten Sturm" und behauptet, mit dem
 Wind selbst fluestern zu koennen.

@@ -1,9 +1,9 @@
 - **Rufname / Beiname:** Bruder Calen
 - **Titel / Amt:** Priester im [[Ocyra]]-Tempel
 - **Haus / Dynastie:**
-- **Regentschaft:** Tiravor
+- **Regentschaft:** [[Tiravor]]
 - **Spezies / Volk:** Halbelf
-- **Herkunft:** Tiravor
+- **Herkunft:** [[Tiravor]]
 - **Geburtsjahr:**
 - **Sterbejahr:**
 - **Alter:**
@@ -12,7 +12,7 @@
 - **Verknuepfte NPCs:** [[Roderic Marith]], [[Noah Silberklinge]], [[Elowen Marith]]
 - **Bekannt fuer:** Seelsorge, Mitgefuehl, ruhige Beobachtung
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #tiravor #priester #ocyra
+- **Tags:** #[[tiravor]] #priester #[[ocyra]]
 
 ## Beschreibung und Auftreten
 
@@ -22,7 +22,7 @@ spricht vorsichtig und wirkt auch dann gesammelt, wenn andere bereits kippen.
 
 ## Rolle und Beziehungen
 
-Er ist geistlicher Ansprechpartner in Tiravor und kann die Gruppe bei Heilung,
+Er ist geistlicher Ansprechpartner in [[Tiravor]] und kann die Gruppe bei Heilung,
 Einordnung und moralischer Bewertung stuetzen.
 
 - [[Noah Silberklinge]]: glaubwuerdiger Zeuge fuer das Alibi von Roderic

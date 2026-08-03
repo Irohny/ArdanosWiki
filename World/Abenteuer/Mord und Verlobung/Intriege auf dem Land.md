@@ -1,6 +1,6 @@
 **Empfohlene Stufe:** Lvl 3–5 (skalierbar)
 **Dauer:** 3–5 Stunden
-**Zeitalter** 1415 n.d.D 2. Zeitalter
+**[[Zeitalter]]** 1415 n.d.D 2. [[Zeitalter]]
 
 **Orte:** [[Tiravor]] an der [[Bernsteinküste]] am [[Lumaros]]
 **Zeit:** Zeit des Lichtes/ Frühling kurz nach der Zeit des Todes / Winter)
@@ -8,12 +8,12 @@
 ---
 ## Akt 1 - Der Auftrag / Einführung
 
-„Der Markt von Tiravor pulsiert vor Leben.  
+„Der Markt von [[Tiravor]] pulsiert vor Leben.  
 Zwischen dicht gedrängten Ständen hängen bunte Tücher im warmen Frühlingslicht, während Händler lautstark ihre Waren anpreisen.  
 Der Duft von Gewürzen und frischem Brot liegt in der Luft.  
 Körbe voller Kräuter, glänzende Fische und kunstvoll geschmiedete Werkzeuge reihen sich aneinander.
 
-Immer wieder trägt der Wind das Rauschen des Lumaros herüber – heute lauter und wilder als sonst. 
+Immer wieder trägt der Wind das Rauschen des [[Lumaros]] herüber – heute lauter und wilder als sonst. 
 
 Möwen kreisen über den Dächern, und irgendwo lacht ein Kind, während sich Menschen durch die engen Gassen des Marktes schieben.“
 
@@ -28,14 +28,14 @@ Das Wetter ist sonnig, allerdings ist der [[Lumaros]] wilder als sonst, da es in
 [[Thalion Grünquell]] -> Ist auf der Suche nach einem Händler mit Kräutern für Tränke die im Tempel gebraucht werden
 - Er spürt einen Wind der ihm nicht Vertraut ist, irgendwas liegt in der Luft, was ihm nicht geheur ist
 
-[[Joram Lumarsson]] -> Ist auf der Suche nach einem guten Met und Gesellschaft, da der Lumaros heute so wild ist, dass er niemanden mit der Fähre übersetzen kann
+[[Joram Lumarsson]] -> Ist auf der Suche nach einem guten Met und Gesellschaft, da der [[Lumaros]] heute so wild ist, dass er niemanden mit der Fähre übersetzen kann
 
 [[Maran Danlauf]] -> Sucht den Stand von [[Borin Eisensteg]] um neue Pfeilspitzen zu kaufen
 
 ~~[[Borin Eisensteg]] -> Steht am Stand und Verkauft seine Werkzeuge und Waffen~~
 
 - Der Händler [[Hendrik Vaelor]] bittet um eine Eskorte nach [[Sonnenkliff]]
-	- es sollen unbekannte Söldner in der Nähe gesehen worden sein
+	- es sollen unbekannte [[Söldner]] in der Nähe gesehen worden sein
 	- Empfehlung von [[Roderic Marith]]
 	- Transport von Wertvollen Stoffen, die er letzte Woche von einem Händler gekauft hatte und nun nach [[Verethia]] bringen möchte
 	
@@ -59,7 +59,7 @@ Das Wetter ist sonnig, allerdings ist der [[Lumaros]] wilder als sonst, da es in
 - Schulterhohe Büsche stehen an Rändern des Weges
 -  Später Nachmittag → Abend → Nacht
 > „Der Pfad wird schmaler.  
-> Links und rechts steigt feuchtes Buschwerk an, dicht und unübersichtlich.“
+> [[Links]] und rechts steigt feuchtes Buschwerk an, dicht und unübersichtlich.“
 
 ![[MapHinterhalt.jpg|400]]
 >
@@ -69,7 +69,7 @@ Lass **Wahrnehmung** zu – egal ob erfolgreich oder nicht, **etwas fühlt sich 
 **Gegner**
 - [[Grauklingen]]
 - 2x [[Söldner]],  [[Schwarze Viper (Attentäter)]]
-- Söldner steht erhöht mit dem Bogen
+- [[Söldner]] steht erhöht mit dem Bogen
 - Hinterhalt
 - Fokusangriffe auf das Ziel (Rufen seinen Namen)
 - Versuche zu fesseln oder tödlich zu verwunden
@@ -95,7 +95,7 @@ Lass **Wahrnehmung** zu – egal ob erfolgreich oder nicht, **etwas fühlt sich 
 - "reicher Auftraggeber“
 - „sprach von Ehre / Familie“
 - Motiv: „Unwürdige Verbindung“
-- Die Söldner haben den Auftrag in der Abenddämmerung vor 2 Tagen am östlichen Ende der Stadt am Lumaros erhalten
+- Die [[Söldner]] haben den Auftrag in der Abenddämmerung vor 2 Tagen am östlichen Ende der Stadt am [[Lumaros]] erhalten
 
 Szene endet in der Abenddämerung, sodass die Gruppe in der Wildniss übernachten muss zu weit zum nächsten Dorf, entlang beider Richtungen
 
@@ -140,8 +140,8 @@ Dann:
 
 Nach dem Kampf am nächsten morgen 
 - Gruppe soll wieder zurück nach [[Tiravor]]
-- Händler möchte lieber alleine weiter Riesen, da die Söldner es ja nur auf die Gruppe abgesehen haben
-- Er schlägt vor, dass die Gruppe in [[Tiravor]] versucht herauszufinden, wer die Söldner angeheuert hat
+- Händler möchte lieber alleine weiter Riesen, da die [[Söldner]] es ja nur auf die Gruppe abgesehen haben
+- Er schlägt vor, dass die Gruppe in [[Tiravor]] versucht herauszufinden, wer die [[Söldner]] angeheuert hat
 
 
 ---
@@ -154,7 +154,7 @@ Nach dem Kampf am nächsten morgen
 - Adliger / wohlhabender Bürger
 - Aufrichtig schockiert
 - Leugnet glaubhaft,
-- Alibi: Er war mit Noah Silberklinge (Kommandant der Garnision) und Bruder Wellenruh (Oberster Priester im Tempel)  in der Festung und hat über die Planung des Sonnenfestes gesprochen, die von frühen Nachmittag bis spät in die nacht
+- Alibi: Er war mit [[Noah Silberklinge]] (Kommandant der Garnision) und Bruder Wellenruh (Oberster Priester im Tempel)  in der Festung und hat über die Planung des Sonnenfestes gesprochen, die von frühen Nachmittag bis spät in die nacht
     
 **Phase 2:**
 - [[Elowen Marith]] betritt das Zimmer
@@ -191,7 +191,7 @@ Nach dem Kampf am nächsten morgen
 	- Nach 3 Akt: Konsti Rett SG 15: Dein ganzer Körper scheint von innen zu verbrennen. Die Schmerzen sind so Stark, dass du (Erfolg fast) auf den Knie fällst
 	- N-2 Akt: Du siehst und hörst nichts mehr. Die Schmerzen sind so groß, dass sie dir alle Sinne rauben
 	- N-1 Akt: Du fällst Ohnmächtig um
-	- N: Spieler ist Tod
+	- N: [[Spieler]] ist Tod
 	
 **Motiv**
 - Sie will den Geliebten loswerden

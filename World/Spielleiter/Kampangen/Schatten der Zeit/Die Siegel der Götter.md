@@ -25,7 +25,7 @@ Relikt: **Amboss der ersten Flamme**
 Eine große Schmiedehalle. Die Wände sind voller Reliefe von Schlachten und Kriegen. Dazwischen schimmern im feuerig roten Licht uralte Zwergenrunen auf. An einer Seite stehen zwei Schmiedeöfen, die seit Jahrhundernten ohne Brennstoffe zu brennen scheinen - so heiß wie sonst keine bekannten Shcniedeöfen. Dazwischen steht der Amboss der ersten Flamme.
 ### Funktionsweise
 
-Das Feuer der Öfen erhält die Ketten am Leben, die [[Volgrin]] selbst aus den Flammen geschmiedet hat um Ephazul zu fesseln.
+Das Feuer der Öfen erhält die Ketten am Leben, die [[Volgrin]] selbst aus den Flammen geschmiedet hat um [[Ephazul]] zu fesseln.
 
 Wenn Öfen erlöschen:
 - die Öfen zerfallen

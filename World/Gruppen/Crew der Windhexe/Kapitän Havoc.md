@@ -22,7 +22,7 @@ Metadatenfelder aus dieser Struktur.
 - **Bekannt fuer:** waghalsige Entscheidungen, Seemannswitze,
   furchtlosen Optimismus
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #windhexe #crew #kapitaen #seefahrt
+- **Tags:** #[[windhexe]] #crew #kapitaen #seefahrt
 
 ## Beschreibung und Auftreten
 
@@ -42,7 +42,7 @@ Katastrophen mit einem lockeren Spruch.
 
 - [[Windhexe]]: Kapitaen und praegende Fuehrungsfigur der Crew
 - [[Marktgraf Reodemus]]: Verbuendeter und potentieller Auftraggeber
-- Crew der Windhexe: haelt die bunte Mannschaft durch Wagemut und Charme
+- Crew der [[Windhexe]]: haelt die bunte Mannschaft durch Wagemut und Charme
   zusammen
 
 <!--

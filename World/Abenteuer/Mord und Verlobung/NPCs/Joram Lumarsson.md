@@ -72,24 +72,24 @@
 
 ## Hintergrund
 
-Joram verließ Tiravor jung, getrieben von dem Wunsch, mehr zu sehen als den immergleichen Fluss. Er heuerte bei der **Marine Marivens** an und verbrachte Jahre auf Schiffen, die Küsten sicherten, Blockaden durchbrachen und manchmal Dinge taten, über die man später nicht sprach.
+Joram verließ [[Tiravor]] jung, getrieben von dem Wunsch, mehr zu sehen als den immergleichen Fluss. Er heuerte bei der **Marine Marivens** an und verbrachte Jahre auf Schiffen, die Küsten sicherten, Blockaden durchbrachen und manchmal Dinge taten, über die man später nicht sprach.
 
 Er war kein Offizier. Er war der, der hielt, wenn andere fielen.
 
 Der Krieg machte ihn stark – und müde.
 
-Nach dem Muschelkrieg kehrte Joram zurück. Nicht aus Patriotismus, sondern aus Erschöpfung. Er reparierte die Fähre, baute Netze, lernte erneut, wie sich ehrliche Arbeit anfühlt. Eldric war einer der Ersten, die ihn willkommen hießen.
+Nach dem [[Muschelkrieg]] kehrte Joram zurück. Nicht aus Patriotismus, sondern aus Erschöpfung. Er reparierte die Fähre, baute Netze, lernte erneut, wie sich ehrliche Arbeit anfühlt. Eldric war einer der Ersten, die ihn willkommen hießen.
 
-### Der Dämon von Tiravor (ca. 1408 n.d.D.)
+### Der Dämon von [[Tiravor]] (ca. 1408 n.d.D.)
 
 Joram hat gelernt, dass es egal ist, woher ein Angriff kommt – vom Meer oder aus der Hölle. Während Eldric und Maran den Kern des Feindes suchten, hielt Joram mit bloßen Händen und schwerem Gerät die Fähre und die Zivilistenlinie.
 
 Er verlor in dieser Nacht Freunde.  
-Aber Tiravor blieb stehen.
+Aber [[Tiravor]] blieb stehen.
 
 ### Gegenwart
 
-Joram spricht wenig über seine Zeit zur See. Aber nachts sitzt er oft am Lumaros und sieht Strömungen, die nicht da sein sollten.
+Joram spricht wenig über seine Zeit zur See. Aber nachts sitzt er oft am [[Lumaros]] und sieht Strömungen, die nicht da sein sollten.
 
 Er hat den Krieg hinter sich gelassen.  
 Aber die Wut des Krieges hat ihn nicht verlassen.

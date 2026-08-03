@@ -1,5 +1,5 @@
 #Ereignis 
-#Ardanos
+#[[Ardanos]]
 #Kaiserreich 
 
 Zeitspanne: 2345 n.d.D

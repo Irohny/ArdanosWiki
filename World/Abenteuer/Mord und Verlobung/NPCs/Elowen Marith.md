@@ -1,9 +1,9 @@
 - **Rufname / Beiname:** Elowen
 - **Titel / Amt:**
 - **Haus / Dynastie:** Haus Marith
-- **Regentschaft:** Tiravor
+- **Regentschaft:** [[Tiravor]]
 - **Spezies / Volk:** Mensch
-- **Herkunft:** Tiravor
+- **Herkunft:** [[Tiravor]]
 - **Geburtsjahr:**
 - **Sterbejahr:**
 - **Alter:**
@@ -13,7 +13,7 @@
   [[Roderic Marith]]
 - **Bekannt fuer:** Anmut, kontrollierte Freundlichkeit, gesellschaftliche Sicherheit
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #tiravor #marith #intrige
+- **Tags:** #[[tiravor]] #marith #intrige
 
 ## Beschreibung und Auftreten
 

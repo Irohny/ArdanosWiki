@@ -1,18 +1,18 @@
 ## 🧭 Ausgangslage
 
-Elaena Silberhand ist verschwunden. Sie sucht Hinweise auf das Schicksal ihres Vaters **Candamir Silberhand**. Unterstützt wird sie von **Selvian Korth**, der glaubt, dass die Aufzeichnungen des Paladins **Edran Tiefstrom** auf dem versunkenen Schiff _Azure Rune_ liegen.
+[[Elaena Silberhand]] ist verschwunden. Sie sucht Hinweise auf das Schicksal ihres Vaters **[[Candamir Silberhand]]**. Unterstützt wird sie von **[[Selvian Korth]]**, der glaubt, dass die Aufzeichnungen des Paladins **[[Edran Tiefstrom]]** auf dem versunkenen Schiff _Azure Rune_ liegen.
 
 ---
 
-## ⚓ Azure Rune
+## ⚓ [[Azure Rune]]
 
-Azure Rune  
+[[Azure Rune]]  
 Das Schiff sank vor ca. 500 Jahren nahe der Nordküste von Aelvarnis, unweit der Ruinen von Runathis. Es wurde vom Leviathan angegriffen, bevor es sein Ziel erreichte.
 
 An Bord befanden sich:
 
-- Candamir Silberhand
-- Aufzeichnungen von Edran Tiefstrom
+- [[Candamir Silberhand]]
+- Aufzeichnungen von [[Edran Tiefstrom]]
 
 ---
 
@@ -25,13 +25,13 @@ Ein uraltes Meereswesen, das nicht zufällig angreift, sondern als Wächter der 
 
 ## 📜 Edran Tiefstroms Aufzeichnungen
 
-Edran Tiefstrom  
+[[Edran Tiefstrom]]  
 Die Aufzeichnungen sind fragmentarisch und nur teilweise rekonstruierbar. Sie enthalten folgende Hinweise:
 
 - Der Kompass des Sturmlords konnte nicht aus Runathis entfernt werden
-- Er befindet sich im Tempel von Ocyra in den Ruinen von Runathis
-- Die Azure Rune wurde versenkt, um den Strömungsknoten zu stabilisieren
-- Der Kompass muss in der Halle der Gezeiten in Verethia reaktiviert werden
+- Er befindet sich im Tempel von [[Ocyra]] in den Ruinen von Runathis
+- Die [[Azure Rune]] wurde versenkt, um den Strömungsknoten zu stabilisieren
+- Der Kompass muss in der Halle der Gezeiten in [[Verethia]] reaktiviert werden
 
 ---
 
@@ -49,10 +49,10 @@ Eine versunkene Handelsmetropole des 1. Zeitalters. Sie bildet einen zentralen K
 
 ---
 
-## 🏛️ Verethia – Halle der Gezeiten
+## 🏛️ [[Verethia]] – Halle der Gezeiten
 
-Mariven  
-Ein Tempel von Ocyra im Küstenreich Mariven. Er dient nicht als Aktivierungsort, sondern als Resonanz- und Warnsystem des Siegel der Ströme.
+[[Mariven]]  
+Ein Tempel von [[Ocyra]] im Küstenreich [[Mariven]]. Er dient nicht als Aktivierungsort, sondern als Resonanz- und Warnsystem des Siegel der Ströme.
 
 Nach der Bergung des Kompasses:
 
@@ -77,6 +77,6 @@ Dies führt zu:
 
 ## 🎯 Kampagnenkern
 
-Die Gruppe sucht zunächst nach Candamir Silberhand, entdeckt jedoch schrittweise, dass sie Teil eines größeren Systems sind:
+Die Gruppe sucht zunächst nach [[Candamir Silberhand]], entdeckt jedoch schrittweise, dass sie Teil eines größeren Systems sind:
 
 > Das Siegel der Ströme ist kein Relikt – sondern ein lebender Mechanismus, der durch ihre Handlungen bricht.

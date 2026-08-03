@@ -1,5 +1,5 @@
 #Ereignis
-#Schwarzklamm
+#[[Schwarzklamm]]
 
 Zeitspanne: 2163 n.d.D
 

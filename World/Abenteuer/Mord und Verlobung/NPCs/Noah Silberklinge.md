@@ -1,9 +1,9 @@
-- **Rufname / Beiname:** Noah Silberklinge
+- **Rufname / Beiname:** [[Noah Silberklinge]]
 - **Titel / Amt:** Hauptmann der Garnison
 - **Haus / Dynastie:**
-- **Regentschaft:** Tiravor
+- **Regentschaft:** [[Tiravor]]
 - **Spezies / Volk:** Elf
-- **Herkunft:** Tiravor
+- **Herkunft:** [[Tiravor]]
 - **Geburtsjahr:**
 - **Sterbejahr:**
 - **Alter:**
@@ -12,11 +12,11 @@
 - **Verknuepfte NPCs:** [[Roderic Marith]], [[Bruder Calen Wellenruh]]
 - **Bekannt fuer:** Disziplin, Pflichterfuellung, politische Vorsicht
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #tiravor #hauptmann #garnison
+- **Tags:** #[[tiravor]] #hauptmann #garnison
 
 ## Beschreibung und Auftreten
 
-Noah Silberklinge wirkt diszipliniert, erschoepft und in jedem Satz kontrolliert.
+[[Noah Silberklinge]] wirkt diszipliniert, erschoepft und in jedem Satz kontrolliert.
 Er ist keiner, der vorschnell urteilt, sondern einer, der Konsequenzen fuer Stadt
 und Ordnung immer mitdenkt.
 
@@ -31,7 +31,7 @@ zwischen Wahrheit und politischer Stabilitaet.
 
 ## Ziele
 
-Will die Wahrheit sichern, ohne Tiravor in einen offenen politischen
+Will die Wahrheit sichern, ohne [[Tiravor]] in einen offenen politischen
 Skandal kippen zu lassen.
 
 ## Plot-Hooks

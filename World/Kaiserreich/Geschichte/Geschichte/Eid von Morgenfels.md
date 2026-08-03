@@ -37,7 +37,7 @@ Er beschwor die Fürsten, ihre alten Gräben zu überbrücken, erinnerte sie an 
 
 ### Der Schwur
 
-Auf dem **Morgenfels** legten die Fürsten mit einem uralten Ritual den **Eid der Morgenbrüder** ab:
+Auf dem **[[Morgenfels]]** legten die Fürsten mit einem uralten Ritual den **Eid der Morgenbrüder** ab:
 
 > „Wir schwören bei den ersten Lichtern, dass unser Stahl nicht mehr gegeneinander, sondern gegen jene gerichtet sei, die unser Land bedrohen. Kein alter Zorn, keine Goldschuld und kein uralter Groll soll schwerer wiegen als das Leben unserer Völker.“
 
@@ -45,4 +45,4 @@ Die Winde verstummten. Die Sonne stieg hinter den Bergen empor und tauchte den F
 
 ---
 
-Heute erinnert ein steinerner **Eidobelisk** am Morgenfels an den Schwur. Jeder neue Kaiser von [[Ardanos]] besucht ihn am Tag seiner Krönung, um den Eid erneut zu sprechen.
+Heute erinnert ein steinerner **Eidobelisk** am [[Morgenfels]] an den Schwur. Jeder neue Kaiser von [[Ardanos]] besucht ihn am Tag seiner Krönung, um den Eid erneut zu sprechen.

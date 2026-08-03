@@ -1,6 +1,6 @@
 > _„Der Amboss ruht, und der Fluss fließt kalt.“_
 
-Die Abenteurer erreichen Ur-Gralnir, als eine **seltsame Stille** den Tempel heimsucht. Der **Velgrim** – der ewige Strom – fließt noch, aber **keine Visionen erscheinen mehr im Wasser**, und die Priester spüren einen „Bruch im Strom“.
+Die Abenteurer erreichen [[Ur-Gralnir]], als eine **seltsame Stille** den Tempel heimsucht. Der **Velgrim** – der ewige Strom – fließt noch, aber **keine Visionen erscheinen mehr im Wasser**, und die Priester spüren einen „Bruch im Strom“.
 
 **Anzeichen**:
 
@@ -12,7 +12,7 @@ Die Abenteurer erreichen Ur-Gralnir, als eine **seltsame Stille** den Tempel hei
     
 
 **Twist**:  
-Ein Agent des **Zeitdiebes** hat unbemerkt einen **Teil des Flusses „gestohlen“**, um sein Ritual vorzubereiten. Die Verbindung zwischen [[Volgrin]] und seiner Schöpfung beginnt zu **bröckeln** – und Ur-Gralnir ist das erste Opfer.
+Ein Agent des **Zeitdiebes** hat unbemerkt einen **Teil des Flusses „gestohlen“**, um sein Ritual vorzubereiten. Die Verbindung zwischen [[Volgrin]] und seiner [[Schöpfung]] beginnt zu **bröckeln** – und [[Ur-Gralnir]] ist das erste Opfer.
 
 ---
 

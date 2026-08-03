@@ -20,13 +20,13 @@ Metadatenfelder aus dieser Struktur.
 - **Bekannt fuer:** Eintoepfe, Versorgungsplanung, gladiatorische
   Vergangenheit mit poetischem Einschlag
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #windhexe #crew #koch #quartiermeister
+- **Tags:** #[[windhexe]] #crew #koch #quartiermeister
 
 ## Beschreibung und Auftreten
 
 ![[KrinnBlatwender.jpg|200]]
 
-Krinn Blattwender ist der Koch und Quartiermeister der [[Windhexe]] und
+[[Krinn Blattwender]] ist der Koch und Quartiermeister der [[Windhexe]] und
 wirkt zugleich wie ein ehemaliger Kaempfer, der die Poesie entdeckt hat.
 Als frueherer Gladiator liebt die Figur heute Suppen, Rhythmus und
 dramatische Zeilen aus selbst geschriebenen Rezepten.
@@ -37,7 +37,7 @@ dramatische Zeilen aus selbst geschriebenen Rezepten.
 ## Rolle und Beziehungen
 
 - [[Windhexe]]: sichert Vorräte, Verpflegung und Alltagsabläufe an Bord
-- Crew der Windhexe: versorgt die Mannschaft und bringt eigenwillige
+- Crew der [[Windhexe]]: versorgt die Mannschaft und bringt eigenwillige
   Ruhe in den Bordalltag
 
 <!--

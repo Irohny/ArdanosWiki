@@ -1,7 +1,7 @@
 ![[Paktfest.png|300]]
 Das **Paktfest von Len’yrel** markiert einen der bedeutendsten Wendepunkte in der Geschichte [[Elmrath]]s und stellt das symbolische wie politische Fundament des Fürstentums dar.
 
-Im Jahre **553 n.d.D.** im **Ersten Zeitalter** wurde in der heiligen Lichtung von **Len’yrel**, einer neutralen, magisch geweihten Stätte am Rand des [[Immergrüner Hain]]s, das **Friedensabkommen** zwischen den **Waldvölkern** – darunter Waldelfen, Druidenzirkel und naturverbundene Gemeinschaften – und den **Hochalben der [[Goldene Weite]]** geschlossen. Die Jahrzehnte andauernden Grenzkonflikte und Ressourcenkämpfe fanden an diesem Tag ein Ende.
+Im Jahre **553 n.d.D.** im **Ersten [[Zeitalter]]** wurde in der heiligen Lichtung von **Len’yrel**, einer neutralen, magisch geweihten Stätte am Rand des [[Immergrüner Hain]]s, das **Friedensabkommen** zwischen den **Waldvölkern** – darunter Waldelfen, Druidenzirkel und naturverbundene Gemeinschaften – und den **Hochalben der [[Goldene Weite]]** geschlossen. Die Jahrzehnte andauernden Grenzkonflikte und Ressourcenkämpfe fanden an diesem Tag ein Ende.
 
 Das Fest selbst war ein mehrtägiges Ereignis voller Rituale, Gesänge und alter elfischer Zeremonien. Magische Eide wurden gesprochen, uralte Bäume leuchteten unter dem Einfluss der gemeinsamen arkano-naturalen Kräfte, und es heißt, selbst die Naturgeister hätten am Schwur teilgenommen. In der Mitte der Lichtung wurde ein Baum gepflanzt, der heute noch auf dieser Lichtung steht und als **Friedensbaum von Len’yrel** bekannt ist.
 

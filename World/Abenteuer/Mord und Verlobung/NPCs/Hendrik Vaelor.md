@@ -12,7 +12,7 @@
 - **Verknuepfte NPCs:** [[Eldric Feldhain]]
 - **Bekannt fuer:** Handelsroutine, pragmatische Vorsicht, brauchbare Ortskenntnis
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #haendler #reise #lumaros
+- **Tags:** #haendler #reise #[[lumaros]]
 
 ## Beschreibung und Auftreten
 

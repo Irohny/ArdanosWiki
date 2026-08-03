@@ -2,7 +2,7 @@ Ein natürlicher, von der Zeit und uralten Mächten geformter Abschnitt der Mine
 
 Das Licht flackert zwischen den Facetten und tanzt in geometrischen Mustern, die sich manchmal wie Augen anfühlen. Stimmen aus den Spiegelungen rufen nach den Helden – manche vertraut, andere falsch.
 
-- Kristalle reflektieren Erinnerungen: Spieler könnten Szenen aus ihrer Vergangenheit sehen – traumatisch oder bedeutungsvoll.
+- Kristalle reflektieren Erinnerungen: [[Spieler]] könnten Szenen aus ihrer Vergangenheit sehen – traumatisch oder bedeutungsvoll.
     
 - Aus dem Nichts erscheinen gesichtslose Abbilder, die sich verflüchtigen, sobald man sie direkt ansieht.
     

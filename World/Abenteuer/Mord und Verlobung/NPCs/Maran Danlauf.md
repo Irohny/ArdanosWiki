@@ -31,7 +31,7 @@
 	- Erzfeind: Cambion (Vroteil auf alles was mit der Kreatur zu tun hat)
 	- Bevorzugtes Gelände:
 		- Wald (Vorteil auf Proben mit Bezug auf das Gelände)
-	- Bogenschießen: +2 Schaden auf Fernkampfangriffe
+	- [[Bogenschießen]]: +2 Schaden auf Fernkampfangriffe
 	- Urtümliche Wahrnehmung:
 		- Für Zauberpaltz: 1.5km (9km bevorzugtes Glände) Radius Wissen über das existieren von Monstern (1Min pro Zaubergrad)
 	- Hordenbrecher:
@@ -84,13 +84,13 @@ Grad 2:
 
 ## Hintergrund
 
-Maran ist ein Kind der Übergänge – zwischen Wasser und Land, Stadt und Wildnis. Er kannte Eldric, bevor beide Soldaten waren, aber ihre wahre Bindung entstand im **Muschelkrieg**.
+Maran ist ein Kind der Übergänge – zwischen Wasser und Land, Stadt und Wildnis. Er kannte Eldric, bevor beide Soldaten waren, aber ihre wahre Bindung entstand im **[[Muschelkrieg]]**.
 
-Während Eldric die Linie hielt, bewegte sich Maran durch Schilf und Rauch. Er brachte Nachrichten, führte Umgehungen an, zog Verwundete aus dem Wasser. Mehr als einmal rettete er Eldric – und wurde ebenso oft von ihm gedeckt.
+Während Eldric die Linie hielt, bewegte sich Maran durch Schilf und Rauch. Er brachte [[Nachrichten]], führte Umgehungen an, zog Verwundete aus dem Wasser. Mehr als einmal rettete er Eldric – und wurde ebenso oft von ihm gedeckt.
 
-### Der Dämon von Tiravor
+### Der Dämon von [[Tiravor]]
 
-Maran war der Erste, der begriff, dass Tiravor belagert wurde, lange bevor die Dämonen kamen. Er erkannte die Muster: verschwundene Fischer, falsche Gerüchte, Männer, die nicht mehr sie selbst waren.
+Maran war der Erste, der begriff, dass [[Tiravor]] belagert wurde, lange bevor die Dämonen kamen. Er erkannte die Muster: verschwundene Fischer, falsche Gerüchte, Männer, die nicht mehr sie selbst waren.
 
 Als der Cambion offen angriff, führte Maran die Gruppe durch verborgene Wege, schnitt Nachschub ab und brachte Eldric dorthin, wo der Schlag sitzen musste.
 

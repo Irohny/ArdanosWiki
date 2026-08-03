@@ -6,7 +6,7 @@ Die Überlieferung schreibt Talvarins Gesandten die Worte zu:
 
 „Wenn wir getrennt bleiben, wird uns das Meer verschlingen wie Runathis.“
 
-Im Jahr 503 n.d.D. wurde der Bund von Mariven geschlossen.
+Im Jahr 503 n.d.D. wurde der Bund von [[Mariven]] geschlossen.
 
 Die Goldenen Inseln vereinigten sich unter einer gemeinsamen Ordnung.
 
@@ -14,4 +14,4 @@ Der Handelsrat wurde gegründet.
 
 Aus den Fehlern Runathis entstand eine neue Nation, die Handel über Eroberung und Diplomatie über Krieg stellte.
 
-Mariven wurde zum Erben einer verlorenen Größe – und zum Hüter ihrer Lehren.
+[[Mariven]] wurde zum Erben einer verlorenen Größe – und zum Hüter ihrer Lehren.

@@ -1,4 +1,4 @@
-![[Große Bernststeinstraße]]
+![[Große Bernsteinstraße]]
 
 ---
 ![[Himmelshofstraße]]

@@ -20,7 +20,7 @@ Die Körper der ersten zwei, die wir in der [[Werkstatt von Caelumbran]] fanden,
 
 Ein gefundenes Buch mit Informationen haben wir gesichert, ebenso wie Tagebucheinträge des Letzten Sternenschmieds Caelumbran ([[Werkstattnotiz Nr. 47 – Letzter Eintrag]]), die den Weg zur verborgenen Schmiede und das erschreckende Ausmaß der Artefakte dokumentieren.
 
-Ebenso haben wir die Notizen der Expeditionsgruppe bergen können ([[Tagebuch- Expedition 1]], [[Tagebuch - Expedition 2]]).
+Ebenso haben wir die [[Notizen]] der Expeditionsgruppe bergen können ([[Tagebuch- Expedition 1]], [[Tagebuch - Expedition 2]]).
 
 Ich habe die Schriften kopieren lassen und dir die Originale mitgeschickt.
 
@@ -30,7 +30,7 @@ Caelumbrans Worte warnten vor dem Gewicht dieser Artefakte:
 
 Drei Gefäße, drei Kerker, drei Schlüssel – beherbergt in ihnen seien Wesen, die besser nicht geweckt werden sollten.
 
-Unsere Expedition endete mit einem Kampf gegen den letzten verbliebenen Söldner der Gruppe, der verwandelt war. Wir vermuteten, das [[Herz der Tiefe]] schaffte es, die Lebenden an sich zu ketten.
+Unsere Expedition endete mit einem Kampf gegen den letzten verbliebenen [[Söldner]] der Gruppe, der verwandelt war. Wir vermuteten, das [[Herz der Tiefe]] schaffte es, die Lebenden an sich zu ketten.
 
 Dank eines improvisierten Bannrituals konnte ich diesen Bann vorübergehend aufheben.
 
@@ -41,4 +41,4 @@ Als Belohnung erwarten wir 50 Platin – und wissen, dass du einen mächtigen Ba
 Ich danke dir für dein Vertrauen und freue mich, dass wir diesen Schritt in den Schatten gemeinsam gegangen sind.
 
 In Verbundenheit
-Nyssara Elenvyre
+[[Nyssara Elenvyre]]

@@ -94,11 +94,11 @@ Schon Jahre vor dem Cambion warnte Thalion vor einer Veränderung im Fluss: Str�
 
 Man hörte ihm zu – aber man glaubte ihm nicht.
 
-### Der Dämon von Tiravor (ca. 1408 n.d.D.)
+### Der Dämon von [[Tiravor]] (ca. 1408 n.d.D.)
 
 Thalion spürte den Cambion, lange bevor dessen Dämonen marschierten. Der Wind trug falsche Gebete, das Wasser schmeckte bitter. Während andere noch diskutierten, bereitete Thalion den Tempel vor – nicht für Andacht, sondern für Krieg.
 
-Als der Angriff kam, rief er Sturm und Donner über die Klippen, zerschlug dämonische Formationen und hielt den Himmel über Tiravor frei.
+Als der Angriff kam, rief er Sturm und Donner über die Klippen, zerschlug dämonische Formationen und hielt den Himmel über [[Tiravor]] frei.
 
 Er glaubt nicht, dass der Cambion allein handelte.  
 Dämonen kommen nie ohne Einladung.

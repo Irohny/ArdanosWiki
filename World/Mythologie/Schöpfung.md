@@ -48,10 +48,10 @@ Manche glauben sogar, dass er **die ersten Lügen der Welt erschuf – und damit
 
 Doch während die Götter die Welt formten, regte sich im Urschleier eine uralte Finsternis.
 
-Aus den Tiefen der ungeformten Existenz erhob sich **Ephazul**, der **Urdämon**, ein Wesen aus Chaos, Leere und unstillbarem Hunger.  
-Er wollte die entstehende Schöpfung verschlingen und alle Ebenen der Existenz in ewige Dunkelheit stürzen.
+Aus den Tiefen der ungeformten Existenz erhob sich **[[Ephazul]]**, der **Urdämon**, ein Wesen aus Chaos, Leere und unstillbarem Hunger.  
+Er wollte die entstehende [[Schöpfung]] verschlingen und alle Ebenen der Existenz in ewige Dunkelheit stürzen.
 
-Ein gewaltiger Krieg entbrannte zwischen den jungen Göttern und Ephazul.
+Ein gewaltiger Krieg entbrannte zwischen den jungen Göttern und [[Ephazul]].
 
 Die Meere tobten unter [[Ocyra]]’s Stürmen,  
 [[Sylvaldis]] ließ die Berge wachsen, um die Welt zu schützen,  
@@ -59,15 +59,15 @@ Die Meere tobten unter [[Ocyra]]’s Stürmen,
 [[Lyrithiel]] spann Intrigen selbst unter den Mächten des Chaos,  
 und [[Solyra]] ließ ihr Licht wie eine brennende Sonne über die Schlacht fallen.
 
-Doch Ephazul war so gewaltig, dass sein Kampf die Realität selbst zerriss.
+Doch [[Ephazul]] war so gewaltig, dass sein Kampf die Realität selbst zerriss.
 
 # Die Erste Hüterin der Wurzeln
 
-Gegen den Dämon kämpften die Götter nicht alleine. Die ersten Wesen der Welt halfen ihnen bei der Schlacht. Eines dieser Wesen war **Thael’Myra – Hüterin der ersten Wurzeln.**
+Gegen den Dämon kämpften die Götter nicht alleine. Die ersten Wesen der Welt halfen ihnen bei der Schlacht. Eines dieser Wesen war **[[Thael’Myra]] – Hüterin der ersten Wurzeln.**
 
 Sie war weder ganz Gott noch ganz Natur, sondern eine uralte Macht des **Gleichgewichts zwischen Leben, Erde und den Ebenen**.
 
-Als Ephazul schließlich fiel, geschah etwas Unerwartetes.
+Als [[Ephazul]] schließlich fiel, geschah etwas Unerwartetes.
 
 Sein Tod ließ die Wirklichkeit zerbrechen.
 
@@ -75,11 +75,11 @@ Die Kräfte der Götter entluden sich gleichzeitig und rissen die Realität ause
 So entstanden die **ersten Existenzebenen**, jede geprägt von der Macht ihres jeweiligen Gottes.
 
 Doch ohne Halt begannen diese Ebenen auseinanderzudriften.  
-Die junge Schöpfung drohte erneut im Chaos zu versinken.
+Die junge [[Schöpfung]] drohte erneut im Chaos zu versinken.
 
 # Das Opfer der Hüterin
 
-Thael’Myra erkannte, dass die Welt ohne ein Opfer nicht bestehen konnte.
+[[Thael’Myra]] erkannte, dass die Welt ohne ein Opfer nicht bestehen konnte.
 
 Um das kosmische Gleichgewicht zu bewahren, tat sie etwas, das selbst die Götter erschütterte.
 
@@ -95,10 +95,10 @@ Aus ihrem Opfer entstand ein uralter Weltenbaum:
 
 Seine Wurzeln reichen durch **alle Ebenen der Existenz**:
 - in die **Himmelssphäre Solyras**
-- in die **Tiefenmeere Ocyra’s**
-- in die **Wurzelwelt Sylvaldis’**
-- in die **Schmiedefeuer Volgrins**
+- in die **Tiefenmeere [[Ocyra]]’s**
+- in die **Wurzelwelt [[Sylvaldis]]’**
+- in die **[[Schmiedefeuer]] Volgrins**
 - in den **Schleier Lyrithiels**
-- und sogar bis in das **Schattenlicht Erythras**
+- und sogar bis in das **[[Schattenlicht]] Erythras**
 
 Er hält die Ebenen zusammen, damit sie nicht auseinanderdriften oder kollidieren.

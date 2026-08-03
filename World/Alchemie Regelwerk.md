@@ -23,7 +23,7 @@ Würfel gegen die SG des Trankes nach fertigstellung
 | 61–65       | Trank zieht Tiere an (1W6 Ratten, Spinnen etc.)                            |
 | 66–70       | Verwandelt sich in ätzende Säure – zerstört 1 Item                         |
 | 71–75       | Brauer beginnt zu leuchten wie durch Zauber *Licht* (1h)                   |
-| 76–80       | Trank wird klebrig wie Honig – süß, aber nutzlos                           |
+| 76–80       | Trank wird klebrig wie [[Honig]] – süß, aber nutzlos                           |
 | 81–85       | Trinker wird zufällig 1W4 Meter teleportiert                               |
 | 86–90       | Trank wirkt berauschend – wie betrunken (1h)                               |
 | 91–93       | Erzeugt zufällige Illusion (*Minor Illusion*, 1 Min)                       |

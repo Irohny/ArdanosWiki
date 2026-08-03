@@ -20,7 +20,7 @@
 - Festung des [[Klan van Harl]]
 
 **Plot:**
-- Erfährt, dass die van Harl's die Reiterinvasion in Drakmora unterstützen
+- Erfährt, dass die van Harl's die Reiterinvasion in [[Drakmora]] unterstützen
 - Versucht Rache an dem Klan zu nehemn
 - Story bring die gruppe tiefer in die Intriege der van Harls
 

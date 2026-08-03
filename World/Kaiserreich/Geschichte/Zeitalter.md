@@ -1,6 +1,6 @@
 
 ---
-**Erstes Zeitalter - Zeit der Gründung** (Dauer 1230 Jahre)
+**Erstes [[Zeitalter]] - Zeit der Gründung** (Dauer 1230 Jahre)
 _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordnen."_
 
 **0 n.d.D** Erschaffung der Welt durch die Götter (die Dämmerung)
@@ -12,7 +12,7 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 - **610 n.d.D** Erste Nennung von [[Drakmora]] als Kriegsbündnis
 
 ---
-**Zweites Zeitalter – Das Zeitalter der Flammenkronen** (Dauer 935 Jahre)
+**Zweites [[Zeitalter]] – Das [[Zeitalter]] der Flammenkronen** (Dauer 935 Jahre)
 "Wenn Bruder gegen Bruder streitet und Sturm auf Sturm folgt, wird der Turm des Königs fallen und Krieg das Land vergiften."
 
 **1231 n.d.D.** Start des zweiten Zeitalters
@@ -23,19 +23,19 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 - **1526–1528 n.d.D.** [[Erzkrieg von Eron’Gath]] ([[Schwarzklamm]] gegen [[Drakmora]])
 - **1603–1611 n.d.D.** [[Runenbann-Konflikt]] ([[Mariven]] gegen [[Vaylen]])
 - **1698 n.d.D.** [[Die Erschütterung der Tiefe]] ([[Schwarzklamm]])
-- **1740–1755 n.d.D.** [[Reiterkriege der Nebelsteppe]] ([[Drakmora]] gegen Söldner von [[Vaylen]])
+- **1740–1755 n.d.D.** [[Reiterkriege der Nebelsteppe]] ([[Drakmora]] gegen [[Söldner]] von [[Vaylen]])
 - **2025- 2165 n.d.D.** [[Invasion der Nordbarbaren]] 
 - **2160 n.d.D** Zusammenschluss der Fürstentümer [[Eid von Morgenfels]]
 - **2162 n.d.D** Die Schlacht am [[Feuerfeld von Nebelstein]]
 - **2163 n.d.D** [[Die Feuertaufe von Kar'drathar]] Ausbruch des [[Moragul]]
 
 ---
-**Drittes Zeitalter – Zeitalter des Friedens und Wohlstands** (Dauer min. 321 Jahre)
+**Drittes [[Zeitalter]] – [[Zeitalter]] des Friedens und Wohlstands** (Dauer min. 321 Jahre)
 „Wenn Schwerter ruhen und die Banner schweigen, wird das Herz des Reiches schlagen wie nie zuvor.“
 
 **2165 n.d.D.** Start des Dritten Zeitalters
 - **2165 -2199 n.d.D** Krönung von [[Elyander Goldschild]] zum ersten Kaiser von [[Ardanos]] 
-- **2166 n.d.D** Erste Nennung der [[Tashiro'en]] nach einem ungeklärten Attentat
+- **2166 n.d.D** Erste Nennung der [[Tashiro'en]] nach einem ungeklärten [[Attentat]]
 - **2199–2230 n.d.D.** Regentschaft [[Almareth Silven]]
 - **2230–2256 n.d.D.** Regentschaft [[Barduron Steinmark]]
 - **2256–2283 n.d.D.** Regentschaft [[Calvius Thorne]] 
@@ -57,13 +57,13 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 **2486 n.d.D.** aktuelles Jahr
 
 ---
-**Zwergenzeit - Zeitalter des Schildes** (Dauer min. 79 Jahre) 
+**Zwergenzeit - [[Zeitalter]] des Schildes** (Dauer min. 79 Jahre) 
  "Aus Feuer geboren, aus Eisen gekrönt, wird unser Reich im dunkelsten Sturm bestehen."
  
-Seit 2410 n.d.D zählen die Zwerge der Schwarzklamm ihre Jahre im neuen Klammkalender – es ist aktuell Jahr 79 d.S. („des Schildes“), benannt nach dem Hochkönig [[Durngar Schwarzschild]], der die Zeit der inneren Kriege beendete und den Zwerge so ein neues Zeitalter brachte.
+Seit 2410 n.d.D zählen die Zwerge der [[Schwarzklamm]] ihre Jahre im neuen Klammkalender – es ist aktuell Jahr 79 d.S. („des Schildes“), benannt nach dem Hochkönig [[Durngar Schwarzschild]], der die Zeit der inneren Kriege beendete und den Zwerge so ein neues [[Zeitalter]] brachte.
 
 ---
-**Viertes Zeitalter - Zukunft** 
+**Viertes [[Zeitalter]] - Zukunft** 
 _"Wenn das Licht flackert und die Schatten reifen, wird ein Neuer Stern aus alter Saat aufgehen, und nur wer dem Ruf der Masken folgt, wird Frieden finden."_
 
 ![[sl Zeitalter]]

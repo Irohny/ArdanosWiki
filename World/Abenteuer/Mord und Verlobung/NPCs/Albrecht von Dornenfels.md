@@ -2,7 +2,7 @@
 - **Rufname / Beiname:** Albrecht
 - **Titel / Amt:** Graf der Nachbargrafschaft
 - **Haus / Dynastie:** Haus Dornfels
-- **Regentschaft:** westlich von Tiravor
+- **Regentschaft:** westlich von [[Tiravor]]
 - **Spezies / Volk:** Mensch
 - **Herkunft:** Dornfels
 - **Geburtsjahr:**
@@ -32,7 +32,7 @@ ganzen Intrige wie ein Schatten liegt.
 
 ## Ziele
 
-Will Einfluss auf Tiravor gewinnen und jede Verbindung fuer
+Will Einfluss auf [[Tiravor]] gewinnen und jede Verbindung fuer
 strategische Kontrolle ausnutzen.
 
 ## Plot-Hooks

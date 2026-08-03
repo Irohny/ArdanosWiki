@@ -1,28 +1,28 @@
 - [[Zera die Flüsterin]] Spionin und Botin, Zauberin 
 - [[Eldrin Velmara]] Heiler Manipulirt von Zerra, Forscht am ewigen leben
-- [[Lord Malvurax]] Botschafter von Ephazul, Cambion
+- [[Lord Malvurax]] Botschafter von [[Ephazul]], Cambion
 - [[Ephazul]] Dämonenfürst, Herr des Bösen
 - [[Ser Varkor]] Krieger der Bösen, Paladin Tiefling
 - [[Luredan van Harl]]
-- Lord Vareth Nocthollow, Vampir
-- Lady Seress, Medusa und Formwandlerin
-- Xal'Zhurn, Gedankenmeister
+- [[Lord Vareth Nocthollow]], Vampir
+- [[Lady Seress]], Medusa und Formwandlerin
+- [[Xal'Zhurn]], Gedankenmeister
 - Vel'nethra, Vertraute des Zeitdiebs bei den [[Tashiro'en]]
 - Seliré & Thaven Succus & Incubus
-### **Lord Vareth Nocthollow – Der Zeitlose Durst** _(Vampirlord)_
+### **[[Lord Vareth Nocthollow]] – Der Zeitlose Durst** _(Vampirlord)_
 
 - **Herkunft:** Altes Imperium von Val’Thalor
 - **Fähigkeiten:** Blutmagie, Zeitverzerrung, legendäre Vampirkräfte
 - **Besonderheit:** Kann Zeit „zurückdrehen“, saugt Lebenszeit statt nur Blut
 
-### **Lady Seress von Dornthal – Die Verschleierte Schlange** _(Medusa mit Artefakt der Maskierung)_
+### **[[Lady Seress]] von Dornthal – Die Verschleierte Schlange** _(Medusa mit Artefakt der Maskierung)_
 
 - **Herkunft:** Alte Ruinenstadt unter Dornthal
 - **Fähigkeiten:** Versteinernder Blick (verborgen), listige Täuschung, Dolchkampf
 - **Besonderheit:** Trägt das **Amulett der Ewigen Maske** – verbirgt ihre Schlangennatur vollständig
 - **Rolle im Kult:** Spionin, Manipulatorin und Intrigantin – unterwandert Adlige & Magierzirkel
 
-### **Xal'Zhurn – Der Gedankengärtner** _(Mind Flayer)_
+### **[[Xal'Zhurn]] – Der Gedankengärtner** _(Mind Flayer)_
 
 - **Herkunft:** Tiefenkuppel von S'har Leth
 - **Fähigkeiten:** Gedankenraub, Psionik, Erinnerungsneuformung

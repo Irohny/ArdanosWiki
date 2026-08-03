@@ -1,12 +1,12 @@
 
-### **Hauptmann Noah Silberklinge**
+### **Hauptmann [[Noah Silberklinge]]**
 - **Rasse:** Elf
 - **Rolle:** Garnisonskommandant
 - **Auftreten:** Diszipliniert, erschöpft
 - **Beziehung:** Respektiert die Gruppe
 - **Konflikt:** Wahrheit vs. Politik
     
-### **Bruder Calen Wellenruh**
+### **[[Bruder Calen Wellenruh]]**
 - **Rasse:** Halbelf
 - **Rolle:** Priester im [[Ocyra]]-Tempel
 - **Auftreten:** Ruhig, mitfühlend

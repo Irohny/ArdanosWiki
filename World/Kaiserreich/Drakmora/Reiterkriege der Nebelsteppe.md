@@ -1,6 +1,6 @@
 #Krieg
-#Drakmora
-#Vaylen
+#[[Drakmora]]
+#[[Vaylen]]
 
 Zeitspanne: 1740 - 1755 n.d.D
 

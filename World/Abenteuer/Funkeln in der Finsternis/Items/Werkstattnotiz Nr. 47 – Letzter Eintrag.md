@@ -13,7 +13,7 @@ Das Erste. Geschnitten aus den Kristallen der Unterwelt. Dort, wo das Licht stir
 
 #### II. Der **[[Sternensplitter]]**
 
-Das Zweite. Gebrochen aus dem Schuppenlicht eines gefallenen Himmelskörpers. Myzzarith, das Sternblut, wünschte sich keinen Körper – nur Sichtbarkeit. In jedem Splitter hallt sein Bewusstsein nach, gefesselt in dem Moment seines Absturzes. Die Realität um das Artefakt vibriert… ich kann es nicht lange berühren, ohne Zeit zu verlieren.
+Das Zweite. Gebrochen aus dem Schuppenlicht eines gefallenen Himmelskörpers. [[Myzzarith, das Sternblut]], wünschte sich keinen Körper – nur Sichtbarkeit. In jedem Splitter hallt sein Bewusstsein nach, gefesselt in dem Moment seines Absturzes. Die Realität um das Artefakt vibriert… ich kann es nicht lange berühren, ohne Zeit zu verlieren.
 
 #### III. Das **[[Schattenherz]]**
 

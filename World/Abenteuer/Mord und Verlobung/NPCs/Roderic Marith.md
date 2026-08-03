@@ -1,9 +1,9 @@
 - **Rufname / Beiname:** Roderic
 - **Titel / Amt:**
 - **Haus / Dynastie:** Haus Marith
-- **Regentschaft:** Tiravor
+- **Regentschaft:** [[Tiravor]]
 - **Spezies / Volk:** Mensch
-- **Herkunft:** Tiravor
+- **Herkunft:** [[Tiravor]]
 - **Geburtsjahr:**
 - **Sterbejahr:**
 - **Alter:**
@@ -13,7 +13,7 @@
   [[Bruder Calen Wellenruh]]
 - **Bekannt fuer:** Korrektheit, Ehrbegriff, gesellschaftliche Stellung
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #marith #tiravor #verdacht
+- **Tags:** #marith #[[tiravor]] #verdacht
 
 ## Beschreibung und Auftreten
 

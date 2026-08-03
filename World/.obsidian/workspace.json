@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e9142c046743fbdc",
+        "id": "67947557503b9980",
         "type": "tabs",
         "children": [
           {
-            "id": "42668da7842fefef",
+            "id": "04984863cc851eaf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Notizen/Kapitel 2 Session 3.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kapitel 2 Session 3"
-            }
-          },
-          {
-            "id": "9e48690c0be26b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Rotbrunn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rotbrunn"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -155,22 +137,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spielleiter/Zwergische Begriffe.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Zwergische Begriffe"
+              "title": "Gliederung"
+            }
+          },
+          {
+            "id": "fdf5ec349b895162",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,48 +172,49 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "karpathywiki:Ingest current file": false,
-      "karpathywiki:Query wiki": false
+      "karpathywiki:Query wiki": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42668da7842fefef",
+  "active": "04984863cc851eaf",
   "lastOpenFiles": [
-    "Spielleiter/Kampangen/Schatten der Zeit/Erwachen der Blütgräfin/Rotbrunn.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Notizen/Kapitel 2 Session 3.md",
-    "Spielleiter/Auf dem Weg/Wegbegegnungen.md",
-    "Spielleiter/Auf dem Weg/Wanderbühne.md",
-    "Spielleiter/Auf dem Weg/Spur des Bruders.md",
-    "Spielleiter/Auf dem Weg/Moor der Selbstlosen.md",
-    "Spielleiter/Auf dem Weg/Meine Brücke.md",
-    "Spielleiter/Auf dem Weg/Drei Klingen von Lysandria.md",
-    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Wellenhort.md",
-    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Bernruh.md",
-    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Bernsteinküste.md",
-    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Nebelhafen.md",
-    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Sonnenkliff.md",
-    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Tiravor.md",
-    "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Vaelorin.md",
-    "Spielleiter/Eastereggs.md",
-    "Images/Maps/Nebelhafen.jpeg",
-    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Wurzelfurt.md",
-    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Dörfer.md",
-    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Orte/Lunareth der Sichelschrein.md",
-    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Sessions/Session 1.md",
-    "Spielleiter/Kampangen/Vor dem ewigen Pakt/Der Packt des Hutmaches.md",
-    "Kaiserreich/Elmrath/Regionen/Immergrüner Hain/Immergrüner Hain.md",
-    "Spielleiter/Zwergische Begriffe.md",
-    "wiki/Welcome to Karpathy LLM Wiki.md",
-    "wiki",
+    "ToDo.md",
+    "Links.md",
+    "CHANGELOG.md",
+    "Alchemie Regelwerk.md",
+    "Elgrin van Harl.md",
+    "Mythologie/Götter/Pantheon.md",
+    "Mythologie/Schöpfung.md",
+    "Kaiserreich/Ardanos.md",
+    "Kaiserreich/Zeitmessung/Wochentage.md",
+    "Kaiserreich/Wegenetz/Todweg.md",
+    "Kaiserreich/Wegenetz/Smaragdpfad.md",
+    "Kaiserreich/Wegenetz/Nordlinie.md",
+    "Kaiserreich/Wegenetz/Kronpass.md",
+    "Kaiserreich/Wegenetz/Nebelpfad.md",
+    "Kaiserreich/Wegenetz/Khazad-Durak.md",
+    "Kaiserreich/Wegenetz/Himmelshofstraße.md",
+    "Kaiserreich/Wegenetz/Große Bernsteinstraße.md",
+    "Kaiserreich/Wegenetz/Goldstraße.md",
+    "Kaiserreich/Wegenetz/Feststraße.md",
+    "Kaiserreich/Wegenetz/Drachenspur.md",
+    "Kaiserreich/Wegenetz/Arkanstraße.md",
+    "Kaiserreich/Vaylen/Chroniken von Vaylen.md",
     "Kaiserreich/Vaylen/Vaylen.md",
-    "Spielleiter/Kampangen/Schatten der Zeit/Kreigsbereichte.md",
-    "Kaiserreich/Schwarzklamm/Regionen/Helmbrach-Massiv",
-    "Kaiserreich/Schwarzklamm/Regionen/Nordfels-Krone",
-    "Kaiserreich/Schwarzklamm/Regionen",
-    "Kaiserreich/Vaylen/Regionen",
-    "Kaiserreich/Mariven/Regionen",
-    "Kaiserreich/Elmrath/Regionen/Küste",
-    "Kaiserreich/Elmrath/Regionen/Immergrüner Hain",
-    "Kaiserreich/Elmrath/Regionen/Himmelshöfe",
-    "Kaiserreich/Elmrath/Regionen/Goldene Weite",
+    "Kaiserreich/Schwarzklamm/Schwarzklamm.md",
+    "Kaiserreich/Mariven/Nebelsee.md",
+    "Kaiserreich/Mariven/Mariven.md",
+    "ChatGPT_MD/templates",
+    "ChatGPT_MD/chats",
+    "ChatGPT_MD/agents",
+    "ChatGPT_MD",
+    "Mythologie/blobs/sha256-f5ee307a2982106a6eb82b62b2c00b575c9072145a759ae4660378acda8dcf2d-partial",
+    "Mythologie/blobs/sha256-f5ee307a2982106a6eb82b62b2c00b575c9072145a759ae4660378acda8dcf2d-partial-23",
+    "Mythologie/blobs/sha256-f5ee307a2982106a6eb82b62b2c00b575c9072145a759ae4660378acda8dcf2d-partial-22",
+    "Mythologie/blobs/sha256-f5ee307a2982106a6eb82b62b2c00b575c9072145a759ae4660378acda8dcf2d-partial-21",
+    "Mythologie/blobs/sha256-f5ee307a2982106a6eb82b62b2c00b575c9072145a759ae4660378acda8dcf2d-partial-20",
+    "Mythologie/blobs/sha256-f5ee307a2982106a6eb82b62b2c00b575c9072145a759ae4660378acda8dcf2d-partial-19",
+    "Images/Maps/Nebelhafen.jpeg",
     "Images/Maps/Rotbrunn.jpeg",
     "Images/Maps/Nebelhafen.jpg",
     "Images/Maps/Luminara.jpg",

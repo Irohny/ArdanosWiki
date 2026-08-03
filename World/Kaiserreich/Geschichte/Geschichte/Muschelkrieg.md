@@ -1,6 +1,6 @@
 #Krieg
-#Elmrath
-#Mariven
+#[[Elmrath]]
+#[[Mariven]]
 
 Zeitspanne: 1358 - 1402 n.d.D
 
@@ -23,7 +23,7 @@ Der Krieg begann als scheinbar begrenzter Seekonflikt, weitete sich jedoch rasch
 - Aufbau temporärer **Brückenköpfe und Festungsanlagen**, um Nachschub über Flüsse zu sichern
     
 
-In dieser Phase entstand auch Festungen wie Darnûn bei [[Tiravor]], errichtet als Schutz gegen Überfälle und als Kontrollpunkt über den [[Lumaros]]. Obwohl Tiravor selbst nie vollständig besetzt wurde, war die Region mehrfach Schauplatz von Gefechten, Truppenbewegungen und Sabotage.
+In dieser Phase entstand auch Festungen wie Darnûn bei [[Tiravor]], errichtet als Schutz gegen Überfälle und als Kontrollpunkt über den [[Lumaros]]. Obwohl [[Tiravor]] selbst nie vollständig besetzt wurde, war die Region mehrfach Schauplatz von Gefechten, Truppenbewegungen und Sabotage.
 
 **Besonderheit:**  
 Der Seeoffizier **Kapitän [[Orlan der Salzige]]** erlangte während des Krieges legendären Ruf. Seine unkonventionellen Manöver auf See und in Flussmündungen machten ihn zum **Volkshelden von [[Mariven]]** und zum Symbol maritimer Überlegenheit.
@@ -37,4 +37,4 @@ Der Krieg endete mit dem **Vertrag von Relys**, unterzeichnet auf einem schwimme
     
 - [[Elmrath]] erhielt die Stadt **[[Luminara]]** zurück.
     
-- Zudem wurden Elmrath **begrenzte Fischerei- und Perlenrechte entlang der südlichen Küstenlinie** zugesprochen.
+- Zudem wurden [[Elmrath]] **begrenzte Fischerei- und Perlenrechte entlang der südlichen Küstenlinie** zugesprochen.

@@ -17,7 +17,7 @@ Artefakt: Der Kompass des Sturmlords
 Plothook: [[Edran Tiefstrom]] Aufezichnungen die von [[Elaena Silberhand]] und [[Selvian Korth]] gesucht werden, da sie auf dem Schiff [[Azure Rune]] liegen, dass einst mit dem Vater von [[Elaena Silberhand]] ([[Candamir Silberhand]]) untergegangen ist.
 - [[Arc Siegel der Ströme]]
 
-## Siegel der Schöpfung
+## Siegel der [[Schöpfung]]
 Gott: [[Volgrin]]
 Gegner: 
 Paladin: [[Sir Daryn Velios]]
@@ -27,7 +27,7 @@ Plothook:
 ## Siegel der Ordnung
 Gott: [[Lyrithiel]]
 Gegner: [[Ser Vakor]], [[Luredan van Harl]]
-Paladin: [[Milo von Kroton]] alias Arn'Old
+Paladin: [[Milo von Kroton]] alias [[Arn'Old]]
 Ort: [[Drakmora]]
 Artefakt: Kette des ersten Paktes
 Plothook:
@@ -39,13 +39,13 @@ Ort: [[Vaylen]]
 Artefakt: Krone der letzten Königin
 Plothook:
 ## Ritual der Aionen
-Gott/Gegner: Ephazul, Reodemus
+Gott/Gegner: [[Ephazul]], Reodemus
 
 ### Sidequest
 - [[Eldrin Velmara]] Heiler Manipulirt von Zerra, Forscht am ewigen leben
 - Vel'nethra, Vertraute des Zeitdiebs bei den [[Tashiro'en]]
 ### Die wahre Geschichte
-**Im Jahre 2186 n.d.D.** entsandte **Kaiser Elyander Goldschild** fünf seiner treuesten Paladine, um den alten Mythen um die **Fünf Göttlichen Siegel** nachzugehen. Jeder von ihnen war ein legendärer Abenteurer – erfahren in Krieg, Magie und göttlichem Dienst. Ihr Auftrag: **den Zustand der Siegel zu prüfen** und zu ergründen, welches uralte Übel sie einst binden sollten.
+**Im Jahre 2186 n.d.D.** entsandte **Kaiser [[Kaiserreich/Kaiser/NPCs/Elyander Goldschild|Elyander Goldschild]]** fünf seiner treuesten Paladine, um den alten Mythen um die **Fünf Göttlichen Siegel** nachzugehen. Jeder von ihnen war ein legendärer Abenteurer – erfahren in Krieg, Magie und göttlichem Dienst. Ihr Auftrag: **den Zustand der Siegel zu prüfen** und zu ergründen, welches uralte Übel sie einst binden sollten.
 
 Die Wahrheit war erschütternd:
 

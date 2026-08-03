@@ -2,7 +2,7 @@
 - **Stufe/Herausfordungsgrad:** 13
 - **Volk:** Vampir
 - **Herkunft:** [[Mariven]]
-- **Klasse:** #Monster
+- **Klasse:** #[[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]]
 - **Alias:**
 - **Alter:**
 - **Gesinnung:** #ChaotischBöse
@@ -71,7 +71,7 @@
 	
 - **Wehklage (1/Tag):**
 	- Lautes Wehklagen trifft alle Kreaturen in Reichweite 9m außer Konstrukte und Untote. Ausführende Kreatur ist nicht in der Sonne. Konsti RW: 13 Erfolg 3W6 Psychisch/ Miss: TP fallen auf 0
-- **Dimensionstür: (1/Tag)**
+- **[[Dimensionstür]]: (1/Tag)**
 	- Teleportiert sich 120m im Umkreis
 	
 ### Bonusaktionen

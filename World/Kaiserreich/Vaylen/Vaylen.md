@@ -1,26 +1,26 @@
 #Gruendung
-#Vaylen
+#[[Vaylen]]
 
 Zeitspanne: 441 n.d.D
 
-# Das Volk von Vaylen – Das Reich der Magie und des Wissens
+# Das Volk von [[Vaylen]] – Das Reich der Magie und des Wissens
 ![[Wappen Vaylen.png|200]]
-Hoch über den Nebeln der Welt, in Türmen aus schimmerndem Stein und von uralten Drachen bewachten Bibliotheken, liegt Vaylen – das Fürstentum der Gelehrten, Zauberer und Drachengeborenen. Hier regieren Wissen und arkanes Können über Stahl und Münzen.
+Hoch über den Nebeln der Welt, in Türmen aus schimmerndem Stein und von uralten Drachen bewachten Bibliotheken, liegt [[Vaylen]] – das Fürstentum der Gelehrten, Zauberer und Drachengeborenen. Hier regieren Wissen und arkanes Können über Stahl und Münzen.
 
 Die Bewohner Vaylens sehen sich als Bewahrer uralter Mysterien und Architekten der Zukunft. Doch ihre kühle Rationalität und ihre oft unverständlichen Experimente haben ihnen den Ruf eingebracht, weltfremd und gefährlich zu sein.
 
 * ***Oberhaupt:** [[Selene Drachenruf]]
 * ***Völker:** Menschen, einige Elfen und Drachengeborene
-* ***Gründung:** 441 n.d.D im ersten Zeitalter. Als magisches Refugium gegründet, nach einer großen Fluchtwelle arkaner Gelehrter aus den Nordlanden. Die Drachenblutlinie beginnt mit Fürstin [[Seralyss Drachenruf]].
+* ***Gründung:** 441 n.d.D im ersten [[Zeitalter]]. Als magisches Refugium gegründet, nach einer großen Fluchtwelle arkaner Gelehrter aus den Nordlanden. Die Drachenblutlinie beginnt mit Fürstin [[Seralyss Drachenruf]].
 * **Hauptstadt:** [[Velithor]] 
 ### Geografie & Landschaft
-Vaylen erstreckt sich über sanfte, mit Nebel überzogene Hügel, weite Wälder und ruhige Flussläufe. Seine Städte sind kunstvoll in die Landschaft eingebettet, oft inmitten uralter Eichenhaine oder entlang mächtiger Klippen, von denen aus man das funkelnde Meer in der Ferne sehen kann. Magische Ley-Linien durchziehen das Land, und in den Nächten leuchten die Himmel von arkanen Phänomenen, die Gelehrte und Magier seit Jahrhunderten studieren.
+[[Vaylen]] erstreckt sich über sanfte, mit Nebel überzogene Hügel, weite Wälder und ruhige Flussläufe. Seine Städte sind kunstvoll in die Landschaft eingebettet, oft inmitten uralter Eichenhaine oder entlang mächtiger Klippen, von denen aus man das funkelnde Meer in der Ferne sehen kann. Magische Ley-Linien durchziehen das Land, und in den Nächten leuchten die Himmel von arkanen Phänomenen, die Gelehrte und Magier seit Jahrhunderten studieren.
 
 ![[Schwebenden Inseln von Arcanis]]   
 ![[Velithor]]
 ![[Stille Akademie]]
 ![[Kristallsee]]
-Vaylen ist ein Land der Ruhe und des Wissens, ein Ort, an dem die Menschen den Blick nach innen richten, auf der Suche nach der Wahrheit, die sich jenseits des Sichtbaren verbirgt.
+[[Vaylen]] ist ein Land der Ruhe und des Wissens, ein Ort, an dem die Menschen den Blick nach innen richten, auf der Suche nach der Wahrheit, die sich jenseits des Sichtbaren verbirgt.
 
 ### Physische Merkmale & Erscheinung
 Die Bevölkerung Vaylens ist vielfältig, denn das Fürstentum zieht Gelehrte, Zauberwirker und Suchende aus allen Teilen der Welt an. Besonders verbreitet sind:
@@ -28,8 +28,8 @@ Die Bevölkerung Vaylens ist vielfältig, denn das Fürstentum zieht Gelehrte, Z
 Drachengeborene – die stolzen Erben uralter Drachenlinien, mit schimmernden Schuppen und magischem Talent in ihrem Blut.
 Elfen & Halbelfen – mit ihrer natürlichen Affinität zur Magie oft hoch angesehen.
 Menschen – oft aus mächtigen Zauberer-Dynastien stammend.
-Tieflinge & andere magiebegabte Rassen – nicht selten findet man in Vaylen Wesen, die anderswo misstrauisch beäugt werden.
-Die Kleidung in Vaylen ist oft mit Runen bestickt oder aus Stoffen gefertigt, die von Magie durchzogen sind. Roben und Gewänder in Blau-, Violett- und Goldtönen sind verbreitet, ebenso wie kunstvolle Schmuckstücke, die arkanes Wissen symbolisieren.
+Tieflinge & andere magiebegabte Rassen – nicht selten findet man in [[Vaylen]] Wesen, die anderswo misstrauisch beäugt werden.
+Die Kleidung in [[Vaylen]] ist oft mit Runen bestickt oder aus Stoffen gefertigt, die von Magie durchzogen sind. Roben und Gewänder in Blau-, Violett- und Goldtönen sind verbreitet, ebenso wie kunstvolle Schmuckstücke, die arkanes Wissen symbolisieren.
 
 ### Kultur & Gesellschaft
 Vaylens Gesellschaft basiert auf Wissen und magischer Fähigkeit – nicht auf Blutlinien oder Reichtum.
@@ -44,7 +44,7 @@ Die Gesellschaft ist in zwei große Klassen geteilt:
 Die meisten Vaylenier verbringen ihr Leben mit Studien in einer der großen Akademien, die sich auf verschiedene Arten von Magie spezialisiert haben.
 
 ## Magie & Forschung
-Vaylen ist der unangefochtene Vorreiter in magischer Forschung und Wissenschaft.
+[[Vaylen]] ist der unangefochtene Vorreiter in magischer Forschung und Wissenschaft.
 
 **Die Akademie von Eldrion** – Zentrum für arkane Studien, wo die besten Zauberer der Welt ausgebildet werden.
 **Die Alchemisten von Rhun’Thal** – Meister der Transmutation und Erfinder legendärer Tränke.
@@ -52,7 +52,7 @@ Vaylen ist der unangefochtene Vorreiter in magischer Forschung und Wissenschaft.
 Doch nicht jede Forschung ist harmlos – geheime Experimente mit verbotener Magie oder die Suche nach göttlichem Wissen führen immer wieder zu Konflikten innerhalb des Reiches.
 
 ### Militär & Verteidigung
-Vaylen hat keine klassische Armee, doch seine Verteidigung ist beispiellos:
+[[Vaylen]] hat keine klassische Armee, doch seine Verteidigung ist beispiellos:
 
 **Die Runenwächter** – Magische Konstrukte und Golems, die Städte und Tempel bewachen.
 **Die Drachenreiter von Vaelor** – Eine Eliteeinheit, bestehend aus Drachengeborenen, die auf echten Drachen reiten.
@@ -61,7 +61,7 @@ Das Reich selbst wird durch ein gewaltiges magisches Schild geschützt, der nur 
 
 ### Politische Beziehungen
 * Neutral – sieht [[Aldric von Elmrath]] als schwach, aber nützlich für Stabilität
-- Verbündet mit [[Drakmora]] – Eine Allianz aus Zweckmäßigkeit: Vaylen liefert magische Artefakte, [[Drakmora]] bietet Schutz.
+- Verbündet mit [[Drakmora]] – Eine Allianz aus Zweckmäßigkeit: [[Vaylen]] liefert magische Artefakte, [[Drakmora]] bietet Schutz.
 - Verfeindet mit [[Mariven]] – Die Händler Marivens misstrauen der unkontrollierbaren Magie Vaylens.
 - Neutral gegenüber [[Schwarzklamm]]  & [[Elmrath]] – Die Gelehrten Vaylens haben wenig Interesse an Rohstoffen oder Ackerbau.
 ### Glaube und Religion

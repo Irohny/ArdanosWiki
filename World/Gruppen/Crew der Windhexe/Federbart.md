@@ -5,7 +5,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten
 Metadatenfelder aus dieser Struktur.
 -->
 
-- **Rufname / Beiname:** Prinz Federbart
+- **Rufname / Beiname:** Prinz [[Federbart]]
 - **Titel / Amt:** Ausguck und Scharfschuetze der [[Windhexe]]
 - **Haus / Dynastie:**
 - **Regentschaft:**
@@ -19,13 +19,13 @@ Metadatenfelder aus dieser Struktur.
 - **Verknuepfte NPCs:** [[Kapitän Havoc]]
 - **Bekannt fuer:** Stimmenimitation, Geruechte, scharfe Augen aus der Takelage
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #windhexe #crew #ausguck #kenku
+- **Tags:** #[[windhexe]] #crew #ausguck #kenku
 
 ## Beschreibung und Auftreten
 
 ![[Federbart.jpg|200]]
 
-Federbart, von der Crew gerne "Prinz" genannt, dient der [[Windhexe]]
+[[Federbart]], von der Crew gerne "Prinz" genannt, dient der [[Windhexe]]
 als Ausguck und Scharfschuetze.
 Die Figur imitiert perfekt Stimmen, sammelt Geruechte mit sichtbarer
 Freude und wirkt zugleich neugierig wie unberechenbar.
@@ -50,7 +50,7 @@ expliziten Felder und oeffentlichen Bereiche ausliest.
 
 ## Plot-Hooks
 
-- Federbart hat ein Geruecht aufgeschnappt, das fuer die Gruppe
+- [[Federbart]] hat ein Geruecht aufgeschnappt, das fuer die Gruppe
   hochrelevant oder brandgefaehrlich ist
 
 ## Geheime Informationen

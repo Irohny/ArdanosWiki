@@ -9,18 +9,18 @@
 - Die Gruppe sieht das Dorf [[Rotbrunn]] am Fuße des Hügels
 	
 **[[Rotbrunn]]:**
-- Von [[Rotbrunn]] kommt die Gruppe in 2h Weg auf die Große Bernsteinstraße
+- Von [[Rotbrunn]] kommt die Gruppe in 2h Weg auf die [[Große Bernsteinstraße]]
 - Von [[Rotbrunn]] sind es ca xkm bis [[Wellenhort]]
-- Von [[Rotbrunn]] sind es noch 200km bis 300km bis nach Nebelhafen
+- Von [[Rotbrunn]] sind es noch 200km bis 300km bis nach [[Nebelhafen]]
 - Gruppe erfährt, dass der Friedhof geplündert wurde und Leute in letzter Zeit verschwunden sind
 - Es war eine Fremde reisende namens [[Zera die Flüsterin|Zera]], die sich um die Legende der Blutgräfin geforscht hat und zum Hügel aufgebrochen ist
 - Die Gruppe erfährt wo sie gerade sind und wie sie nach [[Nebelhafen]] kommen
-- Auf dem weg liegt die Stadt Wellenhort
+- Auf dem weg liegt die Stadt [[Wellenhort]]
 
 **[[Wellenhort]]:**
-- [[Wellenhort]] liegt an der [[Große Bernststeinstraße]] und ist ca xxkm von Nebelhafen entfernt.
-- In Kleinstadt [[Wellenhort]] vor  [[Nebelhafen]] treffen die Spieler auf [[Krinn Blattwender]], [[Bramwell Kupferzahn]]
-- [[Kapitän Havoc]]  ist bei dem Schiffsunglück gestorben (wurde bereits in Wellenhort beigesetzt)
+- [[Wellenhort]] liegt an der [[Große Bernsteinstraße]] und ist ca xxkm von [[Nebelhafen]] entfernt.
+- In Kleinstadt [[Wellenhort]] vor  [[Nebelhafen]] treffen die [[Spieler]] auf [[Krinn Blattwender]], [[Bramwell Kupferzahn]]
+- [[Kapitän Havoc]]  ist bei dem Schiffsunglück gestorben (wurde bereits in [[Wellenhort]] beigesetzt)
 	- Gruppe bekommt seinen Kompass als Andenken
 - [[Federbart]] (später von der [[Goldene Morgendämmerung]] gerettet), [[Marktgraf Reodemus]] und [[Nyssara Elenvyre]] werden vermisst
 - Wenn sie weiter nach [[Elaena Silberhand]] suchen können sie erfahren, dass die [[Goldene Morgendämmerung]] in [[Nebelhafen]] geankert hat

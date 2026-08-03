@@ -19,20 +19,20 @@ Erkenntnisse:
 Während des Verhörs lösen sich die Mönche plötzlich auf –  
 ein Ereignis, das bei mehreren Gruppenmitgliedern Visionen auslöst
 
-In der **Goldene Rune** trifft die Gruppe auf **[[Varian Schattentaenzer]]**.
+In der **[[Goldene Rune]]** trifft die Gruppe auf **[[Varian Schattentaenzer]]**.
 
 Wichtige Entwicklungen:
 - Varian erkennt Nyssara wieder.
 - Er erklärt, dass der Schlosskeller mit Fallen versehen wurde, um die Sicherheit zu erhöhen.
 - Er berichtet, dass **[[Elaena Silberhand]]** Richtung **[[Nebelhafen]]** aufgebrochen ist.
-- In einem Gespräch unter vier Augen bestätigt Varian Nyssaras Auftrag, die Träne der Sonne in die Himmelshöfe zurückzubringen.
+- In einem Gespräch unter vier Augen bestätigt Varian Nyssaras Auftrag, [[die Träne der Sonne]] in die [[Himmelshöfe]] zurückzubringen.
 - Er übergibt der Gruppe Eintrittskarten für den Fürstenball.
-- Zudem arrangiert er ein Treffen mit Marktgraf Reodemus.
+- Zudem arrangiert er ein Treffen mit [[Marktgraf Reodemus]].
 
 Währenddessen bewegt sich [[Vishuda]] erneut im Untergrund.
 
 Dort:
-- Erhält sie von den **[[Tashiro'en]]** den Auftrag, die Träne der Sonne nach Nebelhafen zu bringen.
-- Sie erhält Informationen über Gifte – darunter „Narrenblut“ (Preis: 80 Gold).
+- Erhält sie von den **[[Tashiro'en]]** den Auftrag, [[die Träne der Sonne]] nach [[Nebelhafen]] zu bringen.
+- Sie erhält Informationen über Gifte – darunter „[[Narrenblut]]“ (Preis: 80 Gold).
 
-Bruder Marcus tritt erneut im Ring erneut gegen **[[Kapitän Havoc]]** an und festigt damit seine Bekanntschaft mit dem Kapitän.
+[[Bruder Marcus]] tritt erneut im Ring erneut gegen **[[Kapitän Havoc]]** an und festigt damit seine Bekanntschaft mit dem Kapitän.

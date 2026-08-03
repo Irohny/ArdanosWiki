@@ -1,6 +1,6 @@
 #Krieg
-#Schwarzklamm
-#Drakmora
+#[[Schwarzklamm]]
+#[[Drakmora]]
 
 Zeitspanne: 1426 - 1528 n.d.D
 
