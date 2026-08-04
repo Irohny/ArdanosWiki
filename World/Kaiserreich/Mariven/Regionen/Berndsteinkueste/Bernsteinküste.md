@@ -7,22 +7,19 @@ Durch die vielen Konflikte und Herrschaftswechsel ist die Bevölkerung dieses La
 
 ## Städte
 1. [[Tiravor]] - Alte Bastionstadt zum Schutz vor [[Elmrath]]
-2. **Marikant** – alter Seehafen mit bernsteinfarbenem Markt
-3. **Branthar’s Heim** – ehemals Piratenhafen, heute florierende Freistadt
-4. **Bernfels**
-5. **Goldhafen**
-6. **[[Sonnenkliff]]**
-7. **Strandholm**
-8. **Amberhold**
+2. [[Wellenhort]]
+3. **[[Sonnenkliff]]**
+4. [[Valorin]]
 
 ---
 
 ### 🛖 **[[Dörfer]] (kleiner, ländlich, Fischerorte oder Harzsammlergemeinden)**
 1. **[[Bernruh]]** – friedlicher Ort an der [[Stromkrone]]
-2. **Kielbruch** – ein wettergepeitschtes Fischerdorf
-3. **Windfurt** – kleines Dorf am Mündungssumpf
-4. **Triftmoor** – halb auf Stelzen gebautes Dorf über sumpfigem Küstenboden
-5. **Seltarn** – bekannt für seine Bootsbauer
-6. **Rottangen** – Fischerdorf mit rauem Ruf
-7. **Marnfeld** – ein landwirtschaftlich
-8. **Kieselgrund**
+2. [[Kraetheim]] - 
+3. **Kielbruch** – ein wettergepeitschtes Fischerdorf
+4. **Windfurt** – kleines Dorf am Mündungssumpf
+5. **Triftmoor** – halb auf Stelzen gebautes Dorf über sumpfigem Küstenboden
+6. **Seltarn** – bekannt für seine Bootsbauer
+7. **Rottangen** – Fischerdorf mit rauem Ruf
+8. **Marnfeld** – ein landwirtschaftlich
+9. **Kieselgrund**

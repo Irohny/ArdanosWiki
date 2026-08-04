@@ -13,7 +13,7 @@
   [[Bruder Calen Wellenruh]]
 - **Bekannt fuer:** Korrektheit, Ehrbegriff, gesellschaftliche Stellung
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #marith #[[tiravor]] #verdacht
+- **Tags:** #marith #[[Tiravor]] #verdacht
 
 ## Beschreibung und Auftreten
 

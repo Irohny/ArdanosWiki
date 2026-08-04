@@ -12,7 +12,7 @@
 - **Verknuepfte NPCs:** [[Roderic Marith]], [[Bruder Calen Wellenruh]]
 - **Bekannt fuer:** Disziplin, Pflichterfuellung, politische Vorsicht
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #[[tiravor]] #hauptmann #garnison
+- **Tags:** #[[Tiravor]] #hauptmann #garnison
 
 ## Beschreibung und Auftreten
 

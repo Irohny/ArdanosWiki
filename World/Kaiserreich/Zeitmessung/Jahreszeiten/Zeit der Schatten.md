@@ -9,4 +9,4 @@ Zeit der *Rabenkönigin* _(Winter)_
 - **Trauerprozessionen:**
 	- Bei diesen Prozessionen werden den Toden des vergangen Jahres gedacht.
 - **Rabenorakel:**
-	- Viele pilgern gegen Ende des Jahres zum  [[Erytra Tempel]] in der [[Nordfels-Krone]]. Sie erhoffen sich von dem Orakel die Auskunft über den Tod, ob er sie oder ihre Familie oder Freunde im nächsten Jahr aufsuchen wird.
+	- Viele pilgern gegen Ende des Jahres zum  [[Mor Thorum]] in der [[Nordfels-Krone]]. Sie erhoffen sich von dem Orakel die Auskunft über den Tod, ob er sie oder ihre Familie oder Freunde im nächsten Jahr aufsuchen wird.

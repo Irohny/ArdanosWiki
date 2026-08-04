@@ -25,7 +25,7 @@
       "query": "path:Kaiserreich/Schwarzklamm  ",
       "color": {
         "a": 1,
-        "rgb": 4737095
+        "rgb": 12530121
       }
     },
     {
@@ -74,6 +74,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.27680079779641026,
-  "close": true
+  "scale": 0.19236972379814832,
+  "close": false
 }

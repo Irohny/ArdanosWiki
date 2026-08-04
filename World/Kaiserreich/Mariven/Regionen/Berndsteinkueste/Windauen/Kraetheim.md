@@ -1,0 +1,1 @@
+Kleines Dorf in der Region [[Windauen]] von [[Mariven]] an der Brücke zum Felsen auf dem [[Mor Thorum]] der große Tempel der [[Erythra]] steht. Viele Pilger der [[Erythra]] versammeln sich hier bei Festen im Tempel.[[Kraetheim]]

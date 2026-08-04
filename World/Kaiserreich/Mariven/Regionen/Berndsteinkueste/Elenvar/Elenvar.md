@@ -1,0 +1,1 @@
+Südliche Region in [[Mariven]] an der [[Bernsteinküste]]. Sie ist durch einen tiefen und dichten Wald gekennzeichnet, der die Ganze Region bedeckt.

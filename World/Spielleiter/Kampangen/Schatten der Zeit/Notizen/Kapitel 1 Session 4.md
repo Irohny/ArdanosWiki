@@ -12,7 +12,7 @@ Enddatum:  (Abends) 14 (Gnadentag) Licht (Frühling) 2486 n.d.D.
 - Selene erklärt den Spielern, dass dies die Folgen des [[Schwur des Schweigens]] ist
 - [[Bruder Marcus]] nimmt Nyssaria mit um will sie in sein Kloster bringen um ihr zu helfen
 - [[Lady Maerina von Elmrath]] betritt den Raum und berichtet, dass die Truppen von [[Luredan van Harl]] sich mit den Horden der Nordsteppe verbündet haben und nun plündernt durch die [[Drachengründe]] ziehen
-- Der Fürstenball wird darauf hin abgesagt und die Fürsten und der KAiser zu einem Notfalltreffen zusammengesucht
+- Der Fürstenball wird darauf hin abgesagt und die Fürsten und der Kaiser zu einem Notfalltreffen zusammengesucht
 - Die Gruppe geht in den Hafen zum Grünen Wyvern um mehr Informationen über Selvian und die Windblut zu finden
 - Der Wirt des Grünen Wyvern gibt [[Gnodomir]] 2 [[Brief]]:
 	- [[Brief]] 1:

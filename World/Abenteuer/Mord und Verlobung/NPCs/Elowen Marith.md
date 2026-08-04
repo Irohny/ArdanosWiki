@@ -13,7 +13,7 @@
   [[Roderic Marith]]
 - **Bekannt fuer:** Anmut, kontrollierte Freundlichkeit, gesellschaftliche Sicherheit
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #[[tiravor]] #marith #intrige
+- **Tags:** #[[Tiravor]] #marith #intrige
 
 ## Beschreibung und Auftreten
 

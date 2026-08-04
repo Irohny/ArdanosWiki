@@ -1,0 +1,1 @@
+Nördliche Region der [[Bernsteinküste]] von [[Mariven]]. Diese Region ist durch weite Graslandschaften und durch den strengen Wind, der durch die Weiten weht, bekannt.

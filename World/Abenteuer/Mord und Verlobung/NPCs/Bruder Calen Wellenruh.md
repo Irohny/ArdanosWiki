@@ -12,7 +12,7 @@
 - **Verknuepfte NPCs:** [[Roderic Marith]], [[Noah Silberklinge]], [[Elowen Marith]]
 - **Bekannt fuer:** Seelsorge, Mitgefuehl, ruhige Beobachtung
 - **Erste Erwaehnung:** Mord und Verlobung
-- **Tags:** #[[tiravor]] #priester #[[ocyra]]
+- **Tags:** #[[Tiravor]] #priester #[[ocyra]]
 
 ## Beschreibung und Auftreten
 
