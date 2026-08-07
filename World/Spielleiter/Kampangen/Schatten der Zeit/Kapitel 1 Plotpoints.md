@@ -1,5 +1,5 @@
 # [[Setup]]
-Der Kaiser [[Aldric von Elmrath]] ruft die Fürsten des Reiches zu dem jährlichen Fürstenball
+Der Kaiser [[Kaiserreich/Kaiser 1/Aldric von Elmrath]] ruft die Fürsten des Reiches zu dem jährlichen Fürstenball
 
 [[Selene Drachenruf]] hat eine Vision und veranlasst, dass eine Gruppe von Charakteren auf anheiß der Harfner zusammengerufen werden, da in ihrer Vision ein [[Attentat]] verübt wurde, sie aber weder den Ausgang noch das Ziel des Anschlags sehen konnte
 

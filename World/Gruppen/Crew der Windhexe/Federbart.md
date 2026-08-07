@@ -19,7 +19,7 @@ Metadatenfelder aus dieser Struktur.
 - **Verknuepfte NPCs:** [[Kapitän Havoc]]
 - **Bekannt fuer:** Stimmenimitation, Geruechte, scharfe Augen aus der Takelage
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #[[windhexe]] #crew #ausguck #kenku
+- **Tags:** #[[Windhexe]] #crew #ausguck #kenku
 
 ## Beschreibung und Auftreten
 

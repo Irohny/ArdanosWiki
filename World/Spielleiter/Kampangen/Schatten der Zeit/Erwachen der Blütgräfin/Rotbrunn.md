@@ -21,8 +21,6 @@ Denn dann, so sagen die Alten, trägt er mehr als nur Kälte mit sich.
 	- Seine Tochter (Marit) Verschwand vor Jahren am Blutfels
 - Elira (Elfin) Heilerin 
 	- moralischer Kompass, hat Angst vor den düsteren Geschichten
-- Bron Schwarzbart (Schmied)
-	- glaubt nicht an Märchen
 - Marek Spatenstich (Totengräber)
 	- hat geöffnete Gräber entdeckt, was er sich nciht erklären kann (sieht nicht nacht Tieren aus)
 - Lorik & Lene Feldmann (Mensch) Bauer

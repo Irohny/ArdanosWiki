@@ -19,7 +19,7 @@ Metadatenfelder aus dieser Struktur.
 - **Verknuepfte NPCs:** [[Kapitän Havoc]]
 - **Bekannt fuer:** Schiffsreparaturen, Werkzeugfetisch, ruppige Loyalitaet
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #[[windhexe]] #crew #ingenieur #zwerg
+- **Tags:** #[[Windhexe]] #crew #ingenieur #zwerg
 
 ## Beschreibung und Auftreten
 

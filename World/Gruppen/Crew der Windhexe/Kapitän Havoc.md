@@ -22,7 +22,7 @@ Metadatenfelder aus dieser Struktur.
 - **Bekannt fuer:** waghalsige Entscheidungen, Seemannswitze,
   furchtlosen Optimismus
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #[[windhexe]] #crew #kapitaen #seefahrt
+- **Tags:** #[[Windhexe]] #crew #kapitaen #seefahrt
 
 ## Beschreibung und Auftreten
 

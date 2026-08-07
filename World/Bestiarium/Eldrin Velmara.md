@@ -1,90 +1,119 @@
 ![[Eldrin Velmara.jpeg|200]]
-# Eldrin Velmara
 
-- **Grundlage:** #Homebrew
-- **Stufe/Herausfordungsgrad:** 6
-- **Volk:** #Mensch 
-- **Herkunft:**  [[Nebelhafen]]
-- **Klasse:** Heiler
-- **Alias:** __Heiler der Reichen und Schönen__
+- **Grundlage:** #Homebrew 
+- **Stufe/Herausfordungsgrad:** 4
+- **Volk:** #Mensch
+- **Herkunft:** [[Nebelhafen]]
+- **Klasse:** Heiler, Schattenpakt-Warlock
+- **Alias:** **Heiler der Reichen und Schönen**
 - **Alter:** 34
 - **Gesinnung:** Neutral Böse
 - **Sprachen:** #Gemeinsprache #Elfisch #Zwergisch #Abysisch
-- **Merkmale:**  
-- **Ideale:**  __Forschung für mehr Heilung__
-- **Bindungen:**  
+- **Merkmale:** Wohltäter-Fassade, verborgener Kultist, Schüler von [[Zera die Flüsterin]]
+
 ---
+
 ## Eigenschaften
-- **Rüstungsklasse (RK)/ Rüstung:** 15 magische Kleidung 
-- **Waffen:** keine
-- **Initiative:** +2
-- **Bewegung:** 9m
-- **Trefferpunkte:**  84 
-- **Trefferwürfel:** 6W8
-- **Fertigkeiten:**
-	- Täuschung +9, 
-	- Heimlichkeit +5, 
-	- Überreden +7, 
-	- Magiekunde +7
 
-|           | Stärke<br> | Geschick.<br> | Konsti.<br> | Intelligenz | Weisheit | Charisma |
-| --------- | ---------- | ------------- | ----------- | ----------- | -------- | -------- |
-| Attribute | 10 (0)     | 14 (+2)       | 14 (+2)     | 18 (+4)     | 12 (+1)  | 18 (+4)  |
-| Rettungs. |            |               |             | +7          |          | +7       |
-- **Immunitäten:**
-- **Resistenzen:** Psychicher Schaden, Gift
-- **Schwächen:** 
+- **Rüstungsklasse (RK)/Rüstung:** 15 (magische Kleidung)
+- **Waffen:** Keine
+- **Initiative:** +2
+- **Bewegung:** 9 m
+- **Trefferpunkte:** 75 (10W8 + 30)
+- **Trefferwürfel:** 10W8
+- **Passive Wahrnehmung:** 11
+- **Fertigkeiten:** Arkane Kunde +7, Täuschung +10, Heimlichkeit +5, Überreden +7
+
+|Wert|Str|Ges|Kon|Int|Wei|Cha|
+|---|---|---|---|---|---|---|
+|Attribut|10 (+0)|14 (+2)|16 (+3)|18 (+4)|12 (+1)|18 (+4)|
+|Rettung|—|—|+6|+7|—|+7|
+
+- **Immunitäten:** —
+- **Resistenzen:** Psychischer Schaden, Giftschaden
+- **Schwächen:** —
 
 ---
+
 ## Aktionen
 
 ### Standard
 
-### Spezialfähigkeiten
-- #### **Mentale Stimme**
-	Eldrin spricht ausschließlich telepathisch mit Kreaturen im Umkreis von 60 ft. Kreaturen müssen bei jedem Gespräch einen **Weisheitsrettungswurf (SG 14)** ablegen oder erleiden **1W4 Psychoschaden + Nachteil auf Einsicht** für 1 Minute.
-
-- #### **Verborgener Kultist**
-	Eldrin kann sich mit einer Bonusaktion für 1 Minute in einen gesunden und fürsorglichen Heiler „verwandeln“ (_magische Illusion, kein Formwechsel_). Vorteil auf Täuschung, Nachteil für andere auf Einsicht.
-
-
-- #### **Dunkle Rückzugsform**
-	Einmal pro langer Rast kann Eldrin sich in einen Schwarm von Schatten auflösen (**wie _Nebelschritt_**), 30 ft. teleportieren und ist für 1 Runde **resistent gegen körperlichen Schaden**.
-
+- **Schauriger Strahl:**
+    - _Fernkampf-Zauberangriff:_ +7 zum Treffen, Reichweite 36 m, ein Ziel.
+    - Eldrin erzeugt zwei Strahlen und führt für jeden einen eigenen Angriffswurf aus.
+    - **Treffer:** 1W10 + 4 Energieschaden.
+        
+- **Mentale Stimme:**
+    - Eldrin wählt eine Kreatur innerhalb von 18 m, die ihn hören oder telepathisch wahrnehmen kann.
+    - Das Ziel muss einen Weisheitsrettungswurf gegen SG 15 schaffen oder erleidet 2W6 psychischen Schaden und hat bis zum Beginn von Eldrins nächstem Zug Nachteil auf Weisheitswürfe (Einsicht) gegen Eldrin und seine Illusionen.
+        
+- **Shadow Leech Ritual (1/Tag):**
+    - Eldrin wählt einen Humanoiden innerhalb von 9 m, den er sehen kann.
+    - Das Ziel muss einen Konstitutionsrettungswurf gegen SG 15 ablegen.
+    - **Misslingen:** 4W10 nekrotischer Schaden. Eldrin erhält Trefferpunkte in Höhe des tatsächlich verursachten Schadens zurück, jedoch nicht über sein Trefferpunktmaximum hinaus.
+    - **Erfolg:** Halber Schaden; Eldrin heilt sich um den tatsächlich verursachten Schaden.
 ### Zauber
-Eldrin ist ein **Zauberwirker des 7. Grades** (Warlock, Pakt der Schatten, Charisma-basiert, SG 15, +7 Angriff).  
-**Zauberplätze:** 2 (Stufe 3, Warlock-typisch)
 
-**Zauberangriffe:** +7 zum Treffen, SG 15 für Rettungswürfe.
-- **Zaubertricks:** [[Schauriger Strahl]], [[Einfache Illusion]], [[Taschenspielerei]], [[Kalte Hand]]
-- **1. Grad (immer aktiv):** [[Verwünschen]], [[Selbstverkleidung]]
-- **2. Grad:** [[Spielgelbilder]], [[Person festhalten]]
-- **3. Grad:** [[Gegenzauber]], [[Vampirgriff]]
-- **Legendärer Schattenzauber (1/Tag):** _Shadow Leech Ritual_ – Entzieht einem humanoiden Ziel 4W10 TP, Eldrin heilt denselben Betrag. SG 15 Konsti-Rettungswurf für halben Schaden.
-- **Gedankenschrei (1/Tag):** Alle Kreaturen in 30 ft. Umkreis müssen einen **Weisheitswurf (SG 15)** bestehen oder erleiden **3W6 Psychoschaden** und können **für 1 Runde nicht sprechen**.
+Eldrin ist ein Zauberwirker des 6. Grades. Sein Zauberattribut ist Charisma (Zauberrettungswurf-SG 15, +7 auf Zauberangriffe).
+
+**Zauberplätze:** 2 Zauberplätze des 3. Grades; sie erneuern sich nach einer kurzen oder langen Rast. Alle Zauber des 1. bis 3. Grades werden mit Zauberplätzen des 3. Grades gewirkt.
+
+**Zaubertricks:**
+- [[Schauriger Strahl]]
+- [[Einfache Illusion]]
+- [[Kalte Hand]]
+
+**Bekannte Zauber:**
+
+- [[Verwünschen]]
+- [[Selbstverkleidung]]
+- [[Spielgelbilder]]
+- [[Person festhalten]]
+- [[Gegenzauber]]
+- [[Vampirgriff]]
+- [[Geteiltes Leben]]
+
+---
 
 ## Taktik
-- Beginnt mit [[Spielgelbilder]], _[[Verwünschen]]_ auf den stärksten Gegner.
-- Nutzt _[[Schauriger Strahl]]_ oder _Vampiric Touch_, um sich zu heilen.
-- Versucht zu entkommen mit _Dunkler Rückzugsform_.
-- Falls möglich, verhandelt mit einem **Seelenhandel**.
+
+- Eröffnet den Kampf, falls er gewarnt wurde, mit bereits aktivem [[Spielgelbilder]]. Andernfalls wirkt er in der ersten Runde [[Verwünschen]] auf den gefährlichsten Gegner und greift mit [[Schauriger Strahl]] an.
+    
+- Hält Distanz und nutzt Zeras Schatten, um Angriffe auf ihn abzufangen oder Gegnern ihre Reaktionen zu nehmen.
+    
+- Wirkt [[Person festhalten]] nur gegen isolierte oder bereits geschwächte Gegner.
+    
+- Nutzt **Shadow Leech Ritual**, sobald er 35 TP oder weniger hat oder einen Charakter schnell ausschalten muss.
+    
+- Bei 20 TP bietet Eldrin einen Seelenhandel an oder versucht mit **Dunkle Rückzugsform** zu fliehen.
+    
+- Wenn Zera verschwindet, wird Eldrin unsicherer: Er verhandelt eher, statt bis zum Tod zu kämpfen.
+    
+
 ---
 
 ## Ausrüstung
-- **Seelenphiole** (ein gefangenes Kind, kann gerettet oder geopfert werden)
-- **Verjüngungselixier (1)**: Heilt 20 TP, aber verursacht nach 1 Stunde 1W6 temporäre Erschöpfung (Konsti-Rettungswurf SG 14 negiert).
+
+- **Seelenphiole:** Enthält die Lebensessenz eines gefangenen Kindes. Wird sie zerstört, überlebt das Kind bewusstlos und schwer geschwächt.
+    
+- **Verjüngungselixier (1):** Heilt 20 TP. Nach einer Stunde muss der Trinker einen Konstitutionsrettungswurf gegen SG 14 schaffen oder erhält eine Stufe Erschöpfung.
+    
+- Aufzeichnungen über reiche Kunden, verschwundene Bettler und das [[Ritual des geteilten Lebens]].
+    
 
 ---
 
 ## Hintergrund
 
-Eldrin war einst ein einfacher Heiler – mitfühlend, aufopferungsvoll, ein Licht in den dunklen Gassen der Armenviertel von [[Nebelhafen]]. Sein Leben war dem Helfen gewidmet, bis er eines Nachts einer Gestalt begegnete, die mehr Schatten als Substanz war: **[[Zera die Flüsterin]]**, eine Gesante des Zeitdiebs. Sie trat mit sanfter Stimme und schimmernden Augen, die mehr sahen, als Worte je ausdrücken konnten.
+Eldrin war einst ein mitfühlender Heiler der Armenviertel von [[Nebelhafen]]. Durch Zeras Flüstern begann er, das Ritual des geteilten Lebens erst für gute Zwecke und später zur Verjüngung reicher Kunden einzusetzen. Seine Krankenhäuser retten weiterhin Leben, doch ihr Reichtum basiert auf den geraubten Lebensjahren und dem Tod der Ärmsten.
 
-Sie bot ihm eine **Schriftrolle**, auf der das **Ritual des Lebenstransfers** verzeichnet war – ein uraltes, nekrotisches Werk, das die Lebensjahre eines Menschen nehmen und auf einen anderen übertragen konnte. Für Eldrin war es keine dunkle Gabe, sondern ein Werkzeug: eine Möglichkeit, **die Reichen jung zu halten** und mit dem Gold, das sie dafür bezahlten, **Krankenhäuser für die Bedürftigen zu errichten**. Er wurde gefeiert, bewundert – ein Wohltäter mit geheimen Mitteln.
-
-Doch mit jedem vollzogenen Ritual flüsterte Zerra erneut. Sie sprach von Gerechtigkeit, von notwendigem Opfer, von der Zeit als Fluss, den man umleiten müsse. Und langsam veränderte sich Eldrin. **Nicht plötzlich, sondern Tropfen für Tropfen** – wie Gift in einem klaren Wasser. Die Augen, einst hell, wurden kälter. Die Entscheidungen, einst rein, wurden rechnerisch. Und irgendwann war es nicht mehr der Wunsch zu helfen, der ihn trieb – sondern die Angst zu verlieren, was er geworden war.
-
-Heute ist Eldrin mehr Legende als Mensch. Ein unsterblicher Wohltäter mit dunklem Herzen. Und Zerra flüstert noch immer.
- 
 ---
+
 ## Zitate
+
+- „Ich habe Leben gerettet. Mehr Leben, als ihr je retten werdet.“
+    
+- „Ihr nennt es Mord. Die Reichen nennen es Hoffnung. Die Armen nennen es Brot.“
+    
+- „Zera hat mich nicht gezwungen. Sie hat nur verstanden, wie man mich überzeugt.“

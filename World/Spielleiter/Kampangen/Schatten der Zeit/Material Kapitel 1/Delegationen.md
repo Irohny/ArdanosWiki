@@ -1,6 +1,6 @@
 #Delegation 
 ### Vorsitzender
-- [[Aldric von Elmrath]]
+- [[Kaiserreich/Kaiser 1/Aldric von Elmrath]]
 - [[Marktgraf Reodemus]] (Berater)
 ### Fürstentum [[Elmrath]]
 - [[Thalric von Elmrath]]

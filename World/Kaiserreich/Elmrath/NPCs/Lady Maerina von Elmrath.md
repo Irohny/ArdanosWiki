@@ -15,7 +15,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Alter:**
 
 - **Verknuepfte Orte:** [[Elmrath]]
-- **Verknuepfte NPCs:** [[Thalric von Elmrath]], [[Aldric von Elmrath]]
+- **Verknuepfte NPCs:** [[Thalric von Elmrath]], [[Kaiserreich/Kaiser 1/Aldric von Elmrath]]
 - **Bekannt fuer:** Diplomatie, politische Allianzen, Einfluss am Fuerstenhof
 - **Erste Erwaehnung:** unbekannt
 - **Tags:** #elmrath #delegation #diplomatie #adel
@@ -29,7 +29,7 @@ Sie gilt als listig, pragmatisch und als Schluesselfigur bei Verhandlungen mit a
 
 - [[Elmrath]]: wichtiges politisches Sprachrohr der regionalen Ambitionen
 - [[Thalric von Elmrath]]: Cousine und enge Beraterin des Fuersten
-- [[Aldric von Elmrath]]: durch familiaere Verbindung nahe am kaiserlichen Machtzentrum
+- [[Kaiserreich/Kaiser 1/Aldric von Elmrath]]: durch familiaere Verbindung nahe am kaiserlichen Machtzentrum
 
 ## Ziele
 

@@ -60,7 +60,7 @@ Doch nicht jede Forschung ist harmlos – geheime Experimente mit verbotener Mag
 Das Reich selbst wird durch ein gewaltiges magisches Schild geschützt, der nur zu bestimmten Zeiten geöffnet wird.
 
 ### Politische Beziehungen
-* Neutral – sieht [[Aldric von Elmrath]] als schwach, aber nützlich für Stabilität
+* Neutral – sieht [[Kaiserreich/Kaiser 1/Aldric von Elmrath]] als schwach, aber nützlich für Stabilität
 - Verbündet mit [[Drakmora]] – Eine Allianz aus Zweckmäßigkeit: [[Vaylen]] liefert magische Artefakte, [[Drakmora]] bietet Schutz.
 - Verfeindet mit [[Mariven]] – Die Händler Marivens misstrauen der unkontrollierbaren Magie Vaylens.
 - Neutral gegenüber [[Schwarzklamm]]  & [[Elmrath]] – Die Gelehrten Vaylens haben wenig Interesse an Rohstoffen oder Ackerbau.

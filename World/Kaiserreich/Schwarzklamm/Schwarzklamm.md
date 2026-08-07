@@ -47,7 +47,7 @@ Unter ihm stehen die Großthane, mächtige Clanführer, die über die verschiede
 Kein Feind hat [[Schwarzklamm]] jemals vollständig eingenommen – jeder Angriff endet in einem Massaker an den Angreifern.
 
 ### Politische Beziehungen
-- Feindselig zum Kaiser [[Aldric von Elmrath]]– basierend auf der lange Feindschaft zwischen [[Elmrath]] und [[Schwarzklamm]].
+- Feindselig zum Kaiser [[Kaiserreich/Kaiser 1/Aldric von Elmrath]]– basierend auf der lange Feindschaft zwischen [[Elmrath]] und [[Schwarzklamm]].
 - Verbündet mit [[Drakmora]] – Starke Krieger und Schmiede sind natürliche Verbündete.
 - Handelspartner von [[Vaylen]] – Magische Artefakte und Waffen werden getauscht, doch das Misstrauen bleibt.
 - Feinde von [[Elmrath]] – Die Zwerge sehen die Bauern als schwach, die Bauern sehen die Zwerge als Ausbeuter der Natur.

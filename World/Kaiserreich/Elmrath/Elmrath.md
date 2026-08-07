@@ -40,7 +40,7 @@ Obwohl [[Elmrath]] keine aggressive Nation ist, hat es Mechanismen zur Selbstver
 Das Volk Elmraths kämpft nicht mit Schwertern, sondern mit List und Naturgewalten – ein Feind, der [[Elmrath]] einnehmen will, findet sich bald in unpassierbaren Sümpfen, vergifteten Wasservorräten oder von wilden Tieren angegriffen.
 
 ### Politische Beziehungen
-- Verbündeter des Kaisers - Volle Unterstützung seines Bruders [[Aldric von Elmrath]].
+- Verbündeter des Kaisers - Volle Unterstützung seines Bruders [[Kaiserreich/Kaiser 1/Aldric von Elmrath]].
 - Verbündet mit [[Mariven]] – Eine starke Handelsallianz: [[Elmrath]] liefert Nahrung, [[Mariven]] transportiert sie.
 - Neutral gegenüber [[Vaylen]] – Die Magier von [[Vaylen]] liefern magisch verbesserte Saaten, doch [[Elmrath]] misstraut ihren unnatürlichen Experimenten.
 - Feindselig gegenüber [[Drakmora]] & [[Schwarzklamm]]  – [[Elmrath]] verachtet die Kriegerkultur [[Drakmora]]s und sieht die Bergbaunationen als Umweltzerstörer.

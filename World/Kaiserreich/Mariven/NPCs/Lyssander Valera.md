@@ -9,8 +9,8 @@
 - **Alter:** 
 
 - **Verknuepfte Orte:** [[Mariven]]
-- **Verknuepfte NPCs:** [[Aldric von Elmrath]]
-- **Bekannt fuer:** Lyssander Valera ist ein listiger Händlerfürst, der Reichtum über alles stellt. Er war einer der wichtigsten Unterstützer Kaiser [[Aldric von Elmrath]], doch se
+- **Verknuepfte NPCs:** [[Kaiserreich/Kaiser 1/Aldric von Elmrath]]
+- **Bekannt fuer:** Lyssander Valera ist ein listiger Händlerfürst, der Reichtum über alles stellt. Er war einer der wichtigsten Unterstützer Kaiser [[Kaiserreich/Kaiser 1/Aldric von Elmrath]], doch se
 - **Erste Erwaehnung:** 2456 n.d.D.
 - **Tags:** #herrscher #mariven #adel
 
@@ -18,7 +18,7 @@
 
 ![[LyssanderValeria.jpeg|300]]
 
-Lyssander Valera ist ein listiger Händlerfürst, der Reichtum über alles stellt. Er war einer der wichtigsten Unterstützer Kaiser [[Aldric von Elmrath]], doch sein Vertrauen ist nicht bedingungslos. Sollte der Kaiser in wirtschaftlichen Fragen versagen, könnte [[Mariven]] sich schnell gegen ihn wenden.
+Lyssander Valera ist ein listiger Händlerfürst, der Reichtum über alles stellt. Er war einer der wichtigsten Unterstützer Kaiser [[Kaiserreich/Kaiser 1/Aldric von Elmrath]], doch sein Vertrauen ist nicht bedingungslos. Sollte der Kaiser in wirtschaftlichen Fragen versagen, könnte [[Mariven]] sich schnell gegen ihn wenden.
 
 Er ist vom Händlerrat von [[Mariven]] zum obersten Kommodore gewählt worden. Seine Macht in den Reihen des Händlerrates ist gefestigt und seine Position ist unangefochten.
 

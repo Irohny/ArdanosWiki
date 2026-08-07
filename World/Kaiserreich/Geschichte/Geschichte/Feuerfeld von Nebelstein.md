@@ -8,7 +8,7 @@ Im Spätherbst des Jahres ***2162 n.d.D***., als der Himmel über der weiten **[
 
 Die versprengten, aber noch immer zahlreichen Stämme der Nordbarbaren hatten sich ein letztes Mal unter einem neuen Warlord, dem grausamen **Tharkul Eisenklaue**, vereint. Ihre Lager durchzogen die steppeartigen Ebenen rund um den Felsrücken von **Nebelstein**, einem von alten Ruinen durchsetzten Hochland, das einst ein Vorposten der alten Magierreiche gewesen war.
 
-Ihnen gegenüber stand das vereinte Heer der Fürstentümer – ein Bündnis, wie es die Welt bis dahin nicht gesehen hatte. Angeführt wurde es von **General [[Elyander Goldschild]]**, dem legendären Taktiker aus [[Drakmora]], der sich durch seine kluge Diplomatie und eiserne Disziplin einen Namen gemacht hatte. Es war das erste Mal, dass Zwerge, Menschen, Elfen und Drachengeborene Seite an Seite in einem vereinten Heer standen.
+Ihnen gegenüber stand das vereinte Heer der Fürstentümer – ein Bündnis, wie es die Welt bis dahin nicht gesehen hatte. Angeführt wurde es von **General [[Kaiserreich/Kaiser 1/Elyander Goldschild]]**, dem legendären Taktiker aus [[Drakmora]], der sich durch seine kluge Diplomatie und eiserne Disziplin einen Namen gemacht hatte. Es war das erste Mal, dass Zwerge, Menschen, Elfen und Drachengeborene Seite an Seite in einem vereinten Heer standen.
 
 ### Der Beginn der Schlacht
 
@@ -22,6 +22,6 @@ Der Wendepunkt kam, als General Elyander höchstpersönlich mit seinem Gefolge e
 
 ### Der Nachhall
 
-Als das letzte Kriegshorn der Barbaren verstummte und ihre Banner in der Asche verglühten, war der Weg frei. Drei Jahre später wurde **[[Elyander Goldschild]]** unter allgemeiner Anerkennung zum ersten **Kaiser von [[Ardanos]]** gekrönt. Das dritte [[Zeitalter]] begann – das **[[Zeitalter]] des Friedens und Wohlstands**.
+Als das letzte Kriegshorn der Barbaren verstummte und ihre Banner in der Asche verglühten, war der Weg frei. Drei Jahre später wurde **[[Kaiserreich/Kaiser 1/Elyander Goldschild]]** unter allgemeiner Anerkennung zum ersten **Kaiser von [[Ardanos]]** gekrönt. Das dritte [[Zeitalter]] begann – das **[[Zeitalter]] des Friedens und Wohlstands**.
 
 Der Ort der Schlacht wurde zum **heiligen Gedenkfeld**, wo heute die **[[Feuerstele von Nebelstein]]** steht – ein brennender Monolith, der nie erlischt, errichtet von den Flammenmagiern [[Vaylen]]s als ewiges Mahnmal des Opfers und Sieges.

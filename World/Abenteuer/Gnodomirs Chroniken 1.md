@@ -1,6 +1,6 @@
 **Zeitraum:** 9 (Lichttag) – 13 (Markttag), Licht (Frühling) 2486 ndD
 
-Kaiser **[[Aldric von Elmrath]]** ruft die Fürsten der fünf Fürstentümer zum jährlichen Fürstenbankett in die Hauptstadt.
+Kaiser **[[Kaiserreich/Kaiser 1/Aldric von Elmrath]]** ruft die Fürsten der fünf Fürstentümer zum jährlichen Fürstenbankett in die Hauptstadt.
 
 Mit den [[Delegationen]] reisen auch zahlreiche Informanten und Spione an. In der Unterwelt kursiert das Gerücht, dass während des Banketts ein Anschlag auf ein Mitglied der Versammlung geplant sei.
 

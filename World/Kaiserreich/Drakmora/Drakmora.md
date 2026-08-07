@@ -43,7 +43,7 @@ Drakmoras Armee ist eine der diszipliniertesten und am besten ausgerüsteten Str
 **Die Kriegsschmiede:** Eine Spezialeinheit, bestehend aus Schmieden und Kriegern, die im Feld nicht nur kämpfen, sondern auch beschädigte Rüstungen und Waffen reparieren.
 
 ### Politische Beziehungen
-- Feindselig – sieht [[Aldric von Elmrath]] als schwach und rückständig
+- Feindselig – sieht [[Kaiserreich/Kaiser 1/Aldric von Elmrath]] als schwach und rückständig
 - [[Drakmora]] hat enge Beziehungen zu [[Schwarzklamm]], dem Reich der Schmiede und Bergleute. Die beiden Fürstentümer tauschen Rohstoffe und Technologie aus, um ihre Waffenproduktion zu optimieren.
 - [[Vaylen]], das Reich der Magie und Wissenschaft, ist ebenfalls ein Verbündeter, auch wenn ihre Methoden oft als zu fremdartig und unpraktisch angesehen werden.
 - Mit [[Elmrath]] und [[Mariven]] gibt es starke Spannungen. [[Drakmora]] verachtet [[Elmrath]]s pazifistische Haltung und sieht die Handelsnation [[Mariven]] als schwach und gierig an.

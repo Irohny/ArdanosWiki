@@ -34,25 +34,25 @@ _"Wenn das erste Blut auf heiligen Boden fällt, wird die Welt ihre Kinder ordne
 „Wenn Schwerter ruhen und die Banner schweigen, wird das Herz des Reiches schlagen wie nie zuvor.“
 
 **2165 n.d.D.** Start des Dritten Zeitalters
-- **2165 -2199 n.d.D** Krönung von [[Elyander Goldschild]] zum ersten Kaiser von [[Ardanos]] 
+- **2165 -2199 n.d.D** Krönung von [[Kaiserreich/Kaiser 1/Elyander Goldschild]] zum ersten Kaiser von [[Ardanos]] 
 - **2166 n.d.D** Erste Nennung der [[Tashiro'en]] nach einem ungeklärten [[Attentat]]
-- **2199–2230 n.d.D.** Regentschaft [[Almareth Silven]]
-- **2230–2256 n.d.D.** Regentschaft [[Barduron Steinmark]]
-- **2256–2283 n.d.D.** Regentschaft [[Calvius Thorne]] 
-- **2283–2318 n.d.D.** Regentschaft [[Dural Goldschild II]]
+- **2199–2230 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Almareth Silven]]
+- **2230–2256 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Barduron Steinmark]]
+- **2256–2283 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Calvius Thorne]] 
+- **2283–2318 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Dural Goldschild II]]
 - **2287 n.d.D** Gründung des [[Bizeptiner Orden]] durch [[Arn'Old]]
-- **2319–2354 n.d.D.** Regentschaft [[Marcellon Arven]]
+- **2319–2354 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Marcellon Arven]]
 - **2319 - 2410 n.d.D** Tod von [[Durim Felsenherz]], nachfolgend [[Krieg der Klüfte]]
-- **2355–2381 n.d.D.** Regentschaft [[Virella Nyssien]]
-- **2382–2409 n.d.D.** Regentschaft [[Balrik Hammergrund]]
+- **2355–2381 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Virella Nyssien]]
+- **2382–2409 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Balrik Hammergrund]]
 - **2410 n.d.D** Beginn des vierten Zeitalters der [[Schwarzklamm]]
-- **2410–2442 n.d.D.** Regentschaft [[Alinor Thorne II]]
-- **2443–2469 n.d.D.** Regentschaft [[Elsinya Arven]]
+- **2410–2442 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Alinor Thorne II]]
+- **2443–2469 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Elsinya Arven]]
 - **2447 n.d.D** [[Das Sonnenwunder von Valmere]]
 - **2461 n.d.D.** Start der Neubesiedlung der [[Khazul-Vuldur]]
-- **2470–2483 n.d.D.** Regentschaft [[Durnek Eisenmark]]
+- **2470–2483 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Durnek Eisenmark]]
 - **2478 - 2482 n.d.D.** [[Blutfeldzug in der Aschenweite]]
-- **2484 n.d.D.** Regentschaft [[Aldric von Elmrath]]
+- **2484 n.d.D.** Regentschaft [[Kaiserreich/Kaiser 1/Aldric von Elmrath]]
 	
 **2486 n.d.D.** aktuelles Jahr
 

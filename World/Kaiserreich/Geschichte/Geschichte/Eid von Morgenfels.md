@@ -14,7 +14,7 @@ Doch auf einem Hochplateau zwischen den Fürstentümern – dem **[[Morgenfels]]
 
 ### Das Treffen
 
-Die Versammlung wurde von **General [[Elyander Goldschild]]** einberufen – einem strategisch brillanten, aber politisch bis dahin wenig einflussreichen Heerführer. Doch er brachte etwas mit, das alle anderen nicht hatten: **eine Vision**.
+Die Versammlung wurde von **General [[Kaiserreich/Kaiser 1/Elyander Goldschild]]** einberufen – einem strategisch brillanten, aber politisch bis dahin wenig einflussreichen Heerführer. Doch er brachte etwas mit, das alle anderen nicht hatten: **eine Vision**.
 
 Vor den versammelten Fürsten – darunter:
 

@@ -30,3 +30,4 @@ Die Fronten verschieben sich weiter. Während die Fürstin militärisch verloren
 ![[Drakmora_Runde2.png|300]]
 
 ---
+**3. Bericht, 20. Licht, 2486 n.d.D**

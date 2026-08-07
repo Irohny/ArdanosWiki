@@ -20,7 +20,7 @@ Metadatenfelder aus dieser Struktur.
 - **Bekannt fuer:** Eintoepfe, Versorgungsplanung, gladiatorische
   Vergangenheit mit poetischem Einschlag
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #[[windhexe]] #crew #koch #quartiermeister
+- **Tags:** #[[Windhexe]] #crew #koch #quartiermeister
 
 ## Beschreibung und Auftreten
 

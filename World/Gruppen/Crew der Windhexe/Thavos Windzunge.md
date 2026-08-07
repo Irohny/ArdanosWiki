@@ -19,7 +19,7 @@ Metadatenfelder aus dieser Struktur.
 - **Verknuepfte NPCs:** [[Kapitän Havoc]]
 - **Bekannt fuer:** Windmagie, Navigation, Jagd nach dem perfekten Sturm
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #[[windhexe]] #crew #navigator #magie
+- **Tags:** #[[Windhexe]] #crew #navigator #magie
 
 ## Beschreibung und Auftreten
 

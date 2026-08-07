@@ -14,7 +14,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Sterbejahr:** 
 - **Alter:** 
 
-- **Verknuepfte Orte:** [[Aldric von Elmrath]], [[Elmrath]]
+- **Verknuepfte Orte:** [[Kaiserreich/Kaiser 1/Aldric von Elmrath]], [[Elmrath]]
 - **Verknuepfte NPCs:** 
 - **Bekannt fuer:** Thalric ist ein konservativer Herrscher, der sich vor allem auf Landwirtschaft, Viehzucht und den Schutz der alten Traditionen konzentriert. Er ist der Bruder v
 - **Erste Erwaehnung:** 2443 n.d.D.
@@ -24,7 +24,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 
 ![[Thalric.jpeg|300]]
 
-Thalric ist ein konservativer Herrscher, der sich vor allem auf Landwirtschaft, Viehzucht und den Schutz der alten Traditionen konzentriert. Er ist der Bruder von [[Aldric von Elmrath]] und ist seit dessen Wahl zum Kaiser durch die Fürsten zum Fürsten von [[Elmrath]] ernannt worden.
+Thalric ist ein konservativer Herrscher, der sich vor allem auf Landwirtschaft, Viehzucht und den Schutz der alten Traditionen konzentriert. Er ist der Bruder von [[Kaiserreich/Kaiser 1/Aldric von Elmrath]] und ist seit dessen Wahl zum Kaiser durch die Fürsten zum Fürsten von [[Elmrath]] ernannt worden.
 
 ## Rolle und Beziehungen
 
