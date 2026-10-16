@@ -1,4 +1,4 @@
-- **Gluttag** erster Tag der Woche, (Montag)  
+- **Gluttag** (Montag / erster Tag der Woche)  
 - **Lichttag** (Dienstag)  
 - **Steinmark** (Mittwoch)  
 - **Nebeltag**  (Donnerstag)  

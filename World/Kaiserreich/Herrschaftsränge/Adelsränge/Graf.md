@@ -1,0 +1,1 @@
+Der Graf wird vom Fürsten belehnte Grafschaft.

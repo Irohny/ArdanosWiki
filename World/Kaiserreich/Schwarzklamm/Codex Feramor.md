@@ -8,7 +8,7 @@
 ![[Erzkrieg von Eron’Gath]]
 
 ---
-**712 v.d.S (1698 n.d.D.)** [[Die Erschütterung der Tiefe]] ([[Schwarzklamm]])
+**712 v.d.S (1698 n.d.D.)** [[Erschütterung der Tiefe]] ([[Schwarzklamm]])
 
 ---
 **247 v.d.S. (2163 n.d.D)** [[Die Feuertaufe von Kar'drathar]] Ausbruch des [[Moragul]]

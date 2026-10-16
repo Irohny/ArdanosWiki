@@ -1,0 +1,1 @@
+Kleine, karge Zellen für Meditation, kontrolliertes Atmen und isometrische Übungen. Kein Bett, nur Steinboden, eine Wasserschale und ein schwerer Griffstein.

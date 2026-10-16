@@ -1,4 +1,3 @@
-# Reisegeschwindigkeiten
 
 > [!info]
 > Diese Werte dienen als Richtlinie für Reisen in **Ardanos**. Die Geschwindigkeiten orientieren sich an den Standardregeln von D&D 5e und wurden um weitere Transportmittel ergänzt.
@@ -67,29 +66,6 @@
 - **SG = 10 + Anzahl zusätzlicher Stunden**
 - Bei einem Fehlschlag erhält die Kreatur **eine Stufe Erschöpfung**.
 
----
-
-## Schnellreferenz
-
-| Geschwindigkeit | Strecke pro Stunde | Strecke pro Tag |
-|-----------------|-------------------:|----------------:|
-| Langsam | 3–5 km | 24–40 km |
-| Normal | 4–10 km | 32–80 km |
-| Schnell | 5–25 km | 40–200 km |
-
----
-
-## Ardanos-spezifische Transportmittel
-
-| Transportmittel         | Beschreibung                                                            |
-| ----------------------- | ----------------------------------------------------------------------- |
-| Rieseneber              | Zähe Reittiere der Schwarzklamm. Langsam, aber hervorragend im Gebirge. |
-| Schwebebarke            | Magisches Transportmittel aus Arcanis für wohlhabende Reisende.         |
-| Rabenpost               | Schneller Kurierdienst zwischen bedeutenden Städten.                    |
-| Wyvernreiter            | Militärische Luftkuriere über weite Distanzen.                          |
-| Silberstrom-Schiffe     | Wichtigstes Transportmittel entlang des Silberstroms.                   |
-| Zwergische Erzkarawanen | Schwere Wagen für Erz- und Warentransporte zwischen den Fürstentümern.  |
-| Portalkreise            | Seltene magische Fernreise zwischen ausgewählten Metropolen.            |
 
 > [!tip]
 > Für Reiseplanung kann folgende Formel genutzt werden:

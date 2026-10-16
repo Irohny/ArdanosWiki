@@ -1,0 +1,11 @@
+**Der letzte Drachenzug, 328 n.d.D.**
+
+Der schwarze Drache **[[Varkhaz]] der Nebelverschlinger** erwachte in einer alten Höhle im nördliche Gebiet des [[Helmbrach-Massiv]]s. Seine Anwesenheit vergiftet Quellen, schwärzt das Gras und verdichtet den Nebel; Reisende verschwinden, Karawanen werden zerrissen. Die [[Nebelsteppe]] zwischen der [[Nordfels-Krone]] und dem [[Helmbrach-Massiv]] wurde undurchquerbar.
+
+Bald reichte es [[Varkhaz]] nicht mehr nur die Ebene zu terrorisieren. Er griff die Festungen der Zwerge im [[Helmbrach-Massiv]] und der [[Nordfels-Krone]] an und zerstörte die stärksten Festungen und ermordete ganze Clans. Er fordert jeden Clan auf, Tribut zu leisten: Gold, geschmiedete Waffen, Edelsteine – und regelmäßig zwergische Gefangene. Die Clans reagieren getrennt. Manche verstecken sich in den Hallen, manche zahlen, manche greifen den Drachen mit kleinen Kriegertrupps an und werden vernichtet. Gerade diese Niederlagen zeigen, dass kein einzelnes Gebirge ihn bezwingen kann.
+
+[[Bardum Eisenklang]] ein angesehener Clansoberhaupt aus dem [[Helmbrach-Massiv]] stellte einen Trupp tapferer Helden zusammen. Er rekrutierte aus den einzelnen Klans der Zwerge nur die besten Krieger, Kundschafter und Zauberwirkenden. Mit diesem Elitetrupp machte er sich auf den Weg den Hort des Drachens zu finden und den Drachen zu besiegen. 
+
+Was der Trupp bei der Expedition genau erlebte wurde nicht in die Geschichtsbücher übernommen. Man weiß nur, dass es dem Trupp unter [[Bardum Eisenklang]] gelang den Hort des schwarzen Drachens zu finden und den Drachen in seinem eigenen Hort zu erschlagen. Der Reichtum des Hortes wurde unter den Gefährten [[Bardum Eisenklang]] aufgeteilt. 
+
+Dieses Ereignis war der Beginn der Zusammenarbeit der Zwergenclans der [[Nordfels-Krone]] und des [[Helmbrach-Massiv]]s. Es dauert nicht lange, bis sie sich unter dem Banner des Drachens on [[Bardum Eisenklang]] vereinten und die beiden Gebirge ein gemeinsames Königreich bildeten. Dies Königreich aus Stein und Erz war so stabil geschmiedet, dass es tausende Jahre jeden Feind trotzte und selbst nach einem großen Bürgerkrieg nicht zerbrach.

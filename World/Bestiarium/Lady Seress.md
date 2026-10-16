@@ -5,7 +5,7 @@
 - **Volk:** #Monstrositaet
 - **Herkunft:** Adelszirkel von Ardanos
 - **Klasse:** Verführerische Medusa
-- **Alias:**
+- **Alias:** [[Lady Maerina von Elmrath]]
 - **Alter:**
 - **Gesinnung:** Neutral Böse
 - **Sprachen:** #Gemeinsprache #Drachisch

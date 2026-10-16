@@ -6,3 +6,6 @@ _Siedlung am Südufer des [[Lumaros]] ([[Elmrath]])_
 Das Dorf ist ordentlich strukturiert und stärker reglementiert als sein Gegenstück auf der Nordseite. Zollhäuser, Lagerhallen und einfache Herbergen prägen das Bild. Viele Bewohner arbeiten direkt oder indirekt für die Festung: als Fuhrleute, Schreiber, Handwerker oder Versorger der Garnison.
 
 [[Nordtor]] gilt als **diszipliniert, wachsam und pflichtbewusst**. Die Nähe zu Elmraths Verwaltung ist spürbar – Gesetze werden hier ernst genommen, und Fremde stehen stets unter Beobachtung. Dennoch ist [[Nordtor]] ein wichtiger Knotenpunkt für Handel aus dem Süden, insbesondere für Getreide, Textilien und verarbeitete Waren
+
+
+🔶 *Vorschlag, nicht kanonisch:* Seit dem Stromkrone-Vertrag (2466) gehört [[Nordtor]] zur Markgrafschaft [[Stromkrone]] und untersteht [[Markgraf]] [[Reodemus]]. Die gewohnte Ordnung bleibt, aber die Steuern des Dorfes gehen nun zu gleichen Teilen an [[Elmrath]], [[Mariven]] und das Kaiserreich, und die Zollhäuser arbeiten nach den festgeschriebenen Sätzen des Vertrags.

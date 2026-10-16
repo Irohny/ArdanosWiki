@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Kaiserreich/Drakmora  ",
@@ -18,28 +18,28 @@
       "query": "path:Kaiserreich/Mariven  ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 14701138
       }
     },
     {
       "query": "path:Kaiserreich/Schwarzklamm  ",
       "color": {
         "a": 1,
-        "rgb": 12530121
+        "rgb": 14701138
       }
     },
     {
       "query": "path:Kaiserreich/Elmrath  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 14701138
       }
     },
     {
       "query": "path:Kaiserreich/Vaylen  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 14701138
       }
     },
     {
@@ -53,21 +53,28 @@
       "query": "path:Kaiserreich/Geschichte  ",
       "color": {
         "a": 1,
-        "rgb": 5395168
+        "rgb": 5431380
       }
     },
     {
       "query": "path:Tranksammlung  ",
       "color": {
         "a": 1,
-        "rgb": 11621088
+        "rgb": 0
       }
     },
     {
       "query": "path:Charakter  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 14718802
+      }
+    },
+    {
+      "query": "path:Gruppen  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431406
       }
     }
   ],
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.2984710765774004,
+  "scale": 0.14010257750352745,
   "close": true
 }

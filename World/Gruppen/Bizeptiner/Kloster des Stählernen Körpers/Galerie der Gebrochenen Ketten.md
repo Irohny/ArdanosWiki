@@ -1,0 +1,1 @@
+Ein Ehrensaal, in dem zerbrochene Fesseln, gesprungene Gewichtssteine und die Namen großer Bizeptiner ausgestellt sind. Sie dient als Erinnerung: Grenzen sind dafür da, überwunden zu werden 

@@ -1,9 +1,3 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
-
 - **Rufname / Beiname:**
 - **Titel / Amt:** Hohepriester von [[Ocyra]] auf [[Ael'Varin]]
 - **Haus / Dynastie:** Vel'Maril

@@ -1,0 +1,1 @@
+Der Mönchshof ist schlicht und beinahe karg: dunkle Schlafräume, offene Wandelgänge und ein Kiesgarten laden zu Meditation und körperlicher Übung ein. Das leise Klappern von Windspielen markiert hier den Rhythmus des Tages.

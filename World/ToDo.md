@@ -1,2 +1,8 @@
-- [[Klan van Harl]] strukturieren und überarbeiten
-- Wunderheiler Geschichte als Sidequst weiter ausarbeiten
+- [[van Harl]] strukturieren und überarbeiten
+
+- **Maps:**
+	- [[Orchideenkeller]]
+	- [[Schattenblütengarten]]
+	- [[Lunareth der Sichelschrein]]
+	- [[Schattenkai]]
+	- [[Wurzelfurt]]

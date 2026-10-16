@@ -1,2 +1,0 @@
-_Einst ein Stolz der Flotte, jetzt ein Wrack tief unter der Smaragdtiefe. Einige sagen, ihre Glocken läuten noch unter Wasser._
-Einst ein Schiff der [[Gischtgeborenen]]. Wurde in der Backstory von [[Gnodomir]] von einem Gott versenkt.

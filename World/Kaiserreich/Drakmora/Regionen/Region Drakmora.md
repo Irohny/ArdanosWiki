@@ -22,7 +22,7 @@
 
 # 7. [[Wolfsheim]] 
 
-# 8. Sturmkessel 
+# 8. [[Sturmkessel]] 
 - Brücke nach [[Mariven]]/[[Bernsteinküste]]
 - Straße: [[Nordlinie]]
 - Stadt: Sturmwall
@@ -51,7 +51,7 @@
 
 # 15. ![[Blutheide]]
 
-# 16. ![[Eisenfels]] 
+# 16. ![[Eisenmark]] 
 
 
 # 17. ![[Feuerfeld]]
@@ -61,30 +61,28 @@
 - Straße: [[Drachenspur]]
 
 # 20. ![[Aschenamm]]
+![[Drakmora_Runde4.png]]
 
-
-![[Drakmora_Runde2.png]]
-
-|     | **Region**     | **Truppen** | **Moral** | **Treue**    | **Loyalität** |
-| --- | -------------- | ----------- | --------- | ------------ | ------------- |
-| 1   | [[Valatheris]]     | 23          | 19        | #Fürstentreu |               |
-| 2   | [[Drachengründe]]  | 1           | 20        | #Rebellion   |               |
-| 3   | Nebelkliff     | 8           | 20        | #Neutral     | 0             |
-| 4   | Schimmerklippe | 10          | 11        | #Neutral     | -2            |
-| 5   | [[Silberheide]]    | 1           | 9         | #Fürstentreu |               |
-| 6   | [[Schildmark]]     | 1           | 9         | #Fürstentreu |               |
-| 7   | [[Wolfsheim]]      | 4           | 9         | #Fürstentreu |               |
-| 8   | Sturmkessel    | 14          | 7         | #Fürstentreu |               |
-| 9   | [[Klingensteppe]]  | 12          | 3         | #Neutral     | 0             |
-| 10  | [[Donnermoor]]     | 19          | 9         | #Fürstentreu |               |
-| 11  | [[Rabenmark]]      | 9           | 12        | #Neutral     | -2            |
-| 12  | [[Rabenforst]]     | 19          | 20        | #Neutral     | 0             |
-| 13  | Schatteholz    | 17          | 8         | #Neutral     | -1            |
-| 14  | [[Schwarzhall]]    | 1           | 20        | #Rebellion   |               |
-| 15  | [[Blutheide]]      | 1           | 12        | #Neutral     | 0             |
-| 16  | Eisenmark      | 10          | 20        | #Rebellion   |               |
-| 17  | [[Feuerfeld]]      | 3           | 16        | #Rebellion   |               |
-| 18  | [[Drachenwacht]]   | 21          | 20        | #Rebellion   |               |
-| 19  | [[Nebelsteppe]]    | 1           | 8         | #Rebellion   |               |
-| 20  | Aschenkamm     | 5           | 1         | #Neutral     | 0             |
+|     | **Region**        | **Truppen** | **Moral** | **Treue**    | **Loyalität** |
+| --- | ----------------- | ----------- | --------- | ------------ | ------------- |
+| 1   | [[Valatheris]]    | 22          | 28        | #Fürstentreu |               |
+| 2   | [[Drachengründe]] | 1           | 22        | #Rebellion   |               |
+| 3   | Nebelkliff        | 10          | 20        | #Neutral     | 0             |
+| 4   | Schimmerklippe    | 12          | 11        | #Neutral     | 1             |
+| 5   | [[Silberheide]]   | 2           | 15        | #Fürstentreu |               |
+| 6   | [[Schildmark]]    | 1           | 13        | #Fürstentreu |               |
+| 7   | [[Wolfsheim]]     | 4           | 19        | #Fürstentreu |               |
+| 8   | [[Sturmkessel]]   | 1           | 18        | #Fürstentreu |               |
+| 9   | [[Klingensteppe]] | 1           | 17        | #Rebellion   |               |
+| 10  | [[Donnermoor]]    | 23          | 17        | #Fürstentreu |               |
+| 11  | [[Rabenmark]]     | 26          | 16        | #Fürstentreu |               |
+| 12  | [[Rabenforst]]    | 17          | 17        | #Rebellion   |               |
+| 13  | Schatteholz       | 34          | 17        | #Rebellion   |               |
+| 14  | [[Schwarzhall]]   | 15          | 23        | #Rebellion   |               |
+| 15  | [[Blutheide]]     | 1           | 22        | #Rebellion   | 0             |
+| 16  | Eisenmark         | 22          | 28        | #Rebellion   |               |
+| 17  | [[Feuerfeld]]     | 2           | 21        | #Rebellion   |               |
+| 18  | [[Drachenwacht]]  | 1           | 29        | #Rebellion   |               |
+| 19  | [[Nebelsteppe]]   | 1           | 17        | #Rebellion   |               |
+| 20  | Aschenkamm        | 7           | 1         | #Neutral     | 0             |
 

@@ -9,7 +9,7 @@
 - **Alter:** 34
 - **Gesinnung:** Neutral Böse
 - **Sprachen:** #Gemeinsprache #Elfisch #Zwergisch #Abysisch
-- **Merkmale:** Wohltäter-Fassade, verborgener Kultist, Schüler von [[Zera die Flüsterin]]
+- **Merkmale:** Wohltäter-Fassade, verborgener Kultist, Schüler von [[Zera Peretupa]]
 
 ---
 

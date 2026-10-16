@@ -1,0 +1,1 @@
+_Verführerisch schön, doch tödlich – bekannt für das Täuschen und Überwältigen größerer Schiffe durch List und Geschwindigkeit._

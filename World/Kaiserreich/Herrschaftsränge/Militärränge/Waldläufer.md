@@ -1,0 +1,1 @@
+Rang in [[Elmrath]] für Soldaten, die Wälder und wilde Landstriche sichern, vor allem den [[Immergrüner Hain|Immergrünen Hain]]. Sie spähen, folgen Spuren und schützen die Wälder. Gleicher Rang wie [[Wächter]] und [[Grenzer]], nur mit anderen Aufgaben.

@@ -5,7 +5,7 @@ Die **[[Morgenwacht]]** ist ein religiöser Militärorden, der im Namen [[Solyra
 ---
 ### **Auftrag**
 
-Die [[Morgenwacht]] schützt die Schwachen, bekämpft [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]] und widernatürliche Wesen und verbreitet die Lehre [[Solyra]]s. Wo das Licht bedroht wird, zieht der Orden aus, um Ordnung wiederherzustellen und Hoffnung zu bringen – notfalls mit dem Schwert.
+Die [[Morgenwacht]] schützt die Schwachen, bekämpft [[Spielleiter/Kampangen/Schatten der Zeit/Materialien/Monster|Monster]] und widernatürliche Wesen und verbreitet die Lehre [[Solyra]]s. Wo das Licht bedroht wird, zieht der Orden aus, um Ordnung wiederherzustellen und Hoffnung zu bringen – notfalls mit dem Schwert.
 
 ---
 ### **Glaube & Ideale**

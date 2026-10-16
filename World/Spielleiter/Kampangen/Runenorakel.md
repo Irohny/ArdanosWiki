@@ -25,3 +25,19 @@
 | ᛜ        | Ingwaz   | Energie       | +1W4 beim ersten Treffer                             | [[Donnerwoge]] (Aktion)                                                          | [[Solyra]]    |
 | ᛞ        | Dagaz    | Tag           | Vorteil auf Initiative                               | Re-roll eines Wurfs                                                              | [[Solyra]]    |
 | ᛟ        | Othala   | Erbe          | +1 AC wenn stationär                                 | Verbündete +1 AC (1 Runde) (Bonusaktion)                                         | [[Sylvaldis]] |
+
+
+---
+
+## 🔶 Balance-Anmerkungen (nicht-kanonisch, zur Prüfung)
+
+Beim Review aufgefallene Ausreißer im Vergleich zum übrigen Powerlevel der Tabelle:
+
+**Passiv:**
+- **Perthro** – "1x pro Tag Re-roll" als *passiver* Effekt entspricht fast dem kompletten Lucky-Feat und ist damit deutlich wertvoller als vergleichbare +1-Boni anderer Runen.
+
+**Aktiv:**
+- **Tiwaz** – garantierter kritischer Treffer beim ersten Nahkampfangriff (Bonusaktion) ist die mit Abstand stärkste Aktivfähigkeit der Liste, besonders in Kombination mit Smite/Sneak Attack. Vorschlag: nur gegen nicht-kritimmune Ziele, oder Kosten auf eine volle Aktion erhöhen.
+- **Isa** – "Ziel kann 1 Minute (10 Runden) keine Reaktion nutzen" (Bonusaktion) ist ein sehr langer Kontrolleffekt für die Kosten. Vorschlag: Dauer auf "bis Ende des nächsten Zuges des Ziels" kürzen.
+- **Naudiz** – "Bleib bei 1 HP statt 0" 1x pro **kurzer** Rast wirkt auf Stufe 3–4 wie eine nahezu kostenlose Lebensversicherung. Vorschlag: auf 1x pro **langer** Rast umstellen.
+- **Perthro (Aktiv)** – "Gegner hat Nachteil auf Wurf" ist als einzige Aktivfähigkeit ohne Aktionsart (Bonusaktion/Aktion/Reaktion) angegeben. Falls kostenlos, ist das die stärkste Fähigkeit der Tabelle. Vorschlag: Aktionsart ergänzen (vermutlich Reaktion, analog zu Algiz).

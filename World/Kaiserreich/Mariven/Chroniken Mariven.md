@@ -1,73 +1,19 @@
-![[Lureano Talvarin]]
-
----
-
-![[Vennira Cassalay]]
-
----
-
-![[Domerr Velora]]
-
----
-
-![[Yllian Marris]]
-
----
-
-![[Faelyn Niros]]
-
----
-
-![[Perrik Grahm]]
-
----
-
-![[Celetha Talvarin II]]
-
----
-
-![[Zordak Eisenbeiß]]
-
----
-
-![[Aerinelle Vellora]]
-
----
-
-![[Candamir Silberhand]]
-
----
-
-![[Marcellus Daevorn]]
-
----
-
-![[Vanya Cerelin]]
-
----
-
-![[Halren Marris II]]
-
----
-
-![[Orryn Vellora II]]
-
----
-
-![[Zallion Velora III]]
-
----
-
-![[Aelaria Vellora]]
-
----
-
-![[Elim Marthus]]
-
----
-![[Irion Cassalay II]]
-
-
----
-
-![[Lyssander Valera]]
+503 - 547 n.d.D. [[Lureano Talvarin]]
+547 - 603 n.d.D. [[Vennira Cassalay]]
+[[Domerr Vellora]]
+[[Yllian Marris]]
+[[Faelyn Niros]]
+[[Perrik Grahm]]
+[[Celetha Talvarin II]]
+[[Zordak Eisenbeiß]]
+[[Aerinelle Vellora II]]
+[[Candamir Silberhand]]
+[[Marcellus Daevorn]]
+[[Vanya Cerelin]]
+[[Halren Marris II]]
+[[Orryn Vellora III]]
+[[Zallion Vellora IV]]
+[[Aelaria Vellora V]]
+[[Elim Marthus]]
+[[Irion Cassalay II]]
+[[Lyssander Valera]]

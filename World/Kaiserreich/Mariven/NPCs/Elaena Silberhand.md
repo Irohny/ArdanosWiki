@@ -1,11 +1,5 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
-
 - **Rufname / Beiname:**
-- **Titel / Amt:** Vize-Kommodore von [[Mariven]]
+- **Titel / Amt:** Vize - [[Kommondor]] von [[Mariven]] und [[Flottenkapitän]] der [[Goldene Armada]]
 - **Haus / Dynastie:** Silberhand
 - **Regentschaft:**
 - **Spezies / Volk:** Elb
@@ -18,7 +12,7 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Verknuepfte NPCs:**
 - **Bekannt fuer:** Handelsverhandlungen, Seehandel, maritime Routenplanung
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #mariven #delegation #handel #seefahrt
+- **Tags:** #[[mariven]] #delegation #handel #seefahrt
 
 ## Beschreibung und Auftreten
 
@@ -29,13 +23,14 @@ Sie gilt als clever, taktisch und ausgesprochen profitbewusst.
 
 ## Rolle und Beziehungen
 
-- [[Mariven]]: Vize-Kommodore mit starkem Einfluss auf Handelspolitik und Delegationsarbeit
-- Seehandel: strategische Fachfigur fuer maritime Wirtschaftsinteressen
+- [[Mariven]]: Vize- [[Kommondor]] mit starkem Einfluss auf Handelspolitik und Delegationsarbeit
+- Seehandel: strategische Fachfigur für maritime Wirtschaftsinteressen
+- Als erfahrene [[Flottenkapitän]] der [[Goldene Armada]] ist sie auch um die sicherheit der Seehandelswege besorgt, die das Herz der Wirtschaft von [[Mariven]] sind
 
 ## Ziele
 
-- Neue profitable Handelsbeziehungen fuer [[Mariven]] erschliessen
-- Die Stellung maritimer Netzwerke gegenueber dem Reich ausbauen
+- Neue profitable Handelsbeziehungen für [[Mariven]] erschliessen
+- Die Stellung maritimer Netzwerke gegenüber dem Reich ausbauen
 
 ## Plot-Hooks
 

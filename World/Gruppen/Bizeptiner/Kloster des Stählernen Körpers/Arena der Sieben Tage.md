@@ -1,0 +1,1 @@
+Das ringförmige Tal beziehungsweise eine geschützte Arena unterhalb des Klosters. Hier bestehen Anwärter ihre Initiation gegen Bestien, Hunger, Kälte und Erschöpfung.

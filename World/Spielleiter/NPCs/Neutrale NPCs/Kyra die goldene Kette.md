@@ -2,7 +2,7 @@
 - **Volk/Herkunft:**  [[Drakmora]] #Elf 
 - **Alias:** Kyra Seelenhauch
 - **Alter:** 93
-- **Gesinnung:** Reschtchaffent NEutral
+- **Gesinnung:** Reschtchaffent Neutral
 - **Sprachen:** #Gemeinsprache #Elfisch #Celestisch 
 - **Merkmale:**  goldene Ketten
 - **Ideale:**  Freiheit, Unabhängigkeit
@@ -29,7 +29,7 @@
 | --------- | ---------- | ------------- | ----------- | ----------- | -------- | -------- |
 | Attribute | 14(+2)     | 20(+5)        | 18(+4)      | 14(+2)      | 18(+4)   | 20(+5)   |
 | Rettungs. |            | +8            |             |             | +7       | +8       |
-- **Immunitäten:** Feuer, Bezaubern, Furcht, gepackt, 
+- **Immunitäten:** Feuer, Bezaubern, [[Furcht]], gepackt, 
 - **Resistenzen:**  psychisch, Wucht, Stich, Hieb
 - **Schwächen:** 
 
@@ -74,12 +74,12 @@ Magische Ketten 1mal jede pro Kampf als Bonusaktion:
 ## Hintergrund
 Kyra stammt aus den nebelverhangenen Ebenen von **[[Drakmora]]**, einer kargen, wilden Region, in der ihr Stamm seit Jahrhunderten lebte. Die Krieger ihres Volkes waren gefürchtet, nicht nur wegen ihrer Stärke, sondern wegen der uralten Rituale, mit denen sie ihre Waffen durch die Seelen ihrer Ahnen stärkten. Jede Klinge, jeder Speer war mehr als ein Werkzeug des Krieges – es war ein lebendiges Erbe, ein Pakt zwischen den Lebenden und den Toten.
 
-Doch diese Macht weckte Neid und Gier. Im Schatten der Nacht fiel der **[[Klan van Harl]]** über Drakmora her – nicht offen, sondern im Verborgenen, unterstützt von Söldnern und Zauberern, die nur ein Ziel hatten: die Seelenwaffen in ihre Hände zu bekommen. Das Massaker war grausam und schnell, der Stamm wurde zerschlagen, und die wenigen Überlebenden wurden gejagt.
+Doch diese Macht weckte Neid und Gier. Im Schatten der Nacht fielen [[Söldner]] aus [[Drakmora]] über ihren Clan her – nicht offen, sondern im Verborgenen, unterstützt von Zauberern, die nur ein Ziel hatten: die Seelenwaffen in ihre Hände zu bekommen. Das Massaker war grausam und schnell, der Stamm wurde zerschlagen, und die wenigen Überlebenden wurden gejagt.
 
 Kyra entkam – mit nichts als einer Waffe, die an ihre eigene Seele gebunden ist. Sie trägt die Stimmen ihrer Ahnen in sich, ein Chor von Kriegern, der sie leitet, ermutigt und manchmal auch quält. Seitdem wandert sie durch das Kaiserreich, immer auf der Suche nach weiteren Überlebenden ihres Clans, getrieben von zwei Flammen:
 
 - dem Wunsch, die Freiheit aller Völker zu schützen, damit niemand mehr das Schicksal ihres Stammes erleiden muss,
     
-- und dem brennenden Verlangen nach Rache an jenen, die die Vernichtung von Drakmora zu verantworten haben.
+- und dem brennenden Verlangen nach Rache an jenen, die die Vernichtung von [[Drakmora]] zu verantworten haben.
 ---
 ## Zitate

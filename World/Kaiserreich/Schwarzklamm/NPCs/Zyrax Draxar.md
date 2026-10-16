@@ -37,8 +37,9 @@ Die Figur wird nach [[Luminara]] entsandt, um verborgene Ressourcen und Handelsr
 - Verdeckte Interessen an seltenen Rohstoffen koennen Konflikte mit anderen Reichen ausloesen
 
 ## Geheime Informationen
-
-![[sl Zyrax Draxar]]
+Handlungsoptionen
+- Anhänger von [[Ephazul]]
+- Verbündeter von [[Reodemus]]
 
 ## Kampfwerte
 

@@ -29,4 +29,12 @@
  ![[Barag Steinhorn]]   
 ![[Torgak Eisenbrand]]
 
+![[Orsik Felsenbrecher]]
+
+![[Vessra Glutmantel]]
+
+![[Hulgar Aschenzorn]]
+
 ![[Valaine Nebelhain]] 
+
+---

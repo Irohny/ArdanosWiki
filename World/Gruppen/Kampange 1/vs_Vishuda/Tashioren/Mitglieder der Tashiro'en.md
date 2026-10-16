@@ -1,8 +1,0 @@
-- [[Vishuda]] (Spieler)
-- Adhara (Novize)
-- Ashuna
-- Mapura
-- Nahata
-- Shtana
-- Suruya
-- Sahasrara

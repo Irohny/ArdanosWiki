@@ -1,0 +1,1 @@
+Ein steiler Bergpfad mit festen Tragekörben, Ketten und Felsblöcken. Novizen müssen darüber Vorräte zum Kloster bringen – zugleich Versorgung und tägliches Training.

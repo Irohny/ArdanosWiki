@@ -1,0 +1,1 @@
+[[Bruder Günter]] ist der Mann für die innere Mitte, denn nur wer zu seiner inneren Mitte findet, kann zu wahrer Größe aufsteigen.

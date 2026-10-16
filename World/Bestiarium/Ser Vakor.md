@@ -1,10 +1,10 @@
 ![[SerValkor.jpeg|200]]
-# Ser Vakor
+# [[Ser Vakor]]
 
 - **Grundlage:** #Homebrew 
 - **Stufe/Herausfordungsgrad:** 10
 - **Volk:** #Tiefling 
-- **Herkunft:**  #Drakmora   
+- **Herkunft:**  #[[Drakmora]]   
 - **Klasse:** #Paladin 
 - **Alias:** __Klinge der Verdammnis__
 - **Alter:** 65
@@ -42,25 +42,25 @@
 ### Standard
 - **Verdammnisklinge (Magisches Großschwert): Multiattacke 2x** 
 	- +9 Angriff, 2W6+5 Hiebschaden + 2W8 nekrotischer Schaden
-    - _Effekt:_ Bei einem Kritischen Treffer flüstert die Waffe in Infernal → Ziel muss einen **Weisheitsrettungswurf (SG 15)** bestehen oder 1 Minute unter **Furcht** leiden
+    - _Effekt:_ Bei einem Kritischen Treffer flüstert die Waffe in Infernal → Ziel muss einen **Weisheitsrettungswurf (SG 15)** bestehen oder 1 Minute unter **[[Furcht]]** leiden
 
 - **Höllisches Ausbrennen (3/Tag):** 
 	- 4W10 Feuerschaden in einem 4,5 m Kegel (SG 16 Geschick, halber Schaden)
 
 - **Aura der Verdammnis:** 
-	- Gegner in 3 m Umkreis haben **-1 auf Rettungswürfe** gegen Furcht und Nekromantiezauber
+	- Gegner in 3 m Umkreis haben **-1 auf Rettungswürfe** gegen [[Furcht]] und Nekromantiezauber
 
 ### Spezialfähigkeiten
 - **Unheilige Aura (Passiv):** 
 	- Seine Rüstung flüstert leise auf Infernal, wenn Blut vergossen wird → verleiht ihm Vorteil auf Einschüchternproben
 - **Zorn der Hölle (1/Tag):** 
-	- Wenn Varkor auf 0 HP fällt, explodiert seine Aura in einem 6 m Radius → 4W10 nekrotischer Schaden (SG 15 Konstitution, halber Schaden)
+	- Wenn Vakor auf 0 HP fällt, explodiert seine Aura in einem 6 m Radius → 4W10 nekrotischer Schaden (SG 15 Konstitution, halber Schaden)
 
 ---
 ## Taktik
 
 - Greift zuerst jene an, die Chaos oder Hoffnung symbolisieren
-- Rücksichtslos effizient, nutzt Furcht als Waffe
+- Rücksichtslos effizient, nutzt [[Furcht]] als Waffe
 - Spricht selten – lässt seine Rüstung flüstern
 
 ---
@@ -72,12 +72,12 @@
 ## Hintergrund
 _„Ordnung ist Gnade. Und ich bin ihr kalter, gerechter Schatten.“_
 
-Geboren in den Aschenlanden von Bael’Fharun, einem Ort, an dem Himmel und Erde sich seit Jahrhunderten nicht mehr berührt hatten, wuchs Varkor in einer Welt auf, die vom Chaos gefressen worden war. Seine Familie fiel einem dämonischen Aufstand zum Opfer, der von den Göttern unbeantwortet blieb. Was zurückblieb, war ein Kind, das nur eines kannte: die bittere Stille der Ungerechtigkeit.
+[[Ser Vakor]] stammt aus [[Drakmora]] und diente dort als General der nördlichen Truppen. Gemeinsam mit [[Elgrin van Harl 1]] führte er die Heere des Fürstentums – zwei Veteranen, die Disziplin über alles stellten und einander vertrauten.
 
-Er wurde Paladin in der Hoffnung, dass ein gerechter Pfad ihn erlösen würde. Doch selbst im heiligen Dienst fand er nur leere Worte und leere Altäre. Die Götter sprachen nie. Der Krieg nahm weiter, der Wahnsinn auch. Schließlich verbrannte Varkor seinen Eid – und schwor stattdessen sich selbst: dass er Ordnung bringen würde. Um jeden Preis.
+Als [[Valaine Nebelhain]] Fürstin wurde, misstraute sie beiden und warf sie aus dem Kriegsrat. Vakor, der sein Leben der Ordnung und der Verteidigung [[Drakmora]]s gewidmet hatte, sah darin einen Verrat.
 
-In der Leere seiner Überzeugung fand ihn der Zeitdieb. Dieser sprach nicht von Erlösung – sondern von einer **Welt jenseits von Schuld**. Einer Welt, in der Vergangenheit ausgelöscht und Schwäche nie geboren werden würde. Varkor erkannte den Plan als das, was er immer gesucht hatte: eine **Welt im perfekten Gleichgewicht** – geformt von Blut, befreit von der Geschichte.
+Er schloss sich dem Zeitdieb an, der ihm versprach die Ordnung in [[Drakmora]] wiederherzustellen, um als erfahrener Kommandant die Truppen für die Rebellion gegen die Fürstin zu führen. Heute ist er der **Vollstrecker**: Er ist für die Reiterstämme des Nordens verantwortlich und der Kontaktmann zwischen dem Zeitdieb und [[Elgrin van Harl 1]]. Seine Rüstung flüstert den Namen jener, die gefallen sind – und die noch fallen werden.
 
-Heute ist Ser Varkor der **Vollstrecker des Zeiturteils**, eine lebendige Klinge, die durch Zeitlinien schneidet. Seine Rüstung flüstert den Namen jener, die gefallen sind – und die noch fallen werden.
 ---
 ## Zitate
+

@@ -1,6 +1,6 @@
 - **Stufe:** 5
 - **Volk:** Mensch
-- **Herkunft:** Hochadeliger
+- **Herkunft:** Alte Adelsfamilie ohne Land ([[Edelfreie]])
 - **Klasse:** Kämpfer – Battle Master
 - **Alias:** „Der Sturmarm“
 - **Alter:** 43 Jahre

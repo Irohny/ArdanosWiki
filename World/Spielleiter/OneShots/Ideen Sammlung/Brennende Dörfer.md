@@ -1,8 +1,8 @@
 # Brennende Städte
 
 ## Story
-Die [[Spieler]] erfhren, dass die Truppen der Handelsalianz mehrere [[Dörfer]] niedergebrant haben uns es keine Überlebenden gab.
-Die [[Spieler]] sollen herausfinden was in den Dörfern passiert ist. 
+Die [[Spielertruppe]] erfhren, dass die Truppen der Handelsalianz mehrere [[Dörfer]] niedergebrant haben uns es keine Überlebenden gab.
+Die [[Spielertruppe]] sollen herausfinden was in den Dörfern passiert ist. 
 
 ## Background
 Die [[Dörfer]] wurden niedergebrant, da dort ein unnormale Dinge passiert sind. Die Menschen haben sich in Dämmonen verwandelt und keiner konnte 

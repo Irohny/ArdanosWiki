@@ -1,0 +1,5 @@
+Der Raum ist in **dunklen Basaltstein** geschlagen, die Wände sind mit **verbrannten Krallensiegeln** und **verrußten Bannzeichen** bedeckt. Aus unzähligen feinen Ritzen strömt eine **rötlich glühende Hitze**, die den Raum mit einer drückenden, ehrfurchtsgebietenden Atmosphäre erfüllt. An den Wänden hängen **Kriegstrommeln und Bannfahnen**, Zeichen alter Blutduelle.
+
+In der Mitte des Raumes pulsiert der **Teleportationskreis aus geschmiedetem Erz und Ascheglas**. Statt leuchtender Runen glimmen hier **rissige Glyphen in glutrotem Licht**, als wären sie aus der **Hölle selbst gebrannt**. Der Kreis ist von **acht schwarzen Speerständen** umgeben, deren Spitzen nach innen zeigen – sie symbolisieren die ewige Bedrohung im Kampf.
+
+Wenn der Kreis aktiviert wird, erklingt ein tiefes **Dröhnen wie Schlachtgetöse**, begleitet vom **Knistern übernatürlicher Flammen**, die aus den Glyphen züngeln. Nur jene, deren Wille nicht vom Feuer verzehrt wird, können den Transport überstehen – schwache Seelen erleben stattdessen **brennende Visionen vergangener Schlachten**.

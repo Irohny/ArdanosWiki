@@ -15,7 +15,7 @@ Sie wirken wie flüssige Spiegel aus Harz und Licht.
 ### Bekannte oder vermutete Verbindungen:
 
 - Feenwildnis – überwucherter, wilder Spiegel des Hains
-- Schattenreich – kaltes, stilles [[Echo]] der Region
+- Schattenreich – kaltes, stilles [[Konstrukt ECHO]] der Region
 - Elementarebene der Erde – Ursprung der Hügel und Ackerböden
 - [[Schattenlicht]] – Ebene der Toten
 
@@ -125,4 +125,4 @@ Symptome:
 - Charaktere mit Naturbezug träumen von einem riesigen Auge aus Harz.
     
 
-Am Ende könnten die [[Spieler]] erstmals den inneren Hohlraum betreten.
+Am Ende könnten die [[Spielertruppe]] erstmals den inneren Hohlraum betreten.

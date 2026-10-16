@@ -163,7 +163,7 @@ Einen **verborgenen unterirdischen Verbindungsweg** zwischen [[Helmbrach-Massiv]
     
 - Eingestürzte Schächte
     
-- [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]] aus vergessenen Tiefen
+- [[Spielleiter/Kampangen/Schatten der Zeit/Materialien/Monster|Monster]] aus vergessenen Tiefen
     
 - Alte Runensiegel
     
@@ -189,7 +189,7 @@ Einen **verborgenen unterirdischen Verbindungsweg** zwischen [[Helmbrach-Massiv]
     
 - Unterschiedliche Risiken:
     
-    - [[Spielleiter/Kampangen/Schatten der Zeit/Material Kapitel 1/Monster|Monster]]
+    - [[Spielleiter/Kampangen/Schatten der Zeit/Materialien/Monster|Monster]]
         
     - instabile Strukturen
         
@@ -299,7 +299,7 @@ _Wargame-Ansatz empfohlen_
 
 ### Einfluss der SC
 
-Die [[Spieler]] entscheiden:
+Die [[Spielertruppe]] entscheiden:
 
 - Wo der Durchbruch erfolgt
     

@@ -1,0 +1,1 @@
+Man sagt ihm nach, dass er der stärkste Bruder werden wird.

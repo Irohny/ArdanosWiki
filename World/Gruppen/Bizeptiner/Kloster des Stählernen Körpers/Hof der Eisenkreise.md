@@ -1,0 +1,1 @@
+Ein offener Übungsplatz mit Steinringen, Zugseilen und gewaltigen Tragestämmen. Hier finden Zweikämpfe, Ausdauerläufe und öffentliche Kraftprüfungen statt.

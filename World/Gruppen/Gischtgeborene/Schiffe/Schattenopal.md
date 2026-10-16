@@ -1,0 +1,1 @@
+Ein kleines, wendiges Schiff für Spähmissionen, Überfälle bei Nacht oder das Auskundschaften von Beutezügen

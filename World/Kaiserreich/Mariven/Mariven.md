@@ -39,9 +39,9 @@ Diplomatie über Krieg – [[Mariven]] setzt lieber auf geschickte Verhandlungen
 Die Gesellschaft ist in mächtige Handelsfamilien unterteilt, die oft ganze Flotten und Städte kontrollieren. Ihre Einflussnahme erstreckt sich weit über die Grenzen Marivens hinaus.
 
 ## Regierung & Herrschaftsstruktur
-[[Mariven]] wird nicht von einem Fürsten im klassischen Sinne regiert, sondern von einem Handelsrat, bestehend aus den einflussreichsten Handelsfürsten des Landes. Dieser Rat wird angeführt vom Obersten Kommodore, einem gewählten Anführer, der für die gesamte Flotte Marivens verantwortlich ist.
+[[Mariven]] wird nicht von einem Fürsten im klassischen Sinne regiert, sondern von einem Handelsrat, bestehend aus den einflussreichsten Handelsfürsten des Landes. Dieser Rat wird angeführt vom Obersten [[Kommondor]], einem gewählten Anführer, der für die gesamte Flotte Marivens verantwortlich ist.
 
-Der derzeitige Oberste Kommodore ist [[Lyssander Valera]], ein charismatischer, aber eiskalt kalkulierender Mann, der für ihre unfehlbare Intuition im Handel und ihre beeindruckende Seetaktik bekannt ist.
+Der derzeitige [[Kommondor]] ist [[Lyssander Valera]], ein charismatischer, aber eiskalt kalkulierender Mann, der für ihre unfehlbare Intuition im Handel und ihre beeindruckende Seetaktik bekannt ist.
 
 ### Militär & Flotte
 [[Mariven]] ist keine militärische Macht im traditionellen Sinne, doch seine Flotte ist die größte der Welt. Sie besteht aus schnellen Handels- und Kriegsschiffen, die Piraten abschrecken und den Wohlstand Marivens schützen.

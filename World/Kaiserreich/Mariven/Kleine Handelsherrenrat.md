@@ -1,0 +1,1 @@
+Der  [[Kleine Handelsherrenrat]] besteht aus den Handelsmeistern und berät den [[Kommondor]]

@@ -13,11 +13,11 @@
 ---
 ## [[Hector]]
 **Plothooks:**
-- Rache an [[Klan van Harl]]
+- Rache an [[van Harl]]
 
 **Orte:**
 - [[Drakmora]]
-- Festung des [[Klan van Harl]]
+- Festung des [[van Harl]]
 
 **Plot:**
 - Erfährt, dass die van Harl's die Reiterinvasion in [[Drakmora]] unterstützen
@@ -39,14 +39,14 @@
 - Bekommt den Auftrag seinen meistes wegen verrats zu töten
 
 ---
-## [[Bruder Marcus]]
+## [[Bruder Markus]]
 **Plothooks:**
 - Information über seine Familie
 - Leben seiner Klostergemeinschaft
 
 **Orte:**
 - [[Drakmora]]
-- [[Sanctum Pumpitorium]]
+- [[Halle der tausend Wiederholungen]]
 - [[Drachengründe]]
 
 **Plot:**

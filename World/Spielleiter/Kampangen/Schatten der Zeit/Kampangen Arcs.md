@@ -1,70 +1,35 @@
-## Siegel des Lebens
-Gott: [[Solyra]]
-Gegner: [[Zera die Flüsterin]], [[Blutgräfin Bathory]]
-Paladin: [[Selvian Korth]]
-Ort: [[Elmrath]] [[Nythariel, die Wurzel zwischen den Welten]]
-Artefakt: Samen der Sonne
-Plothook: 
-- [[Befreiung der Gräfin]]
-- Das Gegenmittel der Verwandlung ist der Sonnensamen
-## Siegel der Natur
-Gott: [[Ocyra]]
-Gegner: [[Lady Seress]], [[Xal'Zhurn]]
-Paladin: [[Edran Tiefstrom]]
-Ort: [[Mariven]]
-Artefakt: Der Kompass des Sturmlords
-**Welt Reaktion:** Die Meere und Stürme werden Rauer, da die Gezeitenmagie wilder geworden ist nach dem Siegelbruch 
-Plothook: [[Edran Tiefstrom]] Aufezichnungen die von [[Elaena Silberhand]] und [[Selvian Korth]] gesucht werden, da sie auf dem Schiff [[Azure Rune]] liegen, dass einst mit dem Vater von [[Elaena Silberhand]] ([[Candamir Silberhand]]) untergegangen ist.
-- [[Arc Siegel der Ströme]]
-
-## Siegel der [[Schöpfung]]
-Gott: [[Volgrin]]
-Gegner: 
-Paladin: [[Sir Daryn Velios]]
-Ort: [[Schwarzklamm]]
-Artefakt: Amboss der ersten Flamme
-Plothook:
-## Siegel der Ordnung
-Gott: [[Lyrithiel]]
-Gegner: [[Ser Vakor]], [[Luredan van Harl]]
-Paladin: [[Milo von Kroton]] alias [[Arn'Old]]
-Ort: [[Drakmora]]
-Artefakt: Kette des ersten Paktes
-Plothook:
-## Siegel des Todes
-Gott: [[Erythra]]
-Gegner: [[Lord Malvurax]]
-Paladin: [[Lady Caelira von Thornewald]]
-Ort: [[Vaylen]]
-Artefakt: Krone der letzten Königin
-Plothook:
-## Ritual der Aionen
-Gott/Gegner: [[Ephazul]], Reodemus
-
-### Sidequest
-- [[Eldrin Velmara]] Heiler Manipulirt von Zerra, Forscht am ewigen leben
-- Vel'nethra, Vertraute des Zeitdiebs bei den [[Tashiro'en]]
-### Die wahre Geschichte
-**Im Jahre 2186 n.d.D.** entsandte **Kaiser [[Kaiserreich/Kaiser/NPCs/Elyander Goldschild|Elyander Goldschild]]** fünf seiner treuesten Paladine, um den alten Mythen um die **Fünf Göttlichen Siegel** nachzugehen. Jeder von ihnen war ein legendärer Abenteurer – erfahren in Krieg, Magie und göttlichem Dienst. Ihr Auftrag: **den Zustand der Siegel zu prüfen** und zu ergründen, welches uralte Übel sie einst binden sollten.
-
-Die Wahrheit war erschütternd:
-
-> **Die Siegel fesselten keinen vergessenen Dämonenfürsten, sondern den Urdämon **_Ephazul_**, das Wesen vor der Zeit – von den Göttern selbst gebannt.**
+**Im Jahre 2160 n.d.D.** entsandte **[[Kaiser]] [[Elyander Goldschild|Elyander Goldschild]]** fünf seiner treuesten Paladine, um den alten Mythen um die 5 [[Artefakten der Urzeit]] nachzugehen. Jeder von ihnen war ein legendärer Abenteurer – erfahren in Krieg, Magie und göttlichem Dienst. Ihr Auftrag: **die Artefakte zu finden** und zu ergründen, welche macht von ihnen ausgeht.
 
 Doch **keiner der Paladine kehrte je zurück.**  
-In verschiedenen Regionen verschwanden sie spurlos, einige wurden tot aufgefunden – ihre Körper jedoch verunstaltet, als wären sie nie geboren worden.
+In verschiedenen Regionen verschwanden sie spurlos, sodass ihre Geschichte in Vergessenheit geriet.
 
 **Hinter allem: Der Zeitdieb.**  
-Versteckt hinter der Maske eines königlichen Beraters, manipulierte er mit **gestohlener Zeitmagie** das Schicksal der fünf Helden. Jeder Mord geschah in einem perfekten Moment – **ausgelöscht aus der Geschichte im Auftrag von [[Ephazul]]**, bevor sie das Wissen verbreiten konnten.
+[[Reodemus]], damals noch ein Reisender ohne Macht und Einfluss, begann sein Ziel mit Hilfe des Urdämons [[Ephazul]], die Gott des Krieges zu töten in die Tat umzusetzen. Er manipulierte mit **Zeitmagie**, die er von [[Ephazul]] erhalten hat, das Schicksal der fünf Helden. Sein Ziel ist es die [[Artefakten der Urzeit]] selber unter seine Kontrolle zu bringen um das [[Ritual des letzten Krieges]] zu vollenden. Mit dessen Hilfe möchte er [[Volgrin]] den Gott des Krieges fesseln und töten um den Krieg aus der Welt zu verbannen. 
 
-Die Standorte der Siegel **verloren sich mit dem Fall der Paladine**, ebenso wie ihre Namen… bis auf **eine Handvoll Fragmente**, die heute in Legenden, Liedern und alten Berichten verstreut liegen.
+Was der Zeitdieb nicht weiß ist, dass an den Orten an denen die [[Artefakten der Urzeit]] versteckt sind auch die Siegel der Ewigkeit liegen, mit denen die Götter einst den Urdämon [[Ephazul]] gefangen nahmen. Brechen diese Siegel, so ist der Dämon wieder frei. Unterstützt von den Schergen des [[Ephazul]] macht sich der Zeitdieb mit seinen Helfern auf die Suche nach den [[Artefakten der Urzeit]].
+
+**Auslöser der Kampange:**
+Der Auslöser der Geschehnisse ist [[Selvian Korth]] alias [[Shien Valtrok]]. Auf einer seiner Missionen für die [[Tashiro'en]] fasste er einen der Schergen des Zeitdiebes. Aus den Informationen, die er erhielt folgerte er, dass der Anführer der Organisation, die ihn seit Jahrhunderten verfolgte der [[Reodemus]] sein musste, oder zu mindest, dass er weiß, wer der wirkliche Anführer ist. [[Selvian Korth]] beschloss den Plan unter zu tauchen und mit Hilfe von Söldnern den [[Reodemus]] zu töten um das daraus entstehende Chaos zu nutzen um die Organisation zu zerschlagen, die nach den [[Artefakten der Urzeit]] suchen und somit eine Gefahr für das Kaiserreich darstellen. 
+
+Zur gleichen Zeit hat [[Selene Drachenruf]] Erzmagierin der Vorhersehung eine Vision von einer Heldengruppe, die das Schicksal des Kaiserreichs zum Guten oder Schlechten entscheiden wird. sie beauftragt [[Varian Schattentaenzer]] die Helden aufzusuchen und in [[Luminara]] zu versammeln. Sie sollen die Gerüchte um das Attentat auf den Fürstenball nachgehen und aufklären.
+
+[[Selvian Korth]] geht ein Bündnis mit [[Elaena Silberhand]] ein, die die Tochter von [[Candamir Silberhand]] ist, der ein guter Freund seines Kammeraden [[Edran Tiefstrom]] war. Sie hilft ihm beim Attentat auf den [[Reodemus]] mit Informationen vom Kaiserhof und er hilft ihr bei der Suche nach ihrem Vater.
+
+Zusammen finden sie tatsächlich Informationen über das verschwinden von [[Candamir Silberhand]] und [[Edran Tiefstrom]]. Diese Funde bringen die Geschichte ins Rollen, da [[Reodemus]] davon erfährt und nun zum handeln gezwungen ist. Er setzt [[Lady Seress]] und [[Vaelor Drenn]] auf die Suche nach [[Elaena Silberhand]] an. Er befiehlt [[Zera Peretupa]] den Gerüchten um [[Blutgräfin Bartholdy]] nachzugehen um weitere Verbündete im Kampf gegen [[Selvian Korth]] zu gewinnen. Zusammen sollen sie den Spuren [[Selvian Korth]] nachgehen und herausfinden was er die Jahre lang im [[Immergrüner Hain]] getrieben hat und den [[Samen der Sonne]] suchen. Um Chaos und Verwirrung zu stiften und um endlich auch mehr Informationen über [[Milo von Kroton]] und die [[Feder des ersten Paktes]] zu bekommen befiehlt er [[Luredan van Harl]] und [[Ser Vakor]] ein Bündnis mit den [[Reitervölker der Aschenweite]] einzugehen und das Fürstentum [[Drakmora]] in einen Krieg zu stützen. Die anderen sollen sich, da nun Chaos herrscht auf auf die Suche machen um die restlichen Artefakte für das [[Ritual des letzten Krieges]] zu suchen.
 
 ---
+![[Siegel des Lebens]]
 
-✅ _Mögliche Plotverwendung:_
+---
+![[Siegel der Natur]]
 
-- Die Helden könnten Hinweise auf die ursprüngliche Mission der Paladine finden (alte Briefe, Visionen, Artefakte).
-    
-- Einige ihrer Geister könnten an die Orte der Siegel gebunden sein – zwischen Zeit und Tod gefangen.
-    
-- Die Namen der Paladine wiederzufinden könnte eine zentrale Nebenquest sein, um die Geschichte zu rekonstruieren und Ephazuls Schwachpunkt zu entdecken.
+---
+![[Siegel der Ordnung]]
+
+---
+![[Siegel der Schöpfung]]
+
+---
+![[Siegel des Todes]]
+
+---

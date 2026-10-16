@@ -1,0 +1,1 @@
+Keine gewöhnliche Schmiede: Hier werden Trainingsgeräte, Ketten, Handgelenkgewichte und eiserne Prüfgeräte gefertigt. Waffen gelten als unwürdig; ein gut geschmiedeter Trainingshammer hingegen als heilig.

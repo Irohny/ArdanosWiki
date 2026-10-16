@@ -1,0 +1,10 @@
+**Startdatum:** (Abends) 18 (Nebeltag) Licht (Frühling) 2486 n.d.D
+**Enddatum:** (Abends) 22 (Gluttag) Licht (Frühling) 2486 n.d.D
+
+In [[Wellenhort]]:
+Die Gruppe kommt über die Nächte in [[Wellenhort]] bei den [[Drei Klingen der Gezeiten]] in der [[Klingenstube]] unter. Der Abend wird in der Taverne zum Salzanker verbracht. Die Gruppe erfährt in der Taverne "Zum Salzanker", dass [[Elaena Silberhand]] hier mit der [[Goldene Morgendämmerung]] nach dem Großen Sturm angelegt hatte und sie nun mit der  auf den Weg nach [[Valmaaren]] auf der Insel [[Ael'Varin]] ist. Die [[Vishuda]] trifft im Hafen [[Krinn Blattwender]] und [[Bramwell Kupferzahn]] und lädt sie in die Taverne ein, wo die anderen noch sitzen. Die Gruppe erfährt, dass [[Kapitän Havoc]] und [[Thavos Windzunge]] das Schiffsunglück nicht überlebt haben und hier in [[Wellenhort]] beigesetzt wurden. Ebenfalls erfahren sie, dass [[Federbart]], [[Reodemus]] und [[Nyssara Elenvyre]] weiterhin vermisst werden. Als sie Hören, dass der Wellendrache, dass Schiff, das [[Krinn Blattwender]] und [[Bramwell Kupferzahn]] gerettet hatte brennt, rennen sie zum Hafen und retten die letzten Matrosen vom Schiff und bergen die Truhe mit den Sachen von [[Kapitän Havoc]]. Aus Dank schenkt [[Bramwell Kupferzahn]] der Gruppe die [[Karte der Vergessenen]] ein Relikt aus den Sachen von [[Kapitän Havoc]].
+
+Am nächsten Tag [[Hector]] geht zum Schmied und bekommt aus den Runensteinen und dem Buch (Magie der Blutrunen) magische Verbesserungen für die Gruppe geschmiedet.  Die Gruppe veranstaltet einen Wettbewerb im [[Armdrücken]] und [[Bruder Markus]] gewinnt gegen Ebbe den Wirt des Salzankers in [[Wellenhort]]. Währenddessen klaut [[Hector]] etwas Wein und die Piraten Flagge der [[Gischtgeborenen]] für [[Gnodomir]] von den [[Drei Klingen der Gezeiten]] und die Gruppe macht sich an dem Abend auf den Weg nach [[Nebelhafen]].
+
+In [[Nebelhafen]]:
+Die Gruppe kommt am Abend den den 22 Licht 2486 n.d.D nach 3 Tagen Fußweg in [[Nebelhafen]] an. [[Gnodomir]] lässt sich an dem Abend noch von Waldemar Sonnenwind aus der Piratenflagge der [[Gischtgeborenen]] ein Cape mit einer speziellen Eigenschaft nähen.

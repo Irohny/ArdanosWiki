@@ -1,0 +1,13 @@
+**Rauben, Plündern, Entern und Versenken** – das ist das Gesetz der [[Gischtgeborenen]]. Ein **loser, aber tödlicher Verbund von Piraten**, angeführt vom gefürchteten **[[Baldor Schwarzmast]]**, dessen Name in jedem Hafen nur geflüstert wird.  
+Sie stehlen, was das Meer hergibt – **Gold, Waffen, Geheimnisse und Menschenleben** – und verkaufen ihre Beute an jeden, der zahlt, ganz gleich wie verdorben.
+
+Sie glauben, das Meer habe sie selbst geboren – und dass nur **Blutopfer die Gunst der Tiefe** sichern.
+
+Alle Piraten haben Spitznamen die sie auf Seefahrten erworben haben und die ihre Taten wiederspiegeln.
+
+Ihr Heimathafen ist die [[Schädelklippe]].
+### **Schiffe der [[Gischtgeborenen]]**
+- **[[Blutperle]]** 
+- **[[Schattenopal]]**
+- **[[Schwarze Granat]]** 
+- **[[Sirenen Saphir]]**

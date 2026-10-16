@@ -1,0 +1,1 @@
+Eine große, rauchige Halle für riesige Mahlzeiten: Wild, Wurzelgemüse, Hülsenfrüchte und kräftige Brühen. Die Verteilung der Mahlzeiten ist Teil der Ordensdisziplin. Auch das starke und wahrlich schmackhafte [[Bizeptiner Bräu]] wird in dieser Halle gebraut.

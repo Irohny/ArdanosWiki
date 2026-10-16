@@ -7,3 +7,6 @@ Gasthäuser, Schmieden, Tavernen und improvisierte Marktstände säumen die Stra
 Der Name _Bernruh_ ist trügerisch: Ruhe findet man hier selten. Stattdessen herrscht ein ständiges Kommen und Gehen, begleitet von Gerüchten, Geschäften und halblegalen Absprachen. Schmuggler, Informanten und [[Söldner]] bewegen sich ebenso selbstverständlich durch die Gassen wie ehrliche Kaufleute.
 
 [[Bernruh]] lebt von der Wartezeit vor der Brücke – und davon, dass nicht jeder bereit ist, geduldig auf eine offizielle Passage zu warten.
+
+
+🔶 *Vorschlag, nicht kanonisch:* Seit dem Stromkrone-Vertrag (2466) gehört [[Bernruh]] zur Markgrafschaft [[Stromkrone]] und untersteht [[Markgraf]] [[Reodemus]]. Die Steuern des Dorfes gehen nun zu gleichen Teilen an [[Elmrath]], [[Mariven]] und das Kaiserreich. Der festgeschriebene Zoll hat den Schmuggel nicht beendet, aber vor allem die Händler, die aus Ärger über die Zollkriegsjahre schmuggelten, kehren zur offiziellen Passage zurück.

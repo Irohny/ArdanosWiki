@@ -1,0 +1,1 @@
+Ruhestätte gefallener Ordensbrüder. Ihre Asche wird in kleine Gewichtssteine eingelassen, die bei besonderen Prüfungen getragen werden.

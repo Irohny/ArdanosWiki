@@ -1,0 +1,1 @@
+Grundherr über mehrere Dörfer auf freiem Eigenbesitz, den er nicht als Lehen hält. Freiherren stammen meist aus altem Adel und sind keinem Lehnsherrn verpflichtet, sondern nur dem [[Fürst]]en bzw. dem [[Kaiser]] verantwortlich. Im Rang steht er auf einer Stufe mit dem [[Baron]].
