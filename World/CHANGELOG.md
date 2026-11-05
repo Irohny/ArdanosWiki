@@ -10,9 +10,11 @@ zeit_bis_jahr:
 erstellt:
 ---
 
-# Changelog 0.17.4
+# Changelog 0.19.4
 
 ### Feat
+* feat(dashboard) (2026-11-05): package standalone game-master dashboard
+* feat(wiki) (2026-11-05): add creator tools and package the app
 * feat (2026-04-01): Add DM View
 * feat (2026-03-25): Add Monster und NPC Builder
 * feat (2026-03-24): Add nsc generator
@@ -38,6 +40,8 @@ erstellt:
 * fix (2025-05-18): Sidebar out of bounds and false title
 
 ### Chore
+* chore(tooling) (2026-11-05): update task paths and changelog generation
+* chore (2026-11-05): Add lore
 * chore (2026-10-16): Add lore
 * chore (2026-08-07): Add lore
 * chore (2026-08-04): Add lore
