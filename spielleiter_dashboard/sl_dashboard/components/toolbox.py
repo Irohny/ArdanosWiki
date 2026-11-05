@@ -1,7 +1,7 @@
 import streamlit as st
 
-from sl_dashboard.components.markdown import render_wiki_markdown
-from sl_dashboard.models import DashboardTool
+from spielleiter_dashboard.sl_dashboard.components.markdown import render_wiki_markdown
+from spielleiter_dashboard.sl_dashboard.models import DashboardTool
 
 
 def render_notes(notes: tuple[str, ...]) -> None:

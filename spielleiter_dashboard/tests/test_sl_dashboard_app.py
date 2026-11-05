@@ -4,21 +4,23 @@ import unittest
 
 from streamlit.testing.v1 import AppTest
 
-from sl_dashboard.app_runtime import (
+from spielleiter_dashboard.sl_dashboard.app_runtime import (
     ENCOUNTER_PAGE_PATH,
     SHOW_CREATE_SESSION_EXPANDER_KEY,
+    TOOLBOX_PAGE_PATH,
     User,
     WORKSHOP_PAGE_PATH,
 )
-from sl_dashboard.components.markdown import (
+from spielleiter_dashboard.sl_dashboard.components.markdown import (
     ACTIVE_SCENE_QUERY_PARAM,
     LINKED_WIKI_PAGE_QUERY_PARAM,
 )
+from wiki_dasboard.components.toolbox import TOOLBOX_TOOL_STATE_KEY
 
 
 APP_FILE = Path(__file__).resolve().parents[1] / "sl_dashboard_app.py"
 ELDRIC_NPC_PAGE = (
-    "World/Spielleiter/OneShots/Mord und Verlobung/NPCs/Eldric Feldhain.md"
+    "World/Spielleiter/Fertige Quests/Mord und Verlobung/Spieler/Eldric Feldhain.md"
 )
 
 
@@ -41,6 +43,32 @@ def _build_logged_out_app_test() -> AppTest:
 
 
 class SLDashboardAppTests(unittest.TestCase):
+    def test_toolbox_page_switches_between_existing_tools(self) -> None:
+        at = _build_app_test()
+        at.switch_page(TOOLBOX_PAGE_PATH)
+        at.session_state[TOOLBOX_TOOL_STATE_KEY] = "NSC Ersteller"
+        at.run(timeout=30)
+
+        self.assertIn("Toolbox", [element.value for element in at.subheader])
+        tool_options = [
+            option.content
+            for option in at.button_group(key=TOOLBOX_TOOL_STATE_KEY).options
+        ]
+        self.assertIn(
+            "Encounter Rechner",
+            tool_options,
+        )
+        self.assertIsNotNone(at.text_input(key="npc_creator_name"))
+
+        monster_at = _build_app_test()
+        monster_at.switch_page(TOOLBOX_PAGE_PATH)
+        monster_at.session_state[TOOLBOX_TOOL_STATE_KEY] = "Monster Ersteller"
+        monster_at.run(timeout=30)
+        self.assertIn("Toolbox", [element.value for element in monster_at.subheader])
+        self.assertIsNotNone(monster_at.text_input(key="monster_creator_name"))
+        self.assertEqual(len(at.exception), 0)
+        self.assertEqual(len(monster_at.exception), 0)
+
     def test_default_dashboard_requires_login(self) -> None:
         at = _build_logged_out_app_test()
 
@@ -60,13 +88,14 @@ class SLDashboardAppTests(unittest.TestCase):
         selected_session = at.selectbox[0].value
         self.assertEqual(len(at.sidebar.selectbox), 0)
         self.assertEqual(at.selectbox[0].label, "Aktive Session")
-        self.assertIn(selected_session, at.selectbox[0].options)
+        self.assertEqual(selected_session, "Fertige Quests/Mord und Verlobung")
+        self.assertIn("Mord und Verlobung", at.selectbox[0].options)
         self.assertGreaterEqual(len(at.selectbox[0].options), 1)
         self.assertNotIn(
             "sl_create_session_toggle",
             [getattr(element, "key", None) for element in at.button],
         )
-        self.assertIn(selected_session, [element.value for element in at.header])
+        self.assertIn("Mord und Verlobung", [element.value for element in at.header])
         self.assertIn(
             at.session_state["sl_dashboard_active_scene"],
             [element.value for element in at.subheader],
@@ -170,7 +199,8 @@ class SLDashboardAppTests(unittest.TestCase):
         self.assertEqual(len(at.sidebar.selectbox), 0)
         self.assertEqual(at.selectbox[0].label, "Aktive Session")
         self.assertGreaterEqual(len(at.selectbox[0].options), 1)
-        self.assertIn(at.selectbox[0].value, at.selectbox[0].options)
+        self.assertEqual(at.selectbox[0].value, "Fertige Quests/Mord und Verlobung")
+        self.assertIn("Mord und Verlobung", at.selectbox[0].options)
         self.assertIsNotNone(at.button(key="sl_create_session_toggle"))
         self.assertIn("Werkstatt", [element.value for element in at.subheader])
         self.assertEqual(
@@ -264,11 +294,12 @@ class SLDashboardAppTests(unittest.TestCase):
 
         if "sl_creator_edit_save::npc" in button_keys:
             self.assertIn("Dateiname", text_input_labels)
-            self.assertIn("Grundlage", text_input_labels)
-            self.assertIn("Stufe", text_input_labels)
-            self.assertIn("Volk", text_input_labels)
-            self.assertIn("Sprachen", text_area_labels)
-            self.assertIn("Merkmale", text_area_labels)
+            self.assertEqual(
+                at.selectbox(key="sl_creator_edit_select::npc").value,
+                "Albrecht von Dornenfels",
+            )
+            self.assertIn("Titel / Amt", text_input_labels)
+            self.assertIn("Spezies / Volk", text_input_labels)
             self.assertIsNotNone(
                 at.text_area(key="sl_creator_edit_form::npc::section::description")
             )

@@ -5,8 +5,8 @@ import re
 
 import yaml
 
-from sl_dashboard.editor import get_bestiary_defenses
-from sl_dashboard.models import (
+from spielleiter_dashboard.sl_dashboard.editor import get_bestiary_defenses
+from spielleiter_dashboard.sl_dashboard.models import (
     DashboardData,
     DashboardEncounter,
     EncounterCombatant,
@@ -21,8 +21,8 @@ from sl_dashboard.models import (
 )
 
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-DATA_ROOT = REPO_ROOT / "World" / "Spielleiter" / "OneShots"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+DATA_ROOT = REPO_ROOT / "World" / "Spielleiter"
 BESTIARY_ROOT = REPO_ROOT / "World" / "Bestiarium"
 IMAGE_EMBED_PATTERN = re.compile(r"!\[\[([^\]|]+)")
 WIKI_LINK_PATTERN = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]")
@@ -693,15 +693,16 @@ def _build_encounter_combatant(record: Any) -> EncounterCombatant:
         _build_encounter_condition(condition)
         for condition in record.get("conditions", ()) or ()
     )
-    bestiary_defenses = (
-        get_bestiary_defenses(source_key)
-        if source_type == "bestiary" and source_key
-        else {
-            "immunities": (),
-            "resistances": (),
-            "weaknesses": (),
-        }
-    )
+    bestiary_defenses = {
+        "immunities": (),
+        "resistances": (),
+        "weaknesses": (),
+    }
+    if source_type == "bestiary" and source_key:
+        try:
+            bestiary_defenses = get_bestiary_defenses(source_key)
+        except FileNotFoundError:
+            pass
     immunities = _as_tuple(record.get("immunities")) or bestiary_defenses["immunities"]
     resistances = _as_tuple(record.get("resistances")) or bestiary_defenses["resistances"]
     weaknesses = _as_tuple(record.get("weaknesses")) or bestiary_defenses["weaknesses"]
@@ -928,10 +929,10 @@ def _resolve_session_dir(session_dir: Path | None = None) -> Path:
     if session_dir is not None:
         return session_dir
 
-    candidates = sorted(path for path in DATA_ROOT.iterdir() if path.is_dir())
-    if not candidates:
-        raise FileNotFoundError("Keine Session-Daten unter sl_dashboard/data gefunden.")
-    return candidates[0]
+    sessions = list_available_sessions()
+    if not sessions:
+        raise FileNotFoundError(f"Keine Session-Daten unter {DATA_ROOT} gefunden.")
+    return sessions[0].path
 
 
 def _resolve_session_file(base_dir: Path) -> Path:
@@ -947,20 +948,14 @@ def list_available_sessions() -> tuple[SessionOption, ...]:
         return ()
 
     session_options: list[SessionOption] = []
-    for path in sorted(
-        candidate for candidate in DATA_ROOT.iterdir() if candidate.is_dir()
-    ):
-        try:
-            session_file = _resolve_session_file(path)
-        except FileNotFoundError:
-            continue
-
+    for session_file in sorted(DATA_ROOT.rglob("session.md")):
+        path = session_file.parent
         session_record = _read_record_file(
             session_file, section_field_map=SESSION_SECTION_FIELD_MAP
         )
         session_options.append(
             SessionOption(
-                key=path.name,
+                key=path.relative_to(DATA_ROOT).as_posix(),
                 title=str(session_record.get("session_title", path.name)),
                 path=path,
             )

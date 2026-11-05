@@ -1,6 +1,6 @@
 import unittest
 
-from sl_dashboard.app_runtime import _resolve_session_select_state
+from spielleiter_dashboard.sl_dashboard.app_runtime import _resolve_session_select_state
 
 
 class SessionSelectorStateTests(unittest.TestCase):

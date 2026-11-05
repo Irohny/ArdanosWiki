@@ -4,25 +4,25 @@ from urllib.parse import urlencode, unquote
 
 import streamlit as st
 
-from config import cfg
-from sl_dashboard.components.encounter import render_encounter_panel
-from sl_dashboard.components.markdown import (
+from wiki_dasboard.config import cfg
+from spielleiter_dashboard.sl_dashboard.components.encounter import render_encounter_panel
+from spielleiter_dashboard.sl_dashboard.components.markdown import (
     ACTIVE_SCENE_QUERY_PARAM,
     LINKED_WIKI_PAGE_QUERY_PARAM,
     render_wiki_markdown,
     set_query_param,
 )
-from sl_dashboard.components.quick_access import render_active_npcs, render_quick_links
-from sl_dashboard.components.scene_focus import (
+from spielleiter_dashboard.sl_dashboard.components.quick_access import render_active_npcs, render_quick_links
+from spielleiter_dashboard.sl_dashboard.components.scene_focus import (
     render_next_scenes,
     render_scene_focus_card,
 )
-from sl_dashboard.components.theme import apply_sl_parchment_theme
-from sl_dashboard.models import DashboardData, DashboardLink, DashboardNpc, DashboardScene
+from spielleiter_dashboard.sl_dashboard.components.theme import apply_sl_parchment_theme
+from spielleiter_dashboard.sl_dashboard.models import DashboardData, DashboardLink, DashboardNpc, DashboardScene
 
 
 ACTIVE_SCENE_STATE_KEY = "sl_dashboard_active_scene"
-REPO_ROOT = Path(__file__).resolve().parents[2]
+REPO_ROOT = Path(__file__).resolve().parents[3]
 IMAGE_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp", ".svg"}
 WIKI_LINK_PATTERN = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]")
 

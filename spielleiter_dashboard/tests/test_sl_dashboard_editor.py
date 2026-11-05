@@ -2,15 +2,16 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
 
-import sl_dashboard.editor as editor
-import sl_dashboard.loader as loader
+import spielleiter_dashboard.sl_dashboard.editor as editor
+import spielleiter_dashboard.sl_dashboard.loader as loader
+from wiki_dasboard.config import cfg
 
 
 class SLDashboardEditorTests(unittest.TestCase):
     def test_add_player_combatant_to_encounter_keeps_hp_and_rk_untracked(self) -> None:
         original_editor_data_root = editor.DATA_ROOT
         original_loader_data_root = loader.DATA_ROOT
-        repo_root = Path(__file__).resolve().parents[1]
+        repo_root = cfg.REPO_ROOT
         try:
             with TemporaryDirectory(dir=repo_root) as temp_dir:
                 temp_path = Path(temp_dir)
@@ -48,14 +49,22 @@ class SLDashboardEditorTests(unittest.TestCase):
     def test_get_bestiary_defenses_reads_values_from_markdown(self) -> None:
         defenses = editor.get_bestiary_defenses("Ser Vakor")
 
-        self.assertEqual(defenses["immunities"], ("Feuer", "Krankheit"))
-        self.assertEqual(defenses["resistances"], ("Nekrotisch", "Gift"))
+        self.assertEqual(defenses["immunities"], ("Gift",))
+        self.assertEqual(
+            defenses["resistances"],
+            (
+                "Kälte",
+                "Feuer",
+                "Blitzschaden",
+                "Wucht-, Hieb- und Stichschaden durch nichtmagische Angriffe",
+            ),
+        )
         self.assertEqual(defenses["weaknesses"], ())
 
     def test_add_bestiary_combatant_to_encounter_is_visible_in_loader(self) -> None:
         original_editor_data_root = editor.DATA_ROOT
         original_loader_data_root = loader.DATA_ROOT
-        repo_root = Path(__file__).resolve().parents[1]
+        repo_root = cfg.REPO_ROOT
         try:
             with TemporaryDirectory(dir=repo_root) as temp_dir:
                 temp_path = Path(temp_dir)
@@ -96,7 +105,7 @@ class SLDashboardEditorTests(unittest.TestCase):
     def test_bestiary_combatant_loader_resolves_defenses_from_source(self) -> None:
         original_editor_data_root = editor.DATA_ROOT
         original_loader_data_root = loader.DATA_ROOT
-        repo_root = Path(__file__).resolve().parents[1]
+        repo_root = cfg.REPO_ROOT
         try:
             with TemporaryDirectory(dir=repo_root) as temp_dir:
                 temp_path = Path(temp_dir)
@@ -119,8 +128,16 @@ class SLDashboardEditorTests(unittest.TestCase):
                 dashboard_data = loader.load_dashboard_data(session_dir=session_dir)
                 combatant = dashboard_data.current_scene.encounter.runtime.combatants[0]
 
-                self.assertEqual(combatant.immunities, ("Feuer", "Krankheit"))
-                self.assertEqual(combatant.resistances, ("Nekrotisch", "Gift"))
+                self.assertEqual(combatant.immunities, ("Gift",))
+                self.assertEqual(
+                    combatant.resistances,
+                    (
+                        "Kälte",
+                        "Feuer",
+                        "Blitzschaden",
+                        "Wucht-, Hieb- und Stichschaden durch nichtmagische Angriffe",
+                    ),
+                )
                 self.assertEqual(combatant.weaknesses, ())
         finally:
             editor.DATA_ROOT = original_editor_data_root
@@ -129,7 +146,7 @@ class SLDashboardEditorTests(unittest.TestCase):
     def test_update_encounter_combatant_updates_persisted_values(self) -> None:
         original_editor_data_root = editor.DATA_ROOT
         original_loader_data_root = loader.DATA_ROOT
-        repo_root = Path(__file__).resolve().parents[1]
+        repo_root = cfg.REPO_ROOT
         try:
             with TemporaryDirectory(dir=repo_root) as temp_dir:
                 temp_path = Path(temp_dir)
@@ -215,7 +232,7 @@ class SLDashboardEditorTests(unittest.TestCase):
     def test_load_dashboard_data_preserves_scene_ids(self) -> None:
         original_editor_data_root = editor.DATA_ROOT
         original_loader_data_root = loader.DATA_ROOT
-        repo_root = Path(__file__).resolve().parents[1]
+        repo_root = cfg.REPO_ROOT
         try:
             with TemporaryDirectory(dir=repo_root) as temp_dir:
                 temp_path = Path(temp_dir)

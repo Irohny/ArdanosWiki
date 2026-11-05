@@ -2,8 +2,8 @@ from urllib.parse import urlencode
 
 import streamlit as st
 
-from config import cfg
-from sl_dashboard.models import DashboardLink, DashboardNpc
+from wiki_dasboard.config import cfg
+from spielleiter_dashboard.sl_dashboard.models import DashboardLink, DashboardNpc
 
 
 def _build_wiki_page_href(target_path: str) -> str:

@@ -6,8 +6,8 @@ import unicodedata
 import yaml
 
 
-REPO_ROOT = Path(__file__).resolve().parents[1]
-DATA_ROOT = REPO_ROOT / "World" / "Spielleiter" / "OneShots"
+REPO_ROOT = Path(__file__).resolve().parents[2]
+DATA_ROOT = REPO_ROOT / "World" / "Spielleiter" / "Kampangen"
 TEMPLATE_ROOT = REPO_ROOT / "World" / "templates"
 BESTIARY_ROOT = REPO_ROOT / "World" / "Bestiarium"
 ENCOUNTER_STATE_FILE_NAME = "encounter_state.yaml"
@@ -154,14 +154,25 @@ def _normalize_property_label(value: str) -> str:
 
 def _extract_markdown_property_map(content: str) -> dict[str, str]:
     properties: dict[str, str] = {}
-    for line in content.splitlines():
+    lines = content.splitlines()
+    for index, line in enumerate(lines):
         match = MARKDOWN_PROPERTY_LINE_PATTERN.match(line)
         if match is None:
             continue
         label = _normalize_property_label(match.group(1))
         if not label:
             continue
-        properties[label] = match.group(2).strip()
+        value = match.group(2).strip()
+        if not value:
+            nested_values = []
+            for nested_line in lines[index + 1 :]:
+                if not nested_line[:1].isspace():
+                    break
+                nested_match = re.match(r"^\s+-\s+(.+?)\s*$", nested_line)
+                if nested_match:
+                    nested_values.append(nested_match.group(1))
+            value = ", ".join(nested_values)
+        properties[label] = value
     return properties
 
 
@@ -170,11 +181,16 @@ def _parse_markdown_csv_value(value: str) -> tuple[str, ...]:
     if not normalized_value or normalized_value == "-":
         return ()
 
-    return tuple(
-        entry
-        for entry in (part.strip() for part in normalized_value.split(","))
-        if entry and entry != "-"
-    )
+    entries: list[str] = []
+    for part in re.split(r"[,;]", normalized_value):
+        entry = part.strip()
+        if not entry or entry == "-":
+            continue
+        if entries and entries[-1].endswith("-"):
+            entries[-1] = f"{entries[-1]}, {entry}"
+        else:
+            entries.append(entry)
+    return tuple(entries)
 
 
 def build_default_encounter_record(

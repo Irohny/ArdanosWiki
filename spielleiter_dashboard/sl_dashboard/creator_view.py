@@ -4,9 +4,9 @@ import re
 import streamlit as st
 import yaml
 
-from components.monster_creator import render_monster_creator_view
-from sl_dashboard.components.markdown import render_wiki_markdown
-from sl_dashboard.editor import (
+from wiki_dasboard.components.monster_creator import render_monster_creator_view
+from spielleiter_dashboard.sl_dashboard.components.markdown import render_wiki_markdown
+from spielleiter_dashboard.sl_dashboard.editor import (
     add_bestiary_combatant_to_encounter,
     add_player_combatant_to_encounter,
     create_npc,
@@ -826,6 +826,7 @@ def _render_npc_record_editor(
     default_name = st.session_state.get(select_key, names[0])
     if default_name not in names:
         default_name = names[0]
+        st.session_state[select_key] = default_name
 
     selected_name = st.selectbox(
         f"Bestehende {label} bearbeiten",
@@ -1565,7 +1566,7 @@ def _render_combat_section(
             key="sl_creator_combat_initiative",
         )
     with ac_col:
-        armor_class = st.number_input(
+        st.number_input(
             "RK",
             min_value=0,
             value=resolved_armor_class or 10,

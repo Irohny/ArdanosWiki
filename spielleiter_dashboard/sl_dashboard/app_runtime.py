@@ -2,17 +2,18 @@ from pathlib import Path
 
 import streamlit as st
 
-from components import utils
-from components.header import header
-from components.file_parser import build_markdown_database
-from components.login import User, login_filed
-from components.sidebar import create_sidebar
-from config import cfg
-from sl_dashboard import render_sl_dashboard, render_sl_dashboard_encounter
-from sl_dashboard.creator_view import render_creator_view, render_new_session_form
-from sl_dashboard.components.markdown import LINKED_WIKI_PAGE_QUERY_PARAM
-from sl_dashboard.components.theme import apply_sl_parchment_theme
-from sl_dashboard.loader import get_session_dir_by_key, list_available_sessions
+from wiki_dasboard.components import utils
+from wiki_dasboard.components.header import header
+from wiki_dasboard.components.file_parser import build_markdown_database
+from wiki_dasboard.components.login import User, login_filed
+from wiki_dasboard.components.sidebar import create_sidebar
+from wiki_dasboard.components.toolbox import toolbox_view
+from wiki_dasboard.config import cfg
+from spielleiter_dashboard.sl_dashboard import render_sl_dashboard, render_sl_dashboard_encounter
+from spielleiter_dashboard.sl_dashboard.creator_view import render_creator_view, render_new_session_form
+from spielleiter_dashboard.sl_dashboard.components.markdown import LINKED_WIKI_PAGE_QUERY_PARAM
+from spielleiter_dashboard.sl_dashboard.components.theme import apply_sl_parchment_theme
+from spielleiter_dashboard.sl_dashboard.loader import get_session_dir_by_key, list_available_sessions
 
 
 SESSION_SELECT_KEY = "sl_dashboard_selected_session"
@@ -21,9 +22,11 @@ SHOW_CREATE_SESSION_EXPANDER_KEY = "sl_dashboard_show_create_session_expander"
 LEAD_PAGE_PATH = "sl_dashboard_pages/leitungsansicht.py"
 ENCOUNTER_PAGE_PATH = "sl_dashboard_pages/kampftracker.py"
 WORKSHOP_PAGE_PATH = "sl_dashboard_pages/werkstatt.py"
+TOOLBOX_PAGE_PATH = "sl_dashboard_pages/toolbox.py"
 LEAD_URL_PATH = "leitung"
 ENCOUNTER_URL_PATH = "kampftracker"
 WORKSHOP_URL_PATH = "werkstatt"
+TOOLBOX_URL_PATH = "toolbox"
 
 
 def resolve_page_title() -> str:
@@ -88,7 +91,9 @@ def initialize_wiki_context() -> None:
         st.session_state["db"] = ""
     for db in cfg.DATABASE_LIST:
         if db not in st.session_state:
-            st.session_state[db] = build_markdown_database(f"World/{db}")
+            st.session_state[db] = build_markdown_database(
+                str(cfg.MARKDOWN_DIR / db)
+            )
 
 
 def _resolve_session_select_state(
@@ -202,6 +207,12 @@ def build_dashboard_pages() -> list:
             url_path=ENCOUNTER_URL_PATH,
         ),
         st.Page(
+            TOOLBOX_PAGE_PATH,
+            title="Toolbox",
+            icon="🧰",
+            url_path=TOOLBOX_URL_PATH,
+        ),
+        st.Page(
             WORKSHOP_PAGE_PATH,
             title="Werkstatt",
             icon="🛠️",
@@ -244,3 +255,8 @@ def render_workshop_page() -> None:
         session_dir=session_dir,
         selected_session_key_state=SESSION_SELECT_KEY,
     )
+
+
+def render_toolbox_page() -> None:
+    apply_sl_parchment_theme()
+    toolbox_view()

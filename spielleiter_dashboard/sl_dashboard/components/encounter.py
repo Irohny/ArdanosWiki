@@ -4,12 +4,12 @@ import unicodedata
 
 import streamlit as st
 
-from sl_dashboard.editor import (
+from spielleiter_dashboard.sl_dashboard.editor import (
     read_encounter_state,
     update_encounter_combatant,
     update_encounter_state,
 )
-from sl_dashboard.models import DashboardLink, DashboardScene, EncounterCombatant
+from spielleiter_dashboard.sl_dashboard.models import DashboardLink, DashboardScene, EncounterCombatant
 
 
 def _slugify(value: str) -> str:

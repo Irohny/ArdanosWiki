@@ -1,4 +1,4 @@
-from sl_dashboard.models import (
+from spielleiter_dashboard.sl_dashboard.models import (
     DashboardData,
     DashboardLink,
     DashboardNpc,

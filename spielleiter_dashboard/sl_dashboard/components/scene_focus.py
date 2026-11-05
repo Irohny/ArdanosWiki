@@ -1,11 +1,11 @@
 import streamlit as st
 
-from sl_dashboard.components.markdown import (
+from spielleiter_dashboard.sl_dashboard.components.markdown import (
     ACTIVE_SCENE_QUERY_PARAM,
     render_wiki_markdown,
     set_query_param,
 )
-from sl_dashboard.models import DashboardScene
+from spielleiter_dashboard.sl_dashboard.models import DashboardScene
 
 
 def _set_active_value(state_key: str, state_value: str) -> None:

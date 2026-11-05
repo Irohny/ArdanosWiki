@@ -1,7 +1,7 @@
 import streamlit as st
 
-from sl_dashboard.components.markdown import render_wiki_markdown
-from sl_dashboard.models import SessionStatus
+from spielleiter_dashboard.sl_dashboard.components.markdown import render_wiki_markdown
+from spielleiter_dashboard.sl_dashboard.models import SessionStatus
 
 
 def _render_status_list(items: tuple[str, ...]) -> None:

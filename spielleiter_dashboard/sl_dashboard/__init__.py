@@ -1,11 +1,11 @@
 from pathlib import Path
 
-from sl_dashboard.components.shell import (
+from spielleiter_dashboard.sl_dashboard.components.shell import (
     render_sl_dashboard_encounter_page,
     render_sl_dashboard_shell,
 )
-from sl_dashboard.demo_data import build_demo_dashboard_data
-from sl_dashboard.loader import load_dashboard_data
+from spielleiter_dashboard.sl_dashboard.demo_data import build_demo_dashboard_data
+from spielleiter_dashboard.sl_dashboard.loader import load_dashboard_data
 
 
 def _load_dashboard_for_render(

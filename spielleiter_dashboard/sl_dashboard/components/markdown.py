@@ -2,7 +2,7 @@ import re
 import streamlit as st
 from urllib.parse import urlencode
 
-from components import utils
+from wiki_dasboard.components import utils
 
 
 LINKED_WIKI_PAGE_QUERY_PARAM = "sl_linked_page"

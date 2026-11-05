@@ -1,5 +1,5 @@
 import streamlit as st
-from sl_dashboard.app_runtime import prepare_dashboard_navigation, resolve_page_title
+from spielleiter_dashboard.sl_dashboard.app_runtime import prepare_dashboard_navigation, resolve_page_title
 
 
 def main() -> None:

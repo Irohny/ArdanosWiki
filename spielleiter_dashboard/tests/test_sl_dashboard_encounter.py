@@ -1,7 +1,7 @@
 import unittest
 
-from sl_dashboard.components.encounter import _order_combatants_by_initiative
-from sl_dashboard.models import EncounterCombatant
+from spielleiter_dashboard.sl_dashboard.components.encounter import _order_combatants_by_initiative
+from spielleiter_dashboard.sl_dashboard.models import EncounterCombatant
 
 
 class EncounterOrderingTests(unittest.TestCase):
