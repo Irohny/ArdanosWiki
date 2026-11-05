@@ -1,0 +1,271 @@
+{
+  "profile_id": "schwarzklamm",
+  "title": "Schwarzklamm: Chronik des Fürstentums",
+  "subtitle": "Geschichte des Fürstentums Schwarzklamm",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 1,
+      "width": 57,
+      "label_mode": "event"
+    },
+    {
+      "id": "schwarzklamm_rulers",
+      "label": "Schwarzklamm Fürsten",
+      "color": "#4f5563",
+      "lanes": 1,
+      "width": 191.0,
+      "label_mode": "person"
+    },
+    {
+      "id": "schwarzklamm_ranges",
+      "label": "Schwarzklamm Zeitspannen",
+      "color": "#5d636f",
+      "lanes": 1,
+      "width": 176.0,
+      "label_mode": "event"
+    },
+    {
+      "id": "schwarzklamm_points",
+      "label": "Schwarzklamm Zeitpunkte",
+      "color": "#6b707c",
+      "lanes": 1,
+      "width": 176.0,
+      "label_mode": "event"
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "label": "Gruendung Schwarzklamm",
+      "start": 328,
+      "end": 328,
+      "kind": "foundation"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Bardum Eisenklang",
+      "start": 328,
+      "end": 487,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Kargan Goldader",
+      "start": 487,
+      "end": 604,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Hilda Erzkrone",
+      "start": 604,
+      "end": 699,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Borin der Baumeister",
+      "start": 699,
+      "end": 812,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Durgrom Steinfaust",
+      "start": 812,
+      "end": 898,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Thargrim Aschbart",
+      "start": 898,
+      "end": 1024,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Magra Silberzunge",
+      "start": 1024,
+      "end": 1116,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Orsik Tiefblick",
+      "start": 1116,
+      "end": 1247,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Brunhilde Schildträgerin",
+      "start": 1247,
+      "end": 1354,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Durn der Stillen Halle",
+      "start": 1354,
+      "end": 1432,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Keldar Runenschmied",
+      "start": 1432,
+      "end": 1565,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Ragna Kupferhand",
+      "start": 1565,
+      "end": 1654,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Baldrek ohne Thron",
+      "start": 1654,
+      "end": 1770,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Hargun Graustein",
+      "start": 1770,
+      "end": 1874,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Doria Flammenschild",
+      "start": 1874,
+      "end": 1958,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Grundar Eidwahrer",
+      "start": 1958,
+      "end": 2058,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Durim Felsenherz",
+      "start": 2058,
+      "end": 2319,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_rulers",
+      "lane": 0,
+      "label": "Durngar Schwarzschild",
+      "start": 2410,
+      "end": 2486,
+      "kind": "range"
+    },
+    {
+      "column": "schwarzklamm_ranges",
+      "lane": 0,
+      "label": "Erzkrieg von Eron’Gath",
+      "start": 1426,
+      "end": 1528,
+      "kind": "range",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm_points",
+      "lane": 0,
+      "label": "Die Feuertaufe von Kar'drathar",
+      "start": 2163,
+      "end": 2163,
+      "kind": "point",
+      "fill": "#727782"
+    },
+    {
+      "column": "schwarzklamm_points",
+      "lane": 0,
+      "label": "Brief Nyssaria (Funkeln der Finsternis)",
+      "start": 2435,
+      "end": 2435,
+      "kind": "point",
+      "fill": "#727782"
+    }
+  ],
+  "output_file": "World/Images/Timelines/schwarzklamm_vertical_timeline.svg"
+}

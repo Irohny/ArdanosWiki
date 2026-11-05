@@ -1,0 +1,70 @@
+import streamlit as st
+from enum import Enum
+from wiki_dasboard.components.auth import clear_auth_cookie, persist_auth_claims
+from wiki_dasboard.components import utils
+from wiki_dasboard.config import cfg
+
+
+class Roles(Enum):
+    Default = "Default"
+    Player = "Player"
+    GameMaster = "GameMaster"
+
+
+class User:
+    def __init__(
+        self,
+        name: str | None = None,
+        password: str | None = None,
+        role: Roles = Roles.Default,
+        loged_in: bool = False,
+    ):
+        self.name: str = name
+        self.password: str = password
+        self.role: Roles = role
+        self.loged_in: bool = loged_in
+
+
+def login_filed(place):
+    if st.session_state.pop("auth_cookie_clear_pending", False):
+        clear_auth_cookie()
+
+    if st.session_state["user"].loged_in:
+        place.markdown(
+            f"Hallo **{st.session_state['user'].name}**, viel Spaß in Andaros."
+        )
+        place.button("Logout", on_click=logout)
+    else:
+        form = place.form("login_filed")
+        form.text_input("Charaktername:", key="charackter_name")
+        form.text_input("Passwort", key="password", type="password")
+        form.form_submit_button("Login", on_click=check_login_data)
+
+
+def check_login_data():
+    for user in st.secrets["users"]:
+        if (
+            st.session_state["charackter_name"] == user["name"]
+            and st.session_state["password"] == user["password"]
+        ):
+            st.session_state["user"] = User(
+                name=user["name"],
+                password=user["password"],
+                role=Roles(user["role"]),
+                loged_in=True,
+            )
+            st.session_state["tree"] = utils.find_markdown_files(
+                cfg.MARKDOWN_DIR, st.session_state["user"]
+            )
+            persist_auth_claims(user["name"], user["role"])
+            return
+
+
+def logout():
+    st.session_state["auth_cookie_clear_pending"] = True
+    st.session_state["user"] = User()
+    st.session_state["tree"] = utils.find_markdown_files(
+        cfg.MARKDOWN_DIR, st.session_state["user"]
+    )
+    if "root_path" in st.session_state:
+        utils.set_path(st.session_state["root_path"])

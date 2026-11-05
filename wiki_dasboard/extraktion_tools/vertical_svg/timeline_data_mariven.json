@@ -1,0 +1,163 @@
+{
+  "profile_id": "mariven",
+  "title": "Mariven: Chronik des Fürstentums",
+  "subtitle": "Geschichte des Fürstentums Mariven",
+  "min_year": 300,
+  "max_year": 2486,
+  "pixels_per_year": 0.58,
+  "tick_year_step": 100,
+  "columns": [
+    {
+      "id": "world",
+      "label": "Zeit",
+      "color": "#d8c38f",
+      "lanes": 1,
+      "width": 57,
+      "label_mode": "event"
+    },
+    {
+      "id": "mariven_rulers",
+      "label": "Mariven Fürsten",
+      "color": "#2f8a7f",
+      "lanes": 1,
+      "width": 191.0,
+      "label_mode": "person"
+    },
+    {
+      "id": "mariven_ranges",
+      "label": "Mariven Zeitspannen",
+      "color": "#409389",
+      "lanes": 1,
+      "width": 176.0,
+      "label_mode": "event"
+    },
+    {
+      "id": "mariven_points",
+      "label": "Mariven Zeitpunkte",
+      "color": "#509d93",
+      "lanes": 1,
+      "width": 176.0,
+      "label_mode": "event"
+    }
+  ],
+  "eras": [
+    {
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "fill": "#f7f1df"
+    },
+    {
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "fill": "#efe6d2"
+    },
+    {
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "fill": "#e8ddca"
+    }
+  ],
+  "items": [
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Erstes Zeitalter",
+      "start": 300,
+      "end": 1230,
+      "kind": "range",
+      "fill": "#e7d9b6"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Zweites Zeitalter",
+      "start": 1231,
+      "end": 2164,
+      "kind": "range",
+      "fill": "#dcc8a0"
+    },
+    {
+      "column": "world",
+      "lane": 0,
+      "label": "Drittes Zeitalter",
+      "start": 2165,
+      "end": 2486,
+      "kind": "range",
+      "fill": "#cfb27d"
+    },
+    {
+      "column": "mariven_rulers",
+      "label": "Gruendung Mariven",
+      "start": 503,
+      "end": 503,
+      "kind": "foundation"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Jahre der Asche und des Salzes",
+      "start": 448,
+      "end": 503,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Muschelkrieg",
+      "start": 1358,
+      "end": 1402,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Baraberenüberfälle von Mariven",
+      "start": 1436,
+      "end": 1557,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Runenbann-Konflikt",
+      "start": 1503,
+      "end": 1611,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_ranges",
+      "lane": 0,
+      "label": "Handelskrieg an der Stromkrone",
+      "start": 2464,
+      "end": 2466,
+      "kind": "range",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_points",
+      "lane": 0,
+      "label": "Das Massaker von Tiravor",
+      "start": 1415,
+      "end": 1415,
+      "kind": "point",
+      "fill": "#59a199"
+    },
+    {
+      "column": "mariven_points",
+      "lane": 0,
+      "label": "Hector vom Blutfels",
+      "start": 2486,
+      "end": 2486,
+      "kind": "point",
+      "fill": "#59a199"
+    }
+  ],
+  "output_file": "World/Images/Timelines/mariven_vertical_timeline.svg"
+}
