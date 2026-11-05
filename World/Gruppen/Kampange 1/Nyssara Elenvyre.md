@@ -1,9 +1,23 @@
+---
+typ: Spieler
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Volk:** Hochelfe  
 **Herkunft:** [[Arcanis]]  
 **Alter:** Mehr als 600 Jahre  
 **Klasse:** Hexenmeister
 
-![[nyssaria.jpeg|100]]
+![[nyssaria.jpeg|200]]
+_[[Johann Wilhelm Waterhaus]], um 2482 n.d.D._
 
 Einst war Nyssara Elenvyre eine stolze Abenteurerin, bekannt für ihren Mut und ihre grenzenlose Neugier. Sie streifte durch verlassene Reiche, wagte sich in vergessene Grüfte und kartographierte Orte, die nur in Mythen erwähnt wurden. Ihre letzte große Expedition führte sie tief in die zerfallenden Ruinen auf [[Arcanis]], einem Ort, den selbst Zeit und Erinnerung meiden.
 

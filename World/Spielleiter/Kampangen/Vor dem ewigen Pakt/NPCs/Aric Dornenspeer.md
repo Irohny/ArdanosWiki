@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** General
 - **Haus / Dynastie:**
@@ -19,13 +33,6 @@
 
 
 ## Rolle und Beziehungen
-
-
-
-<!--
-Nicht oeffentliche Angaben zum NPC.
-Diese Abschnitte koennen vom Crawler ignoriert werden, solange er nur die expliziten Felder und oeffentlichen Bereiche ausliest.
--->
 
 ## Ziele
 

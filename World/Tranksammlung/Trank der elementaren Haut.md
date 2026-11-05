@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "18G"
+komponenten: "[[ Quarzkristall]], [[Glutpulver]], Element _– variiert je nach Element_"
+seltenheit: "Häufig"
+---
 - Tag: #Verbesserung 
 - **Komponenten:**[[ Quarzkristall]], [[Glutpulver]], Element _– variiert je nach Element_
 - **Herstellung:** Gebundene Essenz aus dem Material der Umgebung (Feuer, Eis, Stein etc.), kombiniert mit stabilisierender Matrix

@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### **Blutrune des Heiligen Ritus „Volgrins Licht“**
 ![[RuneGottRitus.jpeg|200]]
 Diese Rune ist mein Gegenbeweis für all jene, die Blutrunen automatisch für verdorben halten.

@@ -1,3 +1,17 @@
+---
+typ: Hilfsmittel
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Gott**: [[Solyra]]
 **Gegner**:  [[Zera Peretupa]], [[Blutgräfin Bartholdy]]
 **Paladin**: [[Selvian Korth]]
@@ -14,7 +28,7 @@
 versteckt ist. Selvian kam den Schergen Zeras zuvor und konnte einen von ihnen gefangen nehmen. Er fand heraus, dass der [[Reodemus]] etwas mit dem ganzen Verschwörungen um die [[Artefakten der Urzeit]] zu tun haben muss und so beschloss er ein Attentat auf ihn.
 
 # Aktuell
-[[Gnodomir]] wurde von der [[Blutgräfin Bartholdy]]gebissen und verwandelt sich langsam in einen Dhampir. Der Wunderheiler [[Eldrin Velmara]] (Untergebener von [[Zera Peretupa]]) sagt ihnen in [[Nebelhafen]], dass der [[Samen der Sonne]] diese Verwandlung aufhalten könnte, damit die Gruppe ebenfalls das Versteck des Samens sucht und somit Zera und Bartholdy (Blutgräfin) bei der Suche unterstützt werden.
+[[Gnodomir]] wurde von der [[Blutgräfin Bartholdy]]gebissen und verwandelt sich langsam in einen Dhampir. Der Wunderheiler [[Eldrin Velmara]] (Untergebener von [[Zera Peretupa]]) erkennt in [[Nebelhafen]] den Vampirbiss, kennt aber keine Heilung. Von einer möglichen Heilung durch den [[Samen der Sonne]] wissen zu diesem Zeitpunkt weder Gnodomir noch Eldrin. Wie die Gruppe später vom Samen der Sonne als möglicher Heilung erfährt, ist offen.
 # Zukunft
 - [[Selvian Korth]] alias [[Shien Valtrok]] war der Lehrmeister von [[Vishuda]] bei den [[Tashiro'en]] er könnte der Gruppe Hinweise geben wo der Tempel versteckt ist
 - Als [[Selvian Korth]] verschwunden ist von den [[Tashiro'en]] wurde [[Nahata]] misstrauisch und ließ ihn suchen und [[Vishuda]] beobachten
@@ -40,3 +54,4 @@ Die Lichtkreise halten die göttliche Energie stabil.
 Wenn jemand den Samen entfernt oder die Säulen zu stark beschädigt werden:
 - die Runen verlöschen
 - das erste Siegel fällt.
+

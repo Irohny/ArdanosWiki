@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **14. bis 18. Tag des Regenmonds — Eine Kette, ein Graben und zwei Prüfungen**
 
 Der sogenannte Prinz nahm mich allein mit. Fesselte mich wie einen gewöhnlichen Straßenräuber und ließ Volgrins Zorn, [[Kraeth]] und [[Veyrun]] irgendwo im Wald zurück.
@@ -16,7 +29,7 @@ Ich hörte oben Stimmen über Rüstungsteile und Prophezeiungen, während ich bi
 
 Die Gruppe besteht aus Zabor, einem Tiefling-Waldläufer; Naivara, einer Dunkelelfen-Hexenmeisterin; Thalos, einem menschlichen Magier; und Aranis, einem menschlichen Druiden. Zabor scheint verlässlich. Thalos hat einen wachen Geist. Aranis ist schwer einzuschätzen. Naivara vertraue ich nicht weiter, als ich einen Amboss werfen könnte.
 
-Franzi erzählte uns schließlich die Wahrheit: Ein Wassergeist rettete sie einst, und nun hilft sie ihm, einen Wasserdrachen zu befreien. Der König hält den Drachen gefangen und will mithilfe einer magischen Rüstung Kontrolle über ihn gewinnen. Die Geschichte von einer Piratenprophezeiung war wohl nur eine Lüge, um Abenteurer auf die Suche nach den Rüstungsteilen zu hetzen.
+Franzi erzählte uns schließlich die Wahrheit: Ein Wassergeist rettete sie einst, und nun hilft sie ihm, einen Wasserdrachen zu befreien. Der [[König]] hält den Drachen gefangen und will mithilfe einer magischen Rüstung Kontrolle über ihn gewinnen. Die Geschichte von einer Piratenprophezeiung war wohl nur eine Lüge, um Abenteurer auf die Suche nach den Rüstungsteilen zu hetzen.
 
 Die Gruppe besitzt bereits zwei Teile. Zwei fehlen.
 

@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Aktion"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "25G"
+komponenten: "[[Geistergras]], [[Knochenasche]], [[Totenkraut]]"
+seltenheit: "Häufig"
+---
 - Tag: #Aktion 
 - **Komponenten:** [[Geistergras]], [[Knochenasche]], [[Totenkraut]]
 - **Wert:** 25G

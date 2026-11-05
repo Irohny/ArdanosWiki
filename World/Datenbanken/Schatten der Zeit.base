@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - kampagne == ["[[Schatten der Zeit]]"]
+    order:
+      - file.name
+      - region
+      - status
+      - typ

@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Gift"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "92G"
+komponenten: "[[Pilzspiegel]], [[Gedankengalle]], zerstoßener [[Lapislazuli]]"
+seltenheit: "Ungewöhnlich"
+---
 - Tag: #Gift 
 - **Komponenten:** [[Pilzspiegel]], [[Gedankengalle]], zerstoßener [[Lapislazuli]]
 - **Wert:** 92G

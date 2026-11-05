@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Doppelzunge
 - **Titel / Amt:** Waffenhaendler und Unterhaendler
 - **Haus / Dynastie:**
@@ -9,7 +22,7 @@
 - **Alter:**
 
 - **Verknüpfte Orte:** [[Grüner Wyvern]], [[Drakmora]], [[Schwarzklamm]]
-- **Verknüpfte NPCs:** [[Zyrax Draxar]], [[Varian Schattentaenzer]]
+- **Verknüpfte NPCs:** [[Zyrax Draxar]], [[Varian Schattentänzer]]
 - **Bekannt für:** zwielichtige Verhandlungen, Waffenhandel, Kontakte in dunklen Kreisen
 - **Erste Erwähnung:** unbekannt
 - **Tags:** #tiefling #schwarzklamm
@@ -24,7 +37,7 @@ Er wurde häufig im [[Grüner Wyvern]] gesehen und galt als redegewandter, schwe
 Glutherz bewegte sich im Umfeld illegaler oder zumindest fragwuerdiger Handelsgeschaefte.
 - [[Zyrax Draxar]]: Auftraggeber oder enger Geschaeftspartner im Waffenhandel
 - [[Drakmora]]: Zielraum eines von ihm eingefaedelten Handelsgeschaefts
-- [[Varian Schattentaenzer]]: sein mutmasslicher Moerder
+- [[Varian Schattentänzer]]: sein mutmasslicher Moerder
 
 ## Ziele
 
@@ -39,7 +52,7 @@ Glutherz bewegte sich im Umfeld illegaler oder zumindest fragwuerdiger Handelsge
 ## Geheime Informationen
 
 - Wurde beauftragt, einen Waffenhandel mit [[Drakmora]] abzuschliessen
-- Wurde spaeter von [[Varian Schattentaenzer]] ermordet
+- Wurde spaeter von [[Varian Schattentänzer]] ermordet
 
 ## Kampfwerte
 

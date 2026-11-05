@@ -1,3 +1,16 @@
+---
+typ: Session
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr: 2486
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+---
 Startdatum: 13 (Markttag) Licht (Frühling) 2486 ndD 
 Endatum: 14 (Gnadentag) Licht (Frühling) 2486 n.d.D. 
 ### Breaking Point:
@@ -7,7 +20,7 @@ Endatum: 14 (Gnadentag) Licht (Frühling) 2486 n.d.D.
 * Bruder Markus hat Hausverbot in der [[Goldene Rune]]
 * [[Vishuda]] will Gifte für seine Klinge brauen
 * Gruppe hat Infos über den Keller des [[Palast des Kaisers]]
-* Gruppe denkt [[Varian Schattentaenzer]] hat [[Glutherz Doppelzunge]] ermordet
+* Gruppe denkt [[Varian Schattentänzer]] hat [[Glutherz Doppelzunge]] ermordet
 * Gruppe glaubt [[Drakmora]] und/oder [[Schwarzklamm]] wollen [[Reodemus]] töten
 
 # Ablauf
@@ -25,7 +38,7 @@ Tag 1 (13. Licht)
 	- Mönche lösen sich auf und triggern die Visionen
 	
 - Trupp geht zum [[Stolzes Einhorn]]
-- Gruppe trifft [[Varian Schattentaenzer]] in der [[Goldene Rune]]
+- Gruppe trifft [[Varian Schattentänzer]] in der [[Goldene Rune]]
 	- Varian erkennt Nyssara
 	- Varian erzählt, dass der Schlosskeller mit fallen bestückt wurde um Sicherheit zu schaffen
 	- Varian erzählt, dass [[Elaena Silberhand]] Richtung [[Nebelhafen]] aufgebrochen ist

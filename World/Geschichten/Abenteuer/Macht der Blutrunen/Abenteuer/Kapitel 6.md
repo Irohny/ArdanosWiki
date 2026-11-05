@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **7. Tag des Regenmonds, irgendwo vor Sturmflut**
 
 Ich bin unterwegs nach Sturmflut, um Kharrum zu finden.

@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Schwarzklamm]]"
+tags: [König]
+zeit_text:
+zeit_von_jahr: 604
+zeit_bis_jahr: 699
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** Fürstin der [[Schwarzklamm]]
 - **Haus / Dynastie:**

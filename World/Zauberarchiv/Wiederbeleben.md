@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "3"
+schule: "#Nekromantie"
+konzentration: "nein"
+komponenten: "#Verbal #Geste"
+materialien: "Diamanten im Wert von 300GM, die verbraucht werden"
+---
 - **Grad:**   3
 - **Schule:**  #Nekromantie 
 - **Ritual:**  nein

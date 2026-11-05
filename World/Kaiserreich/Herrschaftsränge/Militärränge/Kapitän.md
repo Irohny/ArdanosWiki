@@ -1,1 +1,13 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Befehlshaber eines einzelnen Schiffes in [[Mariven]], mit voller Verantwortung für Schiff, Mannschaft und Ladung. Handelsschiffe, Kriegsschiffe und Freibeuter werden gleichermaßen von Kapitänen geführt.

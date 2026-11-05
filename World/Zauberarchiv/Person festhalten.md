@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "2"
+schule: "#Verzauberung"
+konzentration: "ja"
+komponenten: "#Verbal #Geste #Material"
+materialien: "ein kleines, gerades Stück Eisen"
+---
 - **Grad:** 2   
 - **Schule:** #Verzauberung   
 - **Ritual:**  nein

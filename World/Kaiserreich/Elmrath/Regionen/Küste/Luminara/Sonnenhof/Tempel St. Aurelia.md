@@ -1,5 +1,19 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Strahl der Gerechtigkeit**
 ![[StAurelia.png|300]]
+_[[Fransen Halsmark]] um 2350 n.d.D._
 
 Im Herzen der Hauptstadt **[[Luminara]]**, wo das Licht niemals ganz zu schwinden scheint, erhebt sich der ehrwürdige **Tempel St. Aurelia**, benannt nach der ersten Märtyrerin des [[Solyra]]-Kults in der Region. Wie eine steinerne Hymne an die Sonne ragt das Bauwerk in den Himmel – eine **gotische Kathedrale** mit filigranen Streben, goldverzierten Wasserspeiern und leuchtenden Fensterrosen, durch die das Licht in Dutzenden Farben bricht.
 
@@ -16,7 +30,7 @@ Die Kathedrale wirkt wie ein gefrorener Sonnenstrahl, gebaut aus hellem Kalkstei
 
 ### Die Gemeinschaft:
 
-Der **Glaube an [[Solyra]]** ist tief verwurzelt in Luminara. Die Priesterschaft St. Aurelias ist nicht nur geistlich, sondern auch politisch einflussreich. Sie betreiben Hospize, Schulen und koordinieren die Sonnenfeste, die regelmäßig Pilger aus allen Ecken des Landes anziehen.
+Der **Glaube an [[Solyra]]** ist tief verwurzelt in [[Luminara]]. Die Priesterschaft St. Aurelias ist nicht nur geistlich, sondern auch politisch einflussreich. Sie betreiben Hospize, Schulen und koordinieren die Sonnenfeste, die regelmäßig Pilger aus allen Ecken des Landes anziehen.
 
 Bei Sonnenaufgang füllt sich der große Vorplatz mit Gläubigen, die sich niederknien, um gemeinsam mit der Priesterschaft das **„Lichtgebet“** zu sprechen – eine tägliche Bitte um Wahrheit, Heilung und Schutz vor der Finsternis.
 

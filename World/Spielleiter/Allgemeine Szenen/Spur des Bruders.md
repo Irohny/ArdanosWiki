@@ -1,3 +1,16 @@
+---
+typ: Allgemeine Szene
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Ort:** Landstraße kurz vor dem Stadttor von Elarin, einer befestigten Handelsstadt nahe der Grenze zu [[Vaylen]].
 
 ### **Szene-Einstieg**

@@ -1,9 +1,22 @@
+---
+typ: Session
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr: 2486
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+---
 Startdatum: (Nachmittags) 14 (Gnadentag) Licht (Frühling) 2486 n.d.D. 
 Enddatum:  (Abends) 14 (Gnadentag) Licht (Frühling) 2486 n.d.D. 
 
 - Die Gruppe trifft sich nachdem [[Vishuda]] den [[Reodemus]] auf die [[Windhexe]] gebracht hat in der Krypta des Schlosses.
 - Nyssaria schreit auf und ist wie versteinert. Die Gruppe versucht herauszufinden was passiert ist und sucht einen Magier odr Heiler im Schloss
-- Im Ballsaal trifft die Gruppe auf [[Selene Drachenruf]] und [[Varian Schattentaenzer]]
+- Im Ballsaal trifft die Gruppe auf [[Selene Drachenruf]] und [[Varian Schattentänzer]]
 - Sie erfahren, dass Nyssiria von einer Erzfee bessen ist, da sie vor 200 Jahren mit dem [[Schattenherz]] verschmolzen ist und jetzt mit der Erzfee um die Kontrolle ihres Körpers kämpft
 - Die Gruppe erfährt von Selene, dass sie durch ihre Vision zusammengerufen wurden. In der Vision sah sie, wie durch den Tod einer Person auf dem Fürstenball das gleichgewicht der Welt auseinander gerät
 - Die Gruppe hört stimmen aus der Bilbliothek und trifft dort den Kleriker und den Ritter, die die letzen zwei der Attentäter sind.

@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - kampagne == ["[[Funkeln in der Finsternis]]"]
+        - kampagne == ["[[Funkeln in der Finsternis]]"]
+    order:
+      - file.name
+      - kampagne

@@ -1,7 +1,18 @@
-#Klan
-#[[Drakmora]]
-
-# [[Weitenreiter]]
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
+![[Weitenreiter Wappen.png|200]]
+_[[Alfons Muchar]], 2475 n.d.D._
 
 **Sitz:** [[Weitenfell]] in der [[Klingensteppe]]
 **Oberhaupt:** Lord Hadwin [[Weitenfell]]

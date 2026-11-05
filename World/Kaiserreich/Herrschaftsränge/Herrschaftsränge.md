@@ -1,3 +1,15 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ## Adel
 Die Adelsränge im Kaiserreich [[Ardanos]] sind über die Regionen vereinheitlicht worden, sodass die Hierachie über die Fürstentümer hinweg klar geordnet ist.
 1. **[[Kaiser]]**

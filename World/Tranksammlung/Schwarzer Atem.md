@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Gift"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "28G"
+komponenten: "[[Nachtalraune]], [[Glassplitter]], [[Krötengalle]]"
+seltenheit: "Gewöhnlich"
+---
 - Tag: #Gift 
 - **Komponenten:** [[Nachtalraune]], [[Glassplitter]], [[Krötengalle]]
 - **Wert:**  28G

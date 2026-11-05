@@ -1,4 +1,19 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Bizeptiner Wappen.png|200]]
+_[[Theophanos der Gräne]], um 2230 n.d.D._
+
 **Gründung 2187 n.d.D im dritten [[Zeitalter]] durch [[Arn'Old]]** 
 **Sitz:** Kloster [[Kloster des Stählernen Körpers]]  mit dem einzigartigen [[Halle der tausend Wiederholungen]]
 

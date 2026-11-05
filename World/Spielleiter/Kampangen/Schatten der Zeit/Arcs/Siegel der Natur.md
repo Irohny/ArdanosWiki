@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Gott:** [[Ocyra]]
 **Gegner:** [[Lady Seress]], [[Vaelor Drenn]]
 **Paladin:** [[Edran Tiefstrom]]
@@ -19,7 +32,7 @@ Zusammen sammelten [[Selvian Korth]] und [[Elaena Silberhand]] Information über
 Was die beiden nicht wissen ist , dass [[Lady Seress]] alias [[Lady Maerina von Elmrath]] eine Vertraute des Zeitdiebs am Hof des Kaisers und [[Vaelor Drenn]] ein verfluchter Pirat sie beobachten und ebenfalls sich auf die Suche nach dem [[Kompass des Sturmlords]] gemacht haben.
 
 # Zukunft
-- [[Vaelor Drenn]] ist der alte Kapitän der [[Schwarze Granat]], welche einst sank und von der nur [[Gnodomir]] überlebte, der von [[Erythra]]s Raben [[Veyrun]] selbst errettet wurde. [[Vaelor Drenn]] überlebte nicht wirklich, er ist ein Geist, der sein Schiff mit Hilfe des [[Kompass des Sturmlords]] wieder aus den Fluten retten möchte
+- [[Vaelor Drenn]] ist der alte Kapitän der [[Schwarze Granat]], welche einst sank und von der nur [[Gnodomir]] überlebte, der von [[Erythra]]s Raben [[Kraeth]] selbst errettet wurde. [[Vaelor Drenn]] überlebte nicht wirklich, er ist ein Geist, der sein Schiff mit Hilfe des [[Kompass des Sturmlords]] wieder aus den Fluten retten möchte
 - Wenn die Gruppe auf den Weg nach [[Valmaaren]] ist um [[Elaena Silberhand]] zu suchen werden sie von [[Vaelor Drenn]] angegriffen
 - In [[Valmaaren]] treffen sie [[Elaena Silberhand]], die ihnen ihre Geschichte erzählt, bei den Vorbereitungen für die Suche nach dem Wrack der [[Azure Rune]] wird die Gruppe von [[Lady Seress]] behindert
 - Beim Wrack finden sie die Aufzeichnung Tiefstroms, die aufzeigen, dass der [[Kompass des Sturmlords]] in [[Runanthis]] liegt
@@ -40,3 +53,4 @@ Der Kompass und die Anker halten die **Strömungen der Magie** stabil.
 Wenn der Kompass entfernt oder die Anker zerstört werden:
 - beginnt das Wasser zu kochen
 - Stürme erscheinen über dem Meer
+

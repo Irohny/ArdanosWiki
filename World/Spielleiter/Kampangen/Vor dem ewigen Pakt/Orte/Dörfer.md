@@ -1,4 +1,0 @@
-- Hainfeld
-- Dornau
-- Lindengrund
-- Wurzelfurt

@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Aktion", "Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "117G"
+komponenten: "[[Schattenseide]], [[Geisterstaub]], [[Nymphenblüte]]"
+seltenheit: "Ungewöhnlich"
+---
 - Tag: #Aktion #Verbesserung 
 - **Komponenten:** [[Schattenseide]], [[Geisterstaub]], [[Nymphenblüte]]
 - **Wert:**  117G

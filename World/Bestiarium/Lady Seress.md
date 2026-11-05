@@ -1,3 +1,21 @@
+---
+typ: Monster
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "6"
+volk: "#Monstrositaet"
+gesinnung: "Neutral Böse"
+ruestungsklasse: 16
+grundlage: "#Homebrew"
+---
 # Lady Seress
 
 - **Grundlage:** #Homebrew

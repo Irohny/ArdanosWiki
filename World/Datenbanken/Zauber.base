@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - typ == "Zauber"
+    order:
+      - file.name
+      - schule
+      - konzentration
+      - grad
+      - komponenten

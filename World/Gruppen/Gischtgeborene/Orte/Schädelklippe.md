@@ -1,1 +1,14 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 An der rauen Küste der [[Schimmernde Klippen]] trauen sich nur wenige Seefahrer entlang zu segeln. Hier sind schon viele erfahrende Kapitäne mit ihren Schiffen an den Klippen zerschellt. In dieser gefährlichen Region haben die [[Gischtgeborenen]] ihre Basis aufgeschlagen. Nur die Kapitäne und die Navigatoren der Schiffe der [[Gischtgeborenen]] kennen den sicheren Seeweg durch die Untiefen und Felsenklippen der Region zu der [[Schädelklippe]]. Eine Felsformation, versteckt hinter vielen im Meer aufragenden spitzen Felsenklippen, entlang der Steilküste der [[Schimmernde Klippen]], die von außen einem Totenschädel ähnelt. Die Klippe ragt ins Meer hinein, sodass die Schiffe der Flotte der [[Gischtgeborenen]] durch den Mund des Schädels in die Höhlen der Klippe fahren können. Dort innerhalb der Klippe befindet sich ein kleiner Hafen, an den die Schiffe der Piraten anlegen können. Ein großen Tunnelsystem mit vielen Verzweigungen, kleinen und großen Höhlen durchzieht diese Klippe und dient den Piraten somit als ideales Versteck und Unterkunft.

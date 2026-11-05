@@ -1,3 +1,16 @@
+---
+typ: Allgemeine Szene
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Ein abgelegener Pfad durch dichten Mischwald. Vögel sind verstummt. Die Dämmerung senkt sich langsam. Die Gruppe hört aus der Nähe lautes **Schluchzen** – kehlig, tief und gequält. Zwischendurch grollt eine Stimme, die wütend knurrt:
 
 > **„[[Meine Brücke]]… [[Meine Brücke]]… war immer fair! IMMER ordentlich gezahlt! Niemand ist runtergefallen… WARUM?!“**

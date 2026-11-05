@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region: "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Sternensaenger
 - **Titel / Amt:** Zauberer und magischer Botschafter von [[Drakmora]]
 - **Haus / Dynastie:**

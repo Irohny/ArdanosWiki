@@ -1,4 +1,23 @@
+---
+typ: Monster
+status: dm
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "7"
+volk: "#Elf"
+gesinnung: "Rechtschaffend Böse"
+ruestungsklasse: 16
+grundlage: "#Homebrew"
+---
 ![[ZeraFluesterin.jpeg|200]]
+_[[Odelin Redonne]], um 2478 n.d.D._
 
 - **Grundlage:** #Homebrew
 - **Stufe/Herausforderungsgrad:** Warlock des 7. Grades / HG 6 (2.300 EP)
@@ -140,7 +159,7 @@ Doch eines Tages wurde sie vergessen.
 
 Ein jüngerer, lauterer Spion nahm ihren Platz ein. Die Mächtigen, die sie einst brauchten, taten, als habe sie nie existiert. Kein Denkmal, kein Name in Chroniken – ihre größte Angst wurde Wirklichkeit: Bedeutungslosigkeit.
 
-In ihrer Einsamkeit hörte sie zum ersten Mal den Zeitdieb. Nicht mit ihren Ohren, sondern tief in ihrem Bewusstsein. Er versprach ihr, was kein König, kein Gott und kein Dämon ihr je anbieten konnte: Ewigkeit.
+In ihrer Einsamkeit hörte sie zum ersten Mal den Zeitdieb. Nicht mit ihren Ohren, sondern tief in ihrem Bewusstsein. Er versprach ihr, was kein [[König]], kein Gott und kein Dämon ihr je anbieten konnte: Ewigkeit.
 
 Nicht als Heldin, nicht als Königin, sondern als Flüstern zwischen den Zeitlinien. Unsterblich. Unerkannt. Unvergesslich.
 

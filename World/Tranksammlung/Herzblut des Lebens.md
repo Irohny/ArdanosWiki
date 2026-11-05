@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Heilung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "1000G"
+komponenten: "[[Phönixfeder]], [[Drachenträne]], [[Herzrosen-Extrakt]], [[Honig]]"
+seltenheit: "Sehr selten"
+---
 - Tag: #Heilung 
 - **Komponenten:** [[Phönixfeder]], [[Drachenträne]], [[Herzrosen-Extrakt]], [[Honig]]
 - **Wert:** 1000G

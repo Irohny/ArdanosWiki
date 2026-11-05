@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rüstungsklasse (RK)/ Rüstung:** 10 
 - **Waffen:** Waffenlos +2 zum treffen und 1W4 Wuchtschaden
 - **Initiative:** +1

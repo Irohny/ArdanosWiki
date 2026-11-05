@@ -1,3 +1,16 @@
+---
+typ: Allgemeine Szene
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### 🐴 **1. Der Pferdetausch**
 
 Ein alter Händler versucht verzweifelt, das lahmende Maultier seines Wagens gegen eines der Reittiere der Gruppe zu tauschen – er bietet mehr an, als es wert scheint.  

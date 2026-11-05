@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Versoehner
 - **Titel / Amt:** [[Kaiser]] von [[Ardanos]]
 - **Haus / Dynastie:** Thorne

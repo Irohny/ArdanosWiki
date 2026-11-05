@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+  - "[[Vaylen]]"
+tags:
+  - Fürst
+zeit_text:
+zeit_von_jahr: 1542
+zeit_bis_jahr: 1872
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Sonne des Reiches
 - **Titel / Amt:** [[Fürst]] von [[Vaylen]]
 - **Haus / Dynastie:** Drachenruf

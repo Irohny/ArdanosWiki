@@ -1,6 +1,19 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Die Erbin der Seefeste
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]
-- **Haus / Dynastie:** Vintar
+- **Haus / Dynastie:** [[Familie Talvarin]]
 - **Regentschaft:** 983 - 1036 n.d.D.
 - **Spezies / Volk:** Mensch
 - **Herkunft:** [[Mariven]]

@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Die Glashändlerin von Tyven
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]
 - **Haus / Dynastie:** [[Familie Vellora]]

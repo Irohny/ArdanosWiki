@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "27G"
+komponenten: "[[Wilder Hopfen]], [[Bärenkraut]], [[Gerstensaft]], [[Herzblattwurzel]]"
+seltenheit: "Gewöhnlich"
+---
 - Tag:  #Verbesserung 
 - **Komponenten:** [[Wilder Hopfen]], [[Bärenkraut]], [[Gerstensaft]], [[Herzblattwurzel]]
 - **Wert:** 27G

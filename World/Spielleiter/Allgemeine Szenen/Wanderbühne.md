@@ -1,3 +1,16 @@
+---
+typ: Allgemeine Szene
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Die Goldmaske-Wanderbühne
 
 Während die Gruppe reist, hören sie in der Ferne fröhliche Musik – Laute, Flöte und Tamburin. Ein Lagerfeuer lodert auf einer kleinen Wiese nahe dem Weg. Um das Feuer herum tanzen farbenfrohe Gestalten in bunten Gewändern. Ein hölzerner Planwagen mit goldverzierter Maske auf der Seite steht daneben:

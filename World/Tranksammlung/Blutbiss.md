@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Gift", "Pfeilgift", "Projektilgift"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "14G"
+komponenten: "[[Vipernblut]], [[Dornkrautsaft]], [[Alkohol]]"
+seltenheit: "Häufig"
+---
 - Tag:  #Gift #Pfeilgift #Projektilgift
 - **Komponenten:** [[Vipernblut]], [[Dornkrautsaft]], [[Alkohol]]
 - **Wert:** 14G

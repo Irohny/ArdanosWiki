@@ -1,8 +1,15 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
+---
+typ: NPC
+status: kanon
+kampagne:
+region: "[[Drakmora]]"
+tags: [Fürst]
+zeit_text:
+zeit_von_jahr: 2441
+zeit_bis_jahr: 2476
+erstellt: 2026-10-30
+geaendert:
+---
 
 - **Rufname / Beiname:** 
 - **Titel / Amt:** Fürst von [[Drakmora]]
@@ -14,10 +21,10 @@ Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus di
 - **Sterbejahr:** 
 - **Alter:** 
 
-- **Verknuepfte Orte:** [[Drakmora]]
-- **Verknuepfte NPCs:** [[Vessra Glutmantel]], [[Valaine Nebelhain]], [[Elgrin van Harl 1]], [[Ser Vakor]]
-- **Bekannt fuer:** Letzter Fürst vor [[Valaine Nebelhain]]. [[Elgrin van Harl 1]] und [[Ser Vakor]] dienten unter ihm als Generäle
-- **Erste Erwaehnung:** 2441 n.d.D.
+- **Verknüpfte Orte:** [[Drakmora]]
+- **Verknüpfte NPCs:** [[Vessra Glutmantel]], [[Valaine Nebelhain]], [[Elgrin van Harl]],
+- **Bekannt für:** Letzter Fürst vor [[Valaine Nebelhain]]. [[Elgrin van Harl]] diente unter ihm als General
+- **Erste Erwähnung:** 2441 n.d.D.
 - **Tags:** #herrscher #drakmora #adel
 
 ## Beschreibung und Auftreten
@@ -26,7 +33,7 @@ Löste [[Vessra Glutmantel]] durch eine Herausforderung ab. 2476 n.d.D. wurde er
 
 ## Rolle und Beziehungen
 
-- Unter ihm dienten [[Elgrin van Harl 1]] und [[Ser Vakor]] als Generäle der südlichen Truppen.
+- Unter ihm diente [[Elgrin van Harl]] als Generäle der südlichen Truppen.
 
 ## Ziele
 

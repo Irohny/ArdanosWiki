@@ -1,4 +1,18 @@
+---
+typ: Beschreibung
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Nachtgeweihte.png|200]]
+_[[Alfons Muchar]], 2475 n.d.D._
+
 Die **Nachtgeweihten** sind ein Schwurklan aus Kreaturen der Dunkelheit, vereint durch das gemeinsame Ziel, einen sicheren Lebensraum zu finden, in dem sie unbehelligt existieren können. Sie werden von Monsterjägern und den Paladinen [[Solyra]]s verfolgt und getötet, was den Klan stetig unter Druck setzt.
 ### **Ziel**
 - Beanspruchung einer abgelegenen Region als Heimat    

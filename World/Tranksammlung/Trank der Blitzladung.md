@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Schaden"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "323G"
+komponenten: "[[Sturmessenz]], [[Drachenschuppe (blau)]], [[Quarzkristall]]"
+seltenheit: "Selten"
+---
 - Tag: #Schaden 
 - **Komponenten:** [[Sturmessenz]], [[Drachenschuppe (blau)]], [[Quarzkristall]]
 - **Wert:** 323G

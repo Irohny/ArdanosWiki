@@ -1,0 +1,6 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - kampagne == ["[[Mord und Verlobung]]"]

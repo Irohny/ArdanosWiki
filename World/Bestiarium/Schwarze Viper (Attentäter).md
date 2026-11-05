@@ -1,3 +1,22 @@
+---
+typ: Monster
+status: dm
+kampagne:
+  - "[[Mord und Verlobung]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "5"
+volk: "#Mensch"
+gesinnung: "#ChaotischNeutral"
+ruestungsklasse: 16
+grundlage: "#Online"
+---
 # Schwarze Viper
 
 - **Grundlage:** #Online

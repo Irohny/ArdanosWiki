@@ -1,3 +1,15 @@
+---
+typ: Hilfsmittel
+status: DM
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 
 | **Rune** | **Name** | **Bedeutung** | **Passiv**                                           | **Aktiv (1x Kurzer Rast)**                                                       | **Gott**      |
 | -------- | -------- | ------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------- | ------------- |

@@ -1,3 +1,16 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+  - "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Länge: 720km
 Reisedauer: 18 Tage
 Diese Straße durchzieht das nördliche **[[Elmrath]]** und führt durch die sanften Hügel der **[[Himmelshöfe]]**, die für Weinbau und Hopfenfelder bekannt sind.  

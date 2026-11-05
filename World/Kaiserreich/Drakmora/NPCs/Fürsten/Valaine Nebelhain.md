@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region: "[[Drakmora]]"
+tags: [Fürst]
+zeit_text:
+zeit_von_jahr: 2476
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** 
 - **Titel / Amt:** Fürstin von [[Drakmora]]
 - **Haus / Dynastie:** 
@@ -16,7 +29,8 @@
 
 ## Beschreibung und Auftreten
 
-![[ValaineNebelhain.jpeg|300]]
+![[ValaineNebelhain.jpeg|200]]
+_[[Francisko de Goyar]], 2477 n.d.D._
 
 Valaine ist eine starke und unnachgiebige Herrscherin, die keine schwäche duldet und deren gesamtes Augenmerk der Verteidigung [[Drakmora]]s und des Kaiserreiches gewidmet ist. Sie und Fürstin [[Selene Drachenruf]] von [[Vaylen]] haben eine wechselhafte Beziehung – mal als Verbündete, mal als Rivalinnen. Sie hält den Kaiser für einen verträumten Diplomaten, der die wahre Macht der Stärke nicht begreift.
 

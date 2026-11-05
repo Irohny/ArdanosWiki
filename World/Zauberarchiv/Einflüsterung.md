@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "2"
+schule: "#Verzauberung"
+konzentration: "Ja"
+komponenten: "#Verbal #Material"
+materialien: "eine Schlangenzunge und entweder eine kleine Honigwabe oder ein Tropfen süßes Öl"
+---
 - **Grad:**   2
 - **Schule:**  #Verzauberung 
 - **Ritual:**  Nein

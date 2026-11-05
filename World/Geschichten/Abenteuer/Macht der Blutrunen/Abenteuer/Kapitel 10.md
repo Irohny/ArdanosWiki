@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **19. Tag des Regenmonds, Sophina**
 
 Der Abend endete in einer Taverne. Zu viel Lärm, zu wenig Bier von brauchbarer Qualität und dennoch: Die Gruppe hielt zusammen, als hätte sie sich schon länger gekannt.
@@ -10,7 +23,7 @@ Der Stadtherr ließ alle zusammentrommeln. Sein Sohn sei entführt worden, sagte
 
 Natürlich nahm die Gruppe den Auftrag an.
 
-Im Palast erfuhren wir, dass der Stadtherr ein guter Freund des Königs ist. Das gefiel mir nicht. Zu viele unserer Probleme führen irgendwann zu diesem König zurück.
+Im Palast erfuhren wir, dass der Stadtherr ein guter Freund des Königs ist. Das gefiel mir nicht. Zu viele unserer Probleme führen irgendwann zu diesem [[König]] zurück.
 
 Ein Erpresserbrief verlangte fünftausend Goldstücke an der alten Mühle außerhalb der Stadt. Der Stadtherr wollte seinen Sohn ungewöhnlich dringend und unbedingt noch am selben Tag zurückhaben.
 

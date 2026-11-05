@@ -1,4 +1,23 @@
+---
+typ: Monster
+status: dm
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "4"
+volk: "#Mensch"
+gesinnung: "Neutral Böse"
+ruestungsklasse: 15
+grundlage: "#Homebrew"
+---
 ![[Eldrin Velmara.jpeg|200]]
+_[[Johann Sargenter]], um 2486 n.d.D._
 
 - **Grundlage:** #Homebrew 
 - **Stufe/Herausfordungsgrad:** 4

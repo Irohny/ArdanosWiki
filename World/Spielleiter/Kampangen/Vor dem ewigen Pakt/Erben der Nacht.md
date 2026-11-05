@@ -1,3 +1,17 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Die Erben der Nacht sind ein geheimer Orden, der an die Wiedervereinigung der zersplitterten Mächte der Finsternis glaubt.
 
 Ihre Mitglieder sind überzeugt, dass die Trennung von Leben und Tod, Ordnung und Chaos die Ursache allen Leids ist. Unter der Führung eines unbekannten Meisters forschen sie an uralter Magie, den Existenzebenen und der Erschaffung von Gefäßen, um die Ankunft einer neuen Welt vorzubereiten.

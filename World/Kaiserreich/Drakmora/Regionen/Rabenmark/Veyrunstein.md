@@ -1,1 +1,14 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Kleines Dorf am Fuße der [[Nordfels-Krone]] in der [[Rabenmark]] von [[Drakmora]] am Lauf des [[Graldrim]]. Eine Brücke verbindet das Dorf mit [[Mor Thorum]] dem großen Tempel der [[Erythra]]. Hier versammeln sich ähnlich wie in [[Kraetheim]] viel Pilger die zum Tempel der [[Erythra]] wollen.

@@ -1,3 +1,19 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+  - "[[Funkeln in der Finsternis]]"
+region:
+  - "[[Vaylen]]"
+tags:
+  - Fürst
+zeit_text:
+zeit_von_jahr: 2153
+zeit_bis_jahr:
+erstellt: 2026-10-27
+geaendert:
+---
 - **Rufname / Beiname:** Flamme der Vorhersehung
 - **Titel / Amt:** Fürstin von [[Vaylen]]
 - **Haus / Dynastie:** Drachenruf
@@ -17,9 +33,11 @@
 ## Beschreibung und Auftreten
 
 ![[Selene Drachenruf.png|200]]
+_[[Leonaro da Vinsel]], 2352 n.d.D._
 
 Fürstin Selene ist eine der mächtigsten Erzmagierinnen der bekannten Welt. Sie regiert [[Vaylen]] mit fester Hand und duldet keine Schwäche. Sie hält das Fürstentum aus den meisten politischen Angelegenheiten heraus. Sollte aber Gefahr für ihr Fürstentum bestehen, wird sie alles tun um diese Gefahr auszulösen. Ihre Untertanen sind ihr treu ergeben.
-### Erzmagierin der Erkenntnis
+### Erzmagierin des Pfades der Vorhersehung
+- **Amt:** Mitglied des [[Achterzirkel]]s im [[Das Arkanum|Arkanum]], Erkenntnismagie
 - **Magie:** Erkennt Vergangenheit, Gegenwart und Zukunft durch astrale Muster und Träume.
 - **Haltung:** Still, vorausschauend, fast prophetisch.
 - **Beziehung:** Wird selten verstanden, aber selten ignoriert.

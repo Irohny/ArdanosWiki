@@ -1,3 +1,16 @@
+---
+typ: Artefakt
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Armulett #Verflucht 
 
 ![[Traenen_der_Sonne_Image.jpeg|200]]

@@ -1,10 +1,20 @@
-#Gruendung
-#[[Drakmora]]
-
-Zeitspanne: 610 n.d.D
-
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text: 610 n.d.D
+zeit_von_jahr: 610
+zeit_bis_jahr:
+erstellt: 2026-10-26
+geaendert:
+---
 # Das Volk von [[Drakmora]] – Die Kriegsschmiede des Nordens
 ![[Wappen Drakmora.png|200]]
+_[[Gustav Dorein]], um 2290 n.d.D._
 
 [[Drakmora]] ist ein Land der Krieger, Schmiede und Handwerker, geformt durch das Eisen ihrer Waffen und die Disziplin ihres Volkes. Die Bewohner sind ein stolzes, widerstandsfähiges Volk, das in einer Kultur der Ehre, des Kampfes und der handwerklichen Meisterschaft lebt. Das [[Recht des Stärksten]] ist ein Sinnbild für die Verankerung des ehrenhaften Zweikampfes.
 

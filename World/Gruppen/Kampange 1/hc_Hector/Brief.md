@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **An den ehrenwerten Paladin Hector,**
 
 Eure Taten sind nicht unbemerkt geblieben. In den Schatten unserer Lieder weben sich Geschichten von jenen, die mehr sind als nur Schachfiguren auf dem Spielbrett des Schicksals. Ihr seid eine solche Figur – und wir haben eine Aufgabe für Euch.

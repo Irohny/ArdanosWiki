@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Schwarzklamm]]"
+tags: [König]
+zeit_text:
+zeit_von_jahr: 1770
+zeit_bis_jahr: 1874
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** Fürst der [[Schwarzklamm]]
 - **Haus / Dynastie:**

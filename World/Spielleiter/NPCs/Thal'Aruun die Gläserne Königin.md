@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 [[Thal'Aruun die Gläserne Königin]]
 
 - **Typ:** Kristalline Entität / Spiegelwesen aus dem Untersee

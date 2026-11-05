@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Weise
 - **Titel / Amt:** [[Kaiser]] von [[Ardanos]]
 - **Haus / Dynastie:** Thorne
@@ -9,7 +22,7 @@
 - **Alter:**
 
 - **Verknuepfte Orte:** [[Ardanos]], [[Vaylen]]
-- **Verknuepfte NPCs:** [[Orden der Klarheit]]
+- **Verknuepfte NPCs:** [[Das Arkanum]]
 - **Bekannt fuer:** arkane Forschung, Weisheit, politische Foerderung magischer Institutionen
 - **Erste Erwaehnung:** 2256 n.d.D.
 - **Tags:** #[[Kaiser]] #kaiserreich #[[vaylen]] #adel
@@ -23,7 +36,7 @@ Er wurde als gelehrter und arkan aufgeschlossener Herrscher wahrgenommen.
 
 Seine Herrschaft brachte Wissen und Magie naeher an den Hof.
 - [[Vaylen]]: Herkunft seines Hauses und wichtiges Einflussfeld
-- [[Orden der Klarheit]]: wurde waehrend seiner Regentschaft gefoerdert
+- [[Das Arkanum]]: wurde waehrend seiner Regentschaft zur Reichsinstitution erhoben
 
 ## Ziele
 

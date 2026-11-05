@@ -1,6 +1,21 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Funkeln in der Finsternis|Funkeln in der Finsternis]]"
+region:
+  - "[[Schwarzklamm]]"
+tags:
+  - Geschichte
+zeit_text:
+zeit_von_jahr: 2435
+zeit_bis_jahr:
+erstellt: 2026-10-20
+geaendert:
+---
 **Liebe Selene,**
 
-im Auftrag von [[Varian Schattentaenzer]] (er ließ nur vage Grüße ausrichten) und mit dem bekannten Elross an meiner Seite haben wir uns aufgemacht, um den Kontakt zu deinem Expeditionstrupp wiederherzustellen.
+im Auftrag von [[Varian Schattentänzer]] (er ließ nur vage Grüße ausrichten) und mit dem bekannten Elross an meiner Seite haben wir uns aufgemacht, um den Kontakt zu deinem Expeditionstrupp wiederherzustellen.
 
 Varian berichtete, die fünfköpfige Gruppe sei auf der Suche nach den drei magischen Artefakten, die [[Caelumbran der Letzte Sternenschmied]], als _„[[Schattenherz]]“_, _„[[Herz der Tiefe]]“_ und _„[[Sternensplitter]]“_ bezeichnete, gewesen. Ich hatte die Hoffnung, dass die Erforschung dieser Artefakte unser Verständnis von arkaner Magie erweitern könnte.
 

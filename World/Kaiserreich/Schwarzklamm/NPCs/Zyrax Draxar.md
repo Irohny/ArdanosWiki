@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Russklinge
 - **Titel / Amt:** Wirtschaftsberater fuer Bergbau und Handel in [[Schwarzklamm]]
 - **Haus / Dynastie:**
@@ -17,6 +30,7 @@
 ## Beschreibung und Auftreten
 
 ![[ZyraxDraxar.jpeg|200]]
+_[[Jandrak Matejkor]], um 2472 n.d.D._
 
 Zyrax traegt den Beinamen Russklinge und vertritt [[Schwarzklamm]] als Fachfigur fuer Bergbau und Handel.
 Die Figur wird nach [[Luminara]] entsandt, um verborgene Ressourcen und Handelsrouten auszuhandeln.

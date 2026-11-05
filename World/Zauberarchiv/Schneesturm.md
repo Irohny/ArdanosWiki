@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "3"
+schule: "#Beschwörung"
+konzentration: "ja"
+komponenten: "#Verbal #Geste"
+materialien: "Tropfen Wasser und eine Priese Staub"
+---
 - **Grad:**   3
 - **Schule:**  #Beschwörung 
 - **Ritual:**  nein

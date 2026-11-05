@@ -1,3 +1,16 @@
+---
+typ: Artefakt
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 _Legendäre magische Waffe (Streithammer), benötigt Abstimmung durch einen rechtschaffenen oder neutralen Charakter_
 
 **Waffentyp:** Einhändiger Streithammer  
@@ -11,13 +24,13 @@ _Legendäre magische Waffe (Streithammer), benötigt Abstimmung durch einen rech
 #### **Eigenschaften:**
 
 **1. Hammerschlag des Rauschs**  
-Beim Treffer verursacht [[Methammer]] zusätzlich 1W6 Giftschaden. Dieser Schaden erhöht sich auf 2W6, wenn das Ziel betrunken, vergiftet oder unter einem Rausch-Effekt steht (DM-Entscheidung).
+Beim Treffer verursacht [[Spielleiter/Artefakte und Tränke/Methammer]] zusätzlich 1W6 Giftschaden. Dieser Schaden erhöht sich auf 2W6, wenn das Ziel betrunken, vergiftet oder unter einem Rausch-Effekt steht (DM-Entscheidung).
 
 **2. Macht des Rausches**  
- Alle Nahkampfangriffe mit dem [[Methammer]] verursachen kritischen Schaden bei einem Wurf von 19 oder 20
+ Alle Nahkampfangriffe mit dem [[Spielleiter/Artefakte und Tränke/Methammer]] verursachen kritischen Schaden bei einem Wurf von 19 oder 20
 
 **3. Unzerbrechlich**  
-[[Methammer]] kann nicht durch gewöhnliche Mittel zerstört werden und ist immun gegen alle Effekte, die magische Waffen entzaubern oder deaktivieren.
+[[Spielleiter/Artefakte und Tränke/Methammer]] kann nicht durch gewöhnliche Mittel zerstört werden und ist immun gegen alle Effekte, die magische Waffen entzaubern oder deaktivieren.
 
 **4. Trinkhorn-Hammerkopf**  
 Der spitze Kopf des Hammers kann als **Heiltrank** verwendet werden (2W4+2 HP, 1/Tag). Wer trinkt, muss jedoch einen **Konstitutionsrettungswurf** gegen SG 15 bestehen oder ist für 1 Minute leicht benommen (Nachteile auf Geschicklichkeitswürfe).

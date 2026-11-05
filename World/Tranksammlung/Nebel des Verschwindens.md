@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Aktion"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "41G"
+komponenten: "[[Nebelöl]], [[Schweigepilz]], [[Schattenlilien]]"
+seltenheit: "Gewöhnlich"
+---
 - Tag: #Aktion 
 - **Komponenten:** [[Nebelöl]], [[Schweigepilz]], [[Schattenlilien]]
 - **Wert:**  41G

@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "1"
+schule: "#Illusion"
+konzentration: "nein"
+komponenten: "#Verbal #Geste"
+materialien: "- **Dauer/Wirkung:** 1 Stunde"
+---
 - **Grad:**   1
 - **Schule:**  #Illusion 
 - **Ritual:**  Nein

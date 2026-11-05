@@ -1,3 +1,20 @@
+---
+typ: Monster
+status: vorbereitet
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "7"
+volk: "#Aberration"
+gesinnung: "Rechtschaffend Böse"
+ruestungsklasse: 15
+grundlage: "#Book"
+---
 # Xal'Zhurn
 
 - **Grundlage:** #Book

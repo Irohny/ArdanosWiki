@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "1"
+schule: "#Verzauberung"
+konzentration: "ja"
+komponenten: "#Verbal #Geste #Material"
+materialien: "das versteinerte Auge eines Molches"
+---
 - **Grad:**   1
 - **Schule:**  #Verzauberung 
 - **Ritual:**  nein

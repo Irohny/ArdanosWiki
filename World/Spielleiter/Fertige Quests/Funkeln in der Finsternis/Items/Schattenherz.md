@@ -1,0 +1,20 @@
+---
+typ: Artefakt
+status: kanon
+kampagne:
+  - "[[Funkeln in der Finsternis]]"
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+---
+![[Schattenherz.png|300]]
+_[[Josef Wrightgrund]], um 2270 n.d.D._
+
+Ein herzförmiger Kristall aus tiefem, schimmerndem Violett, durchzogen von feinen, schwarzen Rissen, die wie Dornen wirken – als wüchsen sie aus dem Inneren des Steins. In seinem Kern pulsiert ein sanftes Licht, das sich wie ein schlagendes Herz verhält, als wäre darin Leben gefangen. Wer genau hinsieht, erkennt flüchtige Schemen einer tänzelnden Gestalt – die gebannte Erzfee [[Maeridra Dornenglanz]]. Hergestellt wurde dieses arkane Verließ vom legendären Schmied [[Caelumbran der Letzte Sternenschmied]] im zweiten [[Zeitalter]].
+
+Das Artefakt hängt an einer alten Silberkette, von feinen Runen durchzogen, die sich je nach Umgebung verändern. Es strahlt eine kalte, fremdartige Magie aus, die selbst erfahrene Magier nervös macht. Der Träger spürt eine permanente, aber trügerisch sanfte Präsenz im Hinterkopf – Maeridras Stimme, die flüstert, schmeichelt… und befiehlt.

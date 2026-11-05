@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region: "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** [[Hauptmann]] & Drachenritter und Sicherheitschef der Delegation von [[Drakmora]]
 - **Haus / Dynastie:**
@@ -16,7 +29,8 @@
 
 ## Beschreibung und Auftreten
 
-![[FaelanDrachenfluegel.jpeg|300]]
+![[FaelanDrachenfluegel.jpeg|200]]
+_[[Francisko de Goyar]], 2481 n.d.D._
 
 Faelan ist Drachenritter und Sicherheitschef der drakmorischen Delegation.
 Er ist stolz, mutig und tief mit den Drachen verbunden, die in [[Drakmora]] als Symbol der Macht gelten.

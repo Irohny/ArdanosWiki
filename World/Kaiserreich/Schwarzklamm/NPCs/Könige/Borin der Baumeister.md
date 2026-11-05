@@ -1,7 +1,20 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Schwarzklamm]]"
+tags: [König]
+zeit_text:
+zeit_von_jahr: 699
+zeit_bis_jahr: 812
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
-- **Titel / Amt:** Fürst der [[Schwarzklamm]]
+- **Titel / Amt:** [[Fürst]] der [[Schwarzklamm]]
 - **Haus / Dynastie:**
-- **Regentschaft:** 812–898
+- **Regentschaft:** 699-812 n.d.D
 - **Spezies / Volk:** Zwerg
 - **Herkunft:** [[Schwarzklamm]]
 - **Geburtsjahr:**

@@ -1,6 +1,19 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Arkanschmied
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]
-- **Haus / Dynastie:** 
+- **Haus / Dynastie:** [[Familie Vellora]]
 - **Regentschaft:** 1971 - 2030 n.d.D.
 - **Spezies / Volk:** Mensch
 - **Herkunft:** [[Mariven]]

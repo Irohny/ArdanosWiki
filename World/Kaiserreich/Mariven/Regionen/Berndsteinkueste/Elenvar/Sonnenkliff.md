@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **[[Sonnenkliff]] ist eine Stadt zwischen goldenem Sonnenlicht und dunklem Meer – ein Ort des Handels, der Fischerei und der Geschichten, die mit jeder Flut an ihre Küste gespült werden**
 
 Im Süden der [[Bernsteinküste]] liegt die mittelgroße Hafenstadt **[[Sonnenkliff]]**, deren helle Mauern und roten Ziegeldächer sich terrassenförmig an die steilen Küstenklippen schmiegen. Ihren Namen verdankt die Stadt den goldenen Sonnenstrahlen, die am Abend über das Meer gleiten und die Felsen in ein warmes, beinahe bernsteinfarbenes Leuchten tauchen.

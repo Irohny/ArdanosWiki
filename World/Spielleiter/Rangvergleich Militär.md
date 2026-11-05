@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: DM
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 # [[Rangvergleich Militär]]
 
 Ungefährer Vergleich der Militärränge zwischen den Fürstentümern, z. B. für Szenen mit Reichsheer, Bündnissen oder Verhandlungen zwischen Offizieren. Die Ränge sind nicht offiziell vereinheitlicht, die Tabelle ist eine **Faustregel für den Spielleiter**, keine Reichsordnung. Siehe [[Herrschaftsränge]].

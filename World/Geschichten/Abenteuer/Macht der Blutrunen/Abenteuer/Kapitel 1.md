@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **12. Tag des Tiefwinters, Azgarum**
 
 Heute habe ich eine Rune vollendet, die nur mit einem Tropfen meines Blutes erwachte.

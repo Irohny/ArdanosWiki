@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "44G"
+komponenten: "[[Schlangengehirn]], [[Denkmoos]], [[Amethyst]]"
+seltenheit: "Gewöhnlich"
+---
 - Tag:  #Verbesserung 
 - **Komponenten:** [[Schlangengehirn]], [[Denkmoos]], [[Amethyst]]
 - **Wert:**  44G

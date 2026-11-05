@@ -1,10 +1,16 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche und nicht oeffentliche Informationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten
-Metadatenfelder aus dieser Struktur.
--->
-
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Windzunge
 - **Titel / Amt:** Zauberkundiger Navigator der [[Windhexe]]
 - **Haus / Dynastie:**
@@ -23,7 +29,8 @@ Metadatenfelder aus dieser Struktur.
 
 ## Beschreibung und Auftreten
 
-![[ThavosWindzunge.jpg|400]]
+![[ThavosWindzunge.jpg|200]]
+_[[Gustaf Courbette]], 2482 n.d.D._
 
 [[Thavos Windzunge]] ist der zauberkundige Navigator der [[Windhexe]] und
 wirkt wie ein ueberdrehter Magier mit zu vielen Ideen gleichzeitig.

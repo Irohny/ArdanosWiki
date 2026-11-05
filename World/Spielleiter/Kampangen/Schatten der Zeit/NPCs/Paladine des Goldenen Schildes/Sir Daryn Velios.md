@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: draft
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** [[Ritter]]
 - **Haus / Dynastie:**

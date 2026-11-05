@@ -1,4 +1,23 @@
-# Lord Malvurax
+---
+typ: Monster
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "7"
+volk: "#Unhold"
+gesinnung: "Rechtschaffend Böse"
+ruestungsklasse: 19
+grundlage: "#Homebrew"
+---
+![[Malvurax.jpeg|200]]
+_[[Francisko de Goyar]], um 2480 n.d.D._
 
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:** 7

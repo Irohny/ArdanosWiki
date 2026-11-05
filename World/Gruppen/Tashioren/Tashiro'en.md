@@ -1,3 +1,18 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - Elmrath
+  - Schwarzklamm
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### Tashiro'en – „Tempel der lautlosen Blüte“
 _„Aus der Dunkelheit blühen nur die Reinsten. Und die Tödlichsten.“_
 ![[LautloseBluete Image.png|200]]
@@ -22,7 +37,7 @@ Der **Orden der lautlosen Blüte** ist ein geheimer Mönchsorden, gegründet von
 - Verwendung von Duftnoten (Lotus, Bitterholz, Asche) als Codes untereinander
 ###  **Hauptquartier**
 ![[Schattenblütengarten]]
-* Ein verstecktes Kloster tief unter einer verlassenen Stadt im [[Immergrüner Hain]] am Rande des [[Schwarzklamm]] Gebirgskette.
+* Ein verstecktes Kloster tief unter einer verlassenen Stadt im [[Kaiserreich/Elmrath/Regionen/Dämmerwald/Dämmerwald]] am Rande des [[Schwarzklamm]] Gebirgskette.
 
 ## Organisation
 ![[Ersten Blüte]]

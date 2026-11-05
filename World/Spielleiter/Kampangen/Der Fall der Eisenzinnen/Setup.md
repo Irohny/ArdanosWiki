@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 _Der letzte Schlag im Bürgerkrieg der Schwarzklamm_
 
 **Umfang:** ca. 6–10 Sessions  

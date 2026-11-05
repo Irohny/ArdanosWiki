@@ -1,3 +1,17 @@
+---
+typ: Hilfsmittel
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+---
 ## Siegel der [[Schöpfung]]
 Gott: [[Volgrin]]
 Gegner: [[Xal'Zhurn]], [[Der Namensnehmer]]

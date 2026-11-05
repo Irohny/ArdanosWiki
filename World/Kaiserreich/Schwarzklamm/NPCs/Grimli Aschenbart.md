@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** [[Clan Oberhaupt]], Diplomatischer Berater und Botschafter von [[Schwarzklamm]]
 - **Haus / Dynastie:** Aschenbart
@@ -17,6 +30,7 @@
 ## Beschreibung und Auftreten
 
 ![[GrimliAschebart.jpeg|300]]
+_[[Jandrak Matejkor]], um 2470 n.d.D._
 
 [[Grimli Aschenbart]] ist ein erfahrener Diplomat und Botschafter, der für die schwierigen Verhandlungen mit anderen Fuerstentuemern eingesetzt wird.
 Er gilt als weise, politisch gebildet und verhandlungssicher.

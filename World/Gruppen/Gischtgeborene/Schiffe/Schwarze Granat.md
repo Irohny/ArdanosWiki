@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 _Einst ein Stolz der Flotte, jetzt ein Wrack tief unter der Smaragdtiefe. Einige sagen, ihre Glocken läuten noch unter Wasser._
 
 ## Geheime Information

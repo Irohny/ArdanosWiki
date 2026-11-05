@@ -1,3 +1,16 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Rauben, Plündern, Entern und Versenken** – das ist das Gesetz der [[Gischtgeborenen]]. Ein **loser, aber tödlicher Verbund von Piraten**, angeführt vom gefürchteten **[[Baldor Schwarzmast]]**, dessen Name in jedem Hafen nur geflüstert wird.  
 Sie stehlen, was das Meer hergibt – **Gold, Waffen, Geheimnisse und Menschenleben** – und verkaufen ihre Beute an jeden, der zahlt, ganz gleich wie verdorben.
 

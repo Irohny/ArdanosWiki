@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **8. Tag auf der Straße nach Süden**
 
 Ein Troll aus dem Moor hat heute gelernt, dass Größe kein Schutz gegen einen gut geführten Hammer ist.

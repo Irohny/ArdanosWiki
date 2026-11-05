@@ -1,3 +1,17 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### **Riesenrune „Erbstahl“**
 ![[Riesenrune.jpeg|100]]
 Die Riesenrune weckt für kurze Zeit die rohe Kraft, die tief im Stein und in den alten Liedern der Berge ruht.

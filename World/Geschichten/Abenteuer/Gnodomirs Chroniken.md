@@ -1,3 +1,17 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags:
+  - Geschichte
+zeit_text:
+zeit_von_jahr: 2486
+zeit_bis_jahr:
+erstellt: 2026-10-20
+geaendert:
+---
 ![[Geschichten/Abenteuer/Gnodomirs Chroniken/Kapitel 1|Kapitel 1]]
 
 ---

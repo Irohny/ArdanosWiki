@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Die Goldzunge von Iscari
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]
 - **Haus / Dynastie:** Cassalay

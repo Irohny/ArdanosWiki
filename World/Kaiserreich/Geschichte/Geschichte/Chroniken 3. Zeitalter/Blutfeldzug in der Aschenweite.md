@@ -1,8 +1,17 @@
-#Krieg
-#Kaiserreich
-
-Zeitspanne: 2478 - 2482 n.d.D
-
+---
+typ: Geschichte
+status: kanon
+kampagne:
+region:
+  - "[[Ardanos]]"
+tags:
+  - Krieg
+zeit_text: 2478 - 2482 n.d.D
+zeit_von_jahr: 2478
+zeit_bis_jahr: 2482
+erstellt: 2026-11-03
+geaendert:
+---
 **Konfliktjahr:** 2478 - 2482 n.d.D.
 **Ort:** Hochebene von **[[Aschenweite]]** – ein zerklüftetes, windgepeitschtes Niemandsland nördlich von [[Valatheris]], bedeckt von schwarzer Schlacke und rissiger Erde.
 

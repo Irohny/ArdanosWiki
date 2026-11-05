@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: draft
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** 
 - **Titel / Amt:** Lord, ehem. [[General im Kriegsrat]]
 - **Haus / Dynastie:** [[van Harl]]
@@ -22,7 +36,7 @@ Sein Ziel ist es den Einfluss des Hauses zu Stärken und zu den mächtigsten Fam
 ## Plot-Hooks
 
 ## Geheime Informationen
-Sturz der Fürstin [[Valaine Nebelhain]] und Eroberung des Trohns von [[Drakmora]]. Unabhängigkeit von [[Drakmora]] von Kaiserreich [[Ardanos]].
+Sturz der Fürstin [[Valaine Nebelhain]] und Eroberung des Throns von [[Drakmora]]. Unabhängigkeit von [[Drakmora]] von Kaiserreich [[Ardanos]].
 
 Nach seinem Rauswurf aus dem Kriegsrat beschloss er, dass es nun Zeit für einen offenen Angriff sei.
 

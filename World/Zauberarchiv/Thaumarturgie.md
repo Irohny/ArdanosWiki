@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "0"
+schule: "#Verwandlung"
+konzentration: "nein"
+komponenten: "#Verbal"
+materialien: "- **Dauer/Wirkung:**  1min"
+---
 - **Grad:**   0
 - **Schule:**  #Verwandlung 
 - **Ritual:**  nein

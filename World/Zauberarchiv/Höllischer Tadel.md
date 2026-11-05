@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "1"
+schule: "#Hervorrufung"
+konzentration: "Nein"
+komponenten: "#Verbal #Geste"
+materialien: "- **Dauer/Wirkung:** sofort"
+---
 - **Grad:**   1
 - **Schule:**  #Hervorrufung 
 - **Ritual:**  Nein

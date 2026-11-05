@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "7"
+schule: "#Beschwörung"
+konzentration: "Nein"
+komponenten: "#Verbal #Geste #Material"
+materialien: "eine gegabelte Metallrute im Wert von mindestens 250 GM, die auf eine bestimmte Existenzebene eingestimmt ist"
+---
 - **Grad:**   7
 - **Schule:**   #Beschwörung 
 - **Ritual:**  Nein

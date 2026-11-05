@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Gift"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "203G"
+komponenten: "[[Blutbaumrinde]], [[Basiliskenblut]], [[Skorpionstachel]]"
+seltenheit: "Selten"
+---
 - Tag: #Gift
 - **Komponenten:** [[Blutbaumrinde]], [[Basiliskenblut]], [[Skorpionstachel]]
 - **Wert:**  203G

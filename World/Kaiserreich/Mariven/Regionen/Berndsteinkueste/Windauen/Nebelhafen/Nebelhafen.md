@@ -1,3 +1,18 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Wunderheiler von Nebelhafen]]"
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+---
 ![[Nebelhafen.jpg|400]]
 
 **Stadtteile:**

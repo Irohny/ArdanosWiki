@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### **[[Verethia]] – Die Perle von [[Mariven]]**
 
 Eingebettet in eine sanft geschwungene Bucht an der Küste der Insel [[Korvalis]] liegt **[[Verethia]]**, die strahlende Hauptstadt des Fürstentums [[Mariven]] – ein Ort, an dem sich Schönheit, Reichtum und Macht in kunstvollen Stein gefügt haben.
@@ -15,6 +28,7 @@ Die Stadt ist berühmt für ihre Wasserkanäle, die sich wie Adern durch marmorn
     
 - **Nebelmarkt:** Ein labyrinthischer Basar auf Stelzen, in dem sowohl seltene Artefakte als auch gefährliche Geheimnisse gehandelt werden.
 	![[Nebelmarkt.jpeg|300]]
+	_[[Fransen Halsmark]] um 2026 n.d.D._
     
 - **Arathkai:** Das alte Stadtviertel der Handwerker und Künstler, bekannt für seine Glasbläsereien, Maskenmacher und Wasseruhrenbauer.
     

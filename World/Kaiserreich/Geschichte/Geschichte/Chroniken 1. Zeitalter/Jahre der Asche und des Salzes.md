@@ -1,6 +1,17 @@
-#Krieg
-#[[Mariven]] 
-
+---
+typ: Geschichte
+status: kanon
+kampagne:
+region:
+  - "[[Mariven]]"
+tags:
+  - Krieg
+zeit_text:
+zeit_von_jahr: 448
+zeit_bis_jahr: 503
+erstellt: 2026-11-03
+geaendert:
+---
 Zeitspanne: 448 - 503 n.d.D
 
 **Konfliktparteien:** Inseln von [[Mariven]]

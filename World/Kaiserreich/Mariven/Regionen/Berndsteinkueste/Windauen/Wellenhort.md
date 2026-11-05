@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Anknüpfung: [[Große Bernsteinstraße]]
 
 [[Wellenhort]] ist eine mittelgroße Küstenstadt an der [[Bernsteinküste]] im Fürstentum [[Mariven]] und liegt südlich der großen Handelsstadt [[Nebelhafen]]. Während [[Nebelhafen]] vom Fernhandel und den großen Handelshäusern beherrscht wird, lebt [[Wellenhort]] vom Meer.

@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Schwarzklamm]]"
+tags: [König]
+zeit_text:
+zeit_von_jahr: 2410
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** 
 - **Titel / Amt:** [[Fürst]] von [[Schwarzklamm]]
 - **Haus / Dynastie:** 
@@ -17,6 +30,7 @@
 ## Beschreibung und Auftreten
 
 ![[Durngar Schwarzschild.png|200]]
+_[[Jandrak Matejkor]], 2411 n.d.D._
 
 Clan Schwarzschild war schon immer einer der mächtigsten Clans Schwarzklamms, bekannt für seine unbezwingbaren Krieger und genialen Taktiker. Doch lange Zeit mussten sie im Schatten von Clan Hammersturm und Clan Felsenherz agieren.
 

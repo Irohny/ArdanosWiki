@@ -1,4 +1,19 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[DumKardak.png|200]]
+_[[Josef Wrightgrund]] um 2230 n.d.D._
+
 **Zwergisch:** Tiefe Tunnel Wacht
 
 Die größte Stadt [[Schwarzklamm]]s, ein Labyrinth aus Höhlen, Brücken und Kammern, erleuchtet von Glutfeuern.

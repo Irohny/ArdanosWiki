@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Klasse & Stufe/Herausfordungsgrad:** Paladin 7
 - **Volk/Herkunft:**  [[Drakmora]] #Elf 
 - **Alias:** Kyra Seelenhauch

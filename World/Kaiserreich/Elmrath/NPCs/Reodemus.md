@@ -1,4 +1,19 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Reodemus.png|250]]
+_[[Johann Sargenter]], 2482 n.d.D._
+
 - **Rufname / Beiname:**
 - **Titel / Amt:** Berater des [[Kaiser]]s, [[Markgraf]]
 - **Haus / Dynastie:** -
@@ -22,7 +37,7 @@
 ## Rolle und Beziehungen
 Als Berater des Kaisers ist er am [[Kaiser]] und den Fürstenhöfen wohl bekannt. Alle schätzen seinen ruhigen und besonnen Ratschlag, der immer das wohl des Kaiserreiches im Vordergrund hat. Seine Beziehungen zum [[Kaiser]] und den Fürsten, sowie ihren Beratern ist auf allen Ebenen von Respekt und gegenseitigem Vertrauen geprägt.
 
-## Offizielle Geschichte: Der Markgraf der Stromkrone 🔶
+## Offizielle Geschichte: Der [[Markgraf]] der [[Stromkrone]] 🔶
 *Vorschlag, nicht kanonisch*
 
 **Wann:** 2466 n.d.D., unter Kaiserin [[Elsinya Arven]] (2443–2469)
@@ -31,13 +46,13 @@ Als Berater des Kaisers ist er am [[Kaiser]] und den Fürstenhöfen wohl bekannt
 
 [[Reodemus]] erlangte am Kaiserhof zunächst als Berater einzelner Adelshäuser Ansehen und wurde später als Diplomat zwischen den Provinzen eingesetzt. Seinen größten Erfolg erzielte er im Zollkrieg an der [[Stromkrone]].
 
-Über die [[Stromkrone]] herrscht die Familie Schnellwasser. Die Festung war ihr freier Eigenbesitz, und der [[Freiherr]] aus dieser Familie hatte sich dem Fürstentum [[Elmrath]] verpflichtet. Als er 2464 ohne Nachkommen starb, erbte sein Neffe die Festung. Der Neffe ist [[Elmrath]] treu ergeben, sodass die Festung samt Zollerträgen nun unter der Kontrolle von [[Elmrath]] gestanden hätte. [[Mariven]] wollte das nicht hinnehmen, zumal die nördliche Brückenhälfte und [[Bernruh]] auf marivener Seite liegen. Keine der beiden Seiten wollte auf die Einnahmen verzichten, und der Streit eskalierte 2465 zum **Zollkrieg**: Beide Seiten schlossen ihre Zollhäuser oder erhöhten die Abgaben, die Waren stauten sich vor der Brücke, und die Getreidelieferungen von [[Elmrath]] an die [[Bernsteinküste]] kamen zum Erliegen. Die Handelsallianz der beiden Fürstentümer stand auf dem Spiel.
+Über die [[Stromkrone]] herrscht die [[Familie Schnellwasser]]. Die Festung war ihr freier Eigenbesitz, und der [[Freiherr]] aus dieser Familie hatte sich dem Fürstentum [[Elmrath]] verpflichtet. Als er 2464 ohne Nachkommen starb, erbte sein Neffe die Festung. Der Neffe ist [[Elmrath]] treu ergeben, sodass die Festung samt Zollerträgen nun unter der Kontrolle von [[Elmrath]] gestanden hätte. [[Mariven]] wollte das nicht hinnehmen, zumal die nördliche Brückenhälfte und [[Bernruh]] auf marivener Seite liegen. Keine der beiden Seiten wollte auf die Einnahmen verzichten, und der Streit eskalierte 2465 zum **Zollkrieg**: Beide Seiten schlossen ihre Zollhäuser oder erhöhten die Abgaben, die Waren stauten sich vor der Brücke, und die Getreidelieferungen von [[Elmrath]] an die [[Bernsteinküste]] kamen zum Erliegen. Die Handelsallianz der beiden Fürstentümer stand auf dem Spiel.
 
-Im Auftrag der Kaiserin vermittelte [[Reodemus]] in wochenlangen Verhandlungen und handelte den **Stromkrone-Vertrag** aus. Festung, Brücke und beide Dörfer stehen seitdem unter kaiserlicher Verwaltung. Der Neffe darf auf der Festung weiterleben und sie als Verwalter führen. Die Steuern der Dörfer [[Nordtor]] und [[Bernruh]] sowie die Zölle der Brücke gehen zu gleichen Teilen an [[Elmrath]], [[Mariven]] und das Kaiserreich. Die Kaiserin erhob die Gegend zur **Markgrafschaft** und belehnte [[Reodemus]] als ersten [[Markgraf]]en der [[Stromkrone]].
+Im Auftrag der Kaiserin vermittelte [[Reodemus]] in wochenlangen Verhandlungen und handelte den **Stromkrone-Vertrag** aus. Festung, Brücke und beide [[Dörfer]] stehen seitdem unter kaiserlicher Verwaltung. Der Neffe darf auf der Festung weiterleben und sie als Verwalter führen. Die Steuern der [[Dörfer]] [[Nordtor]] und [[Bernruh]] sowie die Zölle der Brücke gehen zu gleichen Teilen an [[Elmrath]], [[Mariven]] und das Kaiserreich. Die Kaiserin erhob die Gegend zur **Markgrafschaft** und belehnte [[Reodemus]] als ersten [[Markgraf]]en der [[Stromkrone]].
 
-Er untersteht seitdem dem [[Kaiser]], während [[Elmrath]] und [[Mariven]] Mitspracherecht bei Zöllen und Erträgen behalten. Da [[Reodemus]] selbst meist am Kaiserhof weilt, führt der Neffe der Familie Schnellwasser die Mark vor Ort. Dieser Erfolg war der Grund, warum ihn [[Kaiser]] [[Durnek Eisenmark]] (2470–2483) zu seinem Berater machte und [[Aldric von Elmrath]] ihn nach seinem Amtsantritt behielt.
+Er untersteht seitdem dem [[Kaiser]], während [[Elmrath]] und [[Mariven]] Mitspracherecht bei Zöllen und Erträgen behalten. Da [[Reodemus]] selbst meist am Kaiserhof weilt, führt der Neffe der [[Familie Schnellwasser]] die Mark vor Ort. Dieser Erfolg war der Grund, warum ihn [[Kaiser]] [[Durnek Eisenmark]] (2470–2483) zu seinem Berater machte und [[Aldric von Elmrath]] ihn nach seinem Amtsantritt behielt.
 
-> ℹ️ **Spielleiter 🔶:** [[Reodemus]] löste den Zollkrieg mit Zeitmanipulation durch [[Mors Cerva]]. Die Mark gibt ihm Einblick in den gesamten Verkehr zwischen [[Elmrath]] und der [[Bernsteinküste]]. Die Schmuggler, Informanten und Söldner von [[Bernruh]] passen gut zu seinem Schattennetzwerk.
+> ℹ️ **Spielleiter 🔶:** [[Reodemus]] löste den Zollkrieg mit Zeitmanipulation durch [[Waffenkammer/Mors Cerva]]. Die Mark gibt ihm Einblick in den gesamten Verkehr zwischen [[Elmrath]] und der [[Bernsteinküste]]. Die Schmuggler, Informanten und [[Söldner]] von [[Bernruh]] passen gut zu seinem Schattennetzwerk.
 
 ## Ziele
 Manipuliert von dem Urdämon [[Ephazul]] versucht [[Reodemus]], sein Ziel umzusetzen den Gott des Krieges [[Volgrin]] mit Hilfe des [[Ritual des letzten Krieges]] zu fangen und zu töten, sodass die Kriege in der Welt enden.
@@ -81,7 +96,7 @@ Diese Überzeugung wurde zum Kern seiner späteren Ideologie.
 
 Als junger Mann (ca. 2134 n.d.D. mit 20 Jahre) überquerte er die [[Aurenielische See]] und kam auf die Insel [[Cirellin]], wo er sich vor dem Krieg in den Ruinen der Stadt [[Althovar]] versteckte , die einst eine der Reichsten Städte von [[Mariven]] war. Doch nun war sie nur noch ein zerfallenes Labyrinth aus Stein.
 
-Er erkundete die Überreste der Stadt und fand in einem halb eingestürzten Tempel einen seltsamen Dolch ([[Mors Cerva]]).
+Er erkundete die Überreste der Stadt und fand in einem halb eingestürzten Tempel einen seltsamen Dolch ([[Waffenkammer/Mors Cerva]]).
 
 Die Klinge war aus schwarzem Metall gefertigt, das kein Rost kannte.  
 Runen flimmerten schwach auf seiner Oberfläche.
@@ -107,7 +122,7 @@ Viele Mitglieder glauben tatsächlich an [[Reodemus]]’ Vision:
 Nach dem Krieg trat er an den Höfen des neuen Kaiserreiches in vielen verschieden Rollen auf um selbst seinen Einfluss zu vergrößern. Das verborgene Netzwerk wuchs stetig und durch gezielte Intrigen und Täuschungen wuchsen auf die unwissenden Helfer immer weiter an.
 
 #### Aufstieg am Kaiserhof
-Er nutze die Macht des Dolches [[Mors Cerva]] um mit Hilfe von Zeitmanipulation:
+Er nutze die Macht des Dolches [[Waffenkammer/Mors Cerva]] um mit Hilfe von Zeitmanipulation:
 - politische Katastrophen zu verhindern
 - Intrigen durchschauen
 - Attentate vereiteln

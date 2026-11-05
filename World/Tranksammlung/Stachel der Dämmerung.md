@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Gift", "Klingengift"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "66G"
+komponenten: "[[Schattenlilien]]-Extrakt, [[Skorpionstachel]], [[Nachtschattenöl]], [[Kohleasche]]"
+seltenheit: "Gewöhnlich"
+---
 - Tag: #Gift #Klingengift 
 - **Komponenten:** [[Schattenlilien]]-Extrakt, [[Skorpionstachel]], [[Nachtschattenöl]], [[Kohleasche]]
 - **Wert:** 66G

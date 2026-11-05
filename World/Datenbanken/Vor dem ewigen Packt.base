@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - kampagne == ["[[Vor dem ewigen Packt]]"]
+    order:
+      - file.name
+      - kampagne

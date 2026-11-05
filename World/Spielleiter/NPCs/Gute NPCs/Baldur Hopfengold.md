@@ -1,4 +1,18 @@
+---
+typ: NPC
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[BaldurHopfengold.png|200]]
+_[[Gustaf Courbette]], um 2484 n.d.D._
+
 - **Klasse & Stufe/Herausfordungsgrad:** #Braumeister 7
 - **Volk/Herkunft:** #Zwerg [[Himmelshöfe]] [[Hopfenberge]]
 - **Alias:** Der Metmeister

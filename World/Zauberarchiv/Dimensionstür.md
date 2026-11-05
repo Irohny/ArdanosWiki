@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "4"
+schule: "#Beschwörung"
+konzentration: "Nein"
+komponenten: "#Verbal"
+materialien: "- **Dauer/Wirkung:** sofort"
+---
 - **Grad:**   4
 - **Schule:**  #Beschwörung 
 - **Ritual:**  Nein

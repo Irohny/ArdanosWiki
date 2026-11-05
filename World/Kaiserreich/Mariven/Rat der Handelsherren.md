@@ -1,2 +1,14 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Der [[Rat der Handelsherren]] besteht aus den einflussreichsten Händlerfamilien in [[Mariven]]. Der Rat entscheidet gemeinsam mit dem [[Kommondor]] und seinem Vize über die belange des Fürstentums. Zusätzlich wählt der [[Rat der Handelsherren]] den [[Kommondor]] und den Vize für 5 Jahre. 
 

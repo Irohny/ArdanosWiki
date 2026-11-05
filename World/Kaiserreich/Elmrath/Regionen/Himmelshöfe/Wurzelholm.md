@@ -1,4 +1,19 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Wurzelholm.png|300]]
+_[[Alfons Muchar]], 2475 n.d.D._
+
 „Tief verwurzelt, stets willkommen.“
 
 Versteckt zwischen sanften Hügeln, goldgrünem Weizen und blühenden Apfelbäumen liegt das idyllische Dorf **[[Wurzelholm]]**, ein kleines Halblingdorf, das formell zur Grafschaft **[[Himmelshöfe]] von [[Elmrath]]** gehört – aber dessen Bewohner wenig Interesse an Politik, Abenteuern oder anderen seltsamen Dingen von außerhalb haben.

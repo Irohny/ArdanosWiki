@@ -1,3 +1,17 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### **Feuerrune „Glutkette“**
 ![[Feuerrune.jpeg|100]]
 Heute ist mir eine Rune gelungen, die nicht bloß zerstört, sondern festhält.

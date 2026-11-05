@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Unbekannter Tag, an einem fremden Feuer**
 
 Ich habe heute ein Kind aus einem Dorf gerettet, das von Wolfsbestien heimgesucht wurde. Ihre Mutter gab mir Brot, obwohl sie selbst kaum genug hatte. Sie fragte nach den roten Linien auf meinem Hammer.

@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Delegation 
 ### Vorsitzender
 - [[Aldric von Elmrath]] ([[Kaiser]])
@@ -25,4 +38,4 @@
 ### Fürstentum [[Vaylen]]
 - [[Selene Drachenruf]]
 - [[Nymira Lichthauch]] (Hohepriesterin der Arkanen Künste)
-- [[Varian Schattentaenzer]] (Spion und Informationshändler)
+- [[Varian Schattentänzer]] (Spion und Informationshändler)

@@ -1,2 +1,17 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Cirelin.jpg|300]]
+_[[Gerhart Merkatorn]], um 2125 n.d.D._
+
 Die östlichste der vier Inseln von [[Mariven]]. Die Insel ist etwas abgeschnitten, da sich nur die mutigsten Kapitäne trauen durch die [[Nebelsee]] zu navigieren, die sich auf dem direkten Seewegen zwischen [[Cirellin]] und [[Verethia]] der Hauptstadt des Fürstenturms befindet. In der Mitte der Insel befindet sich ein großer See. An der Nordseite des Sees erstreckt sich ein Gebirge. Es heißt, dass in diesem Gebirge seit einigen Jahren ein Drache lebt. Die Einwohner der Insel sprechen allerdings nicht darüber, sodass diese Geschichte von Reisenden nicht richtig belegt werden kann. Ob es ein Mythos ist, der zum Schutze der Insel erschaffen wurde oder der Wahrheit entspricht kann nicht abschließened geklärt werden. Nach einem Blutigen Angriff von Barbaren wurde die große Stadt [[Althovar]] in Schutt und Asche gelegt. Nach dem der Angriff zurückgeschlagen wurde, wurde die Stadt an der Westseite des Sees neu aufgebaut. Die Ruinen der alten Stadt sind heute noch ein bekannter Anlaufpunkt für Abendteuerer, die sich erhoffen dort noch Artefakte und alte Schriften aus der Hochzeit des alten zeitalters zu finden.

@@ -1,14 +1,20 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche und nicht oeffentliche Informationen duerfen in derselben
-Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten
-Metadatenfelder aus dieser Struktur.
--->
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 
 - **Rufname / Beiname:** Havoc
 - **Titel / Amt:** Kapitaen der [[Windhexe]]
-- **Haus / Dynastie:** Faelir
+- **Haus / Dynastie:** 
 - **Regentschaft:**
 - **Spezies / Volk:** Halbelf
 - **Herkunft:** unbekannt
@@ -27,6 +33,7 @@ Metadatenfelder aus dieser Struktur.
 ## Beschreibung und Auftreten
 
 ![[KapitanHavoc.png|250]]
+_[[Gustaf Courbette]], 2482 n.d.D._
 
 Alarian "Havoc" Faelir ist der charismatische Kapitaen der [[Windhexe]],
 der zuerst springt und spaeter fragt.

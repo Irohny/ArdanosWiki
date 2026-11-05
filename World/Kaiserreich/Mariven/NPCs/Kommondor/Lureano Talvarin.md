@@ -1,6 +1,19 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Begründer des Kompassgesetzes
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]
-- **Haus / Dynastie:** Vintar
+- **Haus / Dynastie:** [[Familie Talvarin]]
 - **Regentschaft:** 503 - 547 n.d.D.
 - **Spezies / Volk:** Mensch
 - **Herkunft:** [[Mariven]]

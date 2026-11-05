@@ -1,5 +1,19 @@
+---
+typ: Spieler
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Gnome #Kleriker #Licht #Heiler #[[Spielertruppe]]
 ![[Gnodomir.jpeg|300]]
+_[[Arthur Rackhame]], 2455 n.d.D._
 
 ---
 ### Aktuelle Infos:

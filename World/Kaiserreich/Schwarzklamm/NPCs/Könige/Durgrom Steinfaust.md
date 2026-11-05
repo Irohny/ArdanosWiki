@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Schwarzklamm]]"
+tags: [König]
+zeit_text:
+zeit_von_jahr: 812
+zeit_bis_jahr: 898
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** Fürst der [[Schwarzklamm]]
 - **Haus / Dynastie:**

@@ -1,0 +1,15 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
+**Der Wächter des Letzten Pfades**
+[[Veyrun]] wacht über den Übergang ins Totenreich und über alles, was noch kommen wird. Er erkennt, wann eine Seele bereit ist, den letzten Weg durch das [[Schattenlicht]] anzutreten, und wann ihr Schicksal sich noch wenden darf. In den Legenden heißt es, dass sein Ruf nur von Sterbenden gehört wird – leise, fern und doch unausweichlich.

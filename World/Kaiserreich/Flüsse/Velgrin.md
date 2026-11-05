@@ -1,8 +1,23 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+  - "[[Elmrath]]"
+  - "[[Vaylen]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Der **[[Velgrin]]** ist einer der ältesten und geheimnisvollsten Flüsse _Ardanos'_. Er entspringt tief in der **Nordseite der [[Schwarze Klamm]]**, einem abgrundtiefen Riss im Gestein des **[[Helmbrach-Massiv]]s**, und windet sich größtenteils **unsichtbar** durch die unermesslichen Tiefen dieses Zwergengebirges. Nur **die Zwerge der [[Schwarzklamm]]** kennen seinen wahren Lauf – und sie hüten dieses Wissen wie heilige Runen.
 
 Sein **oberirdischer Lauf** tritt erst an der **Südflanke des Massives** wieder ans Licht. Dort fließt er als reißender, kalter Strom durch Felsen und alte Wälder und bildet einen Teil der **natürlichen Grenze zwischen [[Elmrath]] und [[Vaylen]]**, bis er schließlich im **[[Kristallsee]]** mündet.
 
-Am Ursprung des [[Velgrin]] steht **[[Ur-Gralnir]]**, ein uralter **Tempel des [[Volgrin]]**, der tief in der Erde in der Nordklamm liegt. Die Legende der Zwerge berichtet, dass **[[Volgrin]] selbst den Tempel meißelte**, als er die Welt aus dem Feuer des Kosmos schmiedete – und dass der [[Velgrin]] aus **seinem Amboss** floss, als Symbol für **Kraft, [[Schöpfung]] und [[ewiges Leben]]**.
+Am Ursprung des [[Velgrin]] steht **[[Ur-Gralnir]]**, ein uralter **Tempel des [[Volgrin]]**, der tief in der Erde in der Nordklamm liegt. Die Legende der Zwerge berichtet, dass **[[Volgrin]] selbst den Tempel meißelte**, als er die Welt aus dem Feuer des Kosmos schmiedete – und dass der [[Velgrin]] aus **seinem Amboss** floss, als Symbol für **Kraft, [[Schöpfung]] und [[Ewiges Leben]]**.
 
 Der Tempel ist **Religiöses Zentrum** und **Wallfahrtsort** für alle Zwergenklans – doch **nur wenige Auserwählte** dürfen ihn betreten. Manche sagen, der Fluss sei **lebendig**, getränkt mit uralter Magie, und im Wasser spiegeln sich **Visionen vergangener [[Zeitalter]]**.
 

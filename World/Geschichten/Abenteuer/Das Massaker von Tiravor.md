@@ -1,6 +1,21 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mord und Verlobung]]"
+region:
+  - "[[Mariven]]"
+tags:
+  - Geschichte
+zeit_text:
+zeit_von_jahr: 1415
+zeit_bis_jahr:
+erstellt: 2026-10-20
+geaendert:
+---
 **1415 ndD, 2. [[Zeitalter]]**
 
-Im Jahre 1415 nach dem zweiten [[Zeitalter]] ereignete sich in der Stadt [[Tiravor]] eine Tragödie, die noch lange in düsteren Erzählungen nachhallte. Eine kleine Gruppe von Abenteurern – angeführt von dem Krieger [[Eldric Feldhain]] und dem Waldläufer [[Maran Danlauf]] – wurde ursprünglich damit betraut, den Händler **Hendrik Valor** sicher durch unsichere Lande zu geleiten. Was als gewöhnliche Eskorte begann, sollte jedoch in Verrat, Täuschung und Blutvergießen enden.
+Im Jahre 1415 nach dem zweiten [[Zeitalter]] ereignete sich in der Stadt [[Tiravor]] eine Tragödie, die noch lange in düsteren Erzählungen nachhallte. Eine kleine Gruppe von Abenteurern – angeführt von dem [[Krieger]] [[Eldric Feldhain]] und dem [[Waldläufer]] [[Maran Danlauf]] – wurde ursprünglich damit betraut, den Händler **Hendrik Valor** sicher durch unsichere Lande zu geleiten. Was als gewöhnliche Eskorte begann, sollte jedoch in Verrat, Täuschung und Blutvergießen enden.
 
 Bereits auf dem Weg wurde die Gruppe von Söldnern angegriffen. Schnell zeigte sich, dass nicht der Händler, sondern Eldric selbst das Ziel dieses Anschlags war. Durch dunkle Befragungsrituale an einem der gefallenen Angreifer erfuhren die Gefährten von einem geheimen Auftrag: Eldrics Haupt sollte am Ufer des [[Lumaros]] zur Schau gestellt werden – als Zeichen für einen noch größeren Plan.
 

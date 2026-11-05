@@ -1,10 +1,20 @@
-#Gruendung
-#[[Schwarzklamm]]
-
-Zeitspanne: 328 n.d.D
-
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text: 328 n.d.D
+zeit_von_jahr: 328
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 # Das Fürstentum [[Schwarzklamm]] – Das Reich der Tiefen
 ![[Wappen Schwarzklamm.png|200]]
+_[[Albrund Dürenhammer]], 2140 n.d.D._
+
 Tief in den Bergen, wo das Licht der Sonne kaum hinabdringt, liegt das mächtige Zwergenfürstentum [[Schwarzklamm]]. Hier, zwischen gewaltigen Schmieden, endlosen Minen und uneinnehmbaren Festungen, leben die Zwerge, deren Leben sich um Erz, Stein und Stahl dreht. Sie sind Meister der Schmiedekunst, Baumeister unvergänglicher Hallen und Krieger mit unerschütterlicher Entschlossenheit. Doch [[Schwarzklamm]] ist nicht nur eine Nation der Handwerker – es ist eine uneinnehmbare Bastion, geprägt von alten Fehden, uralten Tiefen und Geheimnissen, die in der Dunkelheit lauern.
 
 **Oberhaupt:** Hochkönig [[Durngar Schwarzschild]] (Fürstentum [[Schwarzklamm]])

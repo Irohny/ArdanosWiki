@@ -1,3 +1,17 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ## Geschichte
 [[Erlenfurt]] lag etwas nördlich von [[Wurzelfurt]] am Silberlauf. Das kleine Dorf wurde im Jahre 537 n.d.D im ersten [[Zeitalter]] zerstört. Es gab nur wenige Überlebende. Laut Erzählungen heißt es, dass das Dorf von Walddämonen überfallen und vernichtet wurde. Der Überfall auf das Dorf wurde in den Chroniken der [[Himmelshöfe]] auf den Tag 280 der Zeit der Stürme des Jahres 537 n.d.D terminiert.
 
@@ -10,5 +24,5 @@ Von [[Erlenfurt]] sind heute nur noch überwucherte Ruinen geblieben. Wo einst H
 
 Der ehemalige Dorfplatz ist kaum noch zu erkennen. Eine große Erle wächst mitten durch das alte Pflaster, während der Brunnen längst verfallen und von Schilf überwuchert ist. Eine unheimliche Stille liegt über dem Ort, als würde selbst der Wald die Ruinen meiden.
 
-# sl_Hinweis
+# Geheime Information
 Das Dorf wurde von Untoden eines Nekromeanten zerstört. Der Magier war einst aus dem Dorf und wollte sich nun an dem Dorf Rächen, da er von seiner Macht geblendet wurde

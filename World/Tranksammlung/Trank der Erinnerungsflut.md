@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "129G"
+komponenten: "[[Traumdistel]], [[Elfensilber]], [[getrocknete Träne]]"
+seltenheit: "Ungewöhnlich"
+---
 - Tag: #Verbesserung 
 - **Komponenten:** [[Traumdistel]], [[Elfensilber]], [[getrocknete Träne]]
 - **Wert:** 129G

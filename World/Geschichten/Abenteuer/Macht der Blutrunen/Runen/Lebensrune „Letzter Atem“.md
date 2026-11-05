@@ -1,3 +1,17 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### **Lebensrune „Letzter Atem“**
 ![[Lebensrune.jpeg|100]]
 Eine Rune für den Moment, in dem selbst der stärkste Stahl bricht.

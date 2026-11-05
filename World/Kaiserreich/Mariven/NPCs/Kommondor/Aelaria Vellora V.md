@@ -1,6 +1,18 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Die Händlerin der Wahrheit
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]
-- **Haus / Dynastie:**
+- **Haus / Dynastie:** [[Familie Vellora]]
 - **Regentschaft:** 1399 - 1623 n.d.D.
 - **Spezies / Volk:** Elf
 - **Herkunft:** [[Mariven]]

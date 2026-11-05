@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "3"
+schule: "#Hervorrufung"
+konzentration: "Nein"
+komponenten: "#Verbal #Geste #Material"
+materialien: "eine winzige Kugel aus Fledermausguano und Schwefel"
+---
 - **Grad:**   3
 - **Schule:**  #Hervorrufung 
 - **Ritual:**  Nein
@@ -16,4 +34,4 @@ Ein heller Lichtstrahl schießt aus deinem deutenden Finger auf einen Punkt dein
 
 Das Feuer breitet sich um Ecken aus. Es entzündet brennbare Gegenstände in der Umgebung, die nicht getragen oder gehalten werden.
 
-Auf höheren Graden: Wirkst du diesen Zauber, indem du einen Zauberplatz des 4. Grades oder höher nutzt, steigt der Schaden für jeden Grad über dem 3. um 1W6.
+Auf höheren Graden: Wirkst du diesen Zauber, indem du einen Zauberplatz des 4. Grades oder höher nutzt, steigt der Schaden für jeden Grad über dem 3. um 1W6.

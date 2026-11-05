@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### Dorf
 [[Altlicht]] ist klein – kaum mehr als zwei Dutzend Häuser aus dunklem Holz und schwarzem Stein, mit tiefen Dächern gegen den Aschenregen aus [[Drakmora]]. Manche Mauern sind mit Moos und Runen bedeckt, von denen selbst die ältesten Dorfbewohner die Bedeutung nicht mehr kennen. In der Dämmerung wirken die Häuser wie Schattenrisse alter Zeiten – still, wachend, verwehend.
 
@@ -24,4 +37,4 @@ Der Kreis selbst ist filigran und kunstvoll gearbeitet: ineinander verschlungene
 
 Der Teleportationskreis gilt als einer der ältesten noch funktionstüchtigen in der bekannten Welt. Man sagt, der Kreis könne nicht nur Orte, sondern auch **Zeitpunkte** überbrücken – doch nur, wenn die Runen im exakt richtigen Muster aktiviert werden, was selbst den größten Magiern misslungen ist.
 
-Heute ist der Kreis von uralten Steinstelen umgeben, auf denen Gedichte, Warnungen und Gebete eingeritzt sind. Nur wenige Eingeweihte vom **[[Orden der Klarheit]]** kennen die wahre Bedeutung des Ortes – und sie hüten sie mit äußerster Vorsicht. Für die Dorfbewohner bleibt der Ort heilig – ein Ort der Stille, der Magie… und des Schicksals.
+Heute ist der Kreis von uralten Steinstelen umgeben, auf denen Gedichte, Warnungen und Gebete eingeritzt sind. Nur wenige Eingeweihte vom **[[Das Arkanum|Arkanum]]** kennen die wahre Bedeutung des Ortes – und sie hüten sie mit äußerster Vorsicht. Für die Dorfbewohner bleibt der Ort heilig – ein Ort der Stille, der Magie… und des Schicksals.

@@ -1,14 +1,27 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **14. Gnadentag Licht, 2486 n.d.D.**  
 
 Nach den Wirren des Tages versammelten wir uns erneut in der Krypta unter dem Schloss, nachdem [[Vishuda]] den [[Reodemus]] sicher zur _[[Windhexe]]_ gebracht hatte. Doch Frieden war uns nicht vergönnt.
 
 Plötzlich schrie [[Nyssara Elenvyre]] auf — ein Laut voller Schmerz und Schrecken. Im nächsten Augenblick stand sie reglos da, wie zu Stein erstarrt. Wir suchten fieberhaft nach der Ursache ihres Zustands und eilten durch das Schloss, auf der Suche nach einem Heiler oder Magier.
 
-Im Ballsaal begegneten wir [[Selene Drachenruf]] und [[Varian Schattentaenzer]]. Dort offenbarte sich eine Wahrheit, die schwer auf meiner Seele lastet: Nyssaria sei von einer Erzfee besessen. Vor zweihundert Jahren verschmolz sie mit dem sogenannten [[Schattenherz]], und seither ringe die Erzfee in ihrem Inneren um die Kontrolle über ihren Körper.
+Im Ballsaal begegneten wir [[Selene Drachenruf]] und [[Varian Schattentänzer]]. Dort offenbarte sich eine Wahrheit, die schwer auf meiner Seele lastet: Nyssaria sei von einer Erzfee besessen. Vor zweihundert Jahren verschmolz sie mit dem sogenannten [[Schattenherz]], und seither ringe die Erzfee in ihrem Inneren um die Kontrolle über ihren Körper.
 
 Selene erklärte uns außerdem, dass ihre Visionen uns zusammengeführt hätten. In diesen Bildern sah sie den Tod einer einzelnen Person auf dem Fürstenball — und wie dadurch das Gleichgewicht der Welt zerbrechen würde. Ich weiß nicht, ob das Licht uns lenkt oder ob wir nur Figuren auf einem größeren Spielbrett sind. Doch der Gedanke verfolgt mich.
 
-Später hörten wir Stimmen aus der Bibliothek des Schlosses. Dort trafen wir auf die letzten beiden Attentäter: einen Ritter und einen Kleriker. Der Kampf war erbittert. Der Ritter fiel durch die Schläge von [[Bruder Markus]], während es uns gelang, den Kleriker lebend gefangen zu nehmen. Unter Druck offenbarte er uns, dass ihr Auftraggeber sich Selvian nannte. Die Anzahlung für das [[Attentat]] — fünfhundert Goldmünzen — sei auf der _Windblut_ versteckt.
+Später hörten wir Stimmen aus der Bibliothek des Schlosses. Dort trafen wir auf die letzten beiden Attentäter: einen [[Ritter]] und einen Kleriker. Der Kampf war erbittert. Der [[Ritter]] fiel durch die Schläge von [[Bruder Markus]], während es uns gelang, den Kleriker lebend gefangen zu nehmen. Unter Druck offenbarte er uns, dass ihr Auftraggeber sich Selvian nannte. Die Anzahlung für das [[Attentat]] — fünfhundert Goldmünzen — sei auf der _Windblut_ versteckt.
 
 Doch mitten im Verhör geschah etwas Unnatürliches: Die beiden Attentäter lösten sich vor unseren Augen in Licht auf, als hätte eine höhere Macht ihre Zungen endgültig versiegelt.
 
@@ -18,7 +31,7 @@ Doch mitten im Verhör geschah etwas Unnatürliches: Die beiden Attentäter lös
 
 Noch ehe wir unsere Gedanken sammeln konnten, betrat [[Lady Maerina von Elmrath]] den Raum und brachte erschütternde [[Nachrichten]]: Die Truppen von [[Luredan van Harl]] hätten sich mit den Horden der Nordsteppe verbündet und plünderten nun die [[Drachengründe]].
 
-Der Fürstenball wurde daraufhin augenblicklich abgesagt. Die Fürsten und selbst der Kaiser wurden zu einem Notfallrat zusammengerufen. Der Krieg scheint näher zu sein, als viele wahrhaben wollen.
+Der Fürstenball wurde daraufhin augenblicklich abgesagt. Die Fürsten und selbst der [[Kaiser]] wurden zu einem Notfallrat zusammengerufen. Der Krieg scheint näher zu sein, als viele wahrhaben wollen.
 
 Wir begaben uns danach zum Hafen und suchten das Gasthaus _Zum Grünen Wyvern_ auf, um mehr über Selvian und die _Windblut_ zu erfahren. Dort übergab mir der Wirt zwei Briefe.
 

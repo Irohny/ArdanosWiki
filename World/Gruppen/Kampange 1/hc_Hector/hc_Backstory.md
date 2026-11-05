@@ -1,3 +1,16 @@
+---
+typ: Spieler
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 [[Hector]] wurde in den rauen Feldern südlich von [[Valatheris]] geboren, als Sohn eines einfachen Steinmetzen. Gemeinsam mit seinem jüngeren Bruder Olaf wuchs er in bescheidenen, aber ehrlichen Verhältnissen im Dorf [[Rußstein]] in der Region [[Rabenmark]] von [[Drakmora]] auf. Als die Armeen [[Drakmora]]s einen Grenzkonflikt mit den nördlichen Reitervölkern vorbereiteten, wurden viele junge Männer zum Wehrdienst eingezogen – darunter auch [[Hector]] und Olaf.
 
 Die Brüder dienten in der 7. Vorhut unter **Oberst [[Luredan van Harl]]** aus dem **[[van Harl]]**, einem aufstrebenden Offizier aus altem Adel, bekannt für seine blutrote Uniform und sein Banner: _Goldene Lilien auf rotem Grund_.

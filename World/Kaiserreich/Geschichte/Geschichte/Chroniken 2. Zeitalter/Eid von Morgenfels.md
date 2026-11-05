@@ -1,8 +1,18 @@
-#Ereignis
-#Kaiserreich
-
-Zeitspanne: 2157 n.d.D
-
+---
+typ: Geschichte
+status: kanon
+kampagne:
+region:
+  - "[[Ardanos]]"
+  - "[[Drakmora]]"
+tags:
+  - Ereignis
+zeit_text:
+zeit_von_jahr: 2157
+zeit_bis_jahr:
+erstellt: 2026-11-03
+geaendert:
+---
 _Jahr 2157 n.d.D. – Wendepunkt der Fürstentümer_
 
 In einer Zeit, in der Zwietracht, alte Fehden und Misstrauen die Fürstentümer lähmten, formte sich in der Dringlichkeit der Bedrohung eine neue Hoffnung. Die [[Reitervölker der Aschenweite]] aus dem Norden hatten bereits tief ins Herz des Reiches gestoßen. Handel brach ein, Grenzburgen fielen, und die Menschen begannen, den Glauben an bessere Zeiten zu verlieren.

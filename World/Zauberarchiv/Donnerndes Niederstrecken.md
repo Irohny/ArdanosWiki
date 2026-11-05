@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "1"
+schule: "#Hervorrufung"
+konzentration: "ja"
+komponenten: "#Verbal"
+materialien: "- **Dauer/Wirkung:** 1min"
+---
 - **Grad:** 1   
 - **Schule:** #Hervorrufung   
 - **Ritual:**  nein

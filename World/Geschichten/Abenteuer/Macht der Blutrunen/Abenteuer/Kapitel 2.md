@@ -1,3 +1,17 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **3. Tag des Eisenmonds, Hallen von Runenglut**
 
 Ich habe den Ältesten meine Arbeit gezeigt.

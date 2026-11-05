@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "0"
+schule: "#Verwandlung"
+konzentration: "nein"
+komponenten: "#Verbal #Geste"
+materialien: "2 Magnetsteine"
+---
 - **Grad:**   0
 - **Schule:**  #Verwandlung 
 - **Ritual:**  nein

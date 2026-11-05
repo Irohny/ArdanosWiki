@@ -1,3 +1,16 @@
+---
+typ: Session
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr: 2486
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+---
 Startdatum: 9 (Lichttag) Licht (Frühling) 2486 n.d.D 
 Enddatum: 13 (Markttag) Licht (Frühling) 2486 n.d.D 
 ## [[Setup]]
@@ -9,7 +22,7 @@ Tag 1 (9. Licht)
  - Informationen von [[Glutherz Doppelzunge]] zu Waffenkauf [[Schwarzklamm]] / [[Drakmora]]  im [[Grüner Wyvern]]
  
  Tag 2 (10. Licht)
- - Informationen an zum Waffenhandel an [[Varian Schattentaenzer]] gegeben
+ - Informationen an zum Waffenhandel an [[Varian Schattentänzer]] gegeben
  - Varian gibt Gruppe Infos zu Informationsübergabe
  - Ausschalten von Spion an der Satdtmauer, bekommen Infos zum Attentat
  - [[Gnodomir]] geht zum [[Tempel St. Aurelia]] und spricht mit [[Garron der Grüne]]
@@ -26,7 +39,7 @@ Tag 1 (9. Licht)
  - Syvaris schließt sich der Gruppe an
  
  Tag 4 (12. Licht)
- - Gruppe bekommt von [[Varian Schattentaenzer]] eintritt in das Schloss um Information zum Attentat zu sammeln
+ - Gruppe bekommt von [[Varian Schattentänzer]] eintritt in das Schloss um Information zum Attentat zu sammeln
  - Gruppe erkundet den Schlosskeller
 	 - Tötet Wachen im Kerker, nachdem sie die Folterkammer und Reste von Experimenten gefunden haben
 	 - [[Vishuda]] erkundet das Alchemiezimmer und nimmt [[Bärenkraut]] mit
@@ -37,7 +50,7 @@ Tag 5 (13. Licht)
  - Am nächsten Tag geht die Gruppe wieder ins Schloss und stellt zwei verdächtige Mönche, schlägt sie nieder und nimmt sie mit in ihre Unterkunft ([[Stolzes Einhorn]])
 ### NPC's:
 * Kleriker kennt [[Garron der Grüne]]
-* Gruppe ist befreundet mit [[Varian Schattentaenzer]] (Als Dank für die Infos über den Waffenhandel)
+* Gruppe ist befreundet mit [[Varian Schattentänzer]] (Als Dank für die Infos über den Waffenhandel)
 * Gruppe kennt [[Kapitän Havoc]] vom [[Boxkampf]]
 
 ### Weitere Ideen:

@@ -1,3 +1,16 @@
+---
+typ: Beschreibung
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Das **[[Kloster des Stählernen Körpers]]** ist nur noch eine gebrochene Silhouette am [[Aschenamm]]. Wo einst die Kuppel der [[Halle der Tausend Wiederholungen]] über dem Tal thronte, klafft nun ein schwarz verrußter Riss im Mauerwerk; Teile des Dachs sind eingestürzt und haben Trainingsgeräte, Säulen und den Altar der Anspannung unter sich begraben. Der Klang der Atemglocke ist verstummt – ihr gesprungener Bronzekörper liegt halb im Schutt des Vorhofs.
 
 Die Rebellen kamen nicht, um zu plündern, sondern um ein Zeichen zu setzen. Die obsidiangeschliffenen Wände sind von Brandspuren, Einschlagskratern und hastig angebrachten Parolen überzogen. Eisenketten hängen lose von den Wehrgängen, zerbrochene Seelenhanteln liegen zwischen zerfetzten Bannern, und der [[Pfad der Lasten]] ist mit umgestürzten Tragsteinen versperrt. Im [[Hof der Eisenkreise]] haben sich Blut, Regenwasser und Asche zu dunklen Pfützen gesammelt.

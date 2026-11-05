@@ -1,3 +1,17 @@
+---
+typ: Hilfsmittel
+status: DM
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ## 🧭 GRUNDPRINZIP
 - Der Wald besteht aus Regionen
 - Jede Region hat:

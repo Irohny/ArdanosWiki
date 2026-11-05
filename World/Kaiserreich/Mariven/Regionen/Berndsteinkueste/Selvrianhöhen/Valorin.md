@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 [[Valorin]] ist eine mittelgroße Stadt im Landesinneren der [[Bernsteinküste]], im Fürstentum [[Mariven]]. Die Stadt liegt in der Region der [[Selviranhöhen]]. Obwohl die Stadt nicht direkt am Meer liegt, verdankt sie ihren Wohlstand dem regen Seehandel der Küstenregion. Händler, Fischer und Flussschiffer nutzen den nahegelegenen Fluss Selvarin, der unweit der Stadt an den Hängen einer langgezogenen Hügelkette entspringt und sich von dort aus seinen Weg in Richtung Küste bahnt.
 
 Die Stadt selbst liegt zwischen sanften, bewaldeten Hügeln und fruchtbaren Tälern. Alte Handelsstraßen führen durch [[Valorin]] und machen sie zu einem wichtigen Umschlagplatz zwischen dem Landesinneren und den Hafenstädten Marivens. Fisch, Salz, Bernstein und andere Waren aus der Küstenregion werden hier gehandelt, während Getreide, Holz und Erzeugnisse aus dem Landesinneren ihren Weg zum Meer finden.

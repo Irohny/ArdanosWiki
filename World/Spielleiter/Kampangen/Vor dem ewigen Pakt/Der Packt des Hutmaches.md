@@ -1,3 +1,16 @@
+---
+typ: Szene
+status: aktiv
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 # 1. Hutladen – „Waldkrempe“ von Nora Grünfilz
 
 ## Einstieg

@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Heilung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "500G"
+komponenten: "[[Nebelöl]], [[Trollblut]], [[Nymphenblüte]], [[Drachenatem (weiß)]]"
+seltenheit: "Selten"
+---
 - Tag: #Heilung 
 - **Komponenten:** [[Nebelöl]], [[Trollblut]], [[Nymphenblüte]], [[Drachenatem (weiß)]]
 - **Herstellung:** 24 Stunden alchemistische Reduktion

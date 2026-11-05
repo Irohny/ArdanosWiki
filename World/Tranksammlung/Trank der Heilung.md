@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Heilung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "50G"
+komponenten: "[[Mohnblüte]], [[Trollharz]], [[Einhornhaar]], [[Quellwasser]]"
+seltenheit: "Gewöhnlich"
+---
 - Tag: #Heilung
 - **Komponenten:** [[Mohnblüte]], [[Trollharz]], [[Einhornhaar]], [[Quellwasser]]
 - **Wert:** 50G

@@ -1,3 +1,16 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Die [[Reitervölker der Aschenweite]] leben in Horden, von denen die [[Rabenzügel]], [[Aschenhufe]], [[Eisenmähnen]] und [[Salzwinde]] die größten sind. Jede Horde folgt einem Khan, der die stärksten und treuesten Krieger als Leibwache um sich schart. Feste Siedlungen kennen die Horden nicht: Sie ziehen mit ihren Herden durch die Steppe und leben in Zelten. Ihr Auskommen sichern sie sich durch Viehzucht, Sklavenhandel und die Beute ihrer Raubzüge.
 
 Sie verehren ihre Pferde wie Götter. Auch der Wind und die Steppe gelten ihnen als heilig, ebenso die Geister ihrer Ahnen, deren Stimmen sie in den Winden der [[Aschenweite]] zu hören glauben.

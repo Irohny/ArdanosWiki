@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **20. bis 21. Tag des Regenmonds — Sophina brennt nicht, doch sie ist gebrochen**
 
 Am Nachmittag kehrten wir durch die Stadttore zurück. Die Wachen erkannten den vermeintlichen Sohn des Stadtherrn und ließen uns passieren. Er sollte sich verbergen, damit die Stadt keinen Verdacht schöpfte.
@@ -88,7 +101,7 @@ Wir trafen uns wieder im Wald.
 
 Ich bin wütend.
 
-Auf den Stadtherrn. Auf den König. Auf die Magier.
+Auf den Stadtherrn. Auf den [[König]]. Auf die Magier.
 
 Aber auch auf Naivara, die mich ohne Zögern als Opfer darstellte, um ihr eigenes Leben zu schützen. Und auf Zabor und Aranis, die nichts taten, als der Gestaltwandler starb.
 

@@ -1,5 +1,21 @@
+---
+typ: Spieler
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-10-20
+geaendert:
+---
 ![[mordrak_runenglut.png|150]]
-- **Stufe:** 3 Krieger / 1 Blutjäger
+_[[Jandrak Matejkor]], um 2474 n.d.D._
+
+- **Stufe:** 3 [[Krieger]] / 1 [[Blutjäger]]
 - **Volk:** Zwerg
 - **Klasse:** Runenkrieger
 - **Hintergrund:** Handwerker
@@ -28,9 +44,10 @@
 	- **Zwergische Zähigkeit:** +1 LP pro Stufenaufstieg
 	- **Steingespür** (Bonusaktion) 18m Gespür von Vibration im Stein spürbar
 	- **Jägerbann:** Vorteil auf Attributswürfe bei Untoten, Unholden und Monstern
-	- **Durchschnaufen** Bonus Akt. 1W10 + Krieger Stufe Heilung (max 2, Aufladung 1 pro KR und LR)
+	- **Durchschnaufen** Bonus Akt. 1W10 + [[Krieger]] Stufe Heilung (max 2, Aufladung 1 pro KR und LR)
 	- **Kampfstil**:
 		- Verteidigung +1RK
+		- **Kampf it großen Waffen** einmal 1 & 2 Rerollen beim Schadenswurf
 	- **Waffenmeisterungen:** (eine Aktiv, nach LR wechselbar)
 		- **Plagen** Wenn Treffer, dann Vorteil bis Ende nächsten Zuges
 		- **Streifen** Wenn Angriff an RK scheitert, bekommt die Kreatur STR-Mod Schaden
@@ -50,13 +67,24 @@
 | **Überlebenskunst** (Weis)<br>0              | **Überzeugen** (Cha + Ü)<br>+1     | **Wahrnehmung** (weis)<br>0 |                              |                                      |
 
 - **Immunitäten:**
-- **Resistenzen:** Gift und Vorteil auf Rettungswürfe für/gegen Vergiftung (Zwergische Resistenz)
+- **Resistenzen:** Gift und Vorteil auf Rettungswürfe für/gegen Vergiftung (Zwergische [[Resistenz]])
 - **Schwächen:** 
 
 ---
 ## Runen & Blutzauber
 - Rettung SG Runen 13 (8+Übung+Konst) 
 - Rettung SG Blut 11 (8+Übung+Int)
+
+| Name                      | Aktionslevel        | Wirkung                                                                                                                                                                         | Sonstiges                              |
+| ------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| Tatendrang                | frei (1x KR/LR)     | Ein Zusätzlichen Zug                                                                                                                                                            |                                        |
+| Feuerrune                 | BA (1x KR/LR)       | +2W6 Feuer zusätzlich und STR RW -> Miss. Festgesetzt                                                                                                                           | doppelter Übungsbonus auf Werkzeuge    |
+| Wolkenrune                | Reaktion (1x KR/LR) | Wenn Spieler oder Kreatur in 9m Schaden bekommt kann der Schaden und Effekte auf eine andere Kreatur in 9m Radius übertragen werden                                             | Vorteil Fingerfertigkeit und Täuschung |
+| Reisenrune                | BA (2x KR/LR)       | +1 Größenklasse Mittelgroß -> Groß (ca. 2.5m), <br>		Vorteil auf STR und STR RW und 1W6 extra Schaden                                                                           | Anzahl = Übungsbonus                   |
+| Durchschnaufen            | BA (2 Aufladungen)  | 1W10 + [[Krieger]] Stufe Heilung                                                                                                                                                | 1 Aufladung pro LR & KR                |
+| Blutfluch der Bindung     | BA (1x KR/LR)       | Kreatur (klein bis groß) STR RW -> Misserfolg BW auf 0m und keine Reaktion bis zum Ende des Zuges<br>		- Verstärkung: Dauer 1min, Größe egal, RW am Ende des Zuges zum befreien |                                        |
+| Karmesinroter Riuts       |                     |                                                                                                                                                                                 |                                        |
+| Ritus der Morgendämmerung |                     |                                                                                                                                                                                 |                                        |
 
 Runen wirken nur, wenn man Kontakt zu dem Gegenstand hat auf dem sie eingeritzt sind
 - #### Feuerrune: 
@@ -81,7 +109,7 @@ Blutfluch Verstärkung für 1 Rituswürfel nekrotischer Schaden
 ## Übungen
 - einfache & Kriegswaffen
 - alle Rüstung & Schilde
-- Alchemiewerkzeug (Blutjäger)
+- Alchemiewerkzeug ([[Blutjäger]])
 - Schmiedewerkzeug (normal und Handwerker Talent)
 - Lederwerkzeug (Handwerker Talent)
 - Schreinerwerkzeug (Handwerker Talent)
@@ -115,7 +143,7 @@ Fasziniert von dieser Erkenntnis begann er heimlich damit, Runenmagie und Blutma
 Die Ergebnisse waren beeindruckend:
 * stärkere Runen,  
 * schnellere Aktivierung,  
-* und neue Möglichkeiten im Kampf gegen Monster und dunkle Kreaturen.
+* und neue Möglichkeiten im Kampf gegen [[Monster]] und dunkle Kreaturen.
 
 Voller Stolz präsentierte er seine Forschung den Ältesten seines Clans.
 Doch statt Bewunderung erntete er Entsetzen.
@@ -130,7 +158,7 @@ Er forschte heimlich weiter.
 Als dies schließlich entdeckt wurde, reagierte der Clan hart:  
 Er wurde aus den Hallen seiner Ahnen verbannt, sein Name aus vielen Aufzeichnungen gestrichen und ihm die Rückkehr untersagt.
 
-Seitdem zieht er als Söldner und Monsterjäger durch die Länder. Die Jagd auf gefährliche Kreaturen finanziert seine Forschungen und gibt ihm die Möglichkeit, seine Blutrunen im Kampf zu perfektionieren.
+Seitdem zieht er als [[Söldner]] und Monsterjäger durch die Länder. Die Jagd auf gefährliche Kreaturen finanziert seine Forschungen und gibt ihm die Möglichkeit, seine Blutrunen im Kampf zu perfektionieren.
 
 Trotz allem empfindet er keinen Hass auf seinen Clan.
 
@@ -141,11 +169,11 @@ Abseits des Kampfes ist er ein grummeliger, aber freundlicher Zwerg, der von sei
 ## Kriegshammer (Volgrins Zorn)
 **Volgrins Zorn** ist ein massiver, zweihändiger Kriegshammer aus dunklem Stahl, dessen kantiger Hammerkopf vollständig mit zwergischen Runen und feinen Gravuren bedeckt ist. Der lange Griff ist mit dunklem Leder umwickelt und durch Metallringe verstärkt, damit die Waffe selbst in den härtesten Kämpfen standhält.
 
-Mordrak schmiedete den Hammer eigenhändig während seiner frühen Forschungen über Blutrunen und widmete ihn Volgrin, dem Kriegsgott und ersten Meister der Runenmagie. Für Mordrak ist der Hammer mehr als nur eine Waffe — er ist das Sinnbild seiner Überzeugung, dass Runenmagie und Blut gemeinsam eine neue Stärke erschaffen können. Im Kampf beginnen die eingravierten Runen schwach zu glimmen, sobald Mordrak seine Macht durch den Hammer fließen lässt.
-## Streitäxte (Kraeths Blick & Veyrun Ruf)
-**Kraeth** und **Veyrun** sind zwei einhändige Streitäxte, die Mordrak selbst in den Schmiedefeuern des Klans Runenglut gefertigt hat. Beide Waffen bestehen aus geschwärztem Stahl und tragen feine, tief eingeschnittene Runen entlang der Klingen und Griffe. Trotz ihrer robusten Bauweise wirken die Äxte ungewöhnlich elegant — fast wie die Krallen eines Raubvogels.
+Mordrak schmiedete den Hammer eigenhändig während seiner frühen Forschungen über Blutrunen und widmete ihn [[Volgrin]], dem Kriegsgott und ersten Meister der Runenmagie. Für Mordrak ist der Hammer mehr als nur eine Waffe — er ist das Sinnbild seiner Überzeugung, dass Runenmagie und Blut gemeinsam eine neue Stärke erschaffen können. Im Kampf beginnen die eingravierten Runen schwach zu glimmen, sobald Mordrak seine Macht durch den Hammer fließen lässt.
+## Streitäxte (Kraeths Blick & [[Veyrun]] Ruf)
+**[[Kraeth]]** und **[[Veyrun]]** sind zwei einhändige Streitäxte, die Mordrak selbst in den Schmiedefeuern des Klans Runenglut gefertigt hat. Beide Waffen bestehen aus geschwärztem Stahl und tragen feine, tief eingeschnittene Runen entlang der Klingen und Griffe. Trotz ihrer robusten Bauweise wirken die Äxte ungewöhnlich elegant — fast wie die Krallen eines Raubvogels.
 
-**Kraeth**, benannt nach dem göttlichen Raben, der den nahenden Tod erkennt, besitzt eine schmalere, scharf gebogene Klinge, die darauf ausgelegt ist, schnell und präzise zuzuschlagen. Die Runen auf der Schneide leuchten schwach auf, wenn Mordrak verwundete oder dem Tode nahe Kreaturen jagt.
+**[[Kraeth]]**, benannt nach dem göttlichen Raben, der den nahenden Tod erkennt, besitzt eine schmalere, scharf gebogene Klinge, die darauf ausgelegt ist, schnell und präzise zuzuschlagen. Die Runen auf der Schneide leuchten schwach auf, wenn Mordrak verwundete oder dem Tode nahe Kreaturen jagt.
 
 ## Einsteig
 - Mordrak ist auf dem Weg nach Strumflut um Kharrum aufzusuchen, einen Zwerg aus seinem Klan, der freiwillig gegangen ist. Er erhofft sich neue Impulse für seine Forschung
@@ -156,13 +184,13 @@ Mordrak schmiedete den Hammer eigenhändig während seiner frühen Forschungen �
 
 ---
 ### **Wesen/Antrieb**
-Mordrak ist kein brutaler Berserker, sondern ein ruhiger, kontrollierter Krieger und Meisterschmied. Er glaubt, dass wahre Stärke durch Wissen, Opfer und Disziplin entsteht. Für ihn sind Runenmagie und Blut keine Gegensätze, sondern die nächste Stufe zwergischer Schmiedekunst.
+Mordrak ist kein brutaler Berserker, sondern ein ruhiger, kontrollierter [[Krieger]] und Meisterschmied. Er glaubt, dass wahre Stärke durch Wissen, Opfer und Disziplin entsteht. Für ihn sind Runenmagie und Blut keine Gegensätze, sondern die nächste Stufe zwergischer Schmiedekunst.
 
 „Wissen darf nicht gefürchtet werden.“
 
 Mordrak will die Grenzen der Runenmagie erweitern. Er verachtet blinde Traditionen und glaubt, dass Macht nur durch Opfer, Schmerz und Verständnis erreicht werden kann. Seine Forschungen dienen nicht dem Chaos, sondern der Vollkommenheit.
 
-Mordrak sieht sich nicht als Monster oder Bösewicht.  
+Mordrak sieht sich nicht als [[Monster]] oder Bösewicht.  
 Er glaubt, dass seine Arbeit eines Tages verstanden wird — selbst wenn andere ihn heute dafür fürchten.
 
 ---
@@ -190,6 +218,6 @@ Er glaubt, dass seine Arbeit eines Tages verstanden wird — selbst wenn andere 
 - Feigheit, Ignoranz, Sinnlose Traditionen, Unverdiente Macht
 
 ---
-## Links:
-- Blutjäger: https://www.dndbeyond.com/classes/357975-blood-hunter#undefined
-- Runenkrieger: https://dnd5e.wikidot.com/fighter:rune-knight
+## [[Links]]:
+- [[Blutjäger]]: [The Blood Hunter Class for Dungeons &amp; Dragons (D&amp;D) Fifth Edition (5e) - D&amp;D Beyond](https://www.dndbeyond.com/classes/357975-blood-hunter#undefined)
+- Runenkrieger: [Fighter: Rune Knight - DND 5th Edition](https://dnd5e.wikidot.com/fighter:rune-knight)

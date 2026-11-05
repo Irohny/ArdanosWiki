@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - Hoheprister im Tempel der Waldelfen von [[Lorathiel]]
 - Forschte viel den der Magie der Exisitenzebenen
 - Fand bei seinen Forschungen heraus, dass die macht der Finsternis bei der erschaffung der Existenzebenen geteilt wurde, sodass die Macht des Chaos in der [[Schleierwelt]] und die Macht des Todes im [[Schattenlicht]] exisitieren

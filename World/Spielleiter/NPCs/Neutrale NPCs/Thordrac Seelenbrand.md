@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Stufe:** Kleriker 5/ Hexenmeister 3
 - **Volk:** #Drachengeborener Silber
 - **Herkunft:**

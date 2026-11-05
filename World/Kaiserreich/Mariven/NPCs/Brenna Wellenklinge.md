@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Wellenklinge
 - **Titel / Amt:** [[Flottenkapitän]] der Delegation von [[Mariven]]
 - **Haus / Dynastie:**
@@ -12,11 +26,12 @@
 - **Verknuepfte NPCs:**
 - **Bekannt fuer:** Delegationsschutz, Schiffsrouten, Kriegsmarine, Seegesetze
 - **Erste Erwaehnung:** unbekannt
-- **Tags:** #mariven #delegation #militaer #seefahrt
+- **Tags:** #[[mariven]] #delegation #militaer #seefahrt
 
 ## Beschreibung und Auftreten
 
-![[BrennarWellenklinge.jpeg|300]]
+![[BrennarWellenklinge.jpeg|200]]
+_[[Johann Wilhelm Waterhaus]], um 2480 n.d.D._
 
 Brenna sorgt fuer die Sicherheit der marivenischen Delegation und ueberwacht die Schiffsrouten.
 Sie gilt als entschlossen, taktisch versiert und als Fachfigur fuer Kriegsmarine und Seegesetze.

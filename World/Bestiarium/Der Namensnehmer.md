@@ -1,3 +1,20 @@
+---
+typ: Monster
+status: dm
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "13"
+volk: "#Untod"
+gesinnung: "Neutral Böse"
+ruestungsklasse: 18
+grundlage: "#Online"
+---
 # Der Namensnehmer
 
 - **Grundlage:** #Online 

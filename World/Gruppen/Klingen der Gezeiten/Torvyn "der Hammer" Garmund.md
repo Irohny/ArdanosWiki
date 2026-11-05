@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Stufe:** 5
 - **Volk:** Goliath (Steinriesen-Abstammung)
 - **Herkunft:** Prinzlicher Leibwächter

@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "3"
+schule: "#Nekromantie"
+konzentration: "ja"
+komponenten: "#Verbal #Geste"
+materialien: "- **Dauer/Wirkung:** 1 Minute"
+---
 - **Grad:**   3
 - **Schule:**  #Nekromantie 
 - **Ritual:** Nein  

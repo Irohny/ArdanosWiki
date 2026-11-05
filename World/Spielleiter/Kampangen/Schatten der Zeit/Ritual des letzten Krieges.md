@@ -1,3 +1,16 @@
+---
+typ: Zauber
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Ziel des Rituals:** Reodemus will [[Volgrin]], den Gott des Krieges, in die materielle Welt zwingen, ihn fesseln und töten – um, wie er glaubt, den Krieg selbst aus der Welt zu tilgen.
 
 **Grundidee:** Jedes der fünf Artefakte der Urzeit übernimmt eine eigene, notwendige Funktion im Ritual. Reodemus braucht im Idealfall alle fünf – aber er ist fanatisch genug, das Ritual auch mit weniger zu versuchen. Je mehr Artefakte fehlen, desto instabiler, gefährlicher und unvollständiger wird das Ergebnis (siehe **Kontingenzen** unten). Das Ritual kann also *nie einfach komplett verhindert werden* – es kann nur schlechter für Reodemus laufen.
@@ -12,7 +25,7 @@ Reodemus nutzt den [[Amboss der ersten Flamme]] – Volgrins eigene Schmiede –
 ### Die [[Krone der letzten Königin]] → Schwert der letzten Stunde
 Die Krone wird eingeschmolzen und zu einer Klinge geschmiedet. Diese Klinge verbindet **Tod mit göttlicher Essenz** – eine Waffe, die göttliche Unsterblichkeit durchtrennen kann.
 
-### Die [[Feder des ersten Paktes]] → Bannschrift der Entthronung
+### Die [[Maske der ersten Täuschung]] → Bannschrift der Entthronung
 Die Feder wird nicht umgeschmolzen, sondern im Feuer des Amboss' "beschrieben": Ihre Magie, jeden Pakt zu schließen oder aufzulösen, wird in eine einzige, unwiderrufliche Klausel gezwungen – einen Vertrag, den auch ein Gott nicht brechen kann, wenn er ihm erst einmal unterschrieben (bzw. im Blut/Ichor besiegelt) hat.
 
 **Ohne den Amboss:** Reodemus kann beide Artefakte nur in ihrer ursprünglichen Form nutzen. Die Krone bleibt eine Krone (keine göttertötende Waffe), die Feder bindet nur einen gewöhnlichen, brechbaren Pakt statt eines unwiderruflichen. Das Ritual wird dadurch nicht unmöglich – aber Volgrin kann am Ende potenziell fliehen oder überleben.
@@ -32,7 +45,7 @@ Der Kompass wird am Rand des Ritualkreises platziert. Seine Nadel zeigt nicht na
 **Ohne den Kompass:** Reodemus hat kein Mittel, Volgrins Aufmerksamkeit gezielt zu lenken. Er muss den Gott stattdessen locken, indem er selbst einen echten, blutigen Konflikt anzettelt (z. B. einen Krieg oder ein Massaker in der Nähe des Ritualorts) – langsamer, unkontrollierter und ein zusätzlicher Plot-Hook, den die Gruppe eventuell noch stoppen kann, bevor das Ritual überhaupt beginnt.
 
 ---
-# Phase III – Der Pakt der Fessel (Bannschrift der Entthronung, aus der [[Feder des ersten Paktes]])
+# Phase III – Der Pakt der Fessel (Bannschrift der Entthronung, aus der [[Maske der ersten Täuschung]])
 
 Sobald Volgrin im Lichtkreis manifestiert, wird ihm die Bannschrift entgegengehalten. Da jeder, der die Feder einst schuf – [[Lyrithiel]] selbst –, Pakte über Götter hinweg bindend machen kann, zwingt die Schrift auch Volgrin in eine unwiderrufliche Klausel: Für die Dauer des Rituals verliert er seine göttliche Bewegungsfreiheit und kann den Kreis nicht verlassen.
 
@@ -57,7 +70,7 @@ Als Faustregel für dich als SL:
 | [[Amboss der ersten Flamme]] | Krone & Feder bleiben ungeschmiedet – Volgrin kann gefesselt, aber nicht getötet werden |
 | [[Samen der Sonne]] | Nur Teilmanifestation Volgrins – schwächerer, aber auch schwerer fassbarer Gegner |
 | [[Kompass des Sturmlords]] | Kein gezieltes Rufen – Reodemus braucht einen echten Krieg als Köder (neuer Plot-Hook) |
-| [[Feder des ersten Paktes]] | Keine Fesselung – Volgrin kämpft frei und kann fliehen |
+| [[Maske der ersten Täuschung]] | Keine Fesselung – Volgrin kämpft frei und kann fliehen |
 | [[Krone der letzten Königin]] | Kein Todesstoß möglich – bestenfalls eine Fesselung, kein Sieg |
 
 **Wichtig:** Das Ritual scheitert dadurch nie komplett – Reodemus versucht es fanatisch mit dem, was er hat. Aber je mehr Artefakte fehlen, desto eher endet die Konfrontation in einem **unvollständigen Ergebnis**: ein verwundeter, entkommener oder nur halb gebundener Volgrin, statt eines sauberen Sieges für den Zeitdieb. Das gibt dir als SL die Freiheit, das große Finale abhängig vom Spielverlauf zu skalieren, ohne dass sich die Gruppe durch gutes Spiel "aus der Handlung heraus rettet" – es gibt am Ende trotzdem eine Konfrontation, nur mit anderem Ausgang.

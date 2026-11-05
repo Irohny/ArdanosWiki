@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **9. Tag des Regenmonds, Lagerfeuer an der Handelsstraße**
 
 Heute traf ich eine Händlergruppe unter Führung eines Zwerges namens Brokk. Ordentlicher Bart, fester Händedruck, schlechter Geschmack bei Liedern. Also vermutlich ein ehrlicher Händler.

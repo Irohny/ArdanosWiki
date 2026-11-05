@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+  - "[[Vaylen]]"
+tags:
+  - Fürst
+zeit_text:
+zeit_von_jahr: 1219
+zeit_bis_jahr: 1542
+erstellt: 2026-11-03
+geaendert:
+---
 - **Rufname / Beiname:** Der Runensänger
 - **Titel / Amt:** [[Fürst]] von [[Vaylen]]
 - **Haus / Dynastie:** Drachenruf

@@ -1,4 +1,18 @@
+---
+typ: Beschreibung
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Wappen der Liga des Wahren Mets.png|200]]
+_[[Alfons Muchar]], 2475 n.d.D._
+
 Die **[[Liga des wahren Mets]]** ist ein traditionsreicher Bund von Braumeistern, Metbrennern und Hütern alter Gärgeheimnisse. Ihre Mitglieder schwören auf Reinheit, Handwerkskunst und die „wahre Essenz“ des Mets – unverfälscht, heilig und von den Göttern der Fülle gesegnet.  
 
 Gegründet von **[[Baldur Hopfengold]]** und **[[Bims Batzinger]]**, hat sich die Liga über Jahrhunderte hinweg in allen Fürstentümern des Kaiserreiches etabliert. Heute gilt sie nicht nur als Gilde der Metbrauer, sondern auch als **politische Kraft** mit Einfluss an Fürstenhöfen, in Handelsstädten und sogar bei religiösen Zeremonien.  

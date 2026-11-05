@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "3"
+schule: "#Nekromantie"
+konzentration: "nein"
+komponenten: "#Verbal #Geste"
+materialien: "brennender Weihrauch"
+---
 - **Grad:**   3
 - **Schule:**  #Nekromantie 
 - **Ritual:**  nein

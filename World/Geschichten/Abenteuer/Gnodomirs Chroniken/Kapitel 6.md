@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **16 Lichtag Licht 2486 n. d. D.**
 
 Am Morgen erwachten wir am Lagerfeuer zu Füßen des Blutfelses. Der Fels lag düster über uns, und das verfallene Herrenhaus der Familie Bartholdy versprach nichts Gutes. Dennoch beschlossen wir, seine Geheimnisse zu ergründen.

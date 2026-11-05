@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: vorbereitet
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+region: "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 > _„Wer Lorathiel betritt, betritt nicht eine Stadt – sondern das schlagende Herz eines uralten Waldes.“_
 
 Gemeinsprache auch bekannt als **Grünherz**

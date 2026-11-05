@@ -1,3 +1,17 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Funkeln in der Finsternis|Funkeln in der Finsternis]]"
+region:
+  - Schwarzklamm
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Zwergisch: Alte Halle im tiefen Stein
 ## **Die Tiefen Hallen – Die vergessene Schmiede der Dunkelheit**
 
@@ -10,6 +24,7 @@ Zwergisch: Alte Halle im tiefen Stein
 
 **Aktueller Zustand:** Teilweise wiederbesiedelt, größtenteils jedoch verdorben und gefährlich
 ![[TiefeHallen.png|300]]
+_[[Caravagrim Eisenwald]] um 1470 n.d.D._
 
 ---
 
@@ -25,6 +40,8 @@ Die Atmosphäre wechselt abrupt mit jeder Ebene: Oben erklingen Hämmer und Ges�
 ### **Die Rückkehr der Zwerge**
 
 ![[TiefenHallenEbene1.png|300]]
+_[[Caravagrim Eisenwald]] um 1480 n.d.D._
+
 Seit der **Großen Revolution von Hochkönig [[Durngar Schwarzschild]]** und dem Ende des letzten großen Krieges ist unter seiner Führung ein Projekt angelaufen:
 
 > **„Die Heimkehr in den Stein.“**
@@ -50,13 +67,13 @@ Die Tiefen Hallen liegen verborgen hinter einem gewaltigen Steintor, das mit Run
 
 Auf einer versteckten Felswand sind 4 Reliefs in drei Reihen abgebildet.
 1. **Oben:** Ein Zwergenschmied mit rußgeschwärztem Gesicht steht inmitten einer lodernden Schmiede. Über ihm bäumt sich eine gewaltige Flammenbestie auf, doch der Schmied hebt seinen Hammer, aus dessen Schlag Funken wie Sterne regnen.
-   ![[Feuerrelief.png|150]]
+   ![[Feuerrelief.png|150]] _[[Albrund Dürenhammer]] um 2110 n.d.D._
 2. **Mitte [[Links]]:** Eine Zwergenpriesterin schaut in ein unterirdisches Becken, während um sie herum Geister in Wasserspiegelungen erscheinen. Eine Träne fällt von ihrer Wange und wird zu einem glühenden Tropfen auf der Wasseroberfläche.
-   ![[Wasserrelief.png|150]]
+   ![[Wasserrelief.png|150]] _[[Albrund Dürenhammer]] um 2110 n.d.D._
 3. **Mitte Rechts:** Ein junger Zwergenkrieger steht am Rand eines Felsvorsprungs, den Wind in seinem Haar. Um ihn tanzen spiralförmig gezeichnete Linien, in denen Gesichter erscheinen – Erinnerungen, Stimmen, alte Warnungen. Seine Hand greift in den Wind und formt ein Zeichen aus Luft.
-   ![[Windrelief.png|150]]
+   ![[Windrelief.png|150]] _[[Albrund Dürenhammer]] um 2110 n.d.D._
 4. **Unten:** Ein uralter Zwergenrichter kniet vor einem gewaltigen Kristallmonolithen. Aus seinem Hammer wachsen Wurzeln, die sich mit dem Stein vereinen. Die umstehenden Zwerge verbeugen sich, als der Stein selbst ein Auge öffnet.
-	![[Erderelief.png|150]]
+	![[Erderelief.png|150]] _[[Albrund Dürenhammer]] um 2110 n.d.D._
 
 In der Mitte zwischen den Bildern sind 4 Ringe mit Runen zu erkennen. Die Ringe lassen sich in der steinernen Fassade drehen. Die Runen sind alte zwergische Runen die heute nicht mehr verwendet werden:
  1. **[[Links]]:** KAZRÛN, Glut, Zorn, [[Schmiedefeuer]]

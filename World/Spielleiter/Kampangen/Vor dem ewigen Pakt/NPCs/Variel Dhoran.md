@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - Stats [[Der Namensnehmer]]
 - Oberster Bibliothekar in [[Lorathiel]]
 - Leiter der dunklen Weisen der Erben der Nacht

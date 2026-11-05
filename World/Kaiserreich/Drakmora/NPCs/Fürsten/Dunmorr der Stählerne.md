@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Drakmora]]"
+tags: [Fürst]
+zeit_text:
+zeit_von_jahr: 790
+zeit_bis_jahr: 853
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Staehlerne
 - **Titel / Amt:** Fuerst von [[Drakmora]]
 - **Haus / Dynastie:**

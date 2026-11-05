@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 > _„Aus Stein und Glut formte er das Leben. Aus dem Schlag seines Hammers entsprang der Strom. Wo [[Velgrin]] fließt, hallt [[Volgrin]]s Herz.“_  
 > — Inschrift über dem Tor von [[Ur-Gralnir]]
 

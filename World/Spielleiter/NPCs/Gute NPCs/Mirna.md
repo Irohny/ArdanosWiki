@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Klasse & Stufe/Herausfordungsgrad:** NPC, mächtige Zauberin / legendär  
 - **Volk/Herkunft:** Mensch (Gestalt des Drachens Thalmyra)  
 - **Alias:** Alte Mirna  
@@ -57,6 +69,9 @@
 
 ---
 ## Hintergrund
+![[Mirna.png|200]]
+_[[Fransen Halsmark]], um 2065 n.d.D._
+
 Mirna ist die menschliche Erscheinung der antiken bronzenen Drachin Thalmyra. In dieser Form streift sie über Märkte, Tavernen und Küsten, beobachtet die Menschen, gibt seltsame, warnende Ratschläge oder erzählt Geschichten, die mehr Wahrheit enthalten, als die Zuhörer ahnen.  
 
 Sie tritt stets als „Alte Mirna“ auf, harmlos wirkend, doch jeder, der aufmerksam ist, spürt die Weisheit und Macht, die hinter ihren Augen glüht.  

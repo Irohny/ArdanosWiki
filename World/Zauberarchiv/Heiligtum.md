@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "1"
+schule: "#Bannzauber"
+konzentration: "Nein"
+komponenten: "#Verbal  #Geste"
+materialien: "kleiner Silberspiegel"
+---
 - **Grad:**   1
 - **Schule:**  #Bannzauber 
 - **Ritual:**  Nein

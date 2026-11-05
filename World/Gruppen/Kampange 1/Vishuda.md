@@ -1,6 +1,20 @@
+---
+typ: Spieler
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Mönch #Dunkelelf #Spieler 
 
 ![[Vishuda.jpeg|200]]
+_[[Johann Wilhelm Waterhaus]], um 2480 n.d.D._
 
 ---
 ### **Giftrune**

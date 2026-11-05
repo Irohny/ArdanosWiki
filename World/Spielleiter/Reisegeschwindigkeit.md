@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: DM
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 
 > [!info]
 > Diese Werte dienen als Richtlinie für Reisen in **Ardanos**. Die Geschwindigkeiten orientieren sich an den Standardregeln von D&D 5e und wurden um weitere Transportmittel ergänzt.

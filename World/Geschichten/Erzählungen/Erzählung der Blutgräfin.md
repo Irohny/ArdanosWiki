@@ -1,4 +1,19 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-12-28
+geaendert:
+---
 ![[BatholdyVampir.png|200]]
+_[[Heinrik Füsslin]], um 2251 n.d.D._
+
 „Ihr wollt also vom Blutfels hören…?  
 Dann hört gut zu – und überlegt euch danach, ob ihr wirklich hinauf wollt.
 
@@ -10,11 +25,11 @@ Nach und nach drang sie tiefer in die dunklen Künste ein. Sie begann, Blutritua
 
 Während ihre Untertanen alterten, blieb sie jung.
 
-Dann verschwanden Menschen. Erst waren es Fremde und Bettler, später Diener, Reisende und schließlich sogar Bewohner der umliegenden [[Dörfer]]. Nachts hörte man Schreie aus dem Herrenhaus. Niemand wagte es, Fragen zu stellen.
+Dann verschwanden Menschen. Erst waren es Fremde und Bettler, später Diener, Reisende und schließlich sogar Bewohner der umliegenden Dörfer. Nachts hörte man Schreie aus dem Herrenhaus. Niemand wagte es, Fragen zu stellen.
 
 Die Gräfin aber wurde nicht älter. Kein bisschen. Sie lebte weiter, Jahr um Jahr, als hätte der Tod sie vergessen – oder als hätte sie ihm etwas dafür gegeben.
 
-Irgendwann wurde selbst dem König klar, dass etwas nicht stimmte. Er schickte Soldaten zum Blutfels. Sie durchsuchten das Herrenhaus und fanden Hunderte Leichen. Manche waren kaum mehr als Knochen. Andere trugen Spuren unsagbarer Qualen. Tief unter dem Anwesen entdeckten sie eine Folterkammer, erfüllt vom Gestank getrockneten Blutes und dunkler Magie.
+Irgendwann wurde selbst dem [[König]] klar, dass etwas nicht stimmte. Er schickte Soldaten zum Blutfels. Sie durchsuchten das Herrenhaus und fanden Hunderte Leichen. Manche waren kaum mehr als Knochen. Andere trugen Spuren unsagbarer Qualen. Tief unter dem Anwesen entdeckten sie eine Folterkammer, erfüllt vom Gestank getrockneten Blutes und dunkler Magie.
 
 Keiner der Soldaten traute sich, die Gräfin zu berühren.
 

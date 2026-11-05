@@ -1,20 +1,31 @@
-#Gruendung
-#[[Mariven]]
-
-Zeitspanne: 503 n.d.D
-
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text: 503 n.d.D
+zeit_von_jahr: 503
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 # Das Volk von [[Mariven]] – Die Perle der See
 ![[Wappen Mariven.png|200]]
+_[[Gerhart Merkatorn]], um 2125 n.d.D._
+
 [[Mariven]] ist ein florierendes Küstenfürstentum, das für seinen Seehandel, seine prächtigen Hafenstädte und seine florierende Fischerei bekannt ist. Es ist ein Reich der Händler, Seefahrer und Entdecker, das auf Diplomatie, Wohlstand und die Kontrolle der Meere setzt. Die Marivenier sind bekannt für ihren Geschäftssinn, ihre Geschicklichkeit auf dem Wasser und ihre Liebe zur Freiheit.
 
 **Oberhaupt:** [[Lyssander Valera]]
 **Völker:** Menschen, Halbelfen, Elfen
 **Handelswaren:** Edelhölzer, Gewürze, exotische Stoffe, Meeresfrüchte, edle Metalle und magische Artefakte.
-**Gründung:** 503 n.d.D im ersten [[Zeitalter]]. Inselreiche vereinigen sich nach jahrzehntelangen Handelskriegen durch das Seefahrerhaus [[Talvarin]]. Eine konföderale Struktur entsteht.
+**Gründung:** 503 n.d.D im ersten [[Zeitalter]]. Inselreiche vereinigen sich nach jahrzehntelangen Handelskriegen durch das Seefahrerhaus [[Familie Talvarin]]. Eine konföderale Struktur entsteht.
 **Hauptstadt:** [[Verethia]]
 
 ### Geographie & Landschaft
 ![[SeewegeMariven.jpeg|300]]
+_[[Gerhart Merkatorn]] um 2050 n.d.D._
+
 [[Mariven]] erstreckt sich über eine malerische Inselkette und einen schmalen Küstenstreifen, der von geschäftigen Hafenstädten gesäumt ist. Die Kanäle und Wasserstraßen der Inseln sind die Lebensadern des Fürstentums, während elegante Brücken, kunstvolle Gebäude und Marmorkais die Städte prägen. Handelsschiffe aus aller Welt legen in den Häfen an, beladen mit exotischen Waren, Gewürzen und Gold. Der salzige Geruch des Meeres mischt sich mit dem Duft von frischem Fisch und den Räucherwaren der Märkte.
 
 **Die Goldenen Inseln** – Das Herzstück Marivens, eine Gruppe von Handelsinseln ([[Cirellin]], [[Havgrim]], [[Korvalis]], [[Ael'Varin]]) mit prachtvollen Palästen, Kanälen und schwimmenden Märkten. Hier liegen die wichtigsten Handelshäuser, und Verträge werden mit einem Handschlag ebenso besiegelt wie mit Tinte.  

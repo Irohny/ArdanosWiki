@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Schaden"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "382G"
+komponenten: "[[Drachengalle]], [[Glutpulver]], [[Essenz des Zorns]]"
+seltenheit: "Selten"
+---
 
 - Tag: #Schaden 
 - **Komponenten:** [[Drachengalle]], [[Glutpulver]], [[Essenz des Zorns]]

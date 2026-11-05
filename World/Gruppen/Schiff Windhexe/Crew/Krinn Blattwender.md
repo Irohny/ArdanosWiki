@@ -1,10 +1,16 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche und nicht oeffentliche Informationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten
-Metadatenfelder aus dieser Struktur.
--->
-
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Blattwender
 - **Titel / Amt:** Koch und Quartiermeister der [[Windhexe]]
 - **Haus / Dynastie:**
@@ -25,6 +31,7 @@ Metadatenfelder aus dieser Struktur.
 ## Beschreibung und Auftreten
 
 ![[KrinnBlatwender.jpg|200]]
+_[[Gustaf Courbette]], 2482 n.d.D._
 
 [[Krinn Blattwender]] ist der Koch und Quartiermeister der [[Windhexe]] und
 wirkt zugleich wie ein ehemaliger Kaempfer, der die Poesie entdeckt hat.

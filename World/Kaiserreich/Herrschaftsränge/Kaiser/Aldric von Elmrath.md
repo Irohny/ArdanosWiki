@@ -1,7 +1,21 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Goldene Weiser
 - **Titel / Amt:** [[Kaiser]] von [[Ardanos]]
 - **Haus / Dynastie:** [[Elmrath]]
-- **Regentschaft:** 2484 - heute n.d.D.
+- **Regentschaft:**
+	- [[Fürst]] von [[Elmrath]] 2448 - 2484 n.d.D.
+	- [[Kaiser]] 2484 - heute n.d.D.
 - **Spezies / Volk:** Mensch
 - **Herkunft:** [[Elmrath]]
 - **Geburtsjahr:** 2424 n.d.D.
@@ -18,7 +32,7 @@
 
 [[Aldric von Elmrath]] ist der aktuelle [[Kaiser]] von [[Ardanos]] und Bruder von [[Thalric von Elmrath]].
 Er gilt als weise, geduldig und diplomatisch und wird als traditionsbewusster Herrscher wahrgenommen.
-
+Er war einer der beliebtesten Fürsten von [[Elmrath]] in der Geschichte, bis er 2484 n.d.D. nach dem Tod der Kaiserin [[Elsinya Arven]] zum [[Kaiser]] ernannt wurde.
 ## Rolle und Beziehungen
 
 Aldric fuehrt das Reich durch Ausgleich statt durch offene Konfrontation.

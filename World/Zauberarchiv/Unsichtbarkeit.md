@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "2"
+schule: "#Illusion"
+konzentration: "ja"
+komponenten: "#Verbal #Geste #Material"
+materialien: "eine Wimper, mit Gummiarabikum ummantelt"
+---
 - **Grad:**   2
 - **Schule:**  #Illusion 
 - **Ritual:**  Nein

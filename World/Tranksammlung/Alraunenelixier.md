@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Heilung", "Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "21G"
+komponenten: "[[Alraune]], [[Rosenessenz]], [[Silberstaub]]"
+seltenheit: "Häufig"
+---
 
 - Tag: #Heilung #Verbesserung 
 - **Komponenten:** [[Alraune]], [[Rosenessenz]], [[Silberstaub]]

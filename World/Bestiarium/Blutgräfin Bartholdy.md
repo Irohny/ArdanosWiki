@@ -1,8 +1,26 @@
+---
+typ: Monster
+status: dm
+kampagne:
+  - "[[Schatten der Zeit]]"
+region: "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "13"
+volk: "Vampir"
+gesinnung: "#ChaotischBöse"
+ruestungsklasse: 16
+grundlage: "#Book S.193"
+---
 - **Grundlage:** #Book S.193
 - **Stufe/Herausfordungsgrad:** 13
 - **Volk:** Vampir
 - **Herkunft:** [[Mariven]]
-- **Klasse:** #[[Spielleiter/Kampangen/Schatten der Zeit/Materialien/Monster|Monster]]
+- **Klasse:** #Untod 
 - **Alias:**
 - **Alter:**
 - **Gesinnung:** #ChaotischBöse

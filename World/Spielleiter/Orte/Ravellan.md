@@ -1,1 +1,0 @@
-Entferntes Land über die See Herkunft von [[Gnodomir]] und Gnot.

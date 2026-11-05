@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "0"
+schule: "#Bannzauber"
+konzentration: "ja"
+komponenten: "#Verbal #Geste"
+materialien: "Miniaturumhang"
+---
 - **Grad:**   0
 - **Schule:**  #Bannzauber 
 - **Ritual:**  nein

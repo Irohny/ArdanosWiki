@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Zwergisch:  Silberne Wachhalle
 
 Kheris-Drakara bewacht den nördlichen Ausgang des Khaz-Grimdur in den rauen Landen von **[[Drakmora]]**.  

@@ -1,3 +1,17 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-25
+---
 Magie der Runen.
 
 ---
@@ -8,6 +22,9 @@ Magie der Runen.
 
 ---
 ![[Blutrune des Heiligen Ritus „Volgrins Licht“]]
+
+---
+![[Blutrune der Morgendämmerung „Erstes Licht“]]
 
 ---
 ![[Feuerrune „Glutkette“]]
@@ -23,5 +40,8 @@ Magie der Runen.
 
 ---
 ![[Wolkenrune „Wandernder Schlag“]]
+
+---
+![[Blutrune der Morgendämmerung „Erstes Licht“]]
 
 ---

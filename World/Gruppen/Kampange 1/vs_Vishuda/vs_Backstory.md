@@ -1,3 +1,16 @@
+---
+typ: Spieler
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 [[Vishuda]] wurde als Waisenkind in die kalten Kammern des [[Schattenblütengarten]]s gebracht – einem geheimen Kloster am Rande des [[Helmbrach-Massiv]]s, wo Disziplin, Schweigen und Tod zur zweiten Natur werden. Dort lernte er zu schweben, zu schlagen, zu töten – und zu schweigen. Der Orden der lautlosen Blüte ([[Tashiro'en]]) war nicht nur seine Heimat, sondern sein Fleisch, sein Atem, seine Existenz.
 
 Sein Meister war **[[Shien Valtrok]]**, _Das letzte Blatt_, ein legendärer Attentäter, Philosoph und Lehrer. Shien predigte, dass der wahre Sieg nicht im Kampf, sondern in der vollendeten Kontrolle über sich selbst liege. "Wenn du bist wie das letzte Blatt im Herbst – ruhig, schön, tödlich – wirst du nie fallen."

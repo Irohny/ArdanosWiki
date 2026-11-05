@@ -1,9 +1,16 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche und nicht oeffentliche Informationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten
-Metadatenfelder aus dieser Struktur.
--->
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 
 - **Rufname / Beiname:** Prinz [[Federbart]]
 - **Titel / Amt:** Ausguck und Scharfschuetze der [[Windhexe]]
@@ -24,6 +31,7 @@ Metadatenfelder aus dieser Struktur.
 ## Beschreibung und Auftreten
 
 ![[Federbart.jpg|200]]
+_[[Gustaf Courbette]], 2482 n.d.D._
 
 [[Federbart]], von der Crew gerne "Prinz" genannt, dient der [[Windhexe]]
 als Ausguck und Scharfschuetze.

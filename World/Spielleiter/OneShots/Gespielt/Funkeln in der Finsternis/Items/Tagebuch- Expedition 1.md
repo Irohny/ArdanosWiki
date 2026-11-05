@@ -1,5 +1,0 @@
-Heute war ein Tag der Entdeckungen – und des Staunens. Nach Wochen des Grabens, des Kartenvergleichens und endlosen Diskussionen mit Varrik (dessen Sturheit sich letztlich doch als hilfreich erwiesen hat), fanden wir den Zugang zur verborgenen Tür der Tiefen Hallen. 
-
-Die Gänge dahinter sind alt. Sehr alt. Der Fels trägt Spuren uralter Arbeit, jedoch auch das Zittern von Dingen, die hier nicht schlafen. Die Schächte, durch die wir klettern mussten, schienen absichtlich verschlungen, verwirrend – als wolle jemand den Weg verschleiern. Doch an den Rändern fanden wir Leuchtmarkierungen in alter zwergischer Handschrift. Ich glaube, Caelumbran selbst hat sie hinterlassen. Er wollte nicht vergessen werden.
-
-Am Abend lagern wir in einer Grotte mit einem unterirdischen Wasserlauf. Die Luft ist kühl, aber die Vorfreude in der Gruppe spürbar. Morgen dringen wir tiefer in den alten Komplex vor. Wenn meine Berechnungen stimmen, sind wir nah an der Schmiedehalle. Nah an dem, was wir suchen.

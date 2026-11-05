@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 # 1. Anschlag
 ### Klartext:
 Bankett Abend.

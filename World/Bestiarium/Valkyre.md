@@ -1,3 +1,20 @@
+---
+typ: Monster
+status: dm
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "7"
+volk: "#Göttlich"
+gesinnung: "#RechtschaffendGut"
+ruestungsklasse: 16
+grundlage: "#Online"
+---
 # Valkyre
 
 - **Grundlage:** #Online

@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "1"
+schule: "#Bannzauber"
+konzentration: "ja"
+komponenten: "#Verbal #Geste"
+materialien: "Weihwasser oder Silber -und Eisenpulver (wird verbraucht)"
+---
 - **Grad:**   1
 - **Schule:** #Bannzauber   
 - **Ritual:**  Nein

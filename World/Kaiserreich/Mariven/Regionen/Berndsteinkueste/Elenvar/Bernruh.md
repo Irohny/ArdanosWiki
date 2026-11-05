@@ -1,3 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 _Siedlung am Nordufer des [[Lumaros]] ([[Bernsteinküste]] von [[Mariven]])_
 
 **[[Bernruh]]** liegt nördlich der [[Stromkrone]] auf marivener Seite und wuchs aus einem wilden Markt- und Rastplatz zu einer lebhaften Grenzsiedlung heran. Während [[Nordtor]] Ordnung und Kontrolle ausstrahlt, wirkt [[Bernruh]] freier, geschäftiger und lauter.

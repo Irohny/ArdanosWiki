@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "9"
+schule: "#Verwandlung"
+konzentration: "ja"
+komponenten: "#Verbal #Geste #Material"
+materialien: "ein Jadediadem im Wert von mindestens 1.500 GM, das du aufsetzen musst, bevor du den Zauber wirkst"
+---
 - **Grad:**   9
 - **Schule:**  #Verwandlung 
 - **Ritual:** Nein  

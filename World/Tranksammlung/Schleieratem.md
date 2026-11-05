@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Gift", "Inhalationsgift"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "176G"
+komponenten: "[[Nebelpilzsporen]], [[Silbergift]], [[Zwielichtmoos]]"
+seltenheit: "Selten"
+---
 - Tag: #Gift #Inhalationsgift
 - **Komponenten:** [[Nebelpilzsporen]], [[Silbergift]], [[Zwielichtmoos]]
 - **Wert:** 176G

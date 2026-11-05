@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+  - "[[Vaylen]]"
+tags:
+  - Fürst
+zeit_text:
+zeit_von_jahr: 1872
+zeit_bis_jahr: 2153
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Bann der Dunkelheit
 - **Titel / Amt:** [[Fürst]] von [[Vaylen]]
 - **Haus / Dynastie:** Drachenruf

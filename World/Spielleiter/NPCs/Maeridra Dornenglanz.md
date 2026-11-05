@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Titel:** Die Erzfee, "Herrin der stillen Ernte"  
 **Art:** Erzfee (Archfey)  
 **Gefängnis:** [[Schattenherz]]  

@@ -1,3 +1,15 @@
+---
+typ: Allgemeine Szene
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Schreie erklingen aus dem Hafen. "Der Drache brennt ...", "Schnell wir müssen löschen!"
 - Im Hafen angekommen:
 	- Chaos

@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Schwarzklamm]]"
+tags: [König]
+zeit_text:
+zeit_von_jahr: 487
+zeit_bis_jahr: 604
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** [[Kargan Goldader]]
 - **Titel / Amt:** Fürst der [[Schwarzklamm]]
 - **Haus / Dynastie:**

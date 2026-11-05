@@ -1,3 +1,18 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Mordrak Runenglut]]"
+  - "[[Schatten der Zeit]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### **Wolkenrune „Wandernder Schlag“**
 ![[Wolkenrune.jpeg|100]]
 Ich habe heute eine Rune geschaffen, die einen Treffer nicht aufhält, sondern ihn fehlleitet.

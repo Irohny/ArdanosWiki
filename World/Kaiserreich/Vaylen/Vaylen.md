@@ -1,10 +1,21 @@
-#Gruendung
-#[[Vaylen]]
-
-Zeitspanne: 441 n.d.D
-
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+  - "[[Vaylen]]"
+tags:
+  - Gründung
+zeit_text: 441 n.d.D
+zeit_von_jahr: 441
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 # Das Volk von [[Vaylen]] – Das Reich der Magie und des Wissens
 ![[Wappen Vaylen.png|200]]
+_[[Wilhelm Blaecke]], um 2410 n.d.D._
+
 Hoch über den Nebeln der Welt, in Türmen aus schimmerndem Stein und von uralten Drachen bewachten Bibliotheken, liegt [[Vaylen]] – das Fürstentum der Gelehrten, Zauberer und Drachengeborenen. Hier regieren Wissen und arkanes Können über Stahl und Münzen.
 
 Die Bewohner Vaylens sehen sich als Bewahrer uralter Mysterien und Architekten der Zukunft. Doch ihre kühle Rationalität und ihre oft unverständlichen Experimente haben ihnen den Ruf eingebracht, weltfremd und gefährlich zu sein.
@@ -18,7 +29,7 @@ Die Bewohner Vaylens sehen sich als Bewahrer uralter Mysterien und Architekten d
 
 ![[Schwebenden Inseln von Arcanis]]   
 ![[Velithor]]
-![[Stille Akademie]]
+![[Qor’Valeth]]
 ![[Kristallsee]]
 [[Vaylen]] ist ein Land der Ruhe und des Wissens, ein Ort, an dem die Menschen den Blick nach innen richten, auf der Suche nach der Wahrheit, die sich jenseits des Sichtbaren verbirgt.
 
@@ -46,6 +57,7 @@ Die meisten Vaylenier verbringen ihr Leben mit Studien in einer der großen Akad
 ## Magie & Forschung
 [[Vaylen]] ist der unangefochtene Vorreiter in magischer Forschung und Wissenschaft.
 
+**Das Arkanum** – Der Magierorden des Kaiserreichs. Seine acht Erzmagier bilden den [[Achterzirkel]], der Forschung und Lehre im ganzen Reich ordnet, Kaiser und Fürsten berät und das Wissen der Magie sammelt und bewahrt. Sein Sitz ist die [[Qor’Valeth]]. Siehe [[Das Arkanum]].
 **Die Akademie von Eldrion** – Zentrum für arkane Studien, wo die besten Zauberer der Welt ausgebildet werden.
 **Die Alchemisten von Rhun’Thal** – Meister der Transmutation und Erfinder legendärer Tränke.
 **Die Runenschmiede** – Handwerker, die magische Waffen und Artefakte erschaffen, oft für [[Drakmora]] und [[Elmrath]].

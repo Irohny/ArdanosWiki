@@ -1,11 +1,18 @@
-#Krieg
-#[[Elmrath]]
-#[[Mariven]]
-
-Zeitspanne: 1358 - 1402 n.d.D
-
-**1358–1402 n.d.D.**
-
+---
+typ: Geschichte
+status: kanon
+kampagne:
+region:
+  - "[[Elmrath]]"
+  - "[[Mariven]]"
+tags:
+  - Krieg
+zeit_text: 1358 - 1402 n.d.D
+zeit_von_jahr: 1358
+zeit_bis_jahr: 1402
+erstellt: 2026-11-03
+geaendert:
+---
 **Konfliktparteien:** [[Mariven]] vs. [[Elmrath]]
 
 **Ursache:**  

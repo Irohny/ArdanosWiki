@@ -1,3 +1,16 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-10-28
+geaendert:
+---
 Länge: 320km
 Reisedauer: 8 Tage
 Der [[Kronpass]] ist ein alter Gebirgspfad über die **[[Nordfels-Krone]]**, der heute nur noch selten genutzt wird.  

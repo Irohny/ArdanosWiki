@@ -1,6 +1,18 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Nachdem die mächtigste Stadt der goldenen Inseln ([[Runanthis]]) vom Meer zerstört wurde, brach ein fast 50 jähriger Krieg zwischen den Inseln aus.
 
-Erst das Seefahrerhaus [[Talvarin]] gelang es, die zerstrittenen Inselreiche an einen Tisch zu bringen.
+Erst das Seefahrerhaus [[Familie Talvarin]] gelang es, die zerstrittenen Inselreiche an einen Tisch zu bringen.
 
 Die Überlieferung schreibt Talvarins Gesandten die Worte zu:
 

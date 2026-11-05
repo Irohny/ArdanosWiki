@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: vorbereitet
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:**
 - **Haus / Dynastie:**
@@ -11,9 +23,6 @@
 - **Verknüpfte Orte:** 
 - **Verknüpfte NPCs:** 
 - **Bekannt für:** 
-- **Erste Erwähnung:** 
-- **Tags:** 
-
 ## Beschreibung und Auftreten
 
 

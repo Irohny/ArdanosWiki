@@ -1,3 +1,20 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-03
+geaendert:
+grad: "2"
+schule: "#Verzauberung"
+konzentration: nein
+komponenten: "#Verbal #Geste"
+materialien: "- **Dauer/Wirkung:** 10min"
+---
 - **Grad:**   2
 - **Schule:**  #Verzauberung 
 - **Ritual:**  nein

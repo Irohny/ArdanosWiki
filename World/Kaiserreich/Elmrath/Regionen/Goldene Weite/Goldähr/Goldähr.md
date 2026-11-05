@@ -1,6 +1,20 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+region:
+  - "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 [[Goldähr]] ist eine der ältesten und bedeutendsten Städte von [[Elmrath]]. Sie liegt im Herzen der fruchtbaren Ebenen der **[[Goldene Weite]]** und ist von weiten Feldern, Obstgärten und kleinen Dörfern umgeben. Ihre goldenen Kornfelder, die sich bis zum Horizont erstrecken, gaben der Stadt einst ihren Namen.
 
-Im **Ersten [[Zeitalter]]** war [[Goldähr]] die größte Stadt der [[Goldene Weite|Goldenen Weite]] und der nördlichen Gebiete der [[Himmelshöfe]]. Als wichtiges Handels- und Verwaltungszentrum verband sie die Waldlande des Immergrünen Hains mit den offenen Ebenen des Südens. Besonders bekannt war die Stadt für ihre großen Tempelanlagen: die [[Ährenhalle]] den ehrwürdigen **[[Sylvaldis]]-Tempel**, der den Einklang mit Natur und Leben verkörperte, sowie dien mächtige [[Sonnenturm]] der **[[Solyra]]-Tempel**, dessen Türme weithin über die Felder sichtbar waren.
+Im **Ersten [[Zeitalter]]** war [[Goldähr]] die größte Stadt der [[Goldene Weite|Goldenen Weite]] und der nördlichen Gebiete der [[Himmelshöfe]]. Als wichtiges Handels- und Verwaltungszentrum verband sie die Waldlande des [[Kaiserreich/Elmrath/Regionen/Dämmerwald/Dämmerwald|Dämmerwald]]s mit den offenen Ebenen des Südens. Besonders bekannt war die Stadt für ihre großen Tempelanlagen: die [[Ährenhalle]] den ehrwürdigen **[[Sylvaldis]]-Tempel**, der den Einklang mit Natur und Leben verkörperte, sowie dien mächtige [[Sonnenturm]] der **[[Solyra]]-Tempel**, dessen Türme weithin über die Felder sichtbar waren.
 
 Während des **Zweiten Zeitalters** wurde [[Goldähr]] zur Residenz der Fürsten von [[Elmrath]]. Mit der Gründung des Fürstentums verlagerte sich die politische Macht zunehmend aus den Wäldern in die landwirtschaftlich geprägten Regionen der [[Goldene Weite]]. Über viele Generationen hinweg wurden von [[Goldähr]] aus Gesetze erlassen, Bündnisse geschlossen und die Geschicke [[Elmrath]]s gelenkt ([[Goldähr Sitz der Fürsten von Elmrath]]).
 

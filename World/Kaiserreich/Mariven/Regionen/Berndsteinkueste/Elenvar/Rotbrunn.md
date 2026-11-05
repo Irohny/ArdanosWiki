@@ -1,3 +1,17 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Fürstentum: [[Mariven]], [[Bernsteinküste]]
 ![[Rotbrunn.jpeg|400]]
 [[Rotbrunn]] ist eine kleine, abgelegene Siedlung am Fuße des Blutfels, umgeben von dichten Wäldern und kargen Feldern. Die Häuser sind aus dunklem Holz und grobem Stein gebaut, ihre Dächer vom Wind und den Jahren gezeichnet. Ein alter Brunnen auf dem Marktplatz gibt der Stadt ihren Namen – sein Wasser schimmert bei bestimmten Lichtverhältnissen leicht rötlich.

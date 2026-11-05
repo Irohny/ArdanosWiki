@@ -1,0 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
+Der **[[Nachtgarten]]** liegt in einem abgeschiedenen Innenhof der verfallenen Festung, verborgen zwischen eingestürzten Wehrgängen und dunklen, vom Regen geglätteten Mauern. Einst war er vermutlich der Ziergarten eines Burgherrn; die [[Tashiro'en]] haben ihn zu einem Ort stiller Übungen, geheimer Treffen und nächtlicher Rituale gemacht.
+
+Schmale Steinpfade führen durch schwarze Orchideen, silbern geränderte Mondlilien und flache Wasserbecken, in denen sich der Himmel wie in dunklem Glas spiegelt. Knorrige Kiefern und niedrige Ahornbäume werfen selbst bei Mondlicht tiefe Schatten. Purpurne Kristalllaternen leuchten nur schwach und lassen den Garten größer wirken, als er sein dürfte. Wer den [[Nachtgarten]] betritt, hat das Gefühl, beobachtet zu werden – nicht von Wachen, sondern vom Garten selbst.

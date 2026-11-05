@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - typ == "Monster"
+    order:
+      - file.name
+      - stufe
+    sort:
+      - property: stufe
+        direction: ASC

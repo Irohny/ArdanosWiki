@@ -1,6 +1,19 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **14. Gnadentag –15. Gluttag Licht, 2486 n.d.D.** 
 
-Gemeinsam mit dem Kapitän beschlossen wir, Kurs auf [[Nebelhafen]] zu nehmen und unterwegs Ausschau nach der _Windblut_ sowie der _Goldenen Morgendämmerung_ zu halten. Während der Reise blieb Zeit für Gespräche. Wir berichteten dem Marktgrafen mehr über das Attentat, das ihn beinahe das Leben gekostet hätte. Dabei erfuhren wir auch, dass [[Edran Tiefstrom]] und [[Selvian Korth]] — einst Paladine von [[Elyander Goldschild|Elyander Goldschild]] dem ersten Kaiser — spurlos verschwunden sind. Keine gute Kunde in diesen Zeiten.
+Gemeinsam mit dem [[Kapitän]] beschlossen wir, Kurs auf [[Nebelhafen]] zu nehmen und unterwegs Ausschau nach der _Windblut_ sowie der _Goldenen Morgendämmerung_ zu halten. Während der Reise blieb Zeit für Gespräche. Wir berichteten dem Marktgrafen mehr über das Attentat, das ihn beinahe das Leben gekostet hätte. Dabei erfuhren wir auch, dass [[Edran Tiefstrom]] und [[Selvian Korth]] — einst Paladine von [[Elyander Goldschild|Elyander Goldschild]] dem ersten [[Kaiser]] — spurlos verschwunden sind. Keine gute Kunde in diesen Zeiten.
 
 Auch [[Bruder Markus]] wirkt schwer belastet. Zweimal geschlagen, ringt er sichtbar mit seinem Glauben und seinem Selbstbild. Ich bete, dass das Licht ihn nicht verlässt.
 

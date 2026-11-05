@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - '!file.folder.contains("Images")'
+        - '!file.folder.contains("Vorlagen")'
+        - '!file.path.contains("Datenbanken")'
+        - '!file.name.endsWith(".yaml")'
+        - and:
+            - '!file.name.endsWith("png")'
+    order:
+      - file.name
+      - kampagne
+      - status
+      - typ
+    sort:
+      - property: status
+        direction: ASC
+      - property: typ
+        direction: ASC
+      - property: kampagne
+        direction: ASC

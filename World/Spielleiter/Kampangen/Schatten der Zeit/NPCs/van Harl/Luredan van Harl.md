@@ -1,3 +1,17 @@
+---
+typ: NPC
+status: draft
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-11-01
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** [[General]]
 - **Haus / Dynastie:** [[van Harl]]
@@ -30,4 +44,6 @@
 - Hat keinerlei Erinnerung an [[Hector]].
 ## Kampfwerte
 
+🔶 Vorschlag (nicht kanonisch): Kampfwerte für 4 Spieler der Stufe 4 siehe [[Luredan van Harl (Kampfwerte)]] im Bestiarium. *(Die frühere Version für Stufe 6–8 wurde ersetzt.)*
 
+---

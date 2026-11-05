@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Schwarzklamm]]"
+tags: [König]
+zeit_text:
+zeit_von_jahr: 2058
+zeit_bis_jahr: 2319
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:**
 - **Titel / Amt:** König und später Fürst von [[Schwarzklamm]]
 - **Haus / Dynastie:** Felsenherz

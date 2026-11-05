@@ -1,8 +1,16 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region: "[[Drakmora]]"
+tags: [Fürst]
+zeit_text:
+zeit_von_jahr: 2233
+zeit_bis_jahr: 2344
+erstellt:
+geaendert:
+---
 
 - **Rufname / Beiname:** Fürst der reinen Stärke
 - **Titel / Amt:** Fürst von [[Drakmora]]

@@ -1,3 +1,15 @@
+---
+typ: Beschreibung
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Der [[Klan Seelenhauch]] ist ein geheimer und mystischer Kriegerbund, der die Kunst der **Seelenmagie** perfektioniert hat. Sie binden die Essenz verstorbener Krieger an ihre Waffen, wodurch diese übernatürliche Stärke und Macht erhalten. Ihre Magie ist gleichermaßen gefürchtet wie bewundert – ihre Waffen tragen den Hauch vergangener Leben, und ihre Gegner spüren oft den eisigen Griff der Geister, die ihnen entgegentreten.
 
 **Historie:**  

@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Grüne
 - **Titel / Amt:** [[Baron]] & Botschafter für Landwirtschaft und Ressourcen aus [[Elmrath]]
 - **Haus / Dynastie:**
@@ -17,6 +30,7 @@
 ## Beschreibung und Auftreten
 
 ![[GarronDerGruen.png|250]]
+_[[Johann Wilhelm Waterhaus]], um 2480 n.d.D._
 
 Garron ist ein hochrangiger Vertreter der elmrathischen Landwirtschaftsgilde und verhandelt Handelsabkommen rund um Getreide, Vieh und Naturprodukte.
 Er wirkt bodenstaendig, stark und offen fuer neue wirtschaftliche Chancen.

@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "207G"
+komponenten: "[[Golemstaub]], [[Eisenkraut]], [[Trollblut]]"
+seltenheit: "Selten"
+---
 - Tag: #Verbesserung 
 - **Komponenten:** [[Golemstaub]], [[Eisenkraut]], [[Trollblut]]
 - **Wert:** 207G

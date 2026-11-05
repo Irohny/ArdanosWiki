@@ -1,5 +1,19 @@
+---
+typ: Spieler
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Mensch #Paladin #Spieler
 ![[Hector.jpeg|200]]
+_[[Arthur Rackhame]], um 2460 n.d.D._
 
 ---
 ### **Feuerrune**

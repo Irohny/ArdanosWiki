@@ -1,10 +1,19 @@
 ---
+typ: Beschreibung
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
 name: Die Paladine des Goldschildes
 type: Geschichte
 date: "2160"
 tags:
   - Erzählung
-status: dm
+status: draft
 ---
 
 
@@ -17,5 +26,5 @@ Die letzten Informationen, die man hatte stehen in den Chorniken und Büchern, d
 - [[Edran Tiefstrom]] verschwand laut Gerüchten auf der [[Azure Rune]] bei einer Expedition mit [[Candamir Silberhand]]
 - [[Lady Caelira von Thornewald]] 
 - [[Milo von Kroton]] soll in den Bergen des [[Aschenamm]]s gesehen worden sein. Sein einst strahlender Eifer gebrochen
-- [[Selvian Korth]] verschwand in den tiefen des [[Immergrüner Hain]] und wurde nie wieder gesehen
+- [[Selvian Korth]] verschwand in den tiefen des [[Kaiserreich/Elmrath/Regionen/Dämmerwald/Dämmerwald]] und wurde nie wieder gesehen
 - [[Sir Daryn Velios]]

@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert: 2026-10-19
+grad: "3"
+schule: "#Illusion"
+konzentration: "Ja"
+komponenten: "#Verbal #Geste #Material"
+materialien: "eine weiße Feder oder das Herz einer Henne"
+---
 - **Grad:**   3
 - **Schule:**  #Illusion 
 - **Ritual:**  Nein

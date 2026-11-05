@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Bizeptiner
 2285 n.d.D. erhielt Land in den [[Drachengründe]] in Norden [[Drakmora]] von [[Torgak Eisenbrand]]
 2287 n.d.D Gründung des [[Bizeptiner Orden]]s durch ihn und ein paar seiner Schüler, die sich ihm in den letzten Jahren angeschlossen hatten

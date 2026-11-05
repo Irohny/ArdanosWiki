@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **18 Nebeltag - 22. Gluttag Licht, 2486 n. d. D.**
 
 Gemeinsam mit den [[Drei Klingen der Gezeiten]] erreichten wir [[Wellenhort]]. Für die Nächte gewährten sie uns Unterkunft in ihrer [[Klingenstube]]; den ersten Abend verbrachten wir jedoch in der Taverne _Zum Salzanker_.
@@ -6,7 +19,7 @@ Dort erfuhren wir, dass [[Elaena Silberhand]] nach dem Großen Sturm mit der _Go
 
 Ihre [[Nachrichten]] waren bitter: [[Kapitän Havoc]] und [[Thavos Windzunge]] hatten das Schiffsunglück nicht überlebt und waren hier in [[Wellenhort]] beigesetzt worden. [[Federbart]], [[Reodemus]] und [[Nyssara Elenvyre]] hingegen galten weiterhin als vermisst.
 
-Dann erreichte uns die Kunde, dass die _Wellendrache_ brannte – jenes Schiff, das Krinn und Bramwell gerettet hatte. Wir rannten zum Hafen, retteten die letzten Matrosen aus den Flammen und bargen eine Truhe mit den Habseligkeiten Kapitän Havocs. Als Dank übergab uns Bramwell die [[Karte der Vergessenen]], ein Relikt aus Havocs Besitz. Ich kann nicht sagen, wohin sie uns führen wird, doch eine Karte, die einen solchen Namen trägt, ist selten ohne Bedeutung.
+Dann erreichte uns die Kunde, dass die _Wellendrache_ brannte – jenes Schiff, das Krinn und Bramwell gerettet hatte. Wir rannten zum Hafen, retteten die letzten Matrosen aus den Flammen und bargen eine Truhe mit den Habseligkeiten [[Kapitän]] Havocs. Als Dank übergab uns Bramwell die [[Karte der Vergessenen]], ein Relikt aus Havocs Besitz. Ich kann nicht sagen, wohin sie uns führen wird, doch eine Karte, die einen solchen Namen trägt, ist selten ohne Bedeutung.
 
 Am nächsten Tag brachte [[Hector]] die Runensteine aus der Schatzkammer des Kaisers und das Buch über Blutrunenmagie zu einem Schmied. Aus diesen Materialien ließ er magische Verbesserungen für unsere Gemeinschaft anfertigen. [[Bruder Markus]] stellte unterdessen erneut seine Kraft unter Beweis: In einem Armdrückwettbewerb besiegte er Ebbe, den Wirt des Salzankers.
 

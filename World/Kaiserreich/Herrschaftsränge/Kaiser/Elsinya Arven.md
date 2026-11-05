@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Die Sonnengeweihte
 - **Titel / Amt:** Kaiserin von [[Ardanos]]
 - **Haus / Dynastie:** Arven

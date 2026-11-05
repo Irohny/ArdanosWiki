@@ -1,8 +1,21 @@
+---
+erstellt:
+geaendert:
+kampagne:
+region:
+status: DM
+tags: []
+typ: Monster
+stufe:
+volk:
+gesinnung:
+ruestungsklasse:
+grundlage:
+zeit_bis_jahr:
+zeit_text:
+zeit_von_jahr:
+---
 # Monstername
-
-<!-- Pflichtfelder im Kopf immer ausfüllen. -->
-<!-- Leere optionale Kampfsektionen bitte löschen statt leer stehen lassen. -->
-
 - **Grundlage:** #Homebrew
 - **Stufe/Herausfordungsgrad:**
 - **Volk:**
@@ -13,26 +26,7 @@
 - **Gesinnung:**
 - **Sprachen:**
 - **Merkmale:**
-
-<!-- Optional: nur ergänzen, wenn die automatische Ableitung nicht reicht. -->
-<!--
-## Katalog-Metadaten
-
-- **Katalog-Key:**
-- **Strategie-Override:**
-- **Tags-Override:**
-- **Threat-Override:**
-- **Action-Override:**
-- **Volatilität-Override:**
-- **Legendäre Aktionen-Override:**
-- **Legendäre Resistenzen-Override:**
-- **Phasenwechsel-Override:**
-- **Beschwörung-Override:**
-- **Katalog-Hinweis:**
--->
-
 ---
-
 ## Eigenschaften
 
 - **Rüstungsklasse (RK)/Rüstung:**
@@ -52,9 +46,7 @@
 - **Immunitäten:**
 - **Resistenzen:**
 - **Schwächen:**
-
 ---
-
 ## Aktionen
 
 ### Standard
@@ -66,20 +58,15 @@
 - **Beispielname:**
   - Effektbeschreibung
 
-<!-- Optional: nur behalten, wenn vorhanden. -->
 ### Bonusaktionen
 
 - **Beispielname:**
   - Effektbeschreibung
 
-<!-- Optional: nur behalten, wenn vorhanden. -->
 ### Reaktionen
 
 - **Beispielname:**
   - Effektbeschreibung
-
-<!-- Optional: nur behalten, wenn vorhanden. -->
-<!-- Zauber bitte möglichst als Liste aufführen. -->
 ### Zauber
 
 **Zauberplätze:**
@@ -92,7 +79,6 @@
 
 - [[Zaubername]]
 
-<!-- Optional: nur behalten, wenn vorhanden. -->
 ### Legendenaktionen
 
 - **Beispielname:**

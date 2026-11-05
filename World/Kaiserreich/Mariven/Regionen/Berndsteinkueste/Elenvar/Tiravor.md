@@ -1,3 +1,17 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+  - "[[Mord und Verlobung]]"
+region:
+  - "[[Mariven]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 > _„Der [[Lumaros]] vergisst nie. Seine Wasser tragen Erinnerungen – und [[Tiravor]] bewacht sie.“_
 
 An den sanften Ufern des mächtigen **[[Lumaros]]**, auf der Seite des Königreichs **[[Mariven]]**, liegt die kleine, aber traditionsreiche Stadt **[[Tiravor]]**. Hier, wo die Strömung langsamer wird und die steile Küste etwas abflacht, hat sich eine Gemeinde entwickelt, die stolz auf ihre Vergangenheit blickt – und wachsam in die Zukunft schaut.
@@ -67,5 +81,11 @@ Und manche schwören, dass der [[Lumaros]] in stürmischen Nächten dunkler flie
     
 - Alte Berichte im Garnisonsarchiv deuten darauf hin, dass **der Dämon nicht zufällig [[Tiravor]] wählte**.
     
-
-![[sl_NPCs_Tiravor]]
+## Geheime Informationen
+- **[[Hauptmann]] Virelda Thorne**: Kommandantin der Grenzwache, hart aber gerecht, einst Heldin an der Nordgrenze.
+    
+- **Mirun der Ältere**: Der Flusschronist, ein alter Gelehrter mit Liebe zu Legenden über das Wasser.
+    
+- **Revai „Sechsaugen“**: Exzentrische Fischerin, behauptet, sie sehe „Geister auf der Insel“.
+    
+- **Der Einsiedler von Darnûn**: Ein ehemaliger [[Soldat]], lebt zurückgezogen im alten Westturm und spricht in Rätseln.

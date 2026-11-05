@@ -1,67 +1,79 @@
+---
+typ: Monster
+status: vorbereitet
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "7"
+volk: "#Unhold"
+gesinnung: "Rechtschaffend Böse"
+ruestungsklasse: 16
+grundlage: "#Homebrew"
+---
 ![[SerValkor.jpeg|200]]
-# [[Ser Vakor]]
+_[[Francisko de Goyar]], um 2480 n.d.D._
 
 - **Grundlage:** #Homebrew 
-- **Stufe/Herausfordungsgrad:** 10
-- **Volk:** #Tiefling 
+- **Stufe/Herausfordungsgrad:** 7
+- **Volk:** #Unhold
 - **Herkunft:**  #[[Drakmora]]   
-- **Klasse:** #Paladin 
+- **Klasse:** 
 - **Alias:** __Klinge der Verdammnis__
-- **Alter:** 65
+- **Alter:** 653
 - **Gesinnung:** Rechtschaffend Böse 
-- **Sprachen:** #Infernalisch #Abysisch #Gemeinsprache #Orkisch
+- **Sprachen:** Abyssisch, Telepathie 36 m
 - **Merkmale:**  Erfahrender Veteran, Stratege, Ruhig
 - **Ideale:**  
 - **Bindungen:**  
 ---
 ## Eigenschaften
-- **Rüstungsklasse (RK)/ Rüstung:** 18 Verdammnisrüstung 
-- **Waffen:** __Schwert -Wehklage der Gefallenden-__ 
+- **Rüstungsklasse (RK)/ Rüstung:** 16 
+- **Waffen:** 
+	- __Schwert -Wehklage der Gefallenden-__
 - **Initiative:** +2
 - **Bewegung:** 9m
-- **Trefferpunkte:** 142 / 17W8 +68 
+- **Trefferpunkte:** 153 (18W10 + 54)
 - **Trefferwürfel:** 10W10
-- **Passive Wahrnehmung:** 15
+- **Passive Wahrnehmung:** 11
 - **Fertigkeiten:**
-	- Dunkelsicht 18m
-	- Einschüchtern +10 + Vorteil durch Rüstung
-	- Wahrnehmung +5
-	- Religion +4
+	- Dunkelsicht 36m
+	- Rettungswürfen gegen Zauber und andere magische Effekte im Vorteil.
+	- kann sich als Bonusaktion bis zur halben Bewegungsrate auf eine Kreatur zubewegen, die er sehen kann.
 
 |           | Stärke<br> | Geschick.<br> | Konsti.<br> | Intelligenz | Weisheit | Charisma |
 | --------- | ---------- | ------------- | ----------- | ----------- | -------- | -------- |
-| Attribute | 20(+5)     | 14(+2)        | 18(+4)      | 10(+0)      | 12(+1)   | 18(+4)   |
-| Rettungs. | +9         |               | +8          |             |          | +9       |
-- **Immunitäten:** Feuer, Krankheit
-- **Resistenzen:** Nekrotisch, Gift
+| Attribute | 18(+4)     | 14(+2)        | 16(+3)      | 10(+0)      | 13(+1)   | 15(+2)   |
+| Rettungs. | +7         | +2            | +4          | 0           | +4       | +2       |
+- **Immunitäten:** 
+	- Gift
+- **Resistenzen:** 
+	- Kälte, Feuer, Blitzschaden; 
+	- Wucht-, Hieb- und Stichschaden durch nichtmagische Angriffe
 - **Schwächen:** 
 
 ---
 ## Aktionen
 
 ### Standard
-- **Verdammnisklinge (Magisches Großschwert): Multiattacke 2x** 
-	- +9 Angriff, 2W6+5 Hiebschaden + 2W8 nekrotischer Schaden
-    - _Effekt:_ Bei einem Kritischen Treffer flüstert die Waffe in Infernal → Ziel muss einen **Weisheitsrettungswurf (SG 15)** bestehen oder 1 Minute unter **[[Furcht]]** leiden
-
-- **Höllisches Ausbrennen (3/Tag):** 
-	- 4W10 Feuerschaden in einem 4,5 m Kegel (SG 16 Geschick, halber Schaden)
-
-- **Aura der Verdammnis:** 
-	- Gegner in 3 m Umkreis haben **-1 auf Rettungswürfe** gegen [[Furcht]] und Nekromantiezauber
+- **Mehrfachangriff.** Kharzûl führt zwei Angriffe mit seiner Höllenklinge aus.
+- **Höllenklinge.** 
+	- _Nahkampf-Waffenangriff:_ +7 zum Treffen, Reichweite 3 m, ein Ziel. _Treffer:_ 21 (2W12 + 4) Hiebschaden plus 4 (1W8) Feuerschaden.
+- **Aschenspeer.** 
+	- _Fernkampf-Waffenangriff:_ +7 zum Treffen, Reichweite 18/72 m, ein Ziel. _Treffer:_ 16 (2W8 + 4) Stichschaden plus 3 (1W6) Feuerschaden.
 
 ### Spezialfähigkeiten
-- **Unheilige Aura (Passiv):** 
-	- Seine Rüstung flüstert leise auf Infernal, wenn Blut vergossen wird → verleiht ihm Vorteil auf Einschüchternproben
-- **Zorn der Hölle (1/Tag):** 
-	- Wenn Vakor auf 0 HP fällt, explodiert seine Aura in einem 6 m Radius → 4W10 nekrotischer Schaden (SG 15 Konstitution, halber Schaden)
+- **Pforte der Höllenjagd (1/Tag).** 
+	- beschwört einen Höllenhund in einen freien Bereich innerhalb von 9 m. Der Hund handelt direkt nach Kharzûl in der Initiative, gehorcht ihm und verschwindet, wenn er auf 0 TP fällt oder Kharzûl stirbt. Verwende den normalen Statblock eines **Höllenhunds (HG 3)**.
 
 ---
 ## Taktik
-
-- Greift zuerst jene an, die Chaos oder Hoffnung symbolisieren
-- Rücksichtslos effizient, nutzt [[Furcht]] als Waffe
-- Spricht selten – lässt seine Rüstung flüstern
+Eröffnet mit _Pforte der Höllenjagd_, lässt den Höllenhund möglichst mehrere Gegner mit seinem Feueratem bedrohen und konzentriert seine zwei Klingenangriffe auf verwundete oder isolierte Figuren. Er kämpft diszipliniert: kein sinnloses Zielwechseln, Rückzug erst bei etwa 30 TP.
 
 ---
 
@@ -72,11 +84,7 @@
 ## Hintergrund
 _„Ordnung ist Gnade. Und ich bin ihr kalter, gerechter Schatten.“_
 
-[[Ser Vakor]] stammt aus [[Drakmora]] und diente dort als General der nördlichen Truppen. Gemeinsam mit [[Elgrin van Harl 1]] führte er die Heere des Fürstentums – zwei Veteranen, die Disziplin über alles stellten und einander vertrauten.
-
-Als [[Valaine Nebelhain]] Fürstin wurde, misstraute sie beiden und warf sie aus dem Kriegsrat. Vakor, der sein Leben der Ordnung und der Verteidigung [[Drakmora]]s gewidmet hatte, sah darin einen Verrat.
-
-Er schloss sich dem Zeitdieb an, der ihm versprach die Ordnung in [[Drakmora]] wiederherzustellen, um als erfahrener Kommandant die Truppen für die Rebellion gegen die Fürstin zu führen. Heute ist er der **Vollstrecker**: Er ist für die Reiterstämme des Nordens verantwortlich und der Kontaktmann zwischen dem Zeitdieb und [[Elgrin van Harl 1]]. Seine Rüstung flüstert den Namen jener, die gefallen sind – und die noch fallen werden.
+[[Ser Vakor]] stammt aus den tiefen der [[Schleierwelt]] er wurde von [[Lord Malvurax]] in die Welt der Lebenden geholt um [[Luredan van Harl]] zu unterstützen Chaos, Angst und Schrecken über [[Drakmora]] zu bringen. Er kommandiert die wilden Horden aus der [[Aschenweite]].
 
 ---
 ## Zitate

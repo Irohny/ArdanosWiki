@@ -1,3 +1,16 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Der Starke
 - **Titel / Amt:** [[Kommondor]] von [[Mariven]]
 - **Haus / Dynastie:** Valera
@@ -17,6 +30,7 @@
 ## Beschreibung und Auftreten
 
 ![[LyssanderValeria.jpeg|300]]
+_[[Johann Wilhelm Waterhaus]], um 2480 n.d.D._
 
 [[Lyssander Valera]] ist ein listiger Händlerfürst, der Reichtum über alles stellt. Er war einer der wichtigsten Unterstützer [[Kaiser]] [[Aldric von Elmrath]], doch sein Vertrauen ist nicht bedingungslos. Sollte der [[Kaiser]] in wirtschaftlichen Fragen versagen, könnte [[Mariven]] sich schnell gegen ihn wenden.
 

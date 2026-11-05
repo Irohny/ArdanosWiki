@@ -1,3 +1,17 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+  - "[[Drakmora]]"
+  - "[[Vaylen]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-10-28
+geaendert:
+---
 Länge: 224km
 Reisedauer: 5,6 Tage
 Der [[Nebelpfad]] ist einer der wenigen bekannten sicheren Wege durch die westliche **[[Arcanis]]**.  

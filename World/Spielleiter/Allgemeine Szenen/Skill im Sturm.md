@@ -1,3 +1,16 @@
+---
+typ: Allgemeine Szene
+status: aktiv
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ## Ablauf
 
 1. Du liest die Szene vor

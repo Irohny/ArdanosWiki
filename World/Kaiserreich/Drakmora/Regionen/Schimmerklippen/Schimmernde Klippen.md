@@ -1,2 +1,17 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Schimmerklippen.png|400]]
+_[[Wilhelm Turnar]] um 2265 n.d.D._
+
 Die **Schimmernden Klippen** an der Küste [[Drakmora]]s sind ein Ort von rauer, mystischer Schönheit. Schwarze Basaltsäulen ragen wie Zähne aus dem tosenden Meer, vom Wind zerfressen und von der Zeit gezeichnet. In den Nächten, wenn der Mond hoch über dem Wasser steht, tanzen violette und türkisfarbene Lichtreflexe über die Gischt – ein Effekt, den alte Magier auf uralte Strömungsadern zurückführen, die tief unter der See verlaufen. Oft hört man in den Höhlen der Klippen ein leises Flüstern, als würden Geister vergangener Zeiten ihre Geschichten dem Wind anvertrauen. Fischer meiden die Gegend, denn es heißt, das Meer sei dort lebendig – und nicht immer wohlgesinnt.

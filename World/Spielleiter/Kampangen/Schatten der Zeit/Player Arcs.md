@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: draft
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ## [[Gnodomir]]
 **Plothooks:**
 - Sucht Bruder

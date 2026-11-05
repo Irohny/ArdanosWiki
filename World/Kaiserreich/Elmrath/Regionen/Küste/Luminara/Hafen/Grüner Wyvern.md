@@ -1,5 +1,22 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Taverne
-![[Gruener Wyvern Schild Image.png|200]]![[Gruener Wyvern Innen Image.png]]  
+![[Gruener Wyvern Schild Image.png|200]]
+_[[Alfons Muchar]], 2475 n.d.D._
+
+![[Gruener Wyvern Innen Image.png|300]]  
+_[[Fransen Halsmark]] um 2070 n.d.D._
 
 * vergammelte Taverne im Hafen von [[Luminara]]
 * Düster vergammel

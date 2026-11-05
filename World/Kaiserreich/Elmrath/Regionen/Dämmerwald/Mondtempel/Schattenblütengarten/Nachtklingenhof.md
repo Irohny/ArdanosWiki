@@ -1,0 +1,16 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Elmrath]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
+Der **Hof der Nachtklingen** liegt im Zentrum der verborgenen Festung und wirkt wie ein verlassener Exerzierplatz aus einer längst vergangenen Zeit. Hohe, verwitterte Mauern und halb zerfallene Holzgalerien umschließen einen weiten Platz aus dunklen Steinplatten; an den Dachrändern hängen zerrissene Banner, deren Wappen längst vom Regen ausgelöscht wurden.
+
+Tagsüber ist der Hof beinahe still. Nachts jedoch hallen hier gedämpfte Schritte, das Klirren von Stahl und das leise Sirren geworfener Klingen. Zwischen den alten Gebäuden liegen offene Trainingsflächen, schmale Balancierbalken, verborgene Fallgruben und Hallen für Waffen-, Schatten- und Giftunterricht. Purpurne Kristalle in den Mauern werfen ein kaltes Licht auf den Stein und lassen jede Bewegung wie einen kurzen, lautlosen Tanz erscheinen.

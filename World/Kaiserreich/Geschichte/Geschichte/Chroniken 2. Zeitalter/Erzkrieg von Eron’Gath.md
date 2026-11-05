@@ -1,10 +1,19 @@
-#Krieg
-#[[Schwarzklamm]]
-#[[Drakmora]]
-
+---
+typ: Geschichte
+status: kanon
+kampagne:
+region:
+  - "[[Drakmora]]"
+  - "[[Schwarzklamm]]"
+tags:
+  - Krieg
+zeit_text: 1426 - 1528 n.d.D
+zeit_von_jahr: 1426
+zeit_bis_jahr: 1528
+erstellt: 2026-11-03
+geaendert:
+---
 Zeitspanne: 1426 - 1528 n.d.D
-
-1426–1528 n.d.D.
 
 **Konfliktparteien:** [[Schwarzklamm]] vs. [[Drakmora]]  
 **Ursache:** Alte Minen im Grenzgebirge, deren magisches Gestein beiden Reichen als rechtmäßig galt.  

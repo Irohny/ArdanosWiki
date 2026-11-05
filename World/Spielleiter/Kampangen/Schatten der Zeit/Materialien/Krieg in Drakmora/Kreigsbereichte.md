@@ -1,3 +1,16 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text: 14. Licht, 2486 n.d.D.
+zeit_von_jahr: 2486
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Heeresbericht aus [[Drakmora]] – Lagebericht**
 
 **1. Bericht 14. Licht, 2486 n.d.D.

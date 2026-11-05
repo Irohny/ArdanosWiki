@@ -1,9 +1,23 @@
-#Ereignis
-#Kaiserreich
-
+---
+typ: Geschichte
+status: kanon
+kampagne:
+region:
+  - "[[Drakmora]]"
+  - "[[Ardanos]]"
+tags:
+  - Ereignis
+zeit_text: " 2159 n.d.D"
+zeit_von_jahr: 2159
+zeit_bis_jahr:
+erstellt: 2026-11-03
+geaendert:
+---
 Zeitspanne: 2159 n.d.D
 
 ![[SchlachAmFeuerfeld.png|500]]
+_[[Albrecht Altdorn]] um 2160 n.d.D._
+
 Im Spätherbst des Jahres ***2159 n.d.D***., als der Himmel über der weiten **[[Nebelsteppe]]** in trübem Grau hing, entschied sich das Schicksal eines Zeitalters. Das **[[Zeitalter]] der Flammenkronen****, in denen Horden wilder Barbaren das Land verheert hatten, fanden auf jenem geschichtsträchtigen Boden ihr Ende – im **[[Feuerfeld von Nebelstein]]**.
 
 Die versprengten, aber noch immer zahlreichen Stämme der Nordbarbaren hatten sich ein letztes Mal unter einem neuen Warlord, dem grausamen **Tharkul Eisenklaue**, vereint. Ihre Lager durchzogen die steppeartigen Ebenen rund um den Felsrücken von **Nebelstein**, einem von alten Ruinen durchsetzten Hochland, das einst ein Vorposten der alten Magierreiche gewesen war.

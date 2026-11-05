@@ -1,4 +1,19 @@
-![[MirnaDrachenform.png|200]]- **Klasse & Stufe/Herausfordungsgrad:** Antike Bronzene Drachin, CR 22
+---
+typ: NPC
+status: draft
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
+![[MirnaDrachenform.png|200]]
+_[[Paolo Uzzelo]], 1745 n.d.D._
+
+- **Klasse & Stufe/Herausfordungsgrad:** Antike Bronzene Drachin, CR 22
 - **Volk/Herkunft:** #Bronzedrache [[Drache von Cirrelin]]  
 - **Alias:** Thalmyra, die Goldene Wächterin von Cirellin  
 - **Alter:** Über 2000 Jahre (zweites Zeitalter, um 1350 n.d.D.)  

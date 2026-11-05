@@ -1,3 +1,18 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Elmrath]]"
+  - "[[Mariven]]"
+  - "[[Vaylen]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 
 Der **[[Kristallsee]]** ist ein faszinierender Ort von überirdischer Schönheit im Süden des Kaiserreichs [[Ardanos]]. Sein Wasser ist so klar, dass man bis auf den Grund blicken kann – doch wer hineinsieht, erkennt mehr als nur Steine und Fische: In seinen Tiefen spiegeln sich Szenen aus Vergangenheit und Zukunft, flüchtig wie ein Traum. Der See ist umgeben von stillen Uferpfaden, auf denen Gelehrte, Magier und Suchende in tiefer Meditation wandeln.
 

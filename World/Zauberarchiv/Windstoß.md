@@ -1,3 +1,21 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+grad: "2"
+schule: "#Hervorrufung"
+konzentration: "ja"
+komponenten: "#Verbal #Geste"
+materialien: "Samen einer Hülsenfrucht"
+---
 - **Grad:**   2
 - **Schule:**  #Hervorrufung 
 - **Ritual:**  nein

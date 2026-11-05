@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Verbesserung"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "174G"
+komponenten: "[[Nymphenblüte]], [[getrocknete Träne]], [[Traumdistel]]"
+seltenheit: "Ungewöhnlich"
+---
 - Tag: #Verbesserung  
 - **Komponenten:** [[Nymphenblüte]], [[getrocknete Träne]], [[Traumdistel]]
 - **Wert:** 174G

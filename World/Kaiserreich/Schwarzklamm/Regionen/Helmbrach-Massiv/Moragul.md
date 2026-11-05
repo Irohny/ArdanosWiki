@@ -1,4 +1,19 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Karderatkta.png|200]]
+_[[Jorun Martell]] um 2165 n.d.D._
+
 Zwergisch: uralte Ahnenfeuer
 
 In der [[Schwarzklamm]] nahe der Grenze zu [[Elmrath]] steht der Vulkan [[Moragul]]. Dieser Vuklan ist einer der gefährlichsten Orte im ganzen [[Schwarzklamm]] Gebirge. Seine wärme und seine Asche bringen den [[Himmelshöfe]] im angrenzenden [[Elmrath]] reiche Ernten und Wohlstand. Wenn er ausbricht, bebt die Erde. Große Risse tuen sich auf und die Folgen der großen Lavaeruptionen zerstören alles im Umfeld. Der letzte Ausbruch von ca. 150 Jahren soll so extrem gewesen sein, dass ein Jahrlange ein Sonnenlicht in der [[Schwarzklamm]] zu sehen war, da die Aschewolke so dicht war. Der Berg ist so  gefährlich, dass selbst Drachen sich nicht in die Nähe trauen, wenn er aktiv ist.

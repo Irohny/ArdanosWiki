@@ -1,3 +1,16 @@
+---
+typ: Beschreibung
+status: kanon
+kampagne:
+region:
+  - "[[Schwarzklamm]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-10-28
+geaendert:
+---
 Allgemeinsprache: Straße der Zwerge
 
 Länge: 224km

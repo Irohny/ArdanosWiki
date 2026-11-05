@@ -1,17 +1,26 @@
+---
+typ: Ort
+status: kanon
+kampagne:
+region:
+  - Mariven
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ![[Melora_Tempel.png|300]]
+_[[Jaan Vermeerel]] um 2230 n.d.D._
 
-Im Herzen Verethias erhebt sich der gewaltige **Tempel der [[Ocyra]]**, Göttin des Meeres, der Stürme und der natürlichen Ordnung. Der Tempel ist zugleich [[Heiligtum]], Flottensegenstätte und Zentrum spiritueller Macht.
+Im Herzen [[Verethia]]s erhebt sich der gewaltige **Tempel der [[Ocyra]]**, Göttin des Meeres, der Stürme und der natürlichen Ordnung. Der Tempel ist zugleich [[Heiligtum]], Flottensegenstätte und Zentrum spiritueller Macht.
 
 - Seine Kuppel ist aus türkisfarbenem Glas, das im Sonnenlicht wie Wasser glänzt.
-    
 - Ein ewiger Brunnen speist die Kanäle mit geweihtem Wasser.
-    
 - Die Priesterschaft [[Ocyra]]s – teils Seher, teils Navigatoren – gilt als eine der einflussreichsten Institutionen des Landes.
-    
 - Während der **Sturmmondtage** segnet die Hohepriesterin persönlich die Schiffe im Hafen.
-    
 - **Wasserorakel:** Tief unter dem [[Ocyra]]tempel liegt ein heiliger Quell, in dem erfahrene Priester Visionen lesen können – doch nicht jeder Blick in die Tiefe ist folgenlos.
-    
 ### Wellenkammer
 
 Der Raum ist rund und erinnert an eine natürliche Höhle – Wände aus vom Wasser glattpoliertem Stein, durchzogen von **Muscheladern und Kristalleinlagerungen**, die sanft schimmern. Das **Rauschen des heiligen Quells** ist allgegenwärtig – leise, aber stetig, wie das Herzschlagen der Göttin selbst.

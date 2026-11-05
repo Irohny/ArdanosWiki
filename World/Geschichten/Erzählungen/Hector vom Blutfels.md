@@ -1,3 +1,18 @@
+---
+typ: Geschichte
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Mariven]]"
+tags:
+  - Geschichte
+zeit_text: 16. Lichttages 2486 n. d. D.
+zeit_von_jahr: 2486
+zeit_bis_jahr:
+erstellt: 2026-10-28
+geaendert: 2026-11-03
+---
 __Ein Heldenepos von [[Marcel "Roux" Del Fontaine]]__
 
 Am Morgen des 16. Lichttages 2486 n. d. D. erwachte die Reisegruppe am Fuß des Blutfelses. Vor ihnen stand das verfallene Herrenhaus der Bartholdys, dunkel, still und von uraltem Unheil erfüllt.

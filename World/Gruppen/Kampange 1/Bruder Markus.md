@@ -1,5 +1,20 @@
+---
+typ: Spieler
+status: kanon
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 #Mensch #Mönch #Spieler
 ![[Bruder Marcus Bild.jpeg|200]]
+_[[Gustaf Courbette]], um 2484 n.d.D._
+
 Ein Mönch des kleinen [[Bizeptiner Orden]]s. Er ist auf einer Missionsreise um neue Starke Brüder zu rekrutieren, die in seinen Augen würdig sein könnten den Weg der reinen Stärke zu gehen. Sein handeln ist von seiner Stärke geprägt. Er trinkt viel und spricht lieber als zu denken.
 
 ---

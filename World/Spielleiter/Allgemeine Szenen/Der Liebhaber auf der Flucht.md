@@ -1,3 +1,16 @@
+---
+typ: Allgemeine Szene
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 ### 📍 Ort:
 
 Ein staubiger Landweg nahe dem Dorf **„Hirzenruh“**, am späten Nachmittag. Das Dorf liegt bereits in Sichtweite, etwa 15 Minuten Fußmarsch entfernt. Vögel zwitschern. Es ist ruhig.

@@ -1,1 +1,0 @@
-Das spirituelle Zentrum Lunareths liegt direkt unter der [[Sichelwarte]]. Weiße Steinplatten, silberne Laternen und ein flaches Wasserbecken spiegeln den Mond; nur geweihte Hüter dürfen den inneren Schrein betreten.

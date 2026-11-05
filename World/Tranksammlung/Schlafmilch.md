@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Gift", "Kontaktgift"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "38G"
+komponenten: "[[Schlafbeere]], [[Alraunensaft]], [[Opiumharz]]"
+seltenheit: "Gewöhnlich"
+---
 - Tag:  #Gift #Kontaktgift
 - **Komponenten:** [[Schlafbeere]], [[Alraunensaft]], [[Opiumharz]]
 - **Wert:** 38G

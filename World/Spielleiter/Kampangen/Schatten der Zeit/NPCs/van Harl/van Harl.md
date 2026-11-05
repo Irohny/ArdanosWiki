@@ -1,9 +1,25 @@
+---
+typ: Beschreibung
+status: draft
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+  - "[[Drakmora]]"
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 
 _„Ehre durch Blut. Stärke durch Geschichte.“_
 
 ### **Wappen:**
 ![[WappenVanHarl.png|200]]
-Drei **goldene Lilien** auf **blutrotem Grund**, flankiert von zwei stilisierten Greifenklauen – ein altes Symbol aus vergessener Heraldik, das neu interpretiert wurde.  
+_[[Alfons Muchar]], 2475 n.d.D._
+
+Zwei **goldene Lilien** auf **blutrotem Grund**, flankiert von zwei stilisierten Greifenklauen – ein altes Symbol aus vergessener Heraldik, das neu interpretiert wurde.  
 In [[Drakmora]] steht das Symbol mittlerweile für _ambitionierte Stärke_ und _blutige Opferbereitschaft_
 ## **Sitz:**
 ![[Flammenwacht]]

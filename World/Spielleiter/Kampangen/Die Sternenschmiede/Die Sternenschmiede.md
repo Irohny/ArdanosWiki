@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Zeitrahmen:** ca. 1565–1573 n.d.D. (zweites Zeitalter, letzte Jahre vor Caelumbrans Verschwinden)
 **Basis:** die verborgene Schmiede in [[Khazul-Vuldur]]
 **Zentrale Figur:** [[Caelumbran der Letzte Sternenschmied]]
@@ -13,7 +26,7 @@
 
 Ein Relikt der Sternenschmiede-Linie, das Caelumbran von seinen Vorgängern geerbt hat – deutlich älter und dunkler im Ton als die bekannten Zeitalter-Sprüche, aber stilistisch verwandt. "Sein eigenes Feuer opfern" kann am Ende doppeldeutig auf Caelumbrans eigenes Verschwinden anspielen.
 
-**Verbindung zum Rest des Wikis:** Die Kampagne endet genau dort, wo [[Spielleiter/OneShots/Gespielt/Funkeln in der Finsternis/Funkeln in der Finsternis]] (2435 n.d.D.) beginnt – die Nyssara-Expedition findet 862 Jahre später nur noch die Überreste und Notizen dieser Geschichte. Ein schöner geschlossener Kreis, evtl. sogar so, dass die Gruppe am Ende wortwörtlich die Werkstattnotiz Nr. 47 mitschreibt oder diktiert bekommt.
+**Verbindung zum Rest des Wikis:** Die Kampagne endet genau dort, wo [[Funkeln in der Finsternis]] (2435 n.d.D.) beginnt – die Nyssara-Expedition findet 862 Jahre später nur noch die Überreste und Notizen dieser Geschichte. Ein schöner geschlossener Kreis, evtl. sogar so, dass die Gruppe am Ende wortwörtlich die Werkstattnotiz Nr. 47 mitschreibt oder diktiert bekommt.
 
 ---
 

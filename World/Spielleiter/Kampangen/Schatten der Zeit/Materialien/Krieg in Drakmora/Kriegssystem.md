@@ -1,3 +1,16 @@
+---
+typ: Hilfsmittel
+status: aktiv
+kampagne:
+  - "[[Schatten der Zeit]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Jede Runde:
 1. Einkommen (+2 Truppen pro Stadt, +1 pro Region)
 2. Moral prüfen (+1 angrenzen an Verbündete, -1 angrenzen an Gegner)

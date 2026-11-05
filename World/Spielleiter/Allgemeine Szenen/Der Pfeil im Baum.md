@@ -1,3 +1,16 @@
+---
+typ: Allgemeine Szene
+status: draft
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 **Ort:** Ein verwachsener Waldpfad auf dem Weg zu einem abgelegenen Dorf oder einer Grenzstadt.
 
 ---

@@ -1,3 +1,21 @@
+---
+typ: Monster
+status: dm
+kampagne:
+  - "[[Mord und Verlobung]]"
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt: 2026-11-02
+geaendert:
+stufe: "5"
+volk: "beliebig"
+gesinnung: "beliebig"
+ruestungsklasse: 16
+grundlage: "#Online"
+---
 # Blutjäger
 
 - **Grundlage:** #Online

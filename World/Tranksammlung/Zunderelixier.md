@@ -1,3 +1,19 @@
+---
+typ: Trank
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: ["Verbesserung", "Schaden"]
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+wert: "175G"
+komponenten: "[[Phönixasche]], [[Salamanderöl]], [[Funkenstein]]"
+seltenheit: "Ungewöhnlich"
+---
 - Tag: #Verbesserung #Schaden
 - **Komponenten:** [[Phönixasche]], [[Salamanderöl]], [[Funkenstein]]
 - **Wert:** 175G

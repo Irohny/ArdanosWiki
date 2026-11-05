@@ -1,3 +1,17 @@
+---
+typ: Zauber
+status: kanon
+kampagne:
+  - "[[Vor dem ewigen Packt]]"
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 Es müssen 2 magische Gefäße der zwei Existenzebenen an der Schnittstelle der Welten geopfert werden, damit sich die Welten vereinen. 
 - Die Opfer sind lebewesen
 - Ziel verbindung der [[Schleierwelt]] und des [[Schattenlicht]] um die wahre Finsterniss zu erschaffen

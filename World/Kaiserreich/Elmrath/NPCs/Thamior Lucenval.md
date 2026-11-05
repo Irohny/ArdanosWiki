@@ -1,8 +1,16 @@
-<!--
-Ein-Datei-Profil fuer NPCs.
-Oeffentliche, nicht oeffentliche und optionale Regelinformationen duerfen in derselben Datei stehen.
-Die Timeline-Crawler lesen spaeter gezielt die markierten Metadatenfelder aus dieser Struktur.
--->
+---
+typ: NPC
+status: kanon
+kampagne:
+geschichten:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 
 - **Rufname / Beiname:**
 - **Titel / Amt:** Oberster Priester des [[Tempel St. Aurelia]] in [[Luminara]]

@@ -1,3 +1,15 @@
+---
+typ: NPC
+status: kanon
+kampagne:
+region:
+tags: []
+zeit_text:
+zeit_von_jahr:
+zeit_bis_jahr:
+erstellt:
+geaendert:
+---
 - **Rufname / Beiname:** Die Friedenswahrerin
 - **Titel / Amt:** Kaiserin von [[Ardanos]]
 - **Haus / Dynastie:** Silven
@@ -9,7 +21,7 @@
 - **Alter:**
 
 - **Verknuepfte Orte:** [[Ardanos]], [[Elmrath]], [[Mariven]]
-- **Verknuepfte NPCs:** [[Orden der Klarheit]]
+- **Verknuepfte NPCs:** [[Das Arkanum]]
 - **Bekannt fuer:** Friedenspolitik, Handelsvertraege, erste Kaiserin des Reiches
 - **Erste Erwaehnung:** 2199 n.d.D.
 - **Tags:** #kaiserin #kaiserreich #[[elmrath]] #adel
@@ -23,7 +35,7 @@ Als Friedenswahrerin ist sie mit frueher Stabilisierung und Diplomatie verbunden
 
 Ihre Regentschaft staerkte die zivilen und diplomatischen Grundlagen des Reiches.
 - [[Mariven]]: festigte Handelsvertraege mit den Inselreichen
-- [[Orden der Klarheit]]: staerkte dessen Stellung im Reich
+- [[Das Arkanum]]: gab ihm per Reichsstatut den Auftrag, Lehre und Lizenzen im ganzen Reich zu ordnen sowie Kaiser und Fuersten zu beraten
 
 ## Ziele
 
