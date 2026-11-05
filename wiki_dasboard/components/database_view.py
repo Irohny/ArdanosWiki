@@ -6,6 +6,7 @@ import pandas as pd
 import streamlit as st
 
 from wiki_dasboard.components.show_file import make_internal_links_main_page_clickable
+from wiki_dasboard.components import utils
 from wiki_dasboard.components.utils import DATABASE_VIEW_QUERY_PARAM
 
 
@@ -107,6 +108,12 @@ SCHOOL_COLORS = {
 
 
 def show_database(db: str):
+    user = st.session_state.get("user")
+    role = getattr(getattr(user, "role", None), "value", None)
+    if "Bestiarium" in db and role != "GameMaster":
+        st.error("Datenbank nicht verfügbar.")
+        return
+
     if "Bestiarium" in db:
         bestiarium_view()
     elif "Zauberarchiv" in db:
@@ -119,6 +126,25 @@ def show_database(db: str):
         waffen_view()
     elif "Schatzkammer" in db:
         artefakt_view()
+
+
+def _filter_database_document_access(db: str) -> pd.DataFrame:
+    dataframe = st.session_state[db]
+    if "Pfad" not in dataframe:
+        user = st.session_state.get("user")
+        role = getattr(getattr(user, "role", None), "value", None)
+        return dataframe if role == "GameMaster" else dataframe.iloc[0:0]
+
+    user = st.session_state.get("user")
+    campaign_id = st.session_state.get("active_campaign_id")
+    allowed = dataframe["Pfad"].map(
+        lambda path: utils.has_permission(
+            path,
+            user,
+            campaign_id=campaign_id,
+        )
+    )
+    return dataframe.loc[allowed]
 
 
 def set_to_databse_view(db: str):
@@ -730,7 +756,7 @@ def bestiarium_view():
     _render_database_browser(
         "Bestiarium",
         "Bestiarium",
-        st.session_state["Bestiarium"][columns],
+        _filter_database_document_access("Bestiarium")[columns],
         search_fields=columns,
         filter_fields=["Stufe", "Volk", "Grundlage"],
         sort_options=["Name (A-Z)", "Name (Z-A)"],
@@ -751,7 +777,7 @@ def zauberarchiev_view():
     _render_database_browser(
         "Zauberarchiv",
         "Zauberarchiv",
-        st.session_state["Zauberarchiv"][columns],
+        _filter_database_document_access("Zauberarchiv")[columns],
         search_fields=columns,
         filter_fields=[
             "Grad",
@@ -768,7 +794,9 @@ def zauberarchiev_view():
 
 def trank_view():
     columns = ["Name", "Tags", "Wert", "Komponenten", "Seltenheit"]
-    potions_df = _prepare_potion_dataframe(st.session_state["Tranksammlung"][columns])
+    potions_df = _prepare_potion_dataframe(
+        _filter_database_document_access("Tranksammlung")[columns]
+    )
     _render_database_browser(
         "Tranksammlung",
         "Tranksammlung",
@@ -786,7 +814,7 @@ def zutaten_view():
     _render_database_browser(
         "Zutatenarchiv",
         "Zutatenarchiv",
-        st.session_state["Zutatenarchiv"][columns],
+        _filter_database_document_access("Zutatenarchiv")[columns],
         search_fields=columns,
         filter_fields=["Seltenheit", "Fundort"],
         sort_options=[
@@ -810,7 +838,9 @@ def waffen_view():
         "Einstimmung",
         "Sichtbarkeit",
     ]
-    dataframe = _filter_archive_visibility(st.session_state["Waffenkammer"][columns])
+    dataframe = _filter_archive_visibility(
+        _filter_database_document_access("Waffenkammer")[columns]
+    )
     _render_database_browser(
         "Waffenkammer",
         "Waffenkammer",
@@ -837,7 +867,9 @@ def artefakt_view():
         "Wert",
         "Sichtbarkeit",
     ]
-    dataframe = _filter_archive_visibility(st.session_state["Schatzkammer"][columns])
+    dataframe = _filter_archive_visibility(
+        _filter_database_document_access("Schatzkammer")[columns]
+    )
     _render_database_browser(
         "Schatzkammer",
         "Schatzkammer",

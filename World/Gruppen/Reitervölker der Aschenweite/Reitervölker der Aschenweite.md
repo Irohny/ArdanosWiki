@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die [[Reitervölker der Aschenweite]] leben in Horden, von denen die [[Rabenzügel]], [[Aschenhufe]], [[Eisenmähnen]] und [[Salzwinde]] die größten sind. Jede Horde folgt einem Khan, der die stärksten und treuesten Krieger als Leibwache um sich schart. Feste Siedlungen kennen die Horden nicht: Sie ziehen mit ihren Herden durch die Steppe und leben in Zelten. Ihr Auskommen sichern sie sich durch Viehzucht, Sklavenhandel und die Beute ihrer Raubzüge.
 

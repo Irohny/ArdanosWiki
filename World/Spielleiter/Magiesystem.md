@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Magie ist keine willkürliche Kraft, sondern ein **natürliches Geflecht**, das sich wie ein unsichtbares Netz durch die Welt zieht. Es durchdringt Stein, Luft, Fleisch, Wasser und Geist – ein **ursprüngliches [[Konstrukt ECHO]] des Schöpfungswortes**, welches durch Runen, Rituale und Bindungen wieder hörbar gemacht werden kann.
 

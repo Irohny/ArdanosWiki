@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-28
 geaendert:
+sichtbarkeit: []
 ---
 Länge: 224km
 Reisedauer: 5.6 Tage

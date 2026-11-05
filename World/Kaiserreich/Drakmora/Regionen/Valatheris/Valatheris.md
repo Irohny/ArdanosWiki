@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Valatheris.png|300]]
 _[[Paolo Uzzelo]] um 1750 n.d.D._

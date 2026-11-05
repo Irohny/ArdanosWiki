@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **20. bis 21. Tag des Regenmonds — Sophina brennt nicht, doch sie ist gebrochen**
 

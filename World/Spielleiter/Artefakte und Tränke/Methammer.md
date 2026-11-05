@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 _Legendäre magische Waffe (Streithammer), benötigt Abstimmung durch einen rechtschaffenen oder neutralen Charakter_
 

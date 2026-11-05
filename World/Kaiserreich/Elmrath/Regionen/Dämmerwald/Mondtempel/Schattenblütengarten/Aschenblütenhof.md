@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Aschenblütenhof]]** liegt im ruhigsten und verwinkeltsten Teil der verborgenen Festung. Schmale Gassen führen zwischen alten Wohnhäusern hindurch, deren dunkle Holzwände von Moos, Efeu und feinen Rissen gezeichnet sind. Die Gebäude wirken verlassen, doch hinter ihren Schiebetüren leben jene [[Tashiro'en]], die hier Schutz, Ruhe oder Abstand vom Lärm der Ausbildung suchen.
 

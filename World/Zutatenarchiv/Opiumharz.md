@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "4G"
 fundort: "Südliche Gärten, Händler aus fremden Landen,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Ungewöhnlich 
  - **Wert:** 4G 

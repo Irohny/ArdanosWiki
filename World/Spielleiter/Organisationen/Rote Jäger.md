@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[RoteJaeger.png|200]]
 Die **Roten Jäger** sind ein geheimer Klan-Kult, der Blutmagie nutzt, um seine Macht stetig zu vergrößern. Sie jagen gezielt seltene Artefakte, mächtige [[Spielleiter/Kampangen/Schatten der Zeit/Materialien/Monster|Monster]] und magische Wesen, um deren Blut, Essenz oder Überreste in aufwendigen Ritualen zu verwenden. Für die Roten Jäger ist Blut der Träger von Leben, Erinnerung und Macht – je größer das Opfer, desto mächtiger das Ergebnis.

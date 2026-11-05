@@ -11,6 +11,7 @@ zeit_von_jahr: 2486
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 **Startdatum:** Fortsetzung von [[Kapitel 2 Session 6]] (gleiche Nacht, im Tunnel unter dem Lagerhaus)
 **Enddatum:** -

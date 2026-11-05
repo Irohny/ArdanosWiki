@@ -18,6 +18,7 @@ source_file: World/Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land
 source_heading: "## Akt 2 – Der Hinterhalt"
 image_files:
   - MapHinterhalt.jpg
+sichtbarkeit: []
 ---
 
 # Akt 2 - Hinterhalt im Hohlweg

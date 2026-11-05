@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Windzunge
 - **Titel / Amt:** Zauberkundiger Navigator der [[Windhexe]]

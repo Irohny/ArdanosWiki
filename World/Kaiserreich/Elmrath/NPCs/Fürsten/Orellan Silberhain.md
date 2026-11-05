@@ -11,6 +11,7 @@ zeit_von_jahr: 2060
 zeit_bis_jahr: 2325
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Die Ruhe des Waldes
 - **Titel / Amt:** Fürst von [[Elmrath]]

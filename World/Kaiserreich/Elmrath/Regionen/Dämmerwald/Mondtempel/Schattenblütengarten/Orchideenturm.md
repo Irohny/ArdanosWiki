@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Orchideenturm]]** ist das Herz des Schattenblütengartens: eine alte, verwitterte Pagode, deren gebrochene Dächer und moosbewachsene Balken von schwarzen Orchideen überwuchert werden. Nach außen wirkt er wie ein sterbender Reliktbau der alten Festung – doch in seinem Inneren bewahren die [[Tashiro'en]] ihre Gemeinschaft, ihr Wissen und ihre Geheimnisse.
 

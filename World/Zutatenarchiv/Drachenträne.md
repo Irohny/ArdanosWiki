@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Legendär"
 wert: "3P"
 fundort: "Alte Drachen, mythische Orte,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Legendär 
  - **Wert:** 3P

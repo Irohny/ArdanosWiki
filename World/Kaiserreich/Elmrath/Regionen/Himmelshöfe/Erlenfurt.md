@@ -3,14 +3,15 @@ typ: Ort
 status: kanon
 kampagne:
   - "[[Vor dem ewigen Packt]]"
-geschichten:
 region:
+  - "[[Elmrath]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 ## Geschichte
 [[Erlenfurt]] lag etwas nördlich von [[Wurzelfurt]] am Silberlauf. Das kleine Dorf wurde im Jahre 537 n.d.D im ersten [[Zeitalter]] zerstört. Es gab nur wenige Überlebende. Laut Erzählungen heißt es, dass das Dorf von Walddämonen überfallen und vernichtet wurde. Der Überfall auf das Dorf wurde in den Chroniken der [[Himmelshöfe]] auf den Tag 280 der Zeit der Stürme des Jahres 537 n.d.D terminiert.

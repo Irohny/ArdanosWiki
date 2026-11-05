@@ -13,6 +13,7 @@ geaendert:
 wert: "92G"
 komponenten: "[[Pilzspiegel]], [[Gedankengalle]], zerstoßener [[Lapislazuli]]"
 seltenheit: "Ungewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Gift 
 - **Komponenten:** [[Pilzspiegel]], [[Gedankengalle]], zerstoßener [[Lapislazuli]]

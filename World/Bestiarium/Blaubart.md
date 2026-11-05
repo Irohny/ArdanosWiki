@@ -17,6 +17,7 @@ volk: "#Mensch"
 gesinnung: Neutral Böse
 ruestungsklasse: 13
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Blaubart 🔶
 - **Grundlage:** #Homebrew

@@ -74,7 +74,7 @@ class SLDashboardAppTests(unittest.TestCase):
 
         at.run(timeout=30)
 
-        self.assertEqual([element.label for element in at.text_input], ["Charaktername:", "Passwort"])
+        self.assertEqual([element.label for element in at.text_input], ["Benutzername:", "Passwort"])
         self.assertEqual([element.label for element in at.button], ["Login"])
         self.assertEqual([element.value for element in at.title], ["Login"])
         self.assertEqual(len(at.selectbox), 0)

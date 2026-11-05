@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Die Glashändlerin von Tyven
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]

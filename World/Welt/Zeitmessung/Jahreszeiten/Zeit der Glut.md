@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Zeit des *[[Lyrithiel]]* _(Hochsommer)_
  **Tage:** 147–219

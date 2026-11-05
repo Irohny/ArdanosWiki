@@ -13,6 +13,7 @@ geaendert:
 wert: "129G"
 komponenten: "[[Traumdistel]], [[Elfensilber]], [[getrocknete Träne]]"
 seltenheit: "Ungewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung 
 - **Komponenten:** [[Traumdistel]], [[Elfensilber]], [[getrocknete Träne]]

@@ -15,6 +15,7 @@ schule: "#Verwandlung"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "2 Magnetsteine"
+sichtbarkeit: []
 ---
 - **Grad:**   0
 - **Schule:**  #Verwandlung 

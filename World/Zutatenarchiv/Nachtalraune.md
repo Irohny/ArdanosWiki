@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "9G"
 fundort: "Schattenwälder, verbotene Gärten,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #SehrSelten  
 - **Wert:** 9G 

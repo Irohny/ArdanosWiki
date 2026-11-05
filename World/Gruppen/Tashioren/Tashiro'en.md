@@ -3,6 +3,14 @@ typ: Beschreibung
 status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
+sichtbarkeit:
+  - gnodomir
+  - hector
+  - marcus
+  - nyssara
+  - vishuda
+abschnitt_sichtbarkeit:
+  'weitere bekannte Mitgleider': [vishuda]
 region:
   - Elmrath
   - Schwarzklamm

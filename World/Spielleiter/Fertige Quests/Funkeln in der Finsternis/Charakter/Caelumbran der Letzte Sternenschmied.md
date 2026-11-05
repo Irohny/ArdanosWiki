@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 _† Herbst 1573 n.d.D._ 
 **Rasse:**[[Aetheri]]

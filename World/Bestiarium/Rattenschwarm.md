@@ -17,6 +17,7 @@ volk: "Tier (Schwarm)"
 gesinnung: "Neutral"
 ruestungsklasse: 10
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Rattenschwarm 🔶
 - **Grundlage:** #Homebrew

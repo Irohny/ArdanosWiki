@@ -4,12 +4,15 @@ status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
 region:
+  - "[[Drakmora]]"
+  - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 _Einst ein Stolz der Flotte, jetzt ein Wrack tief unter der Smaragdtiefe. Einige sagen, ihre Glocken läuten noch unter Wasser._
 

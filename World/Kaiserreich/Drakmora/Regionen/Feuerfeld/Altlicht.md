@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ### Dorf
 [[Altlicht]] ist klein – kaum mehr als zwei Dutzend Häuser aus dunklem Holz und schwarzem Stein, mit tiefen Dächern gegen den Aschenregen aus [[Drakmora]]. Manche Mauern sind mit Moos und Runen bedeckt, von denen selbst die ältesten Dorfbewohner die Bedeutung nicht mehr kennen. In der Dämmerung wirken die Häuser wie Schattenrisse alter Zeiten – still, wachend, verwehend.

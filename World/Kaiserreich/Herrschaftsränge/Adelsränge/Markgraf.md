@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der Marktgraf wird direkt vom [[Kaiser]] belehnt, für Grenzmarken oder Regionen mit Sonderstatus, somit untersteht er sowohl dem [[Fürst]]en als auch dem [[Kaiser]].
 

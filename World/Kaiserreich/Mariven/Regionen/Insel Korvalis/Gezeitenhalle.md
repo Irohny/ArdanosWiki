@@ -3,13 +3,14 @@ typ: Ort
 status: kanon
 kampagne:
 region:
-  - Mariven
+  - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Melora_Tempel.png|300]]
 _[[Jaan Vermeerel]] um 2230 n.d.D._

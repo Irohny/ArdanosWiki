@@ -13,6 +13,7 @@ geaendert:
 wert: "117G"
 komponenten: "[[Schattenseide]], [[Geisterstaub]], [[Nymphenblüte]]"
 seltenheit: "Ungewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Aktion #Verbesserung 
 - **Komponenten:** [[Schattenseide]], [[Geisterstaub]], [[Nymphenblüte]]

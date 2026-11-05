@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "7G"
 fundort: "Nebelwälder, Alchemielabore, **Beschreibung:** Ölige Substanz, die einen Schleier erzeugt"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Selten 
 - **Wert:** 7G 

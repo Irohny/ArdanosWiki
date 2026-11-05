@@ -9,8 +9,9 @@ tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 [[Goldähr]] ist eine der ältesten und bedeutendsten Städte von [[Elmrath]]. Sie liegt im Herzen der fruchtbaren Ebenen der **[[Goldene Weite]]** und ist von weiten Feldern, Obstgärten und kleinen Dörfern umgeben. Ihre goldenen Kornfelder, die sich bis zum Horizont erstrecken, gaben der Stadt einst ihren Namen.
 

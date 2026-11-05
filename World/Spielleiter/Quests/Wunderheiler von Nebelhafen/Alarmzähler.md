@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 # Alarmzähler 🔶
 Der Alarmzähler zeigt, wie viel [[Zera Peretupa]] und [[Eldrin Velmara]] von der Nacht mitbekommen. Er ist nur für den Spielleiter: Strichliste von **0 bis 3**, Start bei 0. Er bestimmt, wie gewarnt Eldrin und [[Zeras Schatten]] im [[Finale im Ritualraum]] sind.

@@ -19,6 +19,7 @@ scene_ids:
   - akt-3-nachtangriff-am-lager
   - akt-4-konfrontation-im-anwesen
   - akt-5-finale-konsequenzen
+sichtbarkeit: []
 ---
 
 ## Aktuelles Ziel

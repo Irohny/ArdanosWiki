@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 _Religiöser Militärorden [[Solyra]]s_
 ![[Morgenwacht.png|200]]

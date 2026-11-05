@@ -2,13 +2,16 @@
 typ: Beschreibung
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
+  - "[[Mord und Verlobung]]"
 region:
 tags: []
 zeit_text: 503 n.d.D
 zeit_von_jahr: 503
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 # Das Volk von [[Mariven]] – Die Perle der See
 ![[Wappen Mariven.png|200]]

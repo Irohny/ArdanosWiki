@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Gerade in [[Drakmora]] und der [[Schwarzklamm]] haben die Clans sehr großen Einfluss auf große Regionen, sodass die Oberhäupter der Clans vergleichbare Macht und Ansehen haben wie [[Graf]]en und [[Handelsmeister]]. 
 

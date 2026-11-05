@@ -10,6 +10,7 @@ zeit_von_jahr: 1284
 zeit_bis_jahr: 1332
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** 

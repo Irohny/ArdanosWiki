@@ -15,6 +15,7 @@ schule: "#Erkenntnismagie"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "- **Dauer/Wirkung:** 10min"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:**  #Erkenntnismagie 

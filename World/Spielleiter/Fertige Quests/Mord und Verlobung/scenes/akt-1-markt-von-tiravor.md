@@ -18,6 +18,7 @@ source_file: World/Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land
 source_heading: "## Akt 1 - Der Auftrag / Einführung"
 image_files:
   - Tiravor.jpg
+sichtbarkeit: []
 ---
 
 # Akt 1 - Markt von [[Tiravor]]

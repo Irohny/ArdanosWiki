@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Der Letzte Silberlord
 - **Titel / Amt:** [[Kommondor]] des Fürstentums [[Mariven]]

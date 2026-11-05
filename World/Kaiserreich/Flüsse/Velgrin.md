@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Velgrin]]** ist einer der ältesten und geheimnisvollsten Flüsse _Ardanos'_. Er entspringt tief in der **Nordseite der [[Schwarze Klamm]]**, einem abgrundtiefen Riss im Gestein des **[[Helmbrach-Massiv]]s**, und windet sich größtenteils **unsichtbar** durch die unermesslichen Tiefen dieses Zwergengebirges. Nur **die Zwerge der [[Schwarzklamm]]** kennen seinen wahren Lauf – und sie hüten dieses Wissen wie heilige Runen.
 

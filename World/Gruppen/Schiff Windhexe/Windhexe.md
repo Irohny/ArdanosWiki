@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Windhexe Image.png|300]]
 _[[Montagu Dawsen]], 2484 n.d.D._

@@ -2,6 +2,7 @@
 typ: Ort
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Mariven]]"
 tags: []
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 Zwischen Großem Hafen und [[Schattenkai]]. Dicht, dunkel und arm; schmale Gassen, feuchte Hinterhöfe und die bevorzugte Gegend der Unterwelt. An den Ecken der Häuser sind merkwürdige Markierungen zu sehen mit dennen die Schmugglerbanden untereinander Kommunizieren
 

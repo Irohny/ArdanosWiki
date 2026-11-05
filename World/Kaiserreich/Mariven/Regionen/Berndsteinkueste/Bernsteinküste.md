@@ -2,14 +2,16 @@
 typ: Ort
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 Der Name der Region stammt von den goldenen Stränden und reichen Berndsteinfunden entlang der Küste, die bei Händlern, Adligen und Arkanen Gelehrten heiß begehrt sind.
 

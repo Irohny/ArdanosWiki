@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-25
 geaendert: 2026-10-25
+sichtbarkeit: []
 ---
 ### **Blutrune der Morgendämmerung „Erstes Licht“**
 Diese Rune trägt den Namen der Stunde, in der die Nacht ihre Macht verliert.

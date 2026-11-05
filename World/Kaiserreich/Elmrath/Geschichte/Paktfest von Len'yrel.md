@@ -2,7 +2,6 @@
 typ: Beschreibung
 status: kanon
 kampagne:
-  - "[[Vor dem ewigen Packt]]"
 region:
   - "[[Elmrath]]"
 tags:
@@ -12,6 +11,7 @@ zeit_von_jahr: "553"
 zeit_bis_jahr:
 erstellt: 2026-10-22
 geaendert:
+sichtbarkeit: []
 ---
 ![[Paktfest.png|300]]
 _[[Pieran Brüggel der Ältere]] um 1650 n.d.D._

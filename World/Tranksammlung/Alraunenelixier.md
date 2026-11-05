@@ -13,6 +13,7 @@ geaendert:
 wert: "21G"
 komponenten: "[[Alraune]], [[Rosenessenz]], [[Silberstaub]]"
 seltenheit: "Häufig"
+sichtbarkeit: []
 ---
 
 - Tag: #Heilung #Verbesserung 

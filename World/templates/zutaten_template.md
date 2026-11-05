@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Gewöhnlich #Ungewöhnlich #Selten #SehrSelten #Legendär
  - **Wert:**

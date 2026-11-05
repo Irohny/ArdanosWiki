@@ -10,6 +10,7 @@ zeit_von_jahr: 2233
 zeit_bis_jahr: 2344
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** Fürst der reinen Stärke

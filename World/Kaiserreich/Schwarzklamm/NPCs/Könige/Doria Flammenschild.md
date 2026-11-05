@@ -10,6 +10,7 @@ zeit_von_jahr: 1874
 zeit_bis_jahr: 1958
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:**
 - **Titel / Amt:** Fürstin der [[Schwarzklamm]]

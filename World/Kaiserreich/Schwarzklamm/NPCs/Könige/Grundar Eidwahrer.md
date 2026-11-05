@@ -10,6 +10,7 @@ zeit_von_jahr: 1958
 zeit_bis_jahr: 2058
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:**
 - **Titel / Amt:** Fürst der [[Schwarzklamm]]

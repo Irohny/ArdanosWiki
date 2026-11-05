@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Klasse & Stufe/Herausfordungsgrad:** NPC, mächtige Zauberin / legendär  
 - **Volk/Herkunft:** Mensch (Gestalt des Drachens Thalmyra)  

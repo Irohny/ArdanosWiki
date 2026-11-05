@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ## **„Feuer über [[Cirellin]]“ – Ein One-Shot für 4–5 [[Spielertruppe]] auf Stufe 4–6**
 

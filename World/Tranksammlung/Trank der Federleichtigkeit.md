@@ -13,6 +13,7 @@ geaendert:
 wert: "40G"
 komponenten: "[[Greifenfeder]], [[Eselsmilch]], [[Luftkraut]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung
 - **Komponenten:** [[Greifenfeder]], [[Eselsmilch]], [[Luftkraut]]

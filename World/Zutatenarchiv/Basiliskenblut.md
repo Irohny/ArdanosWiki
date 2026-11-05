@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "1P"
 fundort: "Basiliskennester, Jäger"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #SehrSelten 
  - **Wert:** 1P 

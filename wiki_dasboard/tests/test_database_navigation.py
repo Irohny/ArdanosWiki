@@ -5,6 +5,7 @@ import wiki_dasboard.app as app
 from wiki_dasboard.components import utils
 from wiki_dasboard.components.database_view import set_to_databse_view
 from wiki_dasboard.config import cfg
+from wiki_dasboard.components.login import Roles, User
 
 
 class DatabaseNavigationTests(unittest.TestCase):
@@ -21,8 +22,10 @@ class DatabaseNavigationTests(unittest.TestCase):
         self.assertTrue(state["db_flag"])
 
     def test_main_restores_database_view_from_query_params(self) -> None:
-        database = cfg.DATABASE_LIST[0]
-        state = {}
+        database = cfg.navigation.databases[0]
+        state = {
+            "user": User(name="Admin", role=Roles.GameMaster, loged_in=True)
+        }
         query_params = {utils.DATABASE_VIEW_QUERY_PARAM: database}
         with (
             patch("wiki_dasboard.app.st.session_state", state),

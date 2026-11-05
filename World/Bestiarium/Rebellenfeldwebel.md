@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Rechtschaffen Neutral"
 ruestungsklasse: 14
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Rebellenfeldwebel 🔶
 - **Grundlage:** #Homebrew

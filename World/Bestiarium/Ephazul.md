@@ -15,6 +15,7 @@ volk: "#Unhold"
 gesinnung: "Rechtschaffend Böse"
 ruestungsklasse: 21
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Ephazul
 

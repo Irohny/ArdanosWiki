@@ -10,5 +10,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Das Kolosseum Infernale** ist das lodernde Herz der Kampfeskultur [[Drakmora]]s – ein gewaltiger, offener Rundbau aus geschwärztem Stein, errichtet am Steilhang des Aschenkamms. Die Ränge steigen steil wie Festungsmauern in den Himmel und fassen Tausende. Über der Tribüne des Fürsten und des Kriegsrates trohnt eine gewaltige Drachenstatue aus glitzernden Obsidian. Hier treffen sich die Kriegerclans in brutalen Wettstreiten, um Ruhm, Rang und Blutrecht zu gewinnen. Feuerfontänen schießen aus bronzenen Drachenköpfen entlang der Arena, während die Menge unter Kriegsgesängen tobt. Magie ist hier erlaubt – wenn sie töten kann.

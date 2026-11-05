@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "8G"
 fundort: "Vulkane, Salamanderbehausungen,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Selten 
 - **Wert:** 8G 

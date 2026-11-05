@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 _Erzmagier des Pfades der Wacht (Bannmagie)_
 - **Amt:** Mitglied des [[Achterzirkel]]s und Hüter der [[Qor’Valeth]]

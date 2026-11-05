@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "6G"
 fundort: "Tiefe Wälder, Hexengärten, Druidenzirkel"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 6G

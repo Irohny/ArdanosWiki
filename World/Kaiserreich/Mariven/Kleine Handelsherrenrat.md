@@ -9,5 +9,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der  [[Kleine Handelsherrenrat]] besteht aus den Handelsmeistern und berät den [[Kommondor]]

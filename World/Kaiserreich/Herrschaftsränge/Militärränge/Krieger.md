@@ -9,5 +9,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Einfacher Kämpfer in [[Drakmora]]. Jeder Bürger lernt die Grundlagen der Kriegsführung, und wer sich im Kampf bewährt, kann zu den Stahlwölfen aufsteigen.

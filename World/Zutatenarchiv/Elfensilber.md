@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "1P"
 fundort: "Elfenreiche, uralte Tempel,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #SehrSelten 
  - **Wert:** 1P 

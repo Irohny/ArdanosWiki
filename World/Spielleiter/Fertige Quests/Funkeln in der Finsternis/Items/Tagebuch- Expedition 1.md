@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 Heute war ein Tag der Entdeckungen – und des Staunens. Nach Wochen des Grabens, des Kartenvergleichens und endlosen Diskussionen mit Varrik (dessen Sturheit sich letztlich doch als hilfreich erwiesen hat), fanden wir den Zugang zur verborgenen Tür der Tiefen Hallen. 
 

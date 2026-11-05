@@ -13,6 +13,7 @@ geaendert:
 wert: "39G"
 komponenten: "[[Pilzspiegel]], [[Denkmoos]], [[Honig]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung 
 - **Komponenten:** [[Pilzspiegel]], [[Denkmoos]], [[Honig]]

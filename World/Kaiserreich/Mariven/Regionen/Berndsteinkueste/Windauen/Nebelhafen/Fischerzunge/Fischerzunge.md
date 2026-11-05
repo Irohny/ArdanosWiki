@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 Vom Bernsteintor entlang der Fischerbucht bis zum Großen Hafen. Heimat von Fischern und Handwerkern; die Große Werft liegt an der Westzunge.
 

@@ -15,6 +15,7 @@ schule: "#Bannzauber"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "Miniaturumhang"
+sichtbarkeit: []
 ---
 - **Grad:**   0
 - **Schule:**  #Bannzauber 

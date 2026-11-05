@@ -15,6 +15,7 @@ schule: "#Hervorrufung"
 konzentration: "Nein"
 komponenten: "#Verbal #Geste #Material"
 materialien: "eine winzige Kugel aus Fledermausguano und Schwefel"
+sichtbarkeit: []
 ---
 - **Grad:**   3
 - **Schule:**  #Hervorrufung 

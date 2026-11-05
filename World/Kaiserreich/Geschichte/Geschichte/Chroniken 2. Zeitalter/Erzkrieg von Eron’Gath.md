@@ -12,6 +12,7 @@ zeit_von_jahr: 1426
 zeit_bis_jahr: 1528
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 Zeitspanne: 1426 - 1528 n.d.D
 

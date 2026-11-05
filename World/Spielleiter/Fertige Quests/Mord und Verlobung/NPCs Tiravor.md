@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 
 ### **[[Hauptmann]] [[Noah Silberklinge]]**

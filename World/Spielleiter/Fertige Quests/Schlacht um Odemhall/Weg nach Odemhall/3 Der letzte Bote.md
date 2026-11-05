@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-10-31
+sichtbarkeit: []
 ---
 Kurz vor [[Odemhall]] findet die Gruppe einen verletzten Boten. Er wurde von feindlichen Spähern abgefangen und hat sich gerade noch in ein trockenes Bachbett geschleppt. Er wollte [[Odemhall]] warnen: [[Luredan van Harl]] selbst plant in der kommenden Nacht einen Angriff auf das schwächste Stadttor.
 

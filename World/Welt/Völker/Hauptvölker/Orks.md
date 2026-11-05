@@ -11,5 +11,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert: 2026-10-27
+sichtbarkeit: []
 ---
 **Orks** sind kräftige, stolze Krieger. In den Fürstentümern leben nur wenige, meist als Söldner, Arbeiter oder Gladiatoren. Viele begegnen ihnen mit Misstrauen.

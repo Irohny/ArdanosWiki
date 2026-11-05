@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Nachtgeweihte.png|200]]
 _[[Alfons Muchar]], 2475 n.d.D._

@@ -15,6 +15,7 @@ volk: "#Elf"
 gesinnung: "Rechtschaffend Böse"
 ruestungsklasse: 16
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 ![[ZeraFluesterin.jpeg|200]]
 _[[Odelin Redonne]], um 2478 n.d.D._

@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Ort:** Ruinenstadt [[Althovar]] (vor der Zerstörung, kurz vor den Barbarenüberfällen)  
 **Aufgabe:** Die Helden sollen ein wertvolles magisches Artefakt aus einem alten Archiv sicherstellen.  

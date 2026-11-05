@@ -15,6 +15,7 @@ schule: "#Verwandlung"
 konzentration: "ja"
 komponenten: "#Verbal #Geste #Material"
 materialien: "ein Jadediadem im Wert von mindestens 1.500 GM, das du aufsetzen musst, bevor du den Zauber wirkst"
+sichtbarkeit: []
 ---
 - **Grad:**   9
 - **Schule:**  #Verwandlung 

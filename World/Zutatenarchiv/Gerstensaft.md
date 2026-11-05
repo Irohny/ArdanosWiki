@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "5S"
 fundort: "Brauereien, Gasthäuser,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Gewöhnlich 
  - **Wert:** 5S 

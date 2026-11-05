@@ -15,6 +15,7 @@ schule: "#Nekromantie"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "- **Dauer/Wirkung:** 1 Minute"
+sichtbarkeit: []
 ---
 - **Grad:**   3
 - **Schule:**  #Nekromantie 

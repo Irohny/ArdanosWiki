@@ -13,6 +13,7 @@ geaendert:
 wert: "207G"
 komponenten: "[[Golemstaub]], [[Eisenkraut]], [[Trollblut]]"
 seltenheit: "Selten"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung 
 - **Komponenten:** [[Golemstaub]], [[Eisenkraut]], [[Trollblut]]

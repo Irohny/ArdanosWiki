@@ -10,6 +10,7 @@ zeit_von_jahr: 328
 zeit_bis_jahr:
 erstellt: 2026-10-22
 geaendert:
+sichtbarkeit: []
 ---
 
 | Zeitspanne       | König                        | Klan | Ereignis                                        |

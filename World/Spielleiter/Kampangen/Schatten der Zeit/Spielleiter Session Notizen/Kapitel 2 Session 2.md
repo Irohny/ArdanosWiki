@@ -10,6 +10,7 @@ zeit_von_jahr: 2486
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 **Startdatum:** (Morgens) 16 (Lichttag) Licht (Frühling) 2486 n.d.D. 
 **Enddatum:** (Nachmittag) 16 (Lichttag) Licht (Frühling) 2486 n.d.D

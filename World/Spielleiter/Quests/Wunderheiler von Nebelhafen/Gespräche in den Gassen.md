@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 # Gespräche in den Gassen
 *Ermittlung, ca. 20–30 Minuten. Die Gruppe sammelt Gerüchte und bekommt einen Hinweis auf das Lagerhaus.*

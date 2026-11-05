@@ -15,6 +15,7 @@ volk: "Vampir"
 gesinnung: "#ChaotischBöse"
 ruestungsklasse: 16
 grundlage: "#Book S.193"
+sichtbarkeit: []
 ---
 - **Grundlage:** #Book S.193
 - **Stufe/Herausfordungsgrad:** 13

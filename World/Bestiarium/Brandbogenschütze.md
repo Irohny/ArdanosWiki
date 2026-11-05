@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Neutral"
 ruestungsklasse: 14
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Brandbogenschütze 🔶
 - **Grundlage:** #Homebrew

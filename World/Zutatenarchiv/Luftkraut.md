@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "5G"
 fundort: "Hohe Berghänge, luftige Ebenen,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Selten 
 - **Wert:** 5G 

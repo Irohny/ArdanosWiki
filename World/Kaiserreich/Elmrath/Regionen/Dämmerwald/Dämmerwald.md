@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-26
 geaendert:
+sichtbarkeit: []
 ---
 Ein uralter, heiliger Wald im Osten von [[Elmrath]]. Er zieht sich entlange der südlichen Flanke der [[Schwarzklamm]] Gebirgskette und markiert eine natürliche Grenze des [[Ardanos]]. 
 

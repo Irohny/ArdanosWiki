@@ -8,10 +8,13 @@ tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit:
+  - brudermarkus
 ---
-**An den ehrenwerten Paladin Hector,**
+
+**An den ehrenwerten Bruder Markus,**
 
 Eure Taten sind nicht unbemerkt geblieben. In den Schatten unserer Lieder weben sich Geschichten von jenen, die mehr sind als nur Schachfiguren auf dem Spielbrett des Schicksals. Ihr seid eine solche Figur – und wir haben eine Aufgabe für Euch.
 

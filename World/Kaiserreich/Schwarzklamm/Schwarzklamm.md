@@ -2,6 +2,7 @@
 typ: Beschreibung
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Schwarzklamm]]"
 tags: []
@@ -10,6 +11,7 @@ zeit_von_jahr: 328
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 # Das Fürstentum [[Schwarzklamm]] – Das Reich der Tiefen
 ![[Wappen Schwarzklamm.png|200]]

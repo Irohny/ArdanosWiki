@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Chaotisch Neutral"
 ruestungsklasse: 13
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Brandstifter 🔶
 - **Grundlage:** #Homebrew

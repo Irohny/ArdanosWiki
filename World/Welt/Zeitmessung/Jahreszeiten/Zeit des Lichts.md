@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Zeit des *[[Solyra]]* _(Frühling)_
 **Tage:** 1–73

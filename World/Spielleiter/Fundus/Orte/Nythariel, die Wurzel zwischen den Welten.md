@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[weltenbaum_gemaelde.png|200]]
 _[[Casparin Friedhain]], 2210 n.d.D._

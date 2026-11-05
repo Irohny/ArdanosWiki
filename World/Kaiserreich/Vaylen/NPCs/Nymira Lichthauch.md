@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Lichthauch
 - **Titel / Amt:** Hohepriesterin der arkanen Kuenste in [[Erythra]]

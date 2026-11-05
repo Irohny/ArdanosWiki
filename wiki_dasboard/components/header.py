@@ -1,49 +1,101 @@
 import streamlit as st
-import os
 from html import escape
 from wiki_dasboard.components import utils
 from wiki_dasboard.components.show_file import show_image
-from wiki_dasboard.components.dashboard import render_dashboard
+from wiki_dasboard.components.dashboard import (
+    render_campaign_overview,
+    render_dashboard,
+)
 from wiki_dasboard.components.database_view import show_database
 from wiki_dasboard.components.toolbox import toolbox_view
+from wiki_dasboard.components.access_control import campaigns_for_user
+from wiki_dasboard.components.login import Roles
+from wiki_dasboard.components.sidebar import render_campaign_filter
 from wiki_dasboard.config import cfg
 
 
 def header():
-    cols = st.columns([5, 1], vertical_alignment="top")
+    user = st.session_state.get("user")
+    campaigns = (
+        campaigns_for_user(user, cfg.paths.world_dir)
+        if user and user.role.value == Roles.Player.value
+        else []
+    )
+    cols = st.columns(
+        [5, 1.2, 1.2] if campaigns else [5, 1],
+        vertical_alignment="top",
+    )
     apply_breadcrumb_styles()
     render_breadcrumbs(cols[0])
-    __search_field(cols[1])
+    if campaigns:
+        render_campaign_filter(cols[1], campaigns)
+        __search_field(cols[2])
+    else:
+        __search_field(cols[1])
     col = st.columns([1, 15])
     show_image(col[0], "dnd_logo.svg", False)
 
-    if (
+    user = st.session_state.get("user")
+    active_campaign_id = st.session_state.get("active_campaign_id")
+    player_context = bool(user and user.role.value == "Player")
+    player_campaign_context = (
+        player_context
+        and active_campaign_id in cfg.player_access.campaign_labels
+    )
+    is_campaign_home = (
+        player_campaign_context
+        and st.session_state["current_path"] == st.session_state["root_path"]
+    )
+
+    campaign_overview = st.session_state.get("campaign_overview_mode", False)
+
+    if campaign_overview:
+        name = "Kampagnenübersicht"
+    elif (
         not st.session_state["current_path"].endswith(".md")
         and not st.session_state["db_flag"]
     ):
-        st.header(f"{st.session_state['current_path'].split('/')[-1]}")
-        name = "Ardanos Wiki"
-        dashboard_config_errors = st.session_state.get("dashboard_config_errors", [])
-        if dashboard_config_errors:
-            st.error(
-                "Dashboard-Konfiguration fehlerhaft:\n- "
-                + "\n- ".join(dashboard_config_errors)
+        if player_campaign_context:
+            name = (
+                cfg.player_access.campaign_labels[active_campaign_id]
+                if is_campaign_home
+                else utils.format_path(st.session_state["current_path"])
             )
-        dashboard_view = utils.resolve_dashboard_view(st.session_state["current_path"])
-        render_dashboard(dashboard_view)
+            dashboard_view = utils.resolve_dashboard_view(
+                st.session_state["current_path"]
+            )
+            render_dashboard(dashboard_view)
+        else:
+            st.header(f"{utils.format_path(st.session_state['current_path'])}")
+            name = "Ardanos Wiki"
+            dashboard_config_errors = st.session_state.get(
+                "dashboard_config_errors", []
+            )
+            if dashboard_config_errors:
+                st.error(
+                    "Dashboard-Konfiguration fehlerhaft:\n- "
+                    + "\n- ".join(dashboard_config_errors)
+                )
+            dashboard_view = utils.resolve_dashboard_view(
+                st.session_state["current_path"]
+            )
+            render_dashboard(dashboard_view)
     elif st.session_state["db_flag"]:
         name = st.session_state["db"]
         st.session_state["db_flag"] = False
-        if any([db in st.session_state["db"] for db in cfg.DATABASE_LIST]):
+        if any(
+            db in st.session_state["db"] for db in cfg.navigation.databases
+        ):
             show_database(f"{st.session_state['root_path']}/{st.session_state['db']}")
-        elif st.session_state["db"] == cfg.TOOLBOX_FEATURE_NAME:
+        elif st.session_state["db"] == cfg.features.toolbox_name:
             toolbox_view(show_title=False)
 
     else:
-        name = st.session_state["current_path"].split("/")[-1].replace(".md", "")
+        name = utils.format_path(st.session_state["current_path"])
     name = name.split("_")[-1]
     col[1].title(f":red[{name}]")
-
+    if campaign_overview:
+        render_campaign_overview(st.session_state["tree"])
 
 def apply_breadcrumb_styles() -> None:
     st.markdown(
@@ -148,7 +200,7 @@ def render_breadcrumbs(place) -> None:
 def __search_field(st_obj):
     all_files = utils.get_all_file_paths(st.session_state["tree"])
     file_names = ["Suche Dokument"]
-    file_names.extend([os.path.basename(f).replace(".md", "") for f in all_files])
+    file_names.extend([utils.format_path(path) for path in all_files])
 
     selected = st_obj.selectbox(
         "🔍 Suche nach Datei", file_names, key="searchfield", index=0
@@ -156,7 +208,7 @@ def __search_field(st_obj):
     if selected != "Suche Dokument":
         # vollständiger Pfad zur Datei finden:
         selected_path = next(
-            (p for p in all_files if os.path.basename(p) == f"{selected}.md"), None
+            (path for path in all_files if utils.format_path(path) == selected), None
         )
         if selected_path:
             utils.set_path(selected_path)

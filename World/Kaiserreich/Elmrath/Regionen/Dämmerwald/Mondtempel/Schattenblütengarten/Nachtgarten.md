@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Nachtgarten]]** liegt in einem abgeschiedenen Innenhof der verfallenen Festung, verborgen zwischen eingestürzten Wehrgängen und dunklen, vom Regen geglätteten Mauern. Einst war er vermutlich der Ziergarten eines Burgherrn; die [[Tashiro'en]] haben ihn zu einem Ort stiller Übungen, geheimer Treffen und nächtlicher Rituale gemacht.
 

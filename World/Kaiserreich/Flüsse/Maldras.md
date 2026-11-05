@@ -11,5 +11,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Fluss der in der [[Nordfels-Krone]] der [[Schwarzklamm]] entspringt und durch Teile der [[Bernsteinküste]] fließt, bis er im [[Graldrim]] einmündet.

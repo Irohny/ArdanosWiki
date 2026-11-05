@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "4G"
 fundort: "Gebirgsausläufer, Jagdgründe,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Ungewöhnlich 
  - **Wert:** 4G

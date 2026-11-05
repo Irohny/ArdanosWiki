@@ -14,6 +14,7 @@ zeit_von_jahr: 1728
 zeit_bis_jahr: 1792
 erstellt: 2026-10-19
 geaendert: 2026-10-19
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** der Reiterchronist

@@ -11,5 +11,6 @@ zeit_von_jahr: 2163
 zeit_bis_jahr:
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 Als der alte Vulkan [[Moragul]] erneut zu speien drohte, brachen tapfere Streiter in seine glühenden Tiefen hinab. Dort stellten sie sich dem wütenden Sonnenvogel – einst Hüter, nun Verderbter. Durch Mut und Licht gelang es ihnen, den uralten Wächter zu erlösen. Seitdem schweigt der Vulkan. Die Gruppe brachte dem Dorf das Artefakt Names _[[Träne der Sonne]]_, ein uraltes Armulett, das von da an die [[Himmelshöfe]] beschützt und von allen verehrt wird.

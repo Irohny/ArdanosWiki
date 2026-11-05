@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Der Goldene Weiser
 - **Titel / Amt:** [[Kaiser]] von [[Ardanos]]

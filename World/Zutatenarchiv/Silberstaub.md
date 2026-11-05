@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "3 G"
 fundort: "Juweliere, Tempel,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Ungewöhnlich 
 - **Wert:** 3 G 

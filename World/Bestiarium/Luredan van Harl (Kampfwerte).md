@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Rechtschaffen Böse"
 ruestungsklasse: 18
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Luredan van Harl (Kampfwerte) 🔶
 - **Grundlage:** #Homebrew

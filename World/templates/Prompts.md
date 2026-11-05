@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Prompts für die Bildgenerierung mir Comfy Desktop App.
 # Stil Gebäude und Umwelt

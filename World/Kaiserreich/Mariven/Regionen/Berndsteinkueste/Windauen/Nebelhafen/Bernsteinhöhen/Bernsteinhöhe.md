@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 Zwischen [[Nordtor]], Bernsteintor und Markt. Breitere Straßen, Stadthäuser, Kontore und bewachte Residenzen wohlhabender Händler und Adliger.
 

@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "4 G"
 fundort: "Schmieden, Vulkangebiete,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Ungewöhnlich 
  - **Wert:** 4 G 

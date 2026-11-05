@@ -18,6 +18,7 @@ source_file: World/Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land
 source_heading: "## Akt 3 – Der zweite Versuch"
 image_files:
   - Lagerfeuer.jpg
+sichtbarkeit: []
 ---
 
 # Akt 3 - Nachtangriff am Lager

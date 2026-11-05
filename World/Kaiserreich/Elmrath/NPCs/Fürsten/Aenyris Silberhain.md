@@ -11,6 +11,7 @@ zeit_von_jahr: 1376
 zeit_bis_jahr: 1614
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Der Ätherfürst
 - **Titel / Amt:** Fürst von [[Elmrath]]

@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die Gruppe wird von dunklen Gerüchten oder einem Kontakt (z. B. ein Geistlicher, Historiker oder Vampirjäger) zu einer verfallenen Burg in den **schwarzen Hügeln von Ehlmarn** geschickt. Kinder verschwinden aus Dörfern der Umgebung, ihre Namen tauchen plötzlich auf alten, moosbedeckten Grabsteinen auf. Ein uraltes Böses scheint erwacht zu sein.
 

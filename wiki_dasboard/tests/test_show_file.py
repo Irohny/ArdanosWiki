@@ -1,4 +1,5 @@
 import unittest
+from types import SimpleNamespace
 from urllib.parse import parse_qs, urlparse
 from unittest.mock import patch
 
@@ -7,6 +8,7 @@ from wiki_dasboard.components.show_file import (
     _extract_image_caption,
     make_internal_links_clickable,
     make_internal_links_main_page_clickable,
+    show_file,
 )
 
 
@@ -67,6 +69,29 @@ class InternalWikiLinkTests(unittest.TestCase):
         query = parse_qs(urlparse(href).query)
         self.assertEqual(query["page"], [self.current_path])
         self.assertEqual(query[WIKI_DIALOG_QUERY_PARAM], [self.target_path])
+
+
+class DirectDocumentAccessTests(unittest.TestCase):
+    def test_unauthorized_direct_render_is_rejected_before_opening_file(self) -> None:
+        user = SimpleNamespace(role=SimpleNamespace(value="Player"))
+        session_state = {"user": user, "active_campaign_id": "campaign_01"}
+
+        with (
+            patch(
+                "wiki_dasboard.components.show_file.st.session_state",
+                session_state,
+            ),
+            patch(
+                "wiki_dasboard.components.show_file.utils.has_permission",
+                return_value=False,
+            ),
+            patch("wiki_dasboard.components.show_file.st.error") as show_error,
+            patch("builtins.open") as open_file,
+        ):
+            show_file("/outside/secret.md")
+
+        show_error.assert_called_once_with("Datei nicht verfügbar.")
+        open_file.assert_not_called()
 
 
 if __name__ == "__main__":

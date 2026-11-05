@@ -16,6 +16,7 @@ volk: "beliebig"
 gesinnung: "#ChaotischNeutral"
 ruestungsklasse: 15
 grundlage: "#Homebrew #Book #Online"
+sichtbarkeit: []
 ---
 # Söldner
 

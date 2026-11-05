@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 # Der Tunnel zum Hospiz
 *Kurze Beschreibung mit einer Gruppenprobe, ca. 5–10 Minuten, kein Kampf.*

@@ -13,6 +13,7 @@ geaendert:
 wert: "28G"
 komponenten: "[[Luchsentränen]], [[Silberminze]], [[Fliegenpilzpulver]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung
 - **Komponenten:** [[Luchsentränen]], [[Silberminze]], [[Fliegenpilzpulver]]

@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "5G"
 fundort: "Alte Klöster, Höhlen,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 5G 

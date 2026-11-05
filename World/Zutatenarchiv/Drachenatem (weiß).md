@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "2 P"
 fundort: "Drachenhöhlen, legendäre Jäger,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #SehrSelten 
 - **Wert:** 2 P 

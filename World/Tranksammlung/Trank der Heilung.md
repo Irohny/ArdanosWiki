@@ -13,6 +13,7 @@ geaendert:
 wert: "50G"
 komponenten: "[[Mohnblüte]], [[Trollharz]], [[Einhornhaar]], [[Quellwasser]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Heilung
 - **Komponenten:** [[Mohnblüte]], [[Trollharz]], [[Einhornhaar]], [[Quellwasser]]

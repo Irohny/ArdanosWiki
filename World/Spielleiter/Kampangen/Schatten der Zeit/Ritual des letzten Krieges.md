@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Ziel des Rituals:** Reodemus will [[Volgrin]], den Gott des Krieges, in die materielle Welt zwingen, ihn fesseln und töten – um, wie er glaubt, den Krieg selbst aus der Welt zu tilgen.
 

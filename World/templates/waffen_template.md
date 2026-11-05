@@ -3,7 +3,8 @@ zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
 typ: Waffe
-sichtbarkeit: DM
+sichtbarkeit: []
+zugriff: spielleitung
 status: vorbereitet
 kampagne:
 region:

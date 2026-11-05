@@ -12,6 +12,7 @@ zeit_von_jahr: "2464"
 zeit_bis_jahr: "2466"
 erstellt: 2026-10-19
 geaendert:
+sichtbarkeit: []
 ---
 **Bis 2464 n.d.D:** Die [[Familie Schnellwasser]] herrscht über die [[Stromkrone]]. Die Festung war ihr freier Eigenbesitz, und die Familie war dem Fürstentum [[Mariven]] verpflichtet. Sie hielt die Brücke für alle offen und erhob die Zölle selbst.
 

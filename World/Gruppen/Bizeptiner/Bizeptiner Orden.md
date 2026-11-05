@@ -4,12 +4,14 @@ status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
 region:
+  - "[[Drakmora]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 ![[Bizeptiner Wappen.png|200]]
 _[[Theophanos der Gräne]], um 2230 n.d.D._

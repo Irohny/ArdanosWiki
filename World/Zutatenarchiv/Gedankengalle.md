@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "15G"
 fundort: "Gehirnfresser, psionische Wesen,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #SehrSelten 
  - **Wert:** 15G 

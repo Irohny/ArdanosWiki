@@ -13,6 +13,7 @@ geaendert:
 wert: "174G"
 komponenten: "[[Nymphenblüte]], [[getrocknete Träne]], [[Traumdistel]]"
 seltenheit: "Ungewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung  
 - **Komponenten:** [[Nymphenblüte]], [[getrocknete Träne]], [[Traumdistel]]

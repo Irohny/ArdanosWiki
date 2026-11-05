@@ -15,6 +15,7 @@ schule: "#Verzauberung"
 konzentration: "ja"
 komponenten: "#Verbal #Geste #Material"
 materialien: "das versteinerte Auge eines Molches"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:**  #Verzauberung 

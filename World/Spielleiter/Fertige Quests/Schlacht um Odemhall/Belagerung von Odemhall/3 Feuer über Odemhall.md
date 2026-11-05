@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-11-01
+sichtbarkeit: []
 ---
 Wenn die Mauer nach **Welle 1 [[2 Der Mauerkampf]]** noch steht, wechselt Luredan die Taktik. Statt die Mauer sofort erneut zu stürmen, lässt er die äußeren Viertel in Brand setzen. Die Feinde verwenden dafür [[Brandwagen]], Brandpfeile und kleine Trupps von Brandstiftern, die durch Ruinen und beschädigte Gebäude in die Stadt eindringen.
 

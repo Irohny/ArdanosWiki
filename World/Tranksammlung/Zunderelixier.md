@@ -13,6 +13,7 @@ geaendert:
 wert: "175G"
 komponenten: "[[Phönixasche]], [[Salamanderöl]], [[Funkenstein]]"
 seltenheit: "Ungewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung #Schaden
 - **Komponenten:** [[Phönixasche]], [[Salamanderöl]], [[Funkenstein]]

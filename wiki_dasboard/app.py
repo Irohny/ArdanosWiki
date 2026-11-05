@@ -75,8 +75,11 @@ def restore_persisted_user() -> User | None:
 
     return User(
         name=str(user_record.get("name", "")).strip() or claims["name"],
+        user_name=str(user_record.get("user_name", claims["name"])).strip(),
         role=Roles(expected_role),
         loged_in=True,
+        character_ids=user_record.get("characters", user_record.get("charakter")),
+        campaigns=user_record.get("campaigns"),
     )
 
 
@@ -109,13 +112,33 @@ def render_login_screen() -> None:
 
 
 def main():
-    # set session state if query parameter are give (click on document link)
-    if "page" in st.query_params:
-        st.session_state["current_path"] = st.query_params["page"]
+    requested_page = st.query_params.get("page")
+    if requested_page:
+        visible_navigation_paths = {
+            Path(path).resolve()
+            for path in (
+                *utils.get_all_file_paths(st.session_state["tree"]),
+                *utils.get_all_folder_paths(st.session_state["tree"]),
+            )
+        }
+        if Path(str(requested_page)).resolve() in visible_navigation_paths:
+            st.session_state["current_path"] = str(requested_page)
+        else:
+            st.session_state["current_path"] = st.session_state["root_path"]
+            st.query_params.pop("page", None)
+
     database_view = st.query_params.get(DATABASE_VIEW_QUERY_PARAM)
-    if database_view in cfg.DATABASE_LIST:
-        st.session_state["db"] = database_view
-        st.session_state["db_flag"] = True
+    if database_view in cfg.navigation.databases:
+        is_game_master = (
+            st.session_state["user"].role.value == Roles.GameMaster.value
+        )
+        if database_view == "Bestiarium" and not is_game_master:
+            st.query_params.pop(DATABASE_VIEW_QUERY_PARAM, None)
+            st.session_state["db"] = ""
+            st.session_state["db_flag"] = False
+        else:
+            st.session_state["db"] = database_view
+            st.session_state["db_flag"] = True
     elif database_view:
         st.query_params.pop(DATABASE_VIEW_QUERY_PARAM, None)
     header()
@@ -131,7 +154,7 @@ def main():
 
 if __name__ == "__main__":
     st.set_page_config(
-        "DnD Wiki", page_icon=f"{cfg.IMAGE_DIR}/dnd_logo.svg", layout="wide"
+        "DnD Wiki", page_icon=f"{cfg.paths.image_dir}/dnd_logo.svg", layout="wide"
     )
     user = ensure_app_user()
     if not user.loged_in:
@@ -139,17 +162,22 @@ if __name__ == "__main__":
         st.stop()
 
     if "root_path" not in st.session_state:
+        st.session_state["active_campaign_id"] = None
+        st.session_state["wiki_campaign_selector"] = None
         st.session_state["tree"] = utils.find_markdown_files(
-            cfg.MARKDOWN_DIR, st.session_state["user"]
+            cfg.paths.world_dir,
+            st.session_state["user"],
         )
-        st.session_state["images"] = utils.collect_images_by_name(cfg.IMAGE_DIR)
+        st.session_state["images"] = utils.collect_images_by_name(
+            cfg.paths.image_dir
+        )
         st.session_state["root_path"] = str(list(st.session_state["tree"].keys())[0])
         st.session_state["current_path"] = str(list(st.session_state["tree"].keys())[0])
         st.session_state["db_flag"] = False
         st.session_state["db"] = ""
-        for db in cfg.DATABASE_LIST:
+        for db in cfg.navigation.databases:
             st.session_state[db] = build_markdown_database(
-                str(cfg.MARKDOWN_DIR / db)
+                str(cfg.paths.world_dir / db)
             )
 
     st.session_state["dashboard_config_errors"] = utils.validate_dashboard_views()

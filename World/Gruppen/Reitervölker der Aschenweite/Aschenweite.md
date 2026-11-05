@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die **[[Aschenweite]]** ist eine weite, karge Steppe im nördlich von [[Drakmora]], jenseits der Grenzen des Kaiserreiches [[Ardanos]]. Dauerwind fegt über das Land, die Sommer sind glühend trocken, und im Winter ziehen Eisstürme über die Ebene. Bäume sind selten, geheizt wird mit getrocknetem Dung.
 

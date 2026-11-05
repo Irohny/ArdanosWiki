@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Bevor die Ebenen der Existenz mit Sternen, Himmelen oder Erden existierten, gab es nur den **Urschleier**, eine endlose Leere aus ruhender Möglichkeit. In diesem Nichts entstanden zwei erste Kräfte: **Licht und Schatten**.
 

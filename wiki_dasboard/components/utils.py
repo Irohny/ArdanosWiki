@@ -5,6 +5,11 @@ from typing import TYPE_CHECKING
 if TYPE_CHECKING:
     from wiki_dasboard.components.login import User
 
+from wiki_dasboard.components.access_control import (
+    build_character_campaign_index,
+    campaign_id_for_value,
+    can_view_document,
+)
 from wiki_dasboard.config import DashboardViewConfig, cfg
 from collections import Counter
 from pathlib import Path
@@ -30,37 +35,58 @@ def collect_images_by_name(root_path: str) -> dict[str, str]:
     return images
 
 
-def has_permission(path: str | None, user: "User") -> bool:
+def has_permission(
+    path: str | None,
+    user: "User",
+    *,
+    world_root: str | Path | None = None,
+    character_campaigns: dict[str, tuple[str, ...]] | None = None,
+    campaign_id: str | None = None,
+) -> bool:
     if path is None:
         return True
-    file = path.split("/")[-1]
-    if user.role.value == "GameMaster":  # dm can see all files
-        return True
-    elif file == "Spielleiter":  # skip dm files if not dm
-        return False
-    elif "_" not in file:  # show all files without permissions
-        return True
-    elif user.role.value == "Player":
-        return file.startswith(cfg.ROLE_MAPPING[user.name])
-    return False
+    root = Path(world_root or cfg.paths.world_dir).resolve()
+    campaign_index = character_campaigns or build_character_campaign_index(
+        str(root)
+    )
+    return can_view_document(
+        path,
+        user,
+        root,
+        character_campaigns=campaign_index,
+        campaign_aliases=cfg.player_access.campaign_aliases,
+        campaign_id=campaign_id,
+    )
 
 
-def find_markdown_files(folder_path: str, user: "User") -> dict:
+def find_markdown_files(
+    folder_path: str,
+    user: "User",
+    campaign_id: str | None = None,
+) -> dict:
+    world_root = Path(folder_path).resolve()
+    character_campaigns = build_character_campaign_index(str(world_root))
+
     def build_tree(current_path: str) -> dict:
         tree = {}
         try:
             for item in os.listdir(current_path):
                 item_path = os.path.join(current_path, item)
-                if any([ignore in item_path for ignore in cfg.IGNORE_LIST]):
+                if any(
+                    ignore in item_path for ignore in cfg.navigation.ignored_paths
+                ):
                     continue
-                if not has_permission(item_path, user):
-                    continue
-
                 if os.path.isdir(item_path):
                     subtree = build_tree(item_path)
                     if subtree:  # nur hinzufügen, wenn es Markdown-Dateien enthält
                         tree[item_path] = subtree
-                elif item.endswith(".md"):
+                elif item.endswith(".md") and has_permission(
+                    item_path,
+                    user,
+                    world_root=world_root,
+                    character_campaigns=character_campaigns,
+                    campaign_id=campaign_id,
+                ):
                     if "__files__" not in tree:
                         tree["__files__"] = []
                     tree["__files__"].append(item_path)
@@ -136,7 +162,18 @@ def get_subtree_by_path(target_path: str) -> dict:
 
 
 def format_path(path):
-    return str(path).split("/")[-1].replace(".md", "")
+    name = Path(path).name.removesuffix(".md")
+    user = st.session_state.get("user")
+    active_campaign_id = st.session_state.get("active_campaign_id")
+    if (
+        getattr(getattr(user, "role", None), "value", None) == "Player"
+        and active_campaign_id
+        and campaign_id_for_value(
+            name, cfg.player_access.campaign_aliases
+        ) == active_campaign_id
+    ):
+        return cfg.player_access.campaign_labels[active_campaign_id]
+    return name
 
 
 def format_relative_path(path: str) -> str:
@@ -149,6 +186,8 @@ def format_relative_path(path: str) -> str:
 def sync_current_path(path: str) -> None:
     st.session_state["db_flag"] = False
     st.session_state["db"] = ""
+    st.session_state.pop("campaign_overview_mode", None)
+    st.session_state.pop("campaign_overview_expanded_folders", None)
     st.session_state["current_path"] = path
     st.query_params.pop(DATABASE_VIEW_QUERY_PARAM, None)
     st.query_params.pop(WIKI_DIALOG_QUERY_PARAM, None)
@@ -252,7 +291,7 @@ def relative_path_from_root(path: str) -> str:
 
 def resolve_dashboard_view(path: str) -> DashboardViewConfig | None:
     relative_path = relative_path_from_root(path)
-    for view in cfg.DASHBOARD_VIEWS:
+    for view in cfg.layout.views:
         if relative_path == view.path_prefix or relative_path.startswith(
             f"{view.path_prefix}/"
         ):
@@ -266,7 +305,7 @@ def resolve_dashboard_asset_path(view: DashboardViewConfig) -> Path | None:
 
     asset_path = Path(view.asset_path)
     if not asset_path.is_absolute():
-        asset_path = cfg.REPO_ROOT / asset_path
+        asset_path = cfg.paths.repo_root / asset_path
 
     resolved_path = asset_path.resolve()
     if not resolved_path.exists() or not resolved_path.is_file():
@@ -278,19 +317,19 @@ def validate_dashboard_views() -> list[str]:
     errors: list[str] = []
     allowed_modes = {"default", "timeline"}
 
-    prefix_counter = Counter(view.path_prefix for view in cfg.DASHBOARD_VIEWS)
+    prefix_counter = Counter(view.path_prefix for view in cfg.layout.views)
     duplicate_prefixes = sorted(
         prefix for prefix, count in prefix_counter.items() if count > 1
     )
     for prefix in duplicate_prefixes:
         errors.append(f"Dashboard path_prefix mehrfach definiert: {prefix}")
 
-    key_counter = Counter(view.key for view in cfg.DASHBOARD_VIEWS)
+    key_counter = Counter(view.key for view in cfg.layout.views)
     duplicate_keys = sorted(key for key, count in key_counter.items() if count > 1)
     for key in duplicate_keys:
         errors.append(f"Dashboard key mehrfach definiert: {key}")
 
-    for view in cfg.DASHBOARD_VIEWS:
+    for view in cfg.layout.views:
         if view.mode not in allowed_modes:
             errors.append(
                 f"Dashboard {view.key} verwendet unbekannten mode: {view.mode}"

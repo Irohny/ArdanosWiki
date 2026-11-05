@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Morgenfels.png|200]]
 _[[Jaques-Ludwin Davor]] um 2170 n.d.D._

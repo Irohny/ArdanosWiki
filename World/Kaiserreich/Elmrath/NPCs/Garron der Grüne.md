@@ -2,14 +2,16 @@
 typ: NPC
 status: kanon
 kampagne:
-geschichten:
+  - "[[Schatten der Zeit]]"
 region:
+  - "[[Elmrath]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Der Grüne
 - **Titel / Amt:** [[Baron]] & Botschafter für Landwirtschaft und Ressourcen aus [[Elmrath]]

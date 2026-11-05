@@ -12,6 +12,7 @@ zeit_von_jahr: 1688
 zeit_bis_jahr: 1752
 erstellt: 2026-10-19
 geaendert: 2026-10-19
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** der Albtraummeister

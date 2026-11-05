@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-27
 geaendert:
+sichtbarkeit: []
 ---
 **Gemeinsprache:** [[Heiligtum]] der Ahnen
 _„Jeder Pfad endet in ihren Schwingen.“_

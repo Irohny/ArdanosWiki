@@ -188,7 +188,12 @@ class CreatorMetadataTests(unittest.TestCase):
                 metadata, body = split_frontmatter(exported)
                 self.assertEqual(metadata["typ"], expected_type)
                 self.assertEqual(metadata["tags"], ["test", "neu"])
+                self.assertEqual(metadata["sichtbarkeit"], [])
                 self.assertIn("# Testobjekt", body)
+                if entry_kind in {"Waffe", "Schatzkammer-Eintrag"}:
+                    self.assertEqual(metadata["zugriff"], "spielleitung")
+                else:
+                    self.assertNotIn("zugriff", metadata)
                 if entry_kind == "Waffe":
                     self.assertIs(metadata["Einstimmung"], True)
                 if entry_kind == "Trank":
@@ -218,14 +223,14 @@ class CreatorMetadataTests(unittest.TestCase):
                 with patch.object(entry_creator.st, "session_state", state):
                     self.assertEqual(
                         entry_creator._destination_directory(entry_kind),
-                        entry_creator.cfg.MARKDOWN_DIR / collection,
+                        entry_creator.cfg.paths.world_dir / collection,
                     )
                     state[entry_creator._state_key(entry_kind, "destination")] = (
                         "Spielleiter"
                     )
                     self.assertEqual(
                         entry_creator._destination_directory(entry_kind),
-                        entry_creator.cfg.MARKDOWN_DIR / "Spielleiter",
+                        entry_creator.cfg.paths.world_dir / "Spielleiter",
                     )
 
 

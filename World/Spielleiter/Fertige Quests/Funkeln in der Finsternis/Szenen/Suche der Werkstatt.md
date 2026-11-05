@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die **Tiefen Hallen** sind das Vermächtnis einer uralten zwergischen Bergbaukunst, heute jedoch ein zerfallenes Geflecht aus verschlungenen Schächten, gesprengten Kavernen und vergessenen Stollen. Über Jahrhunderte hinweg grub man hier nicht nur nach Metallen und Edelsteinen, sondern auch nach magischen Kristallen tief unter dem Stein. Mit der Zeit wucherten arkane Adern durch das Gestein und formten neue Strukturen – lebendig, fremdartig, gefährlich.
 

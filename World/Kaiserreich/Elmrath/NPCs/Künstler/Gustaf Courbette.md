@@ -16,6 +16,7 @@ zeit_von_jahr: 2425
 zeit_bis_jahr:
 erstellt: 2026-10-20
 geaendert: 2026-10-20
+sichtbarkeit: []
 ---
 > 🔶 Vorschlag – nicht kanonisch
 

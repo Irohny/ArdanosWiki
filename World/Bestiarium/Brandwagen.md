@@ -17,6 +17,7 @@ volk: "Objekt (Belagerungsgerät)"
 gesinnung: "–"
 ruestungsklasse: 15
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Brandwagen 🔶
 - **Grundlage:** #Homebrew

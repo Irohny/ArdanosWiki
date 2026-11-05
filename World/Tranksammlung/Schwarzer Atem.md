@@ -13,6 +13,7 @@ geaendert:
 wert: "28G"
 komponenten: "[[Nachtalraune]], [[Glassplitter]], [[Krötengalle]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Gift 
 - **Komponenten:** [[Nachtalraune]], [[Glassplitter]], [[Krötengalle]]

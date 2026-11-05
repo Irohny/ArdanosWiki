@@ -17,6 +17,7 @@ volk: "#Unhold (Schattenwesen)"
 gesinnung: "Rechtschaffen Böse"
 ruestungsklasse: 12
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Zeras Schatten 🔶
 - **Grundlage:** #Homebrew

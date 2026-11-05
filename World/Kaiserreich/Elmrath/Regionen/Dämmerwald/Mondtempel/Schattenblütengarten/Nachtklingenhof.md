@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **Hof der Nachtklingen** liegt im Zentrum der verborgenen Festung und wirkt wie ein verlassener Exerzierplatz aus einer längst vergangenen Zeit. Hohe, verwitterte Mauern und halb zerfallene Holzgalerien umschließen einen weiten Platz aus dunklen Steinplatten; an den Dachrändern hängen zerrissene Banner, deren Wappen längst vom Regen ausgelöscht wurden.
 

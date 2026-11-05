@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 # Die Spur der Kutsche 🔶
 *Alternativsequenz, ca. 10–15 Minuten. Nur spielen, wenn nötig: Die Szene führt immer zum [[Der Tunnel zum Hospiz|Tunnel]] im [[Lagerhaus Nummer 7]].*

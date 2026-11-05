@@ -11,6 +11,7 @@ zeit_von_jahr: 441
 zeit_bis_jahr: 1219
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Die Erweckerin der Pfade
 - **Titel / Amt:** Fürstin von [[Vaylen]]

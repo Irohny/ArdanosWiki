@@ -15,6 +15,7 @@ zeit_von_jahr: 2431
 zeit_bis_jahr:
 erstellt: 2026-10-20
 geaendert: 2026-10-20
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** der Wappenzeichner
 - **Titel / Amt:** Herold und Dekorationsmaler

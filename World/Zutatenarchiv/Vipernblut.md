@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "3G"
 fundort: "Schlangenfänger, Sümpfe,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Ungewöhnlich
  - **Wert:** 3G 

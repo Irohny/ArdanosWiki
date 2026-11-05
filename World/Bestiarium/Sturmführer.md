@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Chaotisch Neutral"
 ruestungsklasse: 15
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Sturmführer 🔶
 - **Grundlage:** #Homebrew

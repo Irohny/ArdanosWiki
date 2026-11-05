@@ -11,5 +11,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert: 2026-10-27
+sichtbarkeit: []
 ---
 **Gnome** sind Meister der Tüftelei und begabte Handwerker und in allen Teilen des Kaiserreichs zu finden. Besonders zahlreich sind sie in [[Vaylen]], [[Schwarzklamm]] und [[Mariven]] anzutreffen.

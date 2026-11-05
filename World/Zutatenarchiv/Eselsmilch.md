@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "2S"
 fundort: "Bauernhöfe, Karawanen,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Gewöhnlich 
  - **Wert:** 2S 

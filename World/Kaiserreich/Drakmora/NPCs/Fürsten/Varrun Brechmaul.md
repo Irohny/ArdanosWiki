@@ -10,6 +10,7 @@ zeit_von_jahr: 1410
 zeit_bis_jahr: 1527
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** 
 - **Titel / Amt:** Fürst von [[Drakmora]]

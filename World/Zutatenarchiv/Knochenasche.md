@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "1G"
 fundort: "Schlachtfelder, Grabstätten,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Gewöhnlich 
  - **Wert:** 1G

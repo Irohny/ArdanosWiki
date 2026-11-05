@@ -10,6 +10,8 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+charakter_id: brudermarkus
+sichtbarkeit: []
 ---
 #Mensch #Mönch #Spieler
 ![[Bruder Marcus Bild.jpeg|200]]
@@ -24,7 +26,7 @@ Wenn du auf 0 Trefferpunkte fallen würdest, bleibst du stattdessen mit **1 Tref
 
 ---
 * [[Bizeptiner Orden]]
-![[mc_Bruder Marcus Backstory]]
+![[Backstory Bruder Marcus]]
 
 ![[Mut des Hopfens]]
 

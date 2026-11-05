@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Zeit der *[[Ocyra]]* _(Herbst)_
  **Tage:** 220–292

@@ -14,6 +14,7 @@ volk: "#Göttlich"
 gesinnung: "#RechtschaffendGut"
 ruestungsklasse: 16
 grundlage: "#Online"
+sichtbarkeit: []
 ---
 # Valkyre
 

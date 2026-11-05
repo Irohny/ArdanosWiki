@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Typ:** Artefakt (Kristallsplitter im Diadem oder Ring)  
 **Magieschule:** Illusion & Nekromantie

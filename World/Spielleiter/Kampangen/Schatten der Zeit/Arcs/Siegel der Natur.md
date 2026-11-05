@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Gott:** [[Ocyra]]
 **Gegner:** [[Lady Seress]], [[Vaelor Drenn]]

@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **Alchemistische Konvent** ist der offizielle Tarnname der Roten Jäger. Nach außen tritt er als lose Gemeinschaft von Alchemisten, Gelehrten und Artefaktsuchern auf, die sich mit seltenen Substanzen, uralten Relikten und experimenteller Magie beschäftigen.
 

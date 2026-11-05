@@ -13,6 +13,7 @@ geaendert:
 wert: "41G"
 komponenten: "[[Nebelöl]], [[Schweigepilz]], [[Schattenlilien]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Aktion 
 - **Komponenten:** [[Nebelöl]], [[Schweigepilz]], [[Schattenlilien]]

@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "2P"
 fundort: "Drachenkadaver, legendäre Alchemisten,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #SehrSelten 
  - **Wert:** 2P 

@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert: 2026-10-27
+sichtbarkeit: []
 ---
 **[[Aetheri]]**, eine nahezu ausgestorbene, mythische Rasse von Sternenwanderern – humanoide Wesen, deren Blut mit reiner Astralmagie durchzogen war.
 

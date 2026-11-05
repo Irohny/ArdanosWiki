@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Ein natürlicher, von der Zeit und uralten Mächten geformter Abschnitt der Mine öffnet sich wie eine erstarrte Erinnerung an ein unterirdisches Wunder. Prismenartige Kristalle in unzähligen Formen und Farben wachsen aus Wänden, Boden und Decke, reflektieren nicht nur Licht, sondern auch Gedanken, Emotionen und Erinnerungen. Der Ort scheint in einer eigenen Zeit zu existieren – ein Ort zwischen Traum, Realität und Wahnsinn.
 

@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Es müssen 2 magische Gefäße der zwei Existenzebenen an der Schnittstelle der Welten geopfert werden, damit sich die Welten vereinen. 
 - Die Opfer sind lebewesen

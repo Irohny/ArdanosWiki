@@ -16,6 +16,7 @@ volk: "#Mensch"
 gesinnung: "#ChaotischNeutral"
 ruestungsklasse: 16
 grundlage: "#Online"
+sichtbarkeit: []
 ---
 # Schwarze Viper
 

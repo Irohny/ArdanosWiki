@@ -13,6 +13,7 @@ geaendert:
 wert: "500G"
 komponenten: "[[Nebelöl]], [[Trollblut]], [[Nymphenblüte]], [[Drachenatem (weiß)]]"
 seltenheit: "Selten"
+sichtbarkeit: []
 ---
 - Tag: #Heilung 
 - **Komponenten:** [[Nebelöl]], [[Trollblut]], [[Nymphenblüte]], [[Drachenatem (weiß)]]

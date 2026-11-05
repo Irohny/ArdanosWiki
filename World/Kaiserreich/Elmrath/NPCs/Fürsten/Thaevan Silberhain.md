@@ -11,6 +11,7 @@ zeit_von_jahr: 1614
 zeit_bis_jahr: 2059
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Der Lautlose Herr
 - **Titel / Amt:** Fürst von [[Elmrath]]

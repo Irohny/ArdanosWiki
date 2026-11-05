@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Feuersteele.png|250]]
 _[[Albrecht Altdorn]] um 2170 n.d.D._

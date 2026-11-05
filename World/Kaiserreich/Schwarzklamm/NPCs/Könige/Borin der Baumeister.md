@@ -10,6 +10,7 @@ zeit_von_jahr: 699
 zeit_bis_jahr: 812
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:**
 - **Titel / Amt:** [[Fürst]] der [[Schwarzklamm]]

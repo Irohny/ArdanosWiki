@@ -3,14 +3,15 @@ typ: Ort
 status: kanon
 kampagne:
   - "[[Vor dem ewigen Packt]]"
-geschichten:
 region:
+  - "[[Elmrath]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 ### Altstadt / Kernbereich
 - Brücke

@@ -11,6 +11,7 @@ zeit_von_jahr: 1041
 zeit_bis_jahr: 1375
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** Der Nebelkönig

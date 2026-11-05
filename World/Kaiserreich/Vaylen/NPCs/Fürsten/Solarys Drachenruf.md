@@ -11,6 +11,7 @@ zeit_von_jahr: 1542
 zeit_bis_jahr: 1872
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Sonne des Reiches
 - **Titel / Amt:** [[Fürst]] von [[Vaylen]]

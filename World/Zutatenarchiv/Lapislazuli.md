@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "5G"
 fundort: "Edelsteinminen, Händler,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Ungewöhnlich 
  - **Wert:** 5G 

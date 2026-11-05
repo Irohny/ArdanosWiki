@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Mondlotushof]]** bildet das stille, spirituelle Herz des verborgenen Tempels. Er liegt im innersten Bereich der verfallenen japanisch anmutenden Festung, hinter hohen, rissigen Steinmauern und einem halb eingestürzten Torhaus. Wo einst ein Burghof war, erstreckt sich heute ein streng gepflegter Zen-Garten aus hellem Kies, dunklen Basaltsteinen und schwarzen Lotusbecken.
 

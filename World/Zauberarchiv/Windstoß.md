@@ -15,6 +15,7 @@ schule: "#Hervorrufung"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "Samen einer Hülsenfrucht"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Hervorrufung 

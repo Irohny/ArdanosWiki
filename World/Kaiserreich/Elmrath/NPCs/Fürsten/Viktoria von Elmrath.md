@@ -10,6 +10,7 @@ zeit_von_jahr: 2325
 zeit_bis_jahr: 2383
 erstellt: 2026-10-22
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** 
 - **Titel / Amt:** Fürstin von [[Elmrath]]

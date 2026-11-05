@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert:
+sichtbarkeit: []
 ---
 Vor [[Odemhall]] erstreckt sich ein Ring aus Gräben, Palisaden, Wachposten und Zeltlagern. Niemand kommt mehr hinein oder heraus. Über der ramponierten Stadtmauer sind vereinzelte Feuer zu sehen; [[Odemhall]] hält noch stand, aber nicht mehr lange.
 

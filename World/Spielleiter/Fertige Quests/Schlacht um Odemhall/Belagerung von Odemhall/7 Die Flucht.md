@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-10-31
+sichtbarkeit: []
 ---
 ## Fluchtszene: Der Weg durch den Belagerungsring
 

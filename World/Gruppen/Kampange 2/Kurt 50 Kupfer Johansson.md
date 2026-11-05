@@ -1,5 +1,6 @@
 ---
 typ: Spieler
+charakter_id: kurt-50-kupfer-johansson
 status: draft
 kampagne:
   - "[[Vor dem ewigen Packt]]"
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Barde, [[Mensch]]**
 Herkunft: -

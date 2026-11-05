@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "3S"
 fundort: "Bauernhöfe, Imker, Waldlichtungen,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Gewöhnlich
  - **Wert:** 3S

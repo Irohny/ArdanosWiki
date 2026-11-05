@@ -13,6 +13,7 @@ geaendert:
 wert: "38G"
 komponenten: "[[Nachtschwarzer Pilz]], [[Leichenasche]], [[Schleierkraut]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag:  #Verbesserung 
 - **Komponenten:** [[Nachtschwarzer Pilz]], [[Leichenasche]], [[Schleierkraut]]

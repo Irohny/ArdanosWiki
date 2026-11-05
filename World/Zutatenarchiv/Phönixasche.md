@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "1P"
 fundort: "Nur bei Wiedergeburt eines Phönix,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #SehrSelten 
 - **Wert:** 1P

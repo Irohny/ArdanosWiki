@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Klasse & Stufe/Herausfordungsgrad:** Geist, CR ~3
 - **Volk/Herkunft:** #Mensch (scheinbar), tatsächlich Geist  

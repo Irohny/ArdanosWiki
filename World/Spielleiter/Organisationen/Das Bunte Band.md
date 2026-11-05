@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 
 Ein loser Zusammenschluss von Gauklern, Narren, Musikanten, Geschichtenerzählern, Taschenspielern und Glücksrittern. Von außen wirken sie wie harmlose, bunte Wandertruppen, die von Dorf zu Dorf ziehen. Doch hinter den flatternden Fahnen und der Musik verbirgt sich ein **geheimer Kodex** und ein enges Band, das alle Mitglieder miteinander verbindet

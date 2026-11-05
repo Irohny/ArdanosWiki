@@ -15,6 +15,7 @@ schule: "#Nekromantie"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "brennender Weihrauch"
+sichtbarkeit: []
 ---
 - **Grad:**   3
 - **Schule:**  #Nekromantie 

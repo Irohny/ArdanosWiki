@@ -1,5 +1,6 @@
 ---
 typ: Spieler
+charakter_id: hector
 status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 #Mensch #Paladin #Spieler
 ![[Hector.jpeg|200]]
@@ -22,7 +24,7 @@ Wenn du mit einer Waffe eine Kreatur triffst, kannst du die Rune aktivieren und 
 Bei Misslingen ist es für 1 Minute **festgesetzt**.  Solange das Ziel festgesetzt ist, erleidet es zu Beginn jedes eigenen Zuges **2W6 Feuerschaden**. Am Ende jedes seiner Züge darf es den Rettungswurf wiederholen; bei Erfolg verschwinden die Fesseln.  Nach der Aktivierung kannst du die Rune erst nach einer langen Rast erneut einsetzen.
 
 ---
-![[hc_Backstory]]
+![[Backstory Hector]]
 
 ---
 ![[van Harl]]

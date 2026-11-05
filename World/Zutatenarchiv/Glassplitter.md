@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "1K"
 fundort: "Glaswerkstätten, Trümmerstätten,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Gewöhnlich 
  - **Wert:** 1K 

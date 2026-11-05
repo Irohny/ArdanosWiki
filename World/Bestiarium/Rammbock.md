@@ -17,6 +17,7 @@ volk: Objekt (Belagerungsgerät)
 gesinnung: –
 ruestungsklasse: 16
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Rammbock 🔶
 - **Grundlage:** #Homebrew

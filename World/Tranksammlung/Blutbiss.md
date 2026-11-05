@@ -13,6 +13,7 @@ geaendert:
 wert: "14G"
 komponenten: "[[Vipernblut]], [[Dornkrautsaft]], [[Alkohol]]"
 seltenheit: "Häufig"
+sichtbarkeit: []
 ---
 - Tag:  #Gift #Pfeilgift #Projektilgift
 - **Komponenten:** [[Vipernblut]], [[Dornkrautsaft]], [[Alkohol]]

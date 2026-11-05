@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert: 2026-10-27
+sichtbarkeit: []
 ---
 **Kobolde** sind kleine, schuppige Drachenverwandte. Sie leben vor allem in [[Drakmora]] und den Drachengründen, oft als Diener von Drachen und Drachengeborenen.
 

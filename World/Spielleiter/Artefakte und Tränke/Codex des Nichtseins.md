@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Codex des Nichtseins]]** ist ein uraltes, ketzerisches Werk, das nicht geschrieben, sondern _eingekerbt_ wurde – in Pergament, das wie aus versteinertem Schatten besteht. Seine Schriftzeichen wirken wie Risse in der Realität, die sich selbst im Auge des Lesers bewegen.
 

@@ -4,12 +4,14 @@ status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
 region:
+  - "[[Drakmora]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 Die **[[Halle der tausend Wiederholungen]]** ist das heilige Herzstück des [[Kloster des Stählernen Körpers]] der Brüder des [[Bizeptiner Orden]]s – ein gewaltiger, kuppelüberwölbter Raum, dessen Wände aus geschliffenem Obsidian und poliertem Eisen bestehen, durchzogen von alten Runen der Kraft und Ausdauer. Die Luft ist erfüllt vom Klang der „Atemglocke“, einem riesigen Gong, der die Trainingsrunden einläutet.
 

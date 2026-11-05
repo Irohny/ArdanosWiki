@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "2G"
 fundort: "Edle Gärten, Tempel,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Ungewöhnlich 
 - **Wert:** 2G 

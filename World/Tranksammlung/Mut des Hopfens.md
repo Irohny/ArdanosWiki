@@ -13,6 +13,7 @@ geaendert:
 wert: "27G"
 komponenten: "[[Wilder Hopfen]], [[Bärenkraut]], [[Gerstensaft]], [[Herzblattwurzel]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag:  #Verbesserung 
 - **Komponenten:** [[Wilder Hopfen]], [[Bärenkraut]], [[Gerstensaft]], [[Herzblattwurzel]]

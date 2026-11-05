@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-21
 geaendert:
+sichtbarkeit: []
 ---
 **22. (Abend) Gluttag - 23. (Abend) Lichttag, Licht 2486 n. d. D.**
 

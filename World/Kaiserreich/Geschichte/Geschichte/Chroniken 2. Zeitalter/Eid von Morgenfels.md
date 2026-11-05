@@ -12,6 +12,7 @@ zeit_von_jahr: 2157
 zeit_bis_jahr:
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 _Jahr 2157 n.d.D. – Wendepunkt der Fürstentümer_
 

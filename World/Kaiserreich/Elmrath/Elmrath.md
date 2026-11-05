@@ -12,6 +12,7 @@ zeit_von_jahr: 553
 zeit_bis_jahr:
 erstellt: 2026-10-22
 geaendert: 2026-10-22
+sichtbarkeit: []
 ---
 # Das Volk von [[Elmrath]] – Das Reich der Erde und des Lebens
 ![[Wappen Elmrath.png|200]]

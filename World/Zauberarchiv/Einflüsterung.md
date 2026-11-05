@@ -15,6 +15,7 @@ schule: "#Verzauberung"
 konzentration: "Ja"
 komponenten: "#Verbal #Material"
 materialien: "eine Schlangenzunge und entweder eine kleine Honigwabe oder ein Tropfen süßes Öl"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Verzauberung 

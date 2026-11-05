@@ -13,6 +13,7 @@ geaendert:
 wert: "1000G"
 komponenten: "[[Phönixfeder]], [[Drachenträne]], [[Herzrosen-Extrakt]], [[Honig]]"
 seltenheit: "Sehr selten"
+sichtbarkeit: []
 ---
 - Tag: #Heilung 
 - **Komponenten:** [[Phönixfeder]], [[Drachenträne]], [[Herzrosen-Extrakt]], [[Honig]]

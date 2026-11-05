@@ -137,7 +137,7 @@ class TimelineMetadataBuilderTests(unittest.TestCase):
         self.assertTrue(
             all(
                 profile["output_file"].parent
-                == cfg.REPO_ROOT
+                == cfg.paths.repo_root
                 / "World"
                 / "Images"
                 / "Timelines"

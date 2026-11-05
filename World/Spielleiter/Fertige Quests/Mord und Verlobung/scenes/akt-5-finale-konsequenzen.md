@@ -17,6 +17,7 @@ location: Tiravor / Nachspiel
 source_file: World/Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md
 source_heading: "## Akt 5 – Finale Konsequenzen"
 image_files: []
+sichtbarkeit: []
 ---
 
 # Akt 5 - Finale Konsequenzen

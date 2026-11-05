@@ -9,5 +9,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Grundherr über mehrere [[Dörfer]], der sein Land als Lehen vom [[Graf]]en oder [[Fürst]]en hält. Er schuldet seinem Lehnsherrn Abgaben und Gefolgschaft. Im Rang steht er auf einer Stufe mit dem [[Freiherr]]n.

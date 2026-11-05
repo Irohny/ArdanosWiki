@@ -13,6 +13,7 @@ geaendert:
 wert: "38G"
 komponenten: "[[Schlafbeere]], [[Alraunensaft]], [[Opiumharz]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag:  #Gift #Kontaktgift
 - **Komponenten:** [[Schlafbeere]], [[Alraunensaft]], [[Opiumharz]]

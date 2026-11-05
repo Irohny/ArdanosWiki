@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Cirelin.jpg|300]]
 _[[Gerhart Merkatorn]], um 2125 n.d.D._

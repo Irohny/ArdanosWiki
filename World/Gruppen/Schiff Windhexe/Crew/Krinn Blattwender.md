@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Blattwender
 - **Titel / Amt:** Koch und Quartiermeister der [[Windhexe]]

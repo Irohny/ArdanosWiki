@@ -15,6 +15,7 @@ schule: "#Bannzauber"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "Weihwasser oder Silber -und Eisenpulver (wird verbraucht)"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:** #Bannzauber   

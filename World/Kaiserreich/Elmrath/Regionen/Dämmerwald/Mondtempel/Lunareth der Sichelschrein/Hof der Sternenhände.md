@@ -10,5 +10,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Zwischen Schmieden, Holzwerkstätten und Webräumen arbeiten die Handwerker Lunareths. Sie fertigen Mondlaternen, Zeremonialgewänder, Opfergaben und kunstvoll geschnitzte Schutzamulette für den Tempel.

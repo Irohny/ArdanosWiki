@@ -13,6 +13,7 @@ geaendert:
 wert: "176G"
 komponenten: "[[Nebelpilzsporen]], [[Silbergift]], [[Zwielichtmoos]]"
 seltenheit: "Selten"
+sichtbarkeit: []
 ---
 - Tag: #Gift #Inhalationsgift
 - **Komponenten:** [[Nebelpilzsporen]], [[Silbergift]], [[Zwielichtmoos]]

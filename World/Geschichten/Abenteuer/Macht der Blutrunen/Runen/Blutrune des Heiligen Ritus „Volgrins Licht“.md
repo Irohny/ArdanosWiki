@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ### **Blutrune des Heiligen Ritus „Volgrins Licht“**
 ![[RuneGottRitus.jpeg|200]]

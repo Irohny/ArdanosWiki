@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 _Erzmagier des Pfades der Wandlung (Verwandlungsmagie)_
 - **Amt:** Mitglied des [[Achterzirkel]]s

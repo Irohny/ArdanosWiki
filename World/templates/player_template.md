@@ -1,10 +1,13 @@
 ---
 typ: Spieler
 status:
+charakter_id: charakter-id
 kampagne:
 geschichten:
 region:
 tags: []
+sichtbarkeit: [charakter-id]
+abschnitt_sichtbarkeit: {}
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:

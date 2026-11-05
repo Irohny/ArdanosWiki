@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "6 S"
 fundort: "Waldlichtungen, alte Brauereien,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Gewöhnlich 
  - **Wert:** 6 S 

@@ -2,6 +2,7 @@
 typ: Beschreibung
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Mariven]]"
   - "[[Elmrath]]"
@@ -11,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-28
 geaendert:
+sichtbarkeit: []
 ---
 Länge: 640km
 Reisedauer: 16 Tage

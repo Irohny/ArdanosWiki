@@ -9,5 +9,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Anführer einer Abteilung oder Kompanie. In [[Elmrath]] befehligt der Hauptmann die Grünen Wachen einer Region und ist im Frieden der höchste Rang. In [[Drakmora]] führt er eine Kompanie und steht unter dem [[Clan Oberhaupt]].

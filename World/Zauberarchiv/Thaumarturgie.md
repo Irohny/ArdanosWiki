@@ -15,6 +15,7 @@ schule: "#Verwandlung"
 konzentration: "nein"
 komponenten: "#Verbal"
 materialien: "- **Dauer/Wirkung:**  1min"
+sichtbarkeit: []
 ---
 - **Grad:**   0
 - **Schule:**  #Verwandlung 

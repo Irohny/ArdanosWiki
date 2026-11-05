@@ -11,6 +11,7 @@ zeit_von_jahr: 1436
 zeit_bis_jahr: 1557
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 Zeitspanne: 1436 - 1557 n.d.D
 

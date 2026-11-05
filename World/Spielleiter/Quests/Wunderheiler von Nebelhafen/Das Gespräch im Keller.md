@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 # Das Gespräch im Keller
 *Enthüllung, ca. 10–15 Minuten. Der Ablauf hängt vom [[Alarmzähler]] ab.*

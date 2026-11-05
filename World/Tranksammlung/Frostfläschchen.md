@@ -13,6 +13,7 @@ geaendert:
 wert: "334G"
 komponenten: "[[Eisquarz]], [[Gletschertau]], [[Drachenatem (weiß)]]"
 seltenheit: "Selten"
+sichtbarkeit: []
 ---
 - Tag: #Schaden
 - **Komponenten:** [[Eisquarz]], [[Gletschertau]], [[Drachenatem (weiß)]]

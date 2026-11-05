@@ -13,6 +13,7 @@ geaendert:
 wert: "25G"
 komponenten: "[[Geistergras]], [[Knochenasche]], [[Totenkraut]]"
 seltenheit: "Häufig"
+sichtbarkeit: []
 ---
 - Tag: #Aktion 
 - **Komponenten:** [[Geistergras]], [[Knochenasche]], [[Totenkraut]]

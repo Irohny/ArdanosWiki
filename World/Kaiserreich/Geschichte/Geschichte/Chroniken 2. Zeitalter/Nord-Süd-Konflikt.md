@@ -12,6 +12,7 @@ zeit_von_jahr: 1183
 zeit_bis_jahr: 1307
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 **Konfliktparteien:** [[Drakmora]] vs. [[Elmrath]]  
 **Ursache:** Streit um Handelswege und Land entlang des Küstenstreifens der [[Bernsteinküste]]. 

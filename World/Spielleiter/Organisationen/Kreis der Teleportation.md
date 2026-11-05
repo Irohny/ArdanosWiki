@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Teleportationskreis.png|300]]
 - Der Kreis ist **präzise in Stein, Metall oder Glas eingelassen**, meist **4–6 Meter im Durchmesser**.

@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** alias [[Shien Valtrok]]
 - **Titel / Amt:** [[Ritter]] Paladin von [[Elyander Goldschild]]

@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "1S"
 fundort: "Felder, Gärten, Kräutermärkte,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Gewöhnlich 
 - **Wert:** 1S 

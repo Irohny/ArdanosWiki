@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Ort:** Zwischen zwei entlegenen Regionen – z. B. zwischen [[Vaylen]] und den Sümpfen von [[Drakmora]].  
 **Name:** Das **Flüstermoor**  

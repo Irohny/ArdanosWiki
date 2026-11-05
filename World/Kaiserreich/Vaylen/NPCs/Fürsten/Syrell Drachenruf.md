@@ -11,6 +11,7 @@ zeit_von_jahr: 1872
 zeit_bis_jahr: 2153
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Bann der Dunkelheit
 - **Titel / Amt:** [[Fürst]] von [[Vaylen]]

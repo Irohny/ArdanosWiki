@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-26
 geaendert:
+sichtbarkeit: []
 ---
 ![[StilleAkademie.png|400]]
 _[[Leonaro da Vinsel]] um 2370 n.d.D._

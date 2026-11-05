@@ -4,15 +4,17 @@ status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
 region:
+  - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
-geaendert:
+erstellt: 2026-11-05
+geaendert: 2026-11-05
+sichtbarkeit: []
 ---
 - **Stufe:** 5
-- **Volk:** Mensch
+- **Volk:** [[Mensch]]
 - **Herkunft:** Alte Adelsfamilie ohne Land ([[Edelfreie]])
 - **Klasse:** Kämpfer – Battle Master
 - **Alias:** „Der Sturmarm“
@@ -73,7 +75,7 @@ geaendert:
 
 ## Hintergrund
 
-- Ehemaliger Hochadeliger, der nach dem Tod seiner Frau und dem Verlust seines Hauses zum gefallenen Ritter wurde.
+- [[Edelfreie]]r, der nach dem Tod seiner Frau und auf Land und Titel seiner Familie verzichtete
     
 - Sein linker Unterarm zeigt das schwarze Wellentattoo der Familie Virellion.
     

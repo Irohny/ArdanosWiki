@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-01
 geaendert:
+sichtbarkeit: []
 ---
 - Monster/ Soldate usw in die [[Schlacht um Odemhall]] defineiren
 - Innoviety:

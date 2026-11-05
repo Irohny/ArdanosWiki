@@ -15,6 +15,7 @@ volk: "#Unhold"
 gesinnung: "Rechtschaffend Böse"
 ruestungsklasse: 16
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 ![[SerValkor.jpeg|200]]
 _[[Francisko de Goyar]], um 2480 n.d.D._

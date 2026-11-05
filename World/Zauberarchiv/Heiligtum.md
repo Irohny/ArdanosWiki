@@ -15,6 +15,7 @@ schule: "#Bannzauber"
 konzentration: "Nein"
 komponenten: "#Verbal  #Geste"
 materialien: "kleiner Silberspiegel"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:**  #Bannzauber 

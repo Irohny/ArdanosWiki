@@ -2,6 +2,7 @@
 typ: Ort
 status: kanon
 kampagne:
+  - "[[Funkeln in der Finsternis]]"
 region:
   - "[[Vaylen]]"
 tags: []
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Veliathor.png|300]]
 _[[Leonaro da Vinsel]] um 2350 n.d.D._

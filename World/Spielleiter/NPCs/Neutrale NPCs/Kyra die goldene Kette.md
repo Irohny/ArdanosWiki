@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Klasse & Stufe/Herausfordungsgrad:** Paladin 7
 - **Volk/Herkunft:**  [[Drakmora]] #Elf 

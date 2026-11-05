@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "6G"
 fundort: "Dämmerwälder, alte Friedhöfe,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 6G 

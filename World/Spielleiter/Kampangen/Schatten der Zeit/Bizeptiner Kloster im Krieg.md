@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Das **[[Kloster des Stählernen Körpers]]** ist nur noch eine gebrochene Silhouette am [[Aschenamm]]. Wo einst die Kuppel der [[Halle der Tausend Wiederholungen]] über dem Tal thronte, klafft nun ein schwarz verrußter Riss im Mauerwerk; Teile des Dachs sind eingestürzt und haben Trainingsgeräte, Säulen und den Altar der Anspannung unter sich begraben. Der Klang der Atemglocke ist verstummt – ihr gesprungener Bronzekörper liegt halb im Schutt des Vorhofs.
 

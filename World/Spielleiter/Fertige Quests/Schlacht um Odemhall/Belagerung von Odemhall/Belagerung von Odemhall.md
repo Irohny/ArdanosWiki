@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-10-31
+sichtbarkeit: []
 ---
 # Start der Belagerungssession
 In [[Odemhall]], das fast komplett zerstört wurde, ist nur noch eine kleine Garnison zur Verteidigung abgestellt (ca. 15 Soldaten + die 5 bekannten NPCs und die 5 Bizeptiner).

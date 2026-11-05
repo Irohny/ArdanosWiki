@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Schattengarten.png|400]]
 _Unbekanntes Mitglied der [[Tashiro'en]] um 2060 n.d.D._

@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-29
 geaendert:
+sichtbarkeit: []
 ---
 Die 5 Artefakte der Urzeit wurden zum Beginn der [[Schöpfung]] auf 
 - [[Amboss der ersten Flamme]]

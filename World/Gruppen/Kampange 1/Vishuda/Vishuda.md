@@ -1,5 +1,6 @@
 ---
 typ: Spieler
+charakter_id: vishuda
 status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 #Mönch #Dunkelelf #Spieler 
 
@@ -24,7 +26,7 @@ Bei Misslingen ist es für 1 Minute **paralysiert**. Während es auf diese Weise
 Nach der Aktivierung kannst du die Rune erst nach langen Rast erneut einsetzen.
 
 ---
-![[vs_Backstory]]
+![[Backstory Vishuda]]
 
 ---
 ![[Tashiro'en]]

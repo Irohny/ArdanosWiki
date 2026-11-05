@@ -19,7 +19,7 @@ TOOLBOX_TOOLS = (
 
 def set_to_toolbox_view() -> None:
     st.session_state["db_flag"] = True
-    st.session_state["db"] = cfg.TOOLBOX_FEATURE_NAME
+    st.session_state["db"] = cfg.features.toolbox_name
     st.query_params.pop(utils.DATABASE_VIEW_QUERY_PARAM, None)
     st.query_params.pop(utils.WIKI_DIALOG_QUERY_PARAM, None)
 
@@ -27,7 +27,7 @@ def set_to_toolbox_view() -> None:
 def toolbox_view(*, show_title: bool = True) -> None:
     set_to_toolbox_view()
     if show_title:
-        st.subheader(cfg.TOOLBOX_FEATURE_NAME)
+        st.subheader(cfg.features.toolbox_name)
     selected_tool = st.pills(
         "Werkzeug",
         TOOLBOX_TOOLS,

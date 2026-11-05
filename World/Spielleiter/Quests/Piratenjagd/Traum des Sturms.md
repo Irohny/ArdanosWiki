@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der Kleriker steht allein auf einer endlosen Wasserfläche. Kein Ufer in Sicht. Der Himmel über ihm ist grau wie Asche, reglos, ohne Sonne, ohne Schatten. Das Wasser spiegelt nicht – es ist wie flüssiges Glas.
 

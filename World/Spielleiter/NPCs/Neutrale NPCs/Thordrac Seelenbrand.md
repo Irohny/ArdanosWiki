@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Stufe:** Kleriker 5/ Hexenmeister 3
 - **Volk:** #Drachengeborener Silber

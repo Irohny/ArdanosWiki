@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "5K"
 fundort: "Berghänge, Druidenquellen, heilige Orte,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Gewöhnlich 
 - **Wert:** 5K 

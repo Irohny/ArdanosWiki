@@ -10,24 +10,51 @@ from typing import Any
 import extra_streamlit_components as stx
 import streamlit as st
 
+from wiki_dasboard.config import cfg
+
 
 AUTH_COOKIE_NAME = "ardanos_auth"
 AUTH_COOKIE_MAX_AGE_SECONDS = 60 * 60 * 24 * 14
 AUTH_COOKIE_VERSION = 1
+COOKIE_MANAGER_SESSION_KEY = "_ardanos_auth_cookie_manager"
 
 
 def get_cookie_manager() -> stx.CookieManager:
-    return stx.CookieManager(key="ardanos-auth-cookie-manager")
+    manager = st.session_state.get(COOKIE_MANAGER_SESSION_KEY)
+    if manager is None:
+        manager = stx.CookieManager(key="ardanos-auth-cookie-manager")
+        st.session_state[COOKIE_MANAGER_SESSION_KEY] = manager
+    return manager
 
 
-def lookup_user_record(name: str) -> dict[str, Any] | None:
-    normalized_name = name.strip()
-    if not normalized_name:
+def lookup_user_record(user_name: str) -> dict[str, Any] | None:
+    normalized_user_name = user_name.strip()
+    if not normalized_user_name:
         return None
 
     for user in st.secrets.get("users", []):
-        if str(user.get("name", "")).strip() == normalized_name:
-            return dict(user)
+        account_name = str(user.get("user_name") or user.get("name", "")).strip()
+        if account_name.casefold() != normalized_user_name.casefold():
+            continue
+
+        record = dict(user)
+        record.setdefault("user_name", account_name)
+        record.setdefault("name", account_name)
+        if "characters" not in record and "charakter" in record:
+            record["characters"] = record["charakter"]
+
+        player_config = cfg.player_access.for_user_name(account_name)
+        if player_config is not None:
+            record.update(
+                {
+                    "name": player_config.name,
+                    "user_name": player_config.user_name,
+                    "role": player_config.role,
+                    "characters": player_config.charakter,
+                    "campaigns": player_config.campaigns,
+                }
+            )
+        return record
     return None
 
 

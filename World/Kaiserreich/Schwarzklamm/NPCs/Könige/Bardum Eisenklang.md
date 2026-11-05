@@ -10,6 +10,7 @@ zeit_von_jahr: 328
 zeit_bis_jahr: 487
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Eisenklang
 - **Titel / Amt:** [[König]] der Klamm

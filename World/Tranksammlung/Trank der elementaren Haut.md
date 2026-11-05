@@ -13,6 +13,7 @@ geaendert:
 wert: "18G"
 komponenten: "[[ Quarzkristall]], [[Glutpulver]], Element _– variiert je nach Element_"
 seltenheit: "Häufig"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung 
 - **Komponenten:**[[ Quarzkristall]], [[Glutpulver]], Element _– variiert je nach Element_

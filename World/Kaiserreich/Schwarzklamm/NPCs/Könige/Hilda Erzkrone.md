@@ -10,6 +10,7 @@ zeit_von_jahr: 604
 zeit_bis_jahr: 699
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:**
 - **Titel / Amt:** Fürstin der [[Schwarzklamm]]

@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "10G"
 fundort: "Geisterhäuser, Begräbnisstätten,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 10G 

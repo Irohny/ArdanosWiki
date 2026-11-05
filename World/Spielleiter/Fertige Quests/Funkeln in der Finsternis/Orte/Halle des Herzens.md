@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die Gruppe betritt eine gewaltige, kuppelförmige Kammer tief im Herzen der Tiefen Hallen. Flackernde Runen in längst erloschenen Fackelhaltern werfen ein bläuliches Pulsieren an die moosbedeckten Wände, die von Adern aus leuchtendem Kristall durchzogen sind. Das Licht ist dämmrig, fast traumartig – als würde die Luft selbst vibrieren.
 

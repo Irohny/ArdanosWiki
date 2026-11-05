@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-29
 geaendert:
+sichtbarkeit: []
 ---
 Ein Artefakt, das der Gott [[Volgrin]] zur Zeit der [[Schöpfung]] auf diese Welt brachten. Es gehört zu den 5 legendären Göttlichen Artefakten die die [[Artefakten der Urzeit]] genannt werden.
 

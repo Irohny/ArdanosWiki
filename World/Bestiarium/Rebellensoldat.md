@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Neutral"
 ruestungsklasse: 13
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Rebellensoldat 🔶
 - **Grundlage:** #Homebrew

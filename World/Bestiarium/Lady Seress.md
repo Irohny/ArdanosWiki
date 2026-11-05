@@ -15,6 +15,7 @@ volk: "#Monstrositaet"
 gesinnung: "Neutral Böse"
 ruestungsklasse: 16
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Lady Seress
 

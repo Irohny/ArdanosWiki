@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-20
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** der Archivar der Pfade
 - **Titel / Amt:** Erzmagier des Pfades der Wacht und Gruender der [[Qor’Valeth]]

@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **14. bis 18. Tag des Regenmonds — Eine Kette, ein Graben und zwei Prüfungen**
 

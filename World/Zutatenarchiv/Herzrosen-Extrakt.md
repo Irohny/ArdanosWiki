@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "5G"
 fundort: "Adelgärten, Elfenanbau,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Ungewöhnlich 
 - **Wert:** 5G 

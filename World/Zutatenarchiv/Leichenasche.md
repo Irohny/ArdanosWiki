@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "2G"
 fundort: "Schlachtfelder, Gruften,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Ungewöhnlich 
 - **Wert:** 2G 

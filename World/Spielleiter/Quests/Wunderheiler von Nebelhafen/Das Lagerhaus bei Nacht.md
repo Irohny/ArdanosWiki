@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 # Das Lagerhaus bei Nacht
 *Kernszene von Teil 1, ca. 40–60 Minuten. [[Alarmzähler]] im Blick behalten: [[Alarmzähler]].*

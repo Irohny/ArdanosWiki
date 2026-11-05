@@ -14,6 +14,7 @@ volk: "#Untod"
 gesinnung: "Neutral Böse"
 ruestungsklasse: 18
 grundlage: "#Online"
+sichtbarkeit: []
 ---
 # Der Namensnehmer
 

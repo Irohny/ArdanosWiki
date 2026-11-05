@@ -15,6 +15,7 @@ schule: "#Beschwörung"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "- **Dauer/Wirkung:**  1h"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:**  #Beschwörung 

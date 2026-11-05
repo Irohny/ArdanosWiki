@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert: 2026-11-01
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:**
 - **Titel / Amt:** [[General]]

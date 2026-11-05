@@ -9,6 +9,7 @@ zeit_von_jahr: 2441
 zeit_bis_jahr: 2476
 erstellt: 2026-10-30
 geaendert:
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** 

@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 [#Gott](app://obsidian.md/index.html#Gott)  
 Domäne: Natur & Leben

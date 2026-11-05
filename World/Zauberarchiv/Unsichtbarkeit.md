@@ -15,6 +15,7 @@ schule: "#Illusion"
 konzentration: "ja"
 komponenten: "#Verbal #Geste #Material"
 materialien: "eine Wimper, mit Gummiarabikum ummantelt"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Illusion 

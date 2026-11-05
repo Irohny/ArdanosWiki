@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-10-31
+sichtbarkeit: []
 ---
 Diese Szene beginnt sofort, wenn **M auf 0 fällt**, **B den Wert 3 erreicht** oder in [[2 Der Mauerkampf]] weniger als 2 Erfolge erzielt werden. Die äußeren Verteidigungslinien brechen zusammen. Rhogar befiehlt den Rückzug: Alle verbliebenen Soldaten, Bizeptiner und Zivilisten sollen sich zum Ahnenturm zurückziehen.
 

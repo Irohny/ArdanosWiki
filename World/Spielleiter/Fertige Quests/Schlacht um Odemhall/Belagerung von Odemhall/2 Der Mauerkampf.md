@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-11-01
+sichtbarkeit: []
 ---
 Nach 2 Tagen, in denen die Gruppe Zeit hat, die Stadt wieder aufzubauen, den Feind auszuspionieren usw.
 

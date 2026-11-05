@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-20
 geaendert:
+sichtbarkeit: []
 ---
 # Vorwort
 Dieses Buch soll der Welt meine Geschichte und meine Forschung zeigen. Ich möchte der Welt zeigen, dass die Blutrunen, die ich entwickelt habe keine Form der dunklen Magie ist sondern eine Möglichkeit, die Magie die in den Runen steckt, die [[Volgrin]] uns einst gab zu stärken, um stärker werden zu können.

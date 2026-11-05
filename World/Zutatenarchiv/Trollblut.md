@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "25G"
 fundort: "Trolle, Schwarzmarkt, Blutjäger,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 25G 

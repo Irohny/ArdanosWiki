@@ -11,5 +11,6 @@ zeit_von_jahr: 2345
 zeit_bis_jahr:
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 Unter dem Kaiser [[Marcellon Arven|Marcellon Arven]] wurde die Hauptstadt des Kaiserreiches von [[Valatheris]] in die größte Stadt des Reiches [[Luminara]] verlegt

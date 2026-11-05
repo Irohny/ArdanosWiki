@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-12-28
 geaendert:
+sichtbarkeit: []
 ---
 ![[BatholdyVampir.png|200]]
 _[[Heinrik Füsslin]], um 2251 n.d.D._

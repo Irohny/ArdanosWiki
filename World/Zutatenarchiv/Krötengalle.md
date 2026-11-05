@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Ungewöhnlich"
 wert: "2 G"
 fundort: "Sümpfe, Hexenhütten,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Ungewöhnlich 
 - **Wert:** 2 G 

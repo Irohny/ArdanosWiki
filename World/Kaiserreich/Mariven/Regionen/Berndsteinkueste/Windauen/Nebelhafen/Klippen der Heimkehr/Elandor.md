@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 Auf den [[Klippen der Heimkehr]] steht der [[Ocyra]] Tempel im [[Nebelhafen]], das Leuchtfeuer des Tempels weist den Schiffen auch bei tiefsten Nebel den sicheren Weg in den Hafen
 

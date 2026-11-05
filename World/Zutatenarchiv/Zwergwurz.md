@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "7G"
 fundort: "Gebirgsminen, Zwergenstädte,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 7G 

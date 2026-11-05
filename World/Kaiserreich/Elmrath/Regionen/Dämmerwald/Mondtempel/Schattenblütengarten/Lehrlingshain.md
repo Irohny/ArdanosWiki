@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Lehrlingshain]]** liegt am Rand der verborgenen Festung, dort, wo die alten Mauern bereits vom Wald verschlungen werden. Zwischen schiefen Baracken, kleinen Übungshöfen und überdachten Stegen windet sich ein Labyrinth aus Steinpfaden und Wurzeln. Die Gebäude sind einfacher als die übrigen Teile des Klosters, doch sorgfältig gepflegt – jeder Lehrling lernt früh, dass Ordnung Teil der Disziplin ist.
 

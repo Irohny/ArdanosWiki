@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Zeit der *Rabenkönigin* _(Winter)_
 **Tage:** 293–365  

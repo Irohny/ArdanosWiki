@@ -11,6 +11,8 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
+charakter_id: joram-lumarsson
 ---
 - **Grundlage:** #Homebrew 
  - **Stufe:** 5 

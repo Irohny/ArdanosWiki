@@ -12,6 +12,7 @@ zeit_von_jahr: 553
 zeit_bis_jahr: 1041
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Die Friedensbotin _(erst nach dem Paktfest von Len'yrel)_
 - **Titel / Amt:** Waldelfische Vermittlerin, spätere Fürstin von [[Elmrath]]

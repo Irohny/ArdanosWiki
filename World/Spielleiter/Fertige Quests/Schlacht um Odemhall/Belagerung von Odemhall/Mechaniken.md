@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-11-01
+sichtbarkeit: []
 ---
 # Mechanik
 Jeden Tag kann die Gruppe helfen, die Stadt gegen die Angriffe wehrhafter zu machen, indem sie die Verteidigung organisiert. Dazu steht pro Person in der Stadt 1 Arbeitspunkt (AP) zur Verfügung. Jede Aufgabe hat Kosten, die mit AP bezahlt werden, und einen SG, der die Qualität des Ergebnisses bestimmt. Die Startsituation der Stadt ist wie folgt:

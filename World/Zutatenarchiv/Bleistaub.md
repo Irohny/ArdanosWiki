@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: "1S"
 fundort: "Minen, Schmieden"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Gewöhnlich 
 - **Wert:** 1S 

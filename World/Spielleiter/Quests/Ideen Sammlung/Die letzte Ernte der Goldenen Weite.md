@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Ort:** [[Goldene Weite]], [[Elmrath]]  
 **Aufgabe:** Eine merkwürdige Fäule befällt das Land. Die Helden sollen eine alte Druidin finden, die helfen könnte.  

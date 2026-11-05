@@ -2,14 +2,16 @@
 typ: Ort
 status: kanon
 kampagne:
+  - "[[Mord und Verlobung]]"
 region:
   - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 **[[Sonnenkliff]] ist eine Stadt zwischen goldenem Sonnenlicht und dunklem Meer – ein Ort des Handels, der Fischerei und der Geschichten, die mit jeder Flut an ihre Küste gespült werden**
 

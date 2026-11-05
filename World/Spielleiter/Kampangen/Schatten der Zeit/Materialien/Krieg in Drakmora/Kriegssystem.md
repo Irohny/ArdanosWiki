@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Jede Runde:
 1. Einkommen (+2 Truppen pro Stadt, +1 pro Region)

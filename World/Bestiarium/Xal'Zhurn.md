@@ -14,6 +14,7 @@ volk: "#Aberration"
 gesinnung: "Rechtschaffend Böse"
 ruestungsklasse: 15
 grundlage: "#Book"
+sichtbarkeit: []
 ---
 # Xal'Zhurn
 

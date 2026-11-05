@@ -2,14 +2,15 @@
 typ: Ort
 status: kanon
 kampagne:
-geschichten:
 region:
+  - "[[Elmrath]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Wurzelholm.png|300]]
 _[[Alfons Muchar]], 2475 n.d.D._

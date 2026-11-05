@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "8G"
 fundort: "Alchemisten, verbotene Gärten,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 8G 

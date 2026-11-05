@@ -15,6 +15,7 @@ schule: "#Illusion"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "- **Dauer/Wirkung:** 1 Minute"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Illusion 

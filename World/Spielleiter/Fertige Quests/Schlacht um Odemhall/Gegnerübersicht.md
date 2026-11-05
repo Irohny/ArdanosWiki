@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-01
 geaendert: 2026-11-01
+sichtbarkeit: []
 ---
 # Gegnerübersicht – [[Schlacht um Odemhall]] 🔶
 Gruppe: **4 Spieler, Stufe 4**. Richtwerte (angepasste EP nach Gruppenfaktor): Leicht 500, Mittel 1.000, Schwer 1.500, Tödlich 2.000. Gegner sind in [[Bestiarium]] abgelegt.

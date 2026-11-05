@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "9G"
 fundort: "Höhlen, Trollnester, Schwarzmarkt,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #Selten 
 - **Wert:** 9G 

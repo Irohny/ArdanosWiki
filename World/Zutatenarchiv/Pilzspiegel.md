@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "9G"
 fundort: "Mykologische Tempel, Sumpfwälder,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 9G 

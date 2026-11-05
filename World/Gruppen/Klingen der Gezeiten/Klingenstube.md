@@ -4,12 +4,14 @@ status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
 region:
+  - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 Ein ehemaliges Fischerhaus am Rand des Wellenhorter Hafens. Über der verwitterten Tür hängen **drei gekreuzte Schwerter**: ein schweres Zweihandschwert, ein schlanker Rapier und ein dunkles Langschwert. Das Schild ist nicht besonders kunstvoll, aber jeder im Ort weiß, wer hier wohnt.
 

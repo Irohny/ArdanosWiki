@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **9 Lichttag - 13. Markttag Licht, 2486 n. d. D.**
 

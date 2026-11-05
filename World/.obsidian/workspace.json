@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5838f92443dff2a3",
+        "id": "3f68ce8c75b0138d",
         "type": "tabs",
         "children": [
           {
-            "id": "7447a76e5bfe2cf9",
+            "id": "a255c3e726d54a76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Zugriffsrechte/Spielerrechte.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Spielerrechte"
             }
           }
         ]
@@ -167,39 +171,42 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "7447a76e5bfe2cf9",
+  "active": "a255c3e726d54a76",
   "lastOpenFiles": [
-    "Bestiarium/Blaubart.md",
+    "Spielleiter/Fertige Quests/Mord und Verlobung/Spieler/Thalion Grünquell.md",
+    "Spielleiter/Fertige Quests/Mord und Verlobung/Spieler/Maran Danlauf.md",
+    "Spielleiter/Fertige Quests/Mord und Verlobung/Spieler/Joram Lumarsson.md",
+    "Spielleiter/Fertige Quests/Mord und Verlobung/Spieler/Eldric Feldhain.md",
+    "Spielleiter/Fertige Quests/Mord und Verlobung/Spieler/Borin Eisensteg.md",
+    "Zugriffsrechte/Kampangen Mappings.md",
+    "Zugriffsrechte/Spielerrechte.md",
+    "Gruppen/Kampange 1/Vishuda/Vishuda.md",
+    "Zugriffsrechte",
+    "Kaiserreich/Vaylen/NPCs/Fürsten/Selene Drachenruf.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Nebelhafen/Helmut.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Nebelhafen/Olaf.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Nebelhafen/Sven.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Luminara/Frank.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Luminara/Gustav.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Bettlernetzwerk Gnodomir.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Luminara/Claus.md",
+    "templates/nsc_template.md",
+    "templates/zutaten_template.md",
+    "Gruppen/Mordrak Runenglut.md",
+    "Gruppen/Bizeptiner/Mitglieder/Bruder Dirk.md",
+    "Gruppen/Bizeptiner/Mitglieder/Bruder Bobtschi.md",
+    "Gruppen/Bizeptiner/Mitglieder/Arn'Old.md",
+    "Gruppen/Bizeptiner/Bizeptiner Bräu.md",
+    "Gruppen/Bettlernetzwerk Gnodomir/Luminara/Thorben.md",
+    "Gruppen/Kampange 1/Revolverheld/Revolverheld.md",
+    "Gruppen/Kampange 1/Hector/Hector.md",
     "Datenbanken/Monster.base",
-    "Bestiarium/Rammbock.md",
     "Datenbanken/Tränke.base",
     "Datenbanken/Zauber.base",
-    "ToDo.md",
-    "templates/waffen_template.md",
-    "templates/waffenkammer_template.md",
-    "templates/schatzkammer_template.md",
-    "Waffenkammer/Methammer.md",
-    "Waffenkammer/Schwert Unzeit.md",
-    "Waffenkammer/Mors Cerva.md",
     "Schatzkammer",
     "Waffenkammer",
-    "Zutatenarchiv/Alkohol.md",
-    "Zauberarchiv/Zone der Wahrheit.md",
     "Artefaktarchiv",
     "Waffenarchiv",
-    "templates/artefakt_template.md",
-    "Kaiserreich/Elmrath/Geschichte/Paktfest von Len'yrel.md",
-    "Kaiserreich/Elmrath/Geschichte/Handelskrieg an der Stromkrone.md",
-    "Kaiserreich/Elmrath/Geschichte/Chroniken von Elmrath.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Viktoria von Elmrath.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Thalric von Elmrath.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Thaevan Silberhain.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Orellan Silberhain.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Elsinya von Elmrath.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Elenion Silberhain.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Aenyris Silberhain.md",
-    "Kaiserreich/Elmrath/NPCs/Fürsten/Celynia Morgenblatt.md",
-    "Kaiserreich/Geschichte/Geschichte/Chroniken 3. Zeitalter/Luminara Sitz der Kaiser von Ardanos.md",
     "Images/Timelines/vaylen_vertical_timeline.svg",
     "Images/Timelines/schwarzklamm_vertical_timeline.svg",
     "Images/Timelines/mariven_vertical_timeline.svg",
@@ -211,8 +218,6 @@
     "Images/timelines/vaylen_vertical_timeline.svg",
     "Images/timelines/schwarzklamm_vertical_timeline.svg",
     "Images/timelines/mariven_vertical_timeline.svg",
-    "Images/timelines",
-    "Kaiserreich/Geschichte/Geschichte/Chroniken 3. Zeitalter/Luminara Sitz der Fürsten von Elmrath.md",
-    "Spielleiter/Fertige Quests/Mord und Verlobung/Datenbank Mord und Verlobung.base"
+    "Images/timelines"
   ]
 }

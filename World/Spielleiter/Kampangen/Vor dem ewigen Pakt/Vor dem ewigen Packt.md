@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-26
 geaendert:
+sichtbarkeit: []
 ---
 **[[Zeitalter]]:** 1ZA, 552 n.d.D
 **Ort:** Grenzgebiete zwischen den [[Himmelshöfe]], [[Goldene Weite]] und [[Dämmerwald]]

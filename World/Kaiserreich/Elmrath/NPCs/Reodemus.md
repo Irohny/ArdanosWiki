@@ -2,14 +2,17 @@
 typ: NPC
 status: kanon
 kampagne:
-geschichten:
+  - "[[Schatten der Zeit]]"
 region:
+  - "[[Elmrath]]"
+  - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 ![[Reodemus.png|250]]
 _[[Johann Sargenter]], 2482 n.d.D._

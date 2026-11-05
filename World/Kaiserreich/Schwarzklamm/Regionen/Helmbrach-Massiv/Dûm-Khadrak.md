@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[DumKardak.png|200]]
 _[[Josef Wrightgrund]] um 2230 n.d.D._

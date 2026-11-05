@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "11G"
 fundort: "Giftmischer, Assassinenzirkel,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 11G

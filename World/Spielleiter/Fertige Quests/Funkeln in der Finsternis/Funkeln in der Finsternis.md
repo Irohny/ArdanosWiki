@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Jahr:** 2435 n.d.D
 In einer dunklen Taverne in [[Velithor]] treffen sich zwei Abenteuerer ([[Nyssara Elenvyre]] & ) mit dem Abgesanten [[Varian Schattentänzer]]. Varian hat einen Auftrag für die beiden. Sie sollen die Expeditionstruppe um die Abenteuerer [[Brakk Eisenfaust]], [[Caelen Dorwyn]], [[Sylwen Schattenblatt]] und [[Thramli Eisenzeichen]] finden, die vor einigen Tagen in den [[Khazul-Vuldur]] in der [[Schwarzklamm]] verschwunden sind. Die Truppe wurde von [[Selene Drachenruf]] beauftragt Informationen um die Schmiede von [[Caelumbran der Letzte Sternenschmied]] zu finden, bevor die Zwerge der Klamm dies schaffen. Sie vermutet Informationen zu mächtigen Monstern aus alter Zeit und Artefakten, die mit diesen Monstern zusammenhängen in den Tiefen der Schmied.

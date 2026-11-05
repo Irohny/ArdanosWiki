@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - Hoheprister im Tempel der Waldelfen von [[Lorathiel]]
 - Forschte viel den der Magie der Exisitenzebenen

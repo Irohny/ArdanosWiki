@@ -13,6 +13,7 @@ geaendert:
 wert: "203G"
 komponenten: "[[Blutbaumrinde]], [[Basiliskenblut]], [[Skorpionstachel]]"
 seltenheit: "Selten"
+sichtbarkeit: []
 ---
 - Tag: #Gift
 - **Komponenten:** [[Blutbaumrinde]], [[Basiliskenblut]], [[Skorpionstachel]]

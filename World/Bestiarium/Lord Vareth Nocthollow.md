@@ -14,6 +14,7 @@ volk: "#Untod"
 gesinnung: "Rechtschaffend Böse"
 ruestungsklasse: 19
 grundlage: "#Book"
+sichtbarkeit: []
 ---
 # Lord Vareth Nocthollow
 

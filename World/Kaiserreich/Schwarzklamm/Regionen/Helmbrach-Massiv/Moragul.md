@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Karderatkta.png|200]]
 _[[Jorun Martell]] um 2165 n.d.D._

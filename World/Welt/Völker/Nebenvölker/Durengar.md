@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert: 2026-10-27
+sichtbarkeit: []
 ---
 **Duergar**, die Grauen Zwerge, leben tief unter den Bergen der [[Schwarzklamm]], in den untersten Stollen. Die Zwerge der oberen Hallen meiden sie und sprechen ungern von ihnen.
 

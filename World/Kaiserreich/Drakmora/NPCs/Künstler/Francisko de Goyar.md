@@ -15,6 +15,7 @@ zeit_von_jahr: 2429
 zeit_bis_jahr:
 erstellt: 2026-10-20
 geaendert: 2026-10-20
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** der Hofmaler der Schatten
 - **Titel / Amt:** Hofmaler der Fürstin von [[Drakmora]]

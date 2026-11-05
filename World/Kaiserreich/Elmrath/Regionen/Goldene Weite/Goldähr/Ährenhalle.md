@@ -9,8 +9,9 @@ tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 ![[Ährenhalle.png|300]]
 _[[Sandor Botticelle]] um 2295 n.d.D._

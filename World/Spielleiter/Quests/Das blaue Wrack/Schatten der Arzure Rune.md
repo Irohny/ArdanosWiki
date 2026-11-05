@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die **[[Azure Rune]]**, einst das mächtigste Flaggschiff der marivischen Flotte, sank vor Jahrhunderten während des erbitterten Runnebann-Konflikts mit Valyn. Kommandant und Schiffsbauer war kein Geringerer als **[[Kommondor]] [[Candamir Silberhand]]**, legendärer [[Fürst]] von [[Mariven]]. Das Schiff ging in einem mystischen Sturm unter – sein Schicksal blieb ein Rätsel.
 

@@ -4,12 +4,14 @@ status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
 region:
+  - "[[Drakmora]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-21
-geaendert:
+geaendert: 2026-11-05
+sichtbarkeit: []
 ---
 ![[RefugiumGain.png|400]]
 _[[Frater Angelikon]] um 2350 n.d.D._
@@ -32,9 +34,6 @@ Das **Kloster des [[Bizeptiner Orden]]s** erhebt sich wie eine steinerne Bastion
 **[[Saal der wahren Stärkung]]**
 ![[Saal der wahren Stärkung]]
 
-**[[Arena der Sieben Tage]]**
-![[Arena der Sieben Tage]]
-
 **[[Galerie der Gebrochenen Ketten]]**
 ![[Galerie der Gebrochenen Ketten]]
 
@@ -46,3 +45,6 @@ Das **Kloster des [[Bizeptiner Orden]]s** erhebt sich wie eine steinerne Bastion
 
 **[[Krypta der letzten Wiederholung]]** 
 ![[Krypta der letzten Wiederholung]]
+
+[[Pfad der Gebrochenen]]
+![[Pfad der Gebrochenen]]

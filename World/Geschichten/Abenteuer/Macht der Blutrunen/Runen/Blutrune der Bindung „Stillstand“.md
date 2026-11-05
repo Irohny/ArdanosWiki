@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ### **Blutrune der Bindung „Stillstand“**
 ![[RuneBindung.jpeg|200]]

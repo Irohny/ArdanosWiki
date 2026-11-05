@@ -13,6 +13,7 @@ geaendert:
 wert: "125G"
 komponenten: "[[Einhornhaar]], [[Trollblut]], [[Alraunensaft]], [[Honig]]"
 seltenheit: "Ungewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Heilung
 - **Komponenten:** [[Einhornhaar]], [[Trollblut]], [[Alraunensaft]], [[Honig]]

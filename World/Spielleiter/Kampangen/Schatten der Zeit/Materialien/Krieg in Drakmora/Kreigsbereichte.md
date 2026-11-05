@@ -10,6 +10,7 @@ zeit_von_jahr: 2486
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Heeresbericht aus [[Drakmora]] – Lagebericht**
 

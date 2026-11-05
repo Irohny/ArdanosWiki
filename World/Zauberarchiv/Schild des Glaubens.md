@@ -15,6 +15,7 @@ schule: "#Bannzauber"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "kleines Pergament mit heiligem Text"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:**  #Bannzauber 

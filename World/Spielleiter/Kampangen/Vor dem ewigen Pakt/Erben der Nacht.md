@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die Erben der Nacht sind ein geheimer Orden, der an die Wiedervereinigung der zersplitterten Mächte der Finsternis glaubt.
 

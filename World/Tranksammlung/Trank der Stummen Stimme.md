@@ -13,6 +13,7 @@ geaendert:
 wert: "38G"
 komponenten: "[[Flüstergras]], [[Schweigepilz]], [[Nebelöl]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Aktion
 - **Komponenten:** [[Flüstergras]], [[Schweigepilz]], [[Nebelöl]]

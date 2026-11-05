@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert: 2026-11-02
+sichtbarkeit: []
 ---
 *Teil 1, ca. 2–2,5 Stunden. Alarmzähler auf 0 setzen: [[Alarmzähler]].*
 

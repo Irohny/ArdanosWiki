@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Ort:** Landstraße kurz vor dem Stadttor von Elarin, einer befestigten Handelsstadt nahe der Grenze zu [[Vaylen]].
 

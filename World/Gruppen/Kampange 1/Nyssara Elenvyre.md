@@ -1,5 +1,6 @@
 ---
 typ: Spieler
+charakter_id: nyssara
 status: kanon
 kampagne:
   - "[[Schatten der Zeit]]"
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Volk:** Hochelfe  
 **Herkunft:** [[Arcanis]]  

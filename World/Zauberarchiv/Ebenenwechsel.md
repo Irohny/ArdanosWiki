@@ -15,6 +15,7 @@ schule: "#Beschwörung"
 konzentration: "Nein"
 komponenten: "#Verbal #Geste #Material"
 materialien: "eine gegabelte Metallrute im Wert von mindestens 250 GM, die auf eine bestimmte Existenzebene eingestimmt ist"
+sichtbarkeit: []
 ---
 - **Grad:**   7
 - **Schule:**   #Beschwörung 

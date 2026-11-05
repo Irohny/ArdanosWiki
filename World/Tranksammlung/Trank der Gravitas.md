@@ -13,6 +13,7 @@ geaendert:
 wert: "56G"
 komponenten: "[[Bleistaub]], [[Zwergwurz]], [[Erdgeist-Essenz]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Verbesserung 
 - **Komponenten:** [[Bleistaub]], [[Zwergwurz]], [[Erdgeist-Essenz]]

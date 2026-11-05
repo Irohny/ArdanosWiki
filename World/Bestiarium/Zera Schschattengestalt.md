@@ -15,6 +15,7 @@ volk: "Untote Schattenprojektion"
 gesinnung: "Rechtschaffend Böse"
 ruestungsklasse: 14
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 - **Grundlage:** #Homebrew 
 - **Stufe/Herausfordungsgrad:** 2 (450 EP)

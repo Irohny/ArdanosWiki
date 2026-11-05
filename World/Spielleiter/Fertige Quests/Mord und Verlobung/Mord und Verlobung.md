@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 **Empfohlene Stufe:** Lvl 3–5 (skalierbar)
 **Dauer:** 3–5 Stunden

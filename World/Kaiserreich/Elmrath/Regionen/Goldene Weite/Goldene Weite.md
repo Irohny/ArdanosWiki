@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[goldeneweite.png|300]]
 *[[Claudiel von Lorain]] um 1990 n.d.D.*

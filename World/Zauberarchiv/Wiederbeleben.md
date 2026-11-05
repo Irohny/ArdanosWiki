@@ -15,6 +15,7 @@ schule: "#Nekromantie"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "Diamanten im Wert von 300GM, die verbraucht werden"
+sichtbarkeit: []
 ---
 - **Grad:**   3
 - **Schule:**  #Nekromantie 

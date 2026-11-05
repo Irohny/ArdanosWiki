@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Gluttag** (Montag / erster Tag der Woche)  
 - **Lichttag** (Dienstag)  

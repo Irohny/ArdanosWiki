@@ -13,6 +13,7 @@ zeit_von_jahr: 1593
 zeit_bis_jahr: 1669
 erstellt: 2026-10-19
 geaendert: 2026-10-19
+sichtbarkeit: []
 ---
 
 

@@ -13,6 +13,7 @@ zeit_von_jahr: 2372
 zeit_bis_jahr: 2441
 erstellt: 2026-10-19
 geaendert: 2026-10-19
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** der Visionär

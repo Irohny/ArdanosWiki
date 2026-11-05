@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Abfluss des [[Kristallsee]]s im südwestlichen Gebiet. Fließt in der nähe von [[Luminara]] ins Meer. Er bildet die Grenze zwischen der [[Bernsteinküste]] von [[Mariven]] und den Gebieten von [[Elmrath]].
 

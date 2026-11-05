@@ -15,6 +15,7 @@ schule: "#Illusion"
 konzentration: "Nein"
 komponenten: "#Geste #Material"
 materialien: "1 Stück Vlies"
+sichtbarkeit: []
 ---
 - **Grad:**   0
 - **Schule:**  #Illusion 

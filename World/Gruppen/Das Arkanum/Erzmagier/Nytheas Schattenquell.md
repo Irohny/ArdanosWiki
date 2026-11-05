@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 _Erzmagus des Pfades des Scheins (Illusion)_
 - **Amt:** Mitglied des [[Achterzirkel]]s

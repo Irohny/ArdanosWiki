@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "14G"
 fundort: "Greifennester, Luftkavallerie,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #SehrSelten 
 - **Wert:** 14G 

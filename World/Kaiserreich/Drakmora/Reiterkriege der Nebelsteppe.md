@@ -4,21 +4,15 @@ status: kanon
 kampagne:
 region:
   - "[[Drakmora]]"
-tags: []
-zeit_text:
-zeit_von_jahr:
-zeit_bis_jahr:
-erstellt:
+tags:
+  - Krieg
+zeit_text: 1740 - 1755 n.d.D
+zeit_von_jahr: "1740"
+zeit_bis_jahr: "1755"
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
-#Krieg
-#[[Drakmora]]
-#[[Vaylen]]
-
-Zeitspanne: 1740 - 1755 n.d.D
-
-1740–1755 n.d.D.
-
 **Konfliktparteien:** [[Drakmora]] vs. mehrere kleinere Reiterstämme, mit indirekter Unterstützung von [[Vaylen]]
 **Ursache:** [[Drakmora]] versuchte, die unabhängigen Reiterstämme in der [[Nebelsteppe]] unter Kontrolle zu bringen.  
 **Verlauf:** Schnelle Reitergefechte, Guerilla-Angriffe, Versorgungskriege.  

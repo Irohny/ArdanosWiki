@@ -17,6 +17,7 @@ volk: "#Unhold"
 gesinnung: "Rechtschaffen Böse"
 ruestungsklasse: 14
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Aschenhetzer 🔶
 - **Grundlage:** #Homebrew

@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **9. Tag des Regenmonds, Lagerfeuer an der Handelsstraße**
 

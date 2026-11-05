@@ -2,6 +2,7 @@
 typ: Beschreibung
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Vaylen]]"
 tags:
@@ -11,6 +12,7 @@ zeit_von_jahr: 441
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 # Das Volk von [[Vaylen]] – Das Reich der Magie und des Wissens
 ![[Wappen Vaylen.png|200]]

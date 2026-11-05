@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-10-31
+sichtbarkeit: []
 ---
 Ein feindlicher Nachschubzug bringt Lebensmittel, Pfeile und Brandöl zur Belagerungsarmee vor [[Odemhall]]. Er wird von Soldaten und einem schweren Wagen begleitet.
 

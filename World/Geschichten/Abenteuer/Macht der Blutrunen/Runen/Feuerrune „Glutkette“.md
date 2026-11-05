@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ### **Feuerrune „Glutkette“**
 ![[Feuerrune.jpeg|100]]

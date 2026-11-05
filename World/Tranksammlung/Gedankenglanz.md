@@ -13,6 +13,7 @@ geaendert:
 wert: "44G"
 komponenten: "[[Schlangengehirn]], [[Denkmoos]], [[Amethyst]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag:  #Verbesserung 
 - **Komponenten:** [[Schlangengehirn]], [[Denkmoos]], [[Amethyst]]

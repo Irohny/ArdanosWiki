@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Gefangenes Wesen:** _Myzzarith, das Sternblut_, ein gefallener Solar, der beim Versuch, das Schicksal selbst zu formen, verbannt wurde.  
 **Wesenstyp:** Himmlisches Wesen / Gefallener Engel.  

@@ -2,13 +2,15 @@
 typ: Ort
 status: kanon
 kampagne:
-region: Mariven
+region:
+  - "[[Mariven]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-26
 geaendert:
+sichtbarkeit: []
 ---
 Eine immer nebeblige Passage zwischen den Inseln [[Havgrim]] und [[Korvalis]] in [[Mariven]]. Keine Kapitäne trauen sich durch diese undurchschaubare Gefahr zu fahren. Dies führt zu einer exponierten Lage der Insel [[Cirellin]], da sie so nur durch längere Umwege erreichbar ist.
 

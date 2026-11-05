@@ -10,6 +10,7 @@ zeit_von_jahr: 1527
 zeit_bis_jahr: 1694
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 
 - **Rufname / Beiname:** 

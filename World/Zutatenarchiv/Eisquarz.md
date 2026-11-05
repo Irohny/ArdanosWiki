@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "7G"
 fundort: "Gletscherhöhlen, Eisregionen,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 7G 

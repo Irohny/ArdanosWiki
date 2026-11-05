@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Ort:** [[Hopfenberge]] nahe den Himmelshöfen  
 **Aufgabe:** Die Gruppe ist bei einem Fest eingeladen, das [[Baldur Hopfengold]] veranstaltet – doch ein Mord geschieht.  

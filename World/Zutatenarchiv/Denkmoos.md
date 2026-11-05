@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "5G"
 fundort: "Nebelwälder, Ruinen, alte Bibliotheken,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 5G

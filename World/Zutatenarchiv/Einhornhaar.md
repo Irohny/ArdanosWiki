@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#SehrSelten"
 wert: "25G"
 fundort: "Heilige Wälder, seltene magische Kreaturen, Elfenreiche,"
+sichtbarkeit: []
 ---
 - **Seltenheit:** #SehrSelten 
 - **Wert:** 25G

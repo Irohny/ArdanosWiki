@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Orchideenkeller]]** liegt unter einem unscheinbaren, leerstehenden Lagerhaus nahe den feuchten Hinterhöfen des Kaiserspeichers. Sein Eingang verbirgt sich an der Hausseite hinter morschen Kisten, einer überwucherten Regenrinne und einer schmalen, kaum sichtbaren Kellertür. Wer den richtigen Stein im Mauerwerk drückt, löst den verborgenen Riegel.
 

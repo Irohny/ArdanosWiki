@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 > _Eine uralte Seele. Eine Taverne voller Geschichte. Und eine Gruppe Abenteurer, die das Erbe antreten soll – wenn sie würdig sind._
 

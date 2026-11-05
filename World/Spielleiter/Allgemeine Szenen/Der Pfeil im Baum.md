@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Ort:** Ein verwachsener Waldpfad auf dem Weg zu einem abgelegenen Dorf oder einer Grenzstadt.
 

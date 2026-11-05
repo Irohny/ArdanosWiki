@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 # In den Tiefen Hallen
 Die Spielergruppe soll [[Khazul-Vuldur]] der [[Schwarzklamm]] erkunden. (Grund ???)

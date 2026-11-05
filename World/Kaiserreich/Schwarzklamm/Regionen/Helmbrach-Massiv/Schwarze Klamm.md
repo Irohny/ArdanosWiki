@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[SchwrzeKlamm.png|200]]
 _[[Caravagrim Eisenwald]], um 1480 n.d.D._

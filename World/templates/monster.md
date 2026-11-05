@@ -14,6 +14,7 @@ grundlage:
 zeit_bis_jahr:
 zeit_text:
 zeit_von_jahr:
+sichtbarkeit: []
 ---
 # Monstername
 - **Grundlage:** #Homebrew

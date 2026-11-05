@@ -15,6 +15,7 @@ volk: "#großeMonstrosität"
 gesinnung: "#Neutral"
 ruestungsklasse: 13
 grundlage: "#Online"
+sichtbarkeit: []
 ---
 # Raffon
 

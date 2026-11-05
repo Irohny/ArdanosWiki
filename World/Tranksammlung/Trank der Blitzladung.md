@@ -13,6 +13,7 @@ geaendert:
 wert: "323G"
 komponenten: "[[Sturmessenz]], [[Drachenschuppe (blau)]], [[Quarzkristall]]"
 seltenheit: "Selten"
+sichtbarkeit: []
 ---
 - Tag: #Schaden 
 - **Komponenten:** [[Sturmessenz]], [[Drachenschuppe (blau)]], [[Quarzkristall]]

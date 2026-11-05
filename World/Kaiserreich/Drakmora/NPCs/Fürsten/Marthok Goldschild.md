@@ -10,6 +10,7 @@ zeit_von_jahr: 1231
 zeit_bis_jahr: 1284
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 
 

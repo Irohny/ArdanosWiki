@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 ![[Schattenherz.png|300]]
 _[[Josef Wrightgrund]], um 2270 n.d.D._

@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-10-31
+sichtbarkeit: []
 ---
 # Finale 1: Kampf im Turm oder Marktplatz
 Wenn die Feinde durchbrechen, wird die Gruppe zurück zum Ahnenturm gedrängt. Hier folgt ein finaler Kampf der Gruppe gegen [[Luredan van Harl]] und ein paar Soldaten. Die Anzahl der Soldaten hängt davon ab, ob die Gegner in Welle 1 oder Welle 2 durchgebrochen sind (siehe Rückzugsdruck R in [[4 Rückzug zum Ahnenturm]]).

@@ -15,6 +15,7 @@ schule: "#Verwandlung"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "7 scharfe Dornen oder 7 angespitzte Äste"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Verwandlung  

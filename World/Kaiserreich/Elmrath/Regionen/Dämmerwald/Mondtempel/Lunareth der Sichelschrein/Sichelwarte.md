@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die **[[Sichelwarte]]** erhebt sich als höchster und heiliger Ort über den Höfen von Lunareth. In ihren unteren Ebenen liegen kleine Schreine, Gebetsräume und stille Kammern der Meditation; darüber bewahren die Mondhüter in verborgenen Archiven das Wissen des Schreins – Chroniken, Sternenkarten, Rituale und Erinnerungen aus dem ersten [[Zeitalter]].
 

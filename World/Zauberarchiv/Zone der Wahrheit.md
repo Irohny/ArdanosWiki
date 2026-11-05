@@ -14,6 +14,7 @@ schule: "#Verzauberung"
 konzentration: nein
 komponenten: "#Verbal #Geste"
 materialien: "- **Dauer/Wirkung:** 10min"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Verzauberung 

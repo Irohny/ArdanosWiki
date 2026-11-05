@@ -14,6 +14,7 @@ volk: null
 gesinnung: "Rechtschaffent NEutral"
 ruestungsklasse: 18
 grundlage: null
+sichtbarkeit: []
 ---
 - **Klasse & Stufe/Herausfordungsgrad:** Konstrukt 13
 - **Volk/Herkunft:** [[Schwarzklamm]]  

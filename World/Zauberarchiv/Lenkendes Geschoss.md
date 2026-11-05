@@ -15,6 +15,7 @@ schule: "#Hervorrufung"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "- **Dauer/Wirkung:** 1 Runde"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:**  #Hervorrufung 

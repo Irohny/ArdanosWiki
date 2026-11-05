@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[AzureRune.png|300]]
 _[[Antonello Canalesco]] um 2085 n.d.D._

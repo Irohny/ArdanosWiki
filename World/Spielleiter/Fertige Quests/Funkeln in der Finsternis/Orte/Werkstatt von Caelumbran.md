@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Die Gruppe tritt in eine gewaltige, kuppelförmige Halle, deren Luft nach Metall, Asche und altem Staub schmeckt. Wo einst Hitze, Schläge und Zwergengesänge herrschten, liegt nun nur noch Stille und Verfall. Zerborstene Ambosse liegen wie gefallene Titanen verstreut; halbgeschmolzene Werkzeuge hängen von der gewölbten Decke, in grotesken Formen erstarrt.
 

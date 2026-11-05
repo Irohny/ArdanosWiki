@@ -17,6 +17,7 @@ volk: "#Mensch"
 gesinnung: "Chaotisch Neutral"
 ruestungsklasse: 14
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Goldhaar 🔶
 - **Grundlage:** #Homebrew

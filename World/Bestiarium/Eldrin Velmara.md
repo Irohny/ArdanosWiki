@@ -15,6 +15,7 @@ volk: "#Mensch"
 gesinnung: "Neutral Böse"
 ruestungsklasse: 15
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 ![[Eldrin Velmara.jpeg|200]]
 _[[Johann Sargenter]], um 2486 n.d.D._

@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[BaldurHopfengold.png|200]]
 _[[Gustaf Courbette]], um 2484 n.d.D._

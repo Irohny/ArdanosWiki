@@ -17,6 +17,7 @@ volk: "Tier"
 gesinnung: "Neutral"
 ruestungsklasse: 13
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Kriegshund 🔶
 - **Grundlage:** #Homebrew

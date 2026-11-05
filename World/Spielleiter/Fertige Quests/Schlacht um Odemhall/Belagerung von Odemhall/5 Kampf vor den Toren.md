@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-10-31
+sichtbarkeit: []
 ---
 # Finale 2: Kampf vor den Toren
 [[Luredan van Harl]] tritt vor der Mauer in Erscheinung und fordert die Gruppe zu einem offenen Kampf heraus, der Gewinner bekommt die Stadt.

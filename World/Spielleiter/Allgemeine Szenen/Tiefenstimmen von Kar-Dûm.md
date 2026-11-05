@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Bromrik Eisenkehle** – Sänger und Runenharfe  
     Breit gebaut, mit kupferfarbenem Bart und einer Stimme, die selbst durch einen Höhlensturz dringen würde. Bromrik ist der Anführer und sammelt alte Zwergenlieder, besonders solche über gefallene Städte.  

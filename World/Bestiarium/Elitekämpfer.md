@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Rechtschaffen Neutral"
 ruestungsklasse: 16
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Elitekämpfer 🔶
 - **Grundlage:** #Homebrew

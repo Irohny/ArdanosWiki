@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der Raum ist in **dunklen Basaltstein** geschlagen, die Wände sind mit **verbrannten Krallensiegeln** und **verrußten Bannzeichen** bedeckt. Aus unzähligen feinen Ritzen strömt eine **rötlich glühende Hitze**, die den Raum mit einer drückenden, ehrfurchtsgebietenden Atmosphäre erfüllt. An den Wänden hängen **Kriegstrommeln und Bannfahnen**, Zeichen alter Blutduelle.
 

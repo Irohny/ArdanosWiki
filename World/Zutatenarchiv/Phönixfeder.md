@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Legendär"
 wert: "3P"
 fundort: "Nest eines sterbenden Phönix,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Legendär 
  - **Wert:** 3P

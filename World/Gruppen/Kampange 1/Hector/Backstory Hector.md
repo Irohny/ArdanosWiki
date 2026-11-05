@@ -8,8 +8,9 @@ tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: hector
 ---
 [[Hector]] wurde in den rauen Feldern südlich von [[Valatheris]] geboren, als Sohn eines einfachen Steinmetzen. Gemeinsam mit seinem jüngeren Bruder Olaf wuchs er in bescheidenen, aber ehrlichen Verhältnissen im Dorf [[Rußstein]] in der Region [[Rabenmark]] von [[Drakmora]] auf. Als die Armeen [[Drakmora]]s einen Grenzkonflikt mit den nördlichen Reitervölkern vorbereiteten, wurden viele junge Männer zum Wehrdienst eingezogen – darunter auch [[Hector]] und Olaf.
 

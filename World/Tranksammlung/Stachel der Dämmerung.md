@@ -13,6 +13,7 @@ geaendert:
 wert: "66G"
 komponenten: "[[Schattenlilien]]-Extrakt, [[Skorpionstachel]], [[Nachtschattenöl]], [[Kohleasche]]"
 seltenheit: "Gewöhnlich"
+sichtbarkeit: []
 ---
 - Tag: #Gift #Klingengift 
 - **Komponenten:** [[Schattenlilien]]-Extrakt, [[Skorpionstachel]], [[Nachtschattenöl]], [[Kohleasche]]

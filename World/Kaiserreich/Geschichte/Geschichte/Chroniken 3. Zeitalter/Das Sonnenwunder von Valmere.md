@@ -11,6 +11,7 @@ zeit_von_jahr: 2447
 zeit_bis_jahr:
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 Es geschah im Jahre 2447 n.d.D im dritten [[Zeitalter]], in einem vergessenen Winkel des Südens von [[Elmrath]]– im Dorf **Valmere**, das zwischen dichten Nebelwäldern und verwitterten Hügelgräbern lag. Dunkle Tage hatten das Land umfangen. Eine Seuche, bleich und grausam, zog durch die Felder wie giftiger Dunst. Die Erde war kalt, das Korn verdorrt, und selbst die Sonne schien Valmere vergessen zu haben.
 

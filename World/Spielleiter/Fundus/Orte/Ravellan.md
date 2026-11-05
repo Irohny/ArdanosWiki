@@ -10,5 +10,6 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Entferntes Land über die See Herkunft von [[Gnodomir]] und Gnot.

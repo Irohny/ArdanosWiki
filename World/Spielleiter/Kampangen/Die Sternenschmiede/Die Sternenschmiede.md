@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Zeitrahmen:** ca. 1565–1573 n.d.D. (zweites Zeitalter, letzte Jahre vor Caelumbrans Verschwinden)
 **Basis:** die verborgene Schmiede in [[Khazul-Vuldur]]

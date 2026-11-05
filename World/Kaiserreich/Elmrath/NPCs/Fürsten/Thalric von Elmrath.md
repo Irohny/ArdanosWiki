@@ -11,6 +11,7 @@ zeit_von_jahr: 2443
 zeit_bis_jahr:
 erstellt: 2026-10-27
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Der Bewahrer
 - **Titel / Amt:** [[Fürst]] von [[Elmrath]]

@@ -8,8 +8,9 @@ tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: [vishuda]
 ---
 [[Vishuda]] wurde als Waisenkind in die kalten Kammern des [[Schattenblütengarten]]s gebracht – einem geheimen Kloster am Rande des [[Helmbrach-Massiv]]s, wo Disziplin, Schweigen und Tod zur zweiten Natur werden. Dort lernte er zu schweben, zu schlagen, zu töten – und zu schweigen. Der Orden der lautlosen Blüte ([[Tashiro'en]]) war nicht nur seine Heimat, sondern sein Fleisch, sein Atem, seine Existenz.
 

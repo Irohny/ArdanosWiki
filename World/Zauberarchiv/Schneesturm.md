@@ -15,6 +15,7 @@ schule: "#Beschwörung"
 konzentration: "ja"
 komponenten: "#Verbal #Geste"
 materialien: "Tropfen Wasser und eine Priese Staub"
+sichtbarkeit: []
 ---
 - **Grad:**   3
 - **Schule:**  #Beschwörung 

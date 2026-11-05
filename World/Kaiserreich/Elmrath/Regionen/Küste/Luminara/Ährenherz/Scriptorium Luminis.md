@@ -2,14 +2,16 @@
 typ: Ort
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Elmrath]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 Das **[[Scriptorium Luminis]]** ist die ehrwürdigste und zugleich geheimnisvollste Bibliothek des Kaiserreichs, gelegen in **[[Luminara]]**, der Stadt des Lichts. Einst von den ersten Erzmagiern gegründet, dient es nicht nur als Archiv des gesammelten Wissens der [[Zeitalter]], sondern auch als heiliger Ort der Kontemplation und Forschung.
 

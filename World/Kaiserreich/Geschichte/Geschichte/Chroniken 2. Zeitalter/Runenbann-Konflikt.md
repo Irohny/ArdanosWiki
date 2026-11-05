@@ -12,6 +12,7 @@ zeit_von_jahr: 1503
 zeit_bis_jahr: 1611
 erstellt: 2026-11-03
 geaendert:
+sichtbarkeit: []
 ---
 **Konfliktparteien:** [[Vaylen]] vs. [[Mariven]]  
 **Ursache:** [[Mariven]] verhängte ein magisches Exportverbot für arkane Kristalle an [[Vaylen]].

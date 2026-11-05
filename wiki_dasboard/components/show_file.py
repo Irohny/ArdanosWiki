@@ -1,17 +1,10 @@
 import streamlit as st
 import re
 from urllib.parse import urlencode
+from wiki_dasboard.components.access_control import filter_document_sections
 from wiki_dasboard.config import cfg
 from wiki_dasboard.components import utils
-from wiki_dasboard.components.login import Roles
 
-
-PRIVATE_SECTION_HEADINGS = {
-    "## Ziele",
-    "## Plot-Hooks",
-    "## Geheime Informationen",
-    "## Kampfwerte",
-}
 WIKI_DIALOG_QUERY_PARAM = utils.WIKI_DIALOG_QUERY_PARAM
 IMAGE_CAPTION_PATTERN = re.compile(
     r"^(?:[ \t]*\r?\n[ \t]*|[ \t]*)_(.+?)_[ \t]*(?:\r?\n)?"
@@ -22,28 +15,9 @@ def _strip_template_comments(content: str) -> str:
     return re.sub(r"<!--.*?-->", "", content, flags=re.DOTALL)
 
 
-def _is_game_master() -> bool:
-    user = st.session_state.get("user")
-    return bool(user and user.role.value == Roles.GameMaster.value)
-
-
 def _filter_content_by_role(content: str) -> str:
     content = _strip_template_comments(content)
-    if _is_game_master():
-        return content
-
-    filtered_lines = []
-    in_private_section = False
-
-    for line in content.splitlines():
-        stripped_line = line.strip()
-        if stripped_line.startswith("## "):
-            in_private_section = stripped_line in PRIVATE_SECTION_HEADINGS
-        if in_private_section:
-            continue
-        filtered_lines.append(line)
-
-    return "\n".join(filtered_lines)
+    return filter_document_sections(content, st.session_state.get("user"))
 
 
 def __process_tags(text: str) -> str:
@@ -111,6 +85,15 @@ def _extract_image_caption(text: str) -> tuple[str | None, str]:
 
 def show_file(file_path: str, columns=None):
     """Zeigt eine Markdown-Datei in Streamlit an, mit Bildern, Links und Tags."""
+    user = st.session_state.get("user")
+    if not utils.has_permission(
+        file_path,
+        user,
+        campaign_id=st.session_state.get("active_campaign_id"),
+    ):
+        st.error("Datei nicht verfügbar.")
+        return
+
     try:
         with open(file_path, "r", encoding="utf-8") as f:
             content = _filter_content_by_role(f.read())
@@ -135,7 +118,9 @@ def show_file(file_path: str, columns=None):
                 filename = parts[i + 1]
                 filename = str(filename).split("|")[0]
                 image_path = filename
-                is_image = any([img_kind in filename for img_kind in cfg.IMAGE_TYPES])
+                is_image = any(
+                    img_kind in filename for img_kind in cfg.media.image_types
+                )
                 if not is_image:
                     md_path = utils.find_file_path_in_tree(
                         st.session_state["tree"], f"{filename}.md"

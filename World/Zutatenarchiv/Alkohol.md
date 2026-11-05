@@ -12,6 +12,7 @@ geaendert:
 seltenheit: "#Gewöhnlich"
 wert: 5K
 fundort: Tavernen, Händler
+sichtbarkeit: []
 ---
 
 - **Seltenheit:** #Gewöhnlich 

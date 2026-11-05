@@ -11,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Eine alte, ungewöhnlich genaue Karte von [[Ardanos]]. Viele Orte sind leer oder verwischt; stattdessen erscheinen mit silbriger Tinte vergessene Wege, versunkene Ruinen und Namen, die aus der Geschichte getilgt wurden.
 

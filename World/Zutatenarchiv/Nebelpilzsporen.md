@@ -13,6 +13,7 @@ geaendert:
 seltenheit: "#Selten"
 wert: "9G"
 fundort: "Unterreich, feuchte Höhlen,"
+sichtbarkeit: []
 ---
  - **Seltenheit:** #Selten 
  - **Wert:** 9G 

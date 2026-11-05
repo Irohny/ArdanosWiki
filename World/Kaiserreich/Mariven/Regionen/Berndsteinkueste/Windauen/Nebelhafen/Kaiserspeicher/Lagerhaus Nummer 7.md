@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Lagerhaus7.jpg|200]]
 Alter eigentlich verlassenen Lagerhaus am Rande des [[Kaiserspeicher]]s in [[Nebelhafen]]. Es werden keine Güter darin gelagert. Zumindest hat niemand gesehen, dass in den letzten Monaten wirklich Waren dort hin gebracht werden oder daraus geholt werden.

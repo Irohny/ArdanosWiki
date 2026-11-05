@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-10-30
 geaendert: 2026-11-01
+sichtbarkeit: []
 ---
 # Der Angriff in der Nacht
 Am ersten Tag kann die Gruppe bereits die Ausbesserung der Stadt beauftragen. In der ersten Nacht nach der Ankunft wird die Stadt von den Feinden angegriffen.

@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[MirnaDrachenform.png|200]]
 _[[Paolo Uzzelo]], 1745 n.d.D._

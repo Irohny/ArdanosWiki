@@ -12,6 +12,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ### **Wolkenrune „Wandernder Schlag“**
 ![[Wolkenrune.jpeg|100]]

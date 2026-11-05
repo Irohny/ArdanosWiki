@@ -15,6 +15,7 @@ volk: "beliebig"
 gesinnung: "beliebig"
 ruestungsklasse: 16
 grundlage: "#Online"
+sichtbarkeit: []
 ---
 # Blutjäger
 

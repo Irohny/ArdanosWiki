@@ -13,6 +13,7 @@ geaendert:
 wert: "382G"
 komponenten: "[[Drachengalle]], [[Glutpulver]], [[Essenz des Zorns]]"
 seltenheit: "Selten"
+sichtbarkeit: []
 ---
 
 - Tag: #Schaden 

@@ -2,6 +2,7 @@
 typ: Ort
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Mariven]]"
 tags: []
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-02
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Schattenkai]]** liegt an der Mündung des [[Graldrim]]. Tagsüber herrscht hier der schwere, ehrliche Betrieb des Binnenhandels: Erzschiffe aus dem Nordfelsmassiv, flache Lastkähne und Flussschiffe aus dem Landesinneren löschen ihre Ladungen zwischen Kränen, Lagerhäusern und Zollschuppen.
 

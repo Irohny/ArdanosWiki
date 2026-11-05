@@ -12,6 +12,7 @@ zeit_von_jahr: 2486
 zeit_bis_jahr:
 erstellt: 2026-10-28
 geaendert: 2026-11-03
+sichtbarkeit: []
 ---
 __Ein Heldenepos von [[Marcel "Roux" Del Fontaine]]__
 

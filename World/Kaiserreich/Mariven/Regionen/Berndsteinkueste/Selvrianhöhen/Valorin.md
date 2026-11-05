@@ -8,8 +8,9 @@ tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 [[Valorin]] ist eine mittelgroße Stadt im Landesinneren der [[Bernsteinküste]], im Fürstentum [[Mariven]]. Die Stadt liegt in der Region der [[Selviranhöhen]]. Obwohl die Stadt nicht direkt am Meer liegt, verdankt sie ihren Wohlstand dem regen Seehandel der Küstenregion. Händler, Fischer und Flussschiffer nutzen den nahegelegenen Fluss Selvarin, der unweit der Stadt an den Hängen einer langgezogenen Hügelkette entspringt und sich von dort aus seinen Weg in Richtung Küste bahnt.
 

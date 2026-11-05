@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[KristallDerOffenbarung.png|300]]
 _Artefakt (selten), benötigt Einstimmung durch einen Zauberwirker_

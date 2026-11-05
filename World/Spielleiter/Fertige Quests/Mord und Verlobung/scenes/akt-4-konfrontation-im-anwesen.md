@@ -17,6 +17,7 @@ location: Anwesen der Familie Marith / Kaminzimmer
 source_file: World/Spielleiter/OneShots/Mord und Verlobung/Intriege auf dem Land.md
 source_heading: "## Akt 4 – Konfrontation & Verrat"
 image_files: []
+sichtbarkeit: []
 ---
 
 # Akt 4 - Konfrontation im Anwesen

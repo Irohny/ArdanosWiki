@@ -15,6 +15,7 @@ schule: "#Verzauberung"
 konzentration: "ja"
 komponenten: "#Verbal #Geste #Material"
 materialien: "ein kleines, gerades Stück Eisen"
+sichtbarkeit: []
 ---
 - **Grad:** 2   
 - **Schule:** #Verzauberung   

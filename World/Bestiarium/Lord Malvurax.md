@@ -15,6 +15,7 @@ volk: "#Unhold"
 gesinnung: "Rechtschaffend Böse"
 ruestungsklasse: 19
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 ![[Malvurax.jpeg|200]]
 _[[Francisko de Goyar]], um 2480 n.d.D._

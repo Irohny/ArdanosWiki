@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Nachdem die mächtigste Stadt der goldenen Inseln ([[Runanthis]]) vom Meer zerstört wurde, brach ein fast 50 jähriger Krieg zwischen den Inseln aus.
 

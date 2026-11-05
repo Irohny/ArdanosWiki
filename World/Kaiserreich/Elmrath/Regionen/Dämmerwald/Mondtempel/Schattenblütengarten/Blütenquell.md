@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 Der **[[Blütenquell]]** ist ein kleiner, abgeschiedener Hof nahe dem [[Mondlotushof]], eingerahmt von verwitterten Wohnhäusern mit dunklen Holzbalken und tief herabgezogenen Dächern. Einst diente er wohl als innerer Garten der Festung; heute leben und arbeiten hier die Mitglieder der [[Ersten Blüte]], die erfahrensten und angesehensten [[Tashiro'en]].
 

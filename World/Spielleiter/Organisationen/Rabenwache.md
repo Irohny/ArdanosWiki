@@ -9,6 +9,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Rabenwache Wappen.png|200]]
 Die **[[Rabenwache]]** ist ein geheimer Orden aus Waldläufern, Spähern und Freiheitskämpfern, die für die einfachen Leute kämpfen. Sie jagen nicht nur [[Spielleiter/Kampangen/Schatten der Zeit/Materialien/Monster|Monster]], sondern auch korrupte Adlige, brutale [[Söldner]] und Unterdrücker jeder Art. Ihr Zeichen – ein schwarzer Rabe – wird mit Kohle oder Farbe an Mauern geschmiert, oft als Warnung an ihre Feinde.

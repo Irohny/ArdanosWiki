@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 **Im Jahre 2160 n.d.D.** entsandte **[[Kaiser]] [[Elyander Goldschild|Elyander Goldschild]]** fünf seiner treuesten Paladine, um den alten Mythen um die 5 [[Artefakten der Urzeit]] nachzugehen. Jeder von ihnen war ein legendärer Abenteurer – erfahren in Krieg, Magie und göttlichem Dienst. Ihr Auftrag: **die Artefakte zu finden** und zu ergründen, welche macht von ihnen ausgeht.
 

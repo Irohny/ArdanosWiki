@@ -2,14 +2,16 @@
 typ: Ort
 status: kanon
 kampagne:
+  - "[[Schatten der Zeit]]"
 region:
   - "[[Vaylen]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
-erstellt:
+erstellt: 2026-11-05
 geaendert:
+sichtbarkeit: []
 ---
 ![[Arcanis.png|300]]
 _[[Wilhelm Blaecke]] um 2415 n.d.D._

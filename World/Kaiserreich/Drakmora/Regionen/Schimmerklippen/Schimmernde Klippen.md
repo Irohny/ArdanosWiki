@@ -10,6 +10,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Schimmerklippen.png|400]]
 _[[Wilhelm Turnar]] um 2265 n.d.D._

@@ -15,6 +15,7 @@ schule: "#Verwandlung"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "Mistelzweig"
+sichtbarkeit: []
 ---
 - **Grad:**   1
 - **Schule:**  #Verwandlung 

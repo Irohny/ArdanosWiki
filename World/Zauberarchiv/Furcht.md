@@ -15,6 +15,7 @@ schule: "#Illusion"
 konzentration: "Ja"
 komponenten: "#Verbal #Geste #Material"
 materialien: "eine weiße Feder oder das Herz einer Henne"
+sichtbarkeit: []
 ---
 - **Grad:**   3
 - **Schule:**  #Illusion 

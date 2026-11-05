@@ -8,6 +8,7 @@ zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
+sichtbarkeit: []
 ---
 
 # Changelog 0.19.4

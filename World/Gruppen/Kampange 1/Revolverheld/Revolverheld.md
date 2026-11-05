@@ -1,5 +1,6 @@
 ---
 typ: Spieler
+charakter_id: brudermarkus
 status: draft
 kampagne:
   - "[[Schatten der Zeit]]"
@@ -10,6 +11,7 @@ zeit_von_jahr:
 zeit_bis_jahr:
 erstellt: 2026-11-01
 geaendert:
+sichtbarkeit: []
 ---
 **[[Kenku]]** Revolverheld mit & Schuss revolver
 ![[Rabenrevolver.jpeg|300]]

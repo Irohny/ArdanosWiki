@@ -12,6 +12,7 @@ zeit_von_jahr: 2486
 zeit_bis_jahr: 2486
 erstellt: 2026-11-01
 geaendert:
+sichtbarkeit: []
 ---
 # Das Angebot am Leuchtfeuer
 

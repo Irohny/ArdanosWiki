@@ -2,13 +2,15 @@
 typ: Beschreibung
 status: kanon
 kampagne:
-region: Elmrath
+region:
+  - "[[Elmrath]]"
 tags: []
 zeit_text:
 zeit_von_jahr:
 zeit_bis_jahr:
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 ![[Himmelshoefe.png|400]]
 _[[Joran Constabel]] um 2320 n.d.D._

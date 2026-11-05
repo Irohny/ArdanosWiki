@@ -15,6 +15,7 @@ schule: "#Hervorrufung"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "Splitter Katzengold"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Hervorrufung 

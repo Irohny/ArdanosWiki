@@ -17,6 +17,7 @@ volk: "Mensch"
 gesinnung: "Rechtschaffen Böse"
 ruestungsklasse: 16
 grundlage: "#Homebrew"
+sichtbarkeit: []
 ---
 # Rebellenreiter 🔶
 - **Grundlage:** #Homebrew

@@ -15,6 +15,7 @@ schule: "#Bannzauber"
 konzentration: "nein"
 komponenten: "#Verbal #Geste"
 materialien: "- **Dauer/Wirkung:** sofort"
+sichtbarkeit: []
 ---
 - **Grad:**   2
 - **Schule:**  #Bannzauber 

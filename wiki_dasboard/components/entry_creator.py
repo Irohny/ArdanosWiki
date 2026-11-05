@@ -157,7 +157,7 @@ ENTRY_CONFIGS = {
             "location": ("Fundort", "bold"),
         },
         "sections": {"description": "Beschreibung", "mechanics": "Spielmechanik"},
-        "visibility": "DM",
+        "game_master_only": True,
     },
     "Schatzkammer-Eintrag": {
         "type": "Artefakt",
@@ -188,7 +188,7 @@ ENTRY_CONFIGS = {
             "location": ("Fundort", "bold"),
         },
         "sections": {"description": "Beschreibung", "mechanics": "Speilmechanik"},
-        "visibility": "DM",
+        "game_master_only": True,
     },
 }
 
@@ -249,9 +249,10 @@ def _entry_metadata(entry_kind: str) -> dict[str, object]:
         **build_time_metadata(get("time_text"), get("start_year"), get("end_year")),
         "erstellt": date.today().isoformat(),
         "geaendert": date.today().isoformat(),
+        "sichtbarkeit": [],
     }
-    if "visibility" in config:
-        metadata["sichtbarkeit"] = config["visibility"]
+    if config.get("game_master_only"):
+        metadata["zugriff"] = "spielleitung"
     for metadata_key, state_name in config["frontmatter"].items():
         value = get(state_name)
         if entry_kind == "Waffe" and metadata_key == "Einstimmung":
@@ -303,7 +304,7 @@ def _replace_section(body: str, heading: str, value: str) -> str:
 
 def _render_entry_markdown(entry_kind: str) -> str:
     config = ENTRY_CONFIGS[entry_kind]
-    template = (cfg.MARKDOWN_DIR / "templates" / config["template"]).read_text(
+    template = (cfg.paths.world_dir / "templates" / config["template"]).read_text(
         encoding="utf-8"
     )
     metadata, body = split_frontmatter(template)
@@ -336,8 +337,8 @@ def _destination_directory(entry_kind: str) -> Path:
     config = ENTRY_CONFIGS[entry_kind]
     destination = st.session_state.get(_state_key(entry_kind, "destination"), "Sammlung")
     if destination == "Spielleiter":
-        return cfg.MARKDOWN_DIR / "Spielleiter"
-    return cfg.MARKDOWN_DIR / config["collection"]
+        return cfg.paths.world_dir / "Spielleiter"
+    return cfg.paths.world_dir / config["collection"]
 
 
 def _safe_filename(name: str) -> str:
@@ -355,7 +356,7 @@ def _save_entry(entry_kind: str) -> tuple[bool, str]:
         return False, f"Datei existiert bereits: {export_path.name}"
     destination.mkdir(parents=True, exist_ok=True)
     export_path.write_text(_render_entry_markdown(entry_kind), encoding="utf-8")
-    return True, str(export_path.relative_to(cfg.REPO_ROOT))
+    return True, str(export_path.relative_to(cfg.paths.repo_root))
 
 
 def entry_creator_view(entry_kind: str) -> None:

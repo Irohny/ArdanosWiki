@@ -10,6 +10,7 @@ zeit_von_jahr: 790
 zeit_bis_jahr: 853
 erstellt:
 geaendert:
+sichtbarkeit: []
 ---
 - **Rufname / Beiname:** Der Staehlerne
 - **Titel / Amt:** Fuerst von [[Drakmora]]
