@@ -5,28 +5,26 @@ default:
 
 # rebuild extracted timeline data and svg
 svg:
-    uv run python timeline_tools/metadata_extractor/scan_lore.py
-    uv run python timeline_tools/metadata_extractor/validate_metadata.py
-    uv run python timeline_tools/metadata_extractor/build_timeline_json.py
-    uv run python timeline_tools/vertical_svg/generate_svg.py
+    uv run python wiki_dasboard/extraktion_tools/metadata_extractor/build_timeline_json.py
+    uv run python wiki_dasboard/extraktion_tools/vertical_svg/generate_svg.py
 
 # rebuild extracted monster catalog data
 monster-catalog:
-    uv run python timeline_tools/monster_catalog/scan_bestiary.py
-    uv run python timeline_tools/monster_catalog/validate_monsters.py
-    uv run python timeline_tools/monster_catalog/build_monster_catalog.py
+    uv run python wiki_dasboard/extraktion_tools/monster_catalog/scan_bestiary.py
+    uv run python wiki_dasboard/extraktion_tools/monster_catalog/validate_monsters.py
+    uv run python wiki_dasboard/extraktion_tools/monster_catalog/build_monster_catalog.py
 
 # build compact GM lore context for LLM prompts
 context:
-    uv run python timeline_tools/build_llm_context.py
+    uv run python wiki_dasboard/extraktion_tools/build_llm_context.py
 
 # run streamlit app
 run:
-    uv run streamlit run app.py
+    uv run streamlit run wiki_dasboard/app.py
 
 # run standalone sl dashboard prototype
 run-sl-dashboard:
-    uv run streamlit run sl_dashboard_app.py
+    uv run streamlit run spielleiter_dashboard/sl_dashboard_app.py
 
 # linting
 lint:
@@ -39,7 +37,7 @@ req:
 
 # create changelog
 changelog:
-    ./generate_changelog.sh > CHANGELOG.md
+    ./generate_changelog.sh > World/CHANGELOG.md
 
 # create a well structure git commit
 commit msg:
@@ -55,4 +53,4 @@ commit msg:
     
 # calculate the cost of a trank given material cost and difficulty
 trank material sg:
-    python3 trank.py {{material}} {{sg}}
+    python3 utils/trank.py {{material}} {{sg}}
