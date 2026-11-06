@@ -11,9 +11,10 @@ erstellt:
 sichtbarkeit: []
 ---
 
-# Changelog 0.19.4
+# Changelog 0.20.4
 
 ### Feat
+* feat (2026-11-05): optimize user roles and create campain filter
 * feat(dashboard) (2026-11-05): package standalone game-master dashboard
 * feat(wiki) (2026-11-05): add creator tools and package the app
 * feat (2026-04-01): Add DM View

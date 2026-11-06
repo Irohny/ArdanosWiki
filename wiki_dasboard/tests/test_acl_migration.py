@@ -3,7 +3,7 @@ import unittest
 
 from wiki_dasboard.components.metadata import split_frontmatter
 from wiki_dasboard.config import cfg
-from wiki_dasboard.migrate_player_acl import migrate_document_text
+from utils.migrate_player_acl import migrate_document_text
 
 
 class AclMetadataMigrationTests(unittest.TestCase):

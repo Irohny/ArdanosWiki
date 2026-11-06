@@ -2,7 +2,7 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
 
-from wiki_dasboard.add_missing_visibility import (
+from utils.add_missing_visibility import (
     FrontmatterError,
     add_missing_visibility,
     add_visibility_if_missing,
