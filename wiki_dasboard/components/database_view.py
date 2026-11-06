@@ -148,6 +148,7 @@ def _filter_database_document_access(db: str) -> pd.DataFrame:
 
 
 def set_to_databse_view(db: str):
+    st.session_state.pop("ardanos_map_open", None)
     st.session_state["db_flag"] = True
     st.session_state["db"] = db
     st.query_params[DATABASE_VIEW_QUERY_PARAM] = db

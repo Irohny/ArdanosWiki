@@ -1,5 +1,6 @@
 from pathlib import Path
 import sys
+from urllib.parse import urlencode
 import streamlit as st
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -15,11 +16,7 @@ from wiki_dasboard.components.login import Roles, User, login_filed  # noqa: E40
 from wiki_dasboard.components.file_parser import build_markdown_database  # noqa: E402
 from wiki_dasboard.components.show_file import WIKI_DIALOG_QUERY_PARAM, show_file  # noqa: E402
 from wiki_dasboard.components.utils import DATABASE_VIEW_QUERY_PARAM  # noqa: E402
-
-
-def open_dialog_page_as_main_page(file_path: str) -> None:
-    utils.set_path(file_path)
-    st.query_params.pop(WIKI_DIALOG_QUERY_PARAM, None)
+from wiki_dasboard.components.interactive_map import MAP_PENDING_DIALOG_KEY  # noqa: E402
 
 
 @st.dialog("Verlinkte Wiki-Seite", width="large")
@@ -39,22 +36,18 @@ def render_wiki_dialog(file_path: str) -> None:
             border-radius: 0 !important;
             overflow-y: auto !important;
         }
-        div[data-testid="stDialog"] button[aria-label="Close"] {
-            display: none !important;
-        }
         </style>
         """,
         unsafe_allow_html=True,
     )
     cols = st.columns([5, 1])
     cols[0].subheader(Path(file_path).stem)
-    if cols[1].button(
+    cols[1].link_button(
         "->",
-        key="open_dialog_page_as_new_main_page",
+        "?" + urlencode({"page": file_path}),
         help="Als Hauptseite öffnen",
-    ):
-        open_dialog_page_as_main_page(file_path)
-        st.rerun()
+        type="tertiary",
+    )
     show_file(file_path)
 
 
@@ -143,10 +136,13 @@ def main():
         st.query_params.pop(DATABASE_VIEW_QUERY_PARAM, None)
     header()
     create_sidebar()
-    linked_page = st.query_params.get(WIKI_DIALOG_QUERY_PARAM)
+    linked_page = st.session_state.pop(MAP_PENDING_DIALOG_KEY, None)
+    if linked_page is None:
+        linked_page = st.query_params.get(WIKI_DIALOG_QUERY_PARAM)
     if linked_page:
         linked_page = str(linked_page)
         if linked_page in utils.get_all_file_paths(st.session_state["tree"]):
+            st.query_params.pop(WIKI_DIALOG_QUERY_PARAM, None)
             render_wiki_dialog(linked_page)
         else:
             st.query_params.pop(WIKI_DIALOG_QUERY_PARAM, None)

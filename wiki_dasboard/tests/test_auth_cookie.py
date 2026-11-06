@@ -13,9 +13,14 @@ from wiki_dasboard.configs import (
 class _FakeCookieManager:
     def __init__(self) -> None:
         self.cookies: dict[str, str] = {}
+        self.get_all_calls = 0
 
     def get(self, cookie: str):
         return self.cookies.get(cookie)
+
+    def get_all(self, **_kwargs):
+        self.get_all_calls += 1
+        return dict(self.cookies)
 
     def set(self, cookie: str, val, **_kwargs):
         self.cookies[cookie] = str(val)
@@ -122,9 +127,11 @@ class AuthCookieTests(unittest.TestCase):
         with patch("wiki_dasboard.components.auth.get_cookie_manager", return_value=cookie_manager):
             with patch("wiki_dasboard.components.auth._cookie_secret", return_value=b"test-secret"):
                 auth.persist_auth_claims("Admin", "GameMaster")
-                claims = auth.load_auth_claims_from_cookie()
+                with patch.object(cookie_manager, "get", return_value=None):
+                    claims = auth.load_auth_claims_from_cookie()
 
         self.assertEqual(claims, {"name": "Admin", "role": "GameMaster"})
+        self.assertEqual(cookie_manager.get_all_calls, 1)
 
     def test_invalid_cookie_signature_is_rejected(self) -> None:
         cookie_manager = _FakeCookieManager()

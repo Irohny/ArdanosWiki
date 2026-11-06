@@ -11,6 +11,10 @@ from wiki_dasboard.components.toolbox import toolbox_view
 from wiki_dasboard.components.access_control import campaigns_for_user
 from wiki_dasboard.components.login import Roles
 from wiki_dasboard.components.sidebar import render_campaign_filter
+from wiki_dasboard.components.interactive_map import (
+    ARDANOS_MAP_OPEN_KEY,
+    render_interactive_map,
+)
 from wiki_dasboard.config import cfg
 
 
@@ -48,8 +52,11 @@ def header():
     )
 
     campaign_overview = st.session_state.get("campaign_overview_mode", False)
+    map_open = st.session_state.get(ARDANOS_MAP_OPEN_KEY, False)
 
-    if campaign_overview:
+    if map_open:
+        name = "Karte von Ardanos"
+    elif campaign_overview:
         name = "Kampagnenübersicht"
     elif (
         not st.session_state["current_path"].endswith(".md")
@@ -94,7 +101,9 @@ def header():
         name = utils.format_path(st.session_state["current_path"])
     name = name.split("_")[-1]
     col[1].title(f":red[{name}]")
-    if campaign_overview:
+    if map_open:
+        render_interactive_map()
+    elif campaign_overview:
         render_campaign_overview(st.session_state["tree"])
 
 def apply_breadcrumb_styles() -> None:

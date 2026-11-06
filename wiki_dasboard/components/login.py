@@ -92,6 +92,8 @@ def logout():
         "wiki_campaign_selector",
         "campaign_overview_mode",
         "campaign_overview_expanded_folders",
+        "ardanos_map_open",
+        "ardanos_map_marker_types",
         "root_path",
         "current_path",
     ):

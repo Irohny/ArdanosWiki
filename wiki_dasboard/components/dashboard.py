@@ -5,6 +5,7 @@ import streamlit as st
 from wiki_dasboard.config import DashboardViewConfig, cfg
 from wiki_dasboard.components.show_file import show_image
 from wiki_dasboard.components import utils
+from wiki_dasboard.components.interactive_map import render_interactive_map
 
 
 DEFAULT_DASHBOARD_TEXT = (
@@ -34,7 +35,8 @@ def render_default_dashboard() -> None:
     cols = st.columns([1, 7])
     for emblem in cfg.layout.default_emblems:
         show_image(cols[0], emblem)
-    show_image(cols[1], cfg.layout.default_background)
+    with cols[1]:
+        render_interactive_map()
 
 
 def render_vertical_spacing(spacing_rem: float) -> None:

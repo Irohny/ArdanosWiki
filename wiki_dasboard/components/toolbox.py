@@ -18,6 +18,7 @@ TOOLBOX_TOOLS = (
 
 
 def set_to_toolbox_view() -> None:
+    st.session_state.pop("ardanos_map_open", None)
     st.session_state["db_flag"] = True
     st.session_state["db"] = cfg.features.toolbox_name
     st.query_params.pop(utils.DATABASE_VIEW_QUERY_PARAM, None)

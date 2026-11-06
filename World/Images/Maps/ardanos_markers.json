@@ -1,0 +1,96 @@
+{
+  "image": "World/Images/Maps/Ardanos.jpg",
+  "image_width": 2048,
+  "image_height": 1536,
+  "marker_types": {
+    "Stadt": {
+      "shape": "icon",
+      "icon": "🏰",
+      "color": "#c45037"
+    },
+    "Besonderer Ort": {
+      "shape": "dot",
+      "color": "#d29d2e"
+    }
+  },
+  "regions": [
+    {
+      "name": "Mariven",
+      "type": "Region",
+      "color": "#3656cf",
+      "label_x": 25,
+      "label_y": 34,
+      "points": [[0, 0], [46, 0], [52, 13], [50, 25], [47, 37], [43, 49], [42, 59], [34, 62], [27, 55], [18, 52], [9, 48], [0, 45]],
+      "page": "Kaiserreich/Mariven/Mariven.md"
+    },
+    {
+      "name": "Drakmora",
+      "type": "Region",
+      "color": "#d45a35",
+      "label_x": 75,
+      "label_y": 20,
+      "points": [[49, 0], [100, 0], [100, 39], [95, 39], [90, 37], [85, 35], [81, 33], [77, 31], [73, 29], [69, 27], [65, 26], [61, 26], [57, 27], [53, 29], [50, 27], [52, 18], [52, 10]],
+      "page": "Kaiserreich/Drakmora/Drakmora.md"
+    },
+    {
+      "name": "Vaylen",
+      "type": "Region",
+      "color": "#9c4ca8",
+      "label_x": 68,
+      "label_y": 58,
+      "points": [[41, 52], [43, 47], [47, 43], [53, 40], [59, 38], [66, 38], [73, 39], [80, 40], [85, 39], [90, 37], [94, 39], [95, 42], [92, 46], [88, 50], [84, 55], [81, 60], [78, 66], [74, 71], [69, 74], [64, 74], [59, 71], [54, 68], [50, 65], [46, 61], [43, 56]],
+      "page": "Kaiserreich/Vaylen/Vaylen.md"
+    },
+    {
+      "name": "Elmrath",
+      "type": "Region",
+      "color": "#4f9a43",
+      "label_x": 34,
+      "label_y": 84,
+      "points": [[0, 62], [4, 59], [8, 58], [15, 58], [22, 59], [29, 61], [34, 62], [42, 59], [46, 63], [50, 69], [55, 75], [61, 79], [67, 82], [74, 83], [78, 81], [82, 81], [84, 84], [86, 90], [86, 100], [0, 100]],
+      "page": "Kaiserreich/Elmrath/Elmrath.md"
+    },
+    {
+      "name": "Schwarzklamm",
+      "type": "Region",
+      "color": "#805d48",
+      "label_x": 86,
+      "label_y": 72,
+      "polygons": [
+        [[52, 26], [55, 24], [59, 25], [63, 27], [67, 30], [71, 32], [75, 35], [78, 39], [80, 43], [78, 47], [74, 50], [69, 49], [65, 46], [61, 43], [58, 39], [55, 35], [52, 31]],
+        [[96, 34], [100, 37], [100, 54], [98, 60], [96, 65], [93, 69], [90, 72], [86, 75], [82, 77], [78, 77], [74, 76], [70, 75], [66, 77], [63, 78], [66, 73], [71, 72], [76, 70], [81, 67], [85, 63], [89, 58], [92, 52], [94, 46], [96, 40]]
+      ],
+      "page": "Kaiserreich/Schwarzklamm/Schwarzklamm.md"
+    }
+  ],
+  "markers": [
+    {
+      "name": "Nebelhafen",
+      "type": "Stadt",
+      "x": 49,
+      "y": 17,
+      "page": "Kaiserreich/Mariven/Regionen/Berndsteinkueste/Windauen/Nebelhafen/Nebelhafen.md"
+    },
+    {
+      "name": "Luminara",
+      "type": "Stadt",
+      "x": 20,
+      "y": 66,
+      "page": "Kaiserreich/Elmrath/Regionen/Küste/Luminara/Luminara.md"
+    },
+    {
+      "name": "Odemhall",
+      "type": "Stadt",
+      "x": 90,
+      "y": 15,
+      "page": "Kaiserreich/Drakmora/Regionen/Drachenwacht/Odemhall/Odemhall.md"
+    },
+    {
+      "name": "Ardanos",
+      "type": "Besonderer Ort",
+      "x": 50,
+      "y": 48,
+      "page": "Kaiserreich/Ardanos.md"
+    }
+  ]
+}

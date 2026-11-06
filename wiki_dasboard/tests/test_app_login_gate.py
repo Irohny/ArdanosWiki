@@ -1,6 +1,7 @@
 from pathlib import Path
 import unittest
 from unittest.mock import patch
+from urllib.parse import urlencode
 
 import wiki_dasboard.app as app
 from wiki_dasboard.components import utils
@@ -178,8 +179,32 @@ class AppLoginGateTests(unittest.TestCase):
 
         self.assertIn(":red[Schatten der Zeit]", [element.value for element in at.title])
         self.assertEqual(
-            len(at.get("imgs")), len(app.cfg.layout.default_emblems) + 2
+            len(at.get("imgs")), len(app.cfg.layout.default_emblems) + 1
         )
+        self.assertIn(
+            "ardanos_map_marker_types",
+            [element.key for element in at.get("button_group")],
+        )
+        self.assertEqual(len(at.exception), 0)
+
+    def test_interactive_ardanos_map_opens_with_marker_type_filter(self) -> None:
+        at = _build_player_app_test("Gnodomir")
+
+        at.run(timeout=30)
+        at.sidebar.button(key="ardanos_map_view").click()
+        at.run(timeout=30)
+
+        self.assertIn(":red[Karte von Ardanos]", [element.value for element in at.title])
+        marker_filter = next(
+            element
+            for element in at.get("button_group")
+            if element.key == "ardanos_map_marker_types"
+        )
+        self.assertEqual(
+            [option.content for option in marker_filter.options],
+            ["Region", "Stadt", "Besonderer Ort"],
+        )
+        self.assertEqual(marker_filter.value, ["Region", "Stadt", "Besonderer Ort"])
         self.assertEqual(len(at.exception), 0)
 
     def test_vishuda_sees_character_restricted_tashioren_document(self) -> None:
@@ -435,15 +460,41 @@ class AppLoginGateTests(unittest.TestCase):
         at.run(timeout=30)
 
         self.assertEqual(at.session_state["current_path"], current_path)
-        self.assertIsNotNone(at.button(key="open_dialog_page_as_new_main_page"))
+        self.assertNotIn(WIKI_DIALOG_QUERY_PARAM, at.query_params)
+        self.assertIn(
+            "?" + urlencode({"page": dialog_page}),
+            [link.url for link in at.get("link_button")],
+        )
 
-        at.button(key="open_dialog_page_as_new_main_page").click()
+    def test_dialog_target_is_consumed_before_dialog_render(self) -> None:
+        at = _build_app_test()
+        at.run(timeout=30)
+        at.text_input(key="user_name").set_value("Admin")
+        at.text_input(key="password").set_value("Schattenherz")
+        at.button[0].click()
         at.run(timeout=30)
 
-        self.assertEqual(at.session_state["current_path"], dialog_page)
-        self.assertEqual(at.query_params["page"], [dialog_page])
+        at.query_params[WIKI_DIALOG_QUERY_PARAM] = str(
+            app.cfg.paths.repo_root / LINKS_PAGE
+        )
+        at.run(timeout=30)
         self.assertNotIn(WIKI_DIALOG_QUERY_PARAM, at.query_params)
-        self.assertIn(":red[Links]", [element.value for element in at.title])
+        dialog_target = str(app.cfg.paths.repo_root / LINKS_PAGE)
+        self.assertIn(
+            "?" + urlencode({"page": dialog_target}),
+            [link.url for link in at.get("link_button")],
+        )
+        self.assertTrue(at.session_state["user"].loged_in)
+
+        at.run(timeout=30)
+
+        self.assertNotIn(WIKI_DIALOG_QUERY_PARAM, at.query_params)
+        self.assertTrue(at.session_state["user"].loged_in)
+        self.assertNotIn(
+            "?" + urlencode({"page": dialog_target}),
+            [link.url for link in at.get("link_button")],
+        )
+        self.assertEqual(len(at.exception), 0)
 
     def test_cookie_claims_restore_logged_in_user(self) -> None:
         with (

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      html,
+      body,
+      #root {
+        width: 100%;
+        min-height: 1px;
+        margin: 0;
+      }
+
+      body {
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script>
+      const root = document.getElementById("root");
+      let clickSequence = 0;
+      let readyTimer;
+      let componentReady = false;
+
+      function send(type, values = {}) {
+        window.parent.postMessage(
+          { isStreamlitMessage: true, type, ...values },
+          "*",
+        );
+      }
+
+      function setFrameHeight() {
+        if (!componentReady) return;
+        send("streamlit:setFrameHeight", { height: root.scrollHeight });
+      }
+
+      function render(args) {
+        root.innerHTML = args.map_html || "";
+        requestAnimationFrame(setFrameHeight);
+      }
+
+      new ResizeObserver(() => requestAnimationFrame(setFrameHeight)).observe(root);
+
+      root.addEventListener("click", (event) => {
+        const target = event.target.closest("[data-target-path]");
+        if (!target || !root.contains(target)) return;
+        event.preventDefault();
+        send("streamlit:setComponentValue", {
+          dataType: "json",
+          value: {
+            target_path: target.dataset.targetPath,
+            click_id: `${Date.now()}-${++clickSequence}`,
+          },
+        });
+      });
+
+      window.addEventListener("message", (event) => {
+        if (event.data?.type === "streamlit:render") {
+          componentReady = true;
+          window.clearInterval(readyTimer);
+          render(event.data.args || {});
+        }
+      });
+
+      window.addEventListener("load", () => {
+        let attempts = 0;
+        readyTimer = window.setInterval(() => {
+          send("streamlit:componentReady", { apiVersion: 1 });
+          attempts += 1;
+          if (attempts >= 100) window.clearInterval(readyTimer);
+        }, 50);
+      });
+    </script>
+  </body>
+</html>

@@ -9,6 +9,7 @@ from wiki_dasboard.components.database_view import set_to_databse_view
 from wiki_dasboard.components.login import Roles
 from wiki_dasboard.components.toolbox import set_to_toolbox_view
 from wiki_dasboard.components.dashboard import CAMPAIGN_OVERVIEW_EXPANDED_KEY
+from wiki_dasboard.components.interactive_map import ARDANOS_MAP_OPEN_KEY
 
 
 def dnd_line(pos, label: str, value: str = ""):
@@ -89,6 +90,17 @@ def _open_campaign_overview() -> None:
     st.session_state.pop(CAMPAIGN_OVERVIEW_EXPANDED_KEY, None)
     st.session_state["db_flag"] = False
     st.session_state["db"] = ""
+    st.query_params.pop("page", None)
+    st.query_params.pop(utils.DATABASE_VIEW_QUERY_PARAM, None)
+    st.query_params.pop(utils.WIKI_DIALOG_QUERY_PARAM, None)
+
+
+def _open_ardanos_map() -> None:
+    st.session_state[ARDANOS_MAP_OPEN_KEY] = True
+    st.session_state["db_flag"] = False
+    st.session_state["db"] = ""
+    st.session_state.pop("campaign_overview_mode", None)
+    st.session_state.pop(CAMPAIGN_OVERVIEW_EXPANDED_KEY, None)
     st.query_params.pop("page", None)
     st.query_params.pop(utils.DATABASE_VIEW_QUERY_PARAM, None)
     st.query_params.pop(utils.WIKI_DIALOG_QUERY_PARAM, None)
@@ -188,6 +200,13 @@ def render_home_shortcuts() -> None:
     is_game_master = st.session_state["user"].role.value == Roles.GameMaster.value
     expander = st.sidebar.expander("Sammlungen", expanded=False)
     if is_home:
+        expander.button(
+            "Karte von Ardanos",
+            key="ardanos_map_view",
+            use_container_width=True,
+            type="tertiary",
+            on_click=_open_ardanos_map,
+        )
         for db in cfg.navigation.databases:
             if db == "Bestiarium" and not is_game_master:
                 continue

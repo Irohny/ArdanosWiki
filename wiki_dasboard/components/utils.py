@@ -188,6 +188,7 @@ def sync_current_path(path: str) -> None:
     st.session_state["db"] = ""
     st.session_state.pop("campaign_overview_mode", None)
     st.session_state.pop("campaign_overview_expanded_folders", None)
+    st.session_state.pop("ardanos_map_open", None)
     st.session_state["current_path"] = path
     st.query_params.pop(DATABASE_VIEW_QUERY_PARAM, None)
     st.query_params.pop(WIKI_DIALOG_QUERY_PARAM, None)

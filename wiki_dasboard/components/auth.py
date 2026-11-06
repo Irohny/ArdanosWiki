@@ -151,7 +151,8 @@ def clear_auth_cookie() -> None:
 
 
 def load_auth_claims_from_cookie() -> dict[str, str] | None:
-    token = get_cookie_manager().get(AUTH_COOKIE_NAME)
+    cookies = get_cookie_manager().get_all(key="ardanos-auth-cookie-read")
+    token = cookies.get(AUTH_COOKIE_NAME)
     if not token:
         return None
 
